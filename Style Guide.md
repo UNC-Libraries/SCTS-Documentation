@@ -433,11 +433,10 @@ of a name is used.
 **Quontation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
 doing EAD markup.
 
-- :smiley: _She called herself <emph render="doublequote">Lil,</emph> but everyone knew her as Nancy._
+- :smiley: _She called herself < emph render="doublequote" >Lil,</ emph > but everyone knew her as Nancy._
 
-- :smiley: _Included is the 1922 version of his unsold novel, <title render="doublequote">When Bad Things Happen to Bad People</title>; 
-his unsold short story, <title render="doublequote">Worser and Worser</title>; and his unsold anthology, <title render="doublequote">Major 
-Works.</title>  
+- :smiley: _Included is the 1922 version of his unsold novel, < title render="doublequote" >When Bad Things Happen to Bad People</ title >; 
+his unsold short story, < title render="doublequote" >Worser and Worser</ title >; and his unsold anthology, < title render="doublequote" >Major Works.</ title >  
 
 **Capitalization of series and subseries titles:** Do capitalize all of the words in the supplied title at the series and subseries level.
 
