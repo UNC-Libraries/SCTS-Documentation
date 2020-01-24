@@ -537,20 +537,13 @@ Abbreviate for lesser government bodies and for military units
 Abbreviate a state name when it directly follows the name of a city or a county (parish). Otherwise spell out the name of the state.
 
 **Abbreviations:** Always use the approved Library of Congress state abbreviations when the state is a modifier. Note that these are
-NOT the 2-letter standard United States Post Office abbreviations. Note also that there is no space between N. and C. (N.C.) or S. and C. 
-(S.C.) or W. and Va. (W.Va.).
+NOT the 2-letter standard United States Post Office abbreviations. Note also that there is no space between N. and C. (N.C.) or S. and C. (S.C.) or W. and Va. (W.Va.).
 
 - :smiley: _Chapel Hill, N.C._
 
 - :smiley: _Little Rock, Ark._
 
-**State abbreviations:** Alabama: Ala., Alaska: Alaska, Arizona: Ariz., Arkansas: Ark., California: Calif., Colorado: Colo., Connecticut: 
-Conn., Delaware: Del., District of Columbia: D.C., Florida: Fla., Georgia: Ga., Hawaii: Hawaii, Idaho: Idaho, Illinois: Ill., Indiana: 
-Ind., Iowa: Iowa, Kansas: Kans., Kentucky: Ky., Louisiana: La., Maine: Me., Maryland: Md., Massachusetts: Mass., Michigan: Mich., 
-Minnesota: Minn., Mississippi: Miss., Missouri: Mo., Montana: Mont., Nebraska: Neb., Nevada: Nev., New Hampshire: N.H., New Jersey: N.J., 
-New Mexico: N.M, New York: N.Y., North Carolina: N.C., North Dakota: N.D., Ohio: Ohio, Oklahoma: Okla., Oregon: Or., Pennsylvania: Pa., 
-Puerto Rico: P.R., Rhode Island: R.I., South Carolina: S.C., South Dakota: S.D., Tennessee: Tenn., Texas: Tex., Utah: Utah, Vermont: Vt.,
-Virginia: Va., Virgin Islands: V.I., Washington: Wash., West Virginia: W.Va., Wisconsin: Wis., Wyoming: Wyo.
+**State abbreviations:** Alabama: Ala., Alaska: Alaska, Arizona: Ariz., Arkansas: Ark., California: Calif., Colorado: Colo., Connecticut: Conn., Delaware: Del., District of Columbia: D.C., Florida: Fla., Georgia: Ga., Hawaii: Hawaii, Idaho: Idaho, Illinois: Ill., Indiana: Ind., Iowa: Iowa, Kansas: Kans., Kentucky: Ky., Louisiana: La., Maine: Me., Maryland: Md., Massachusetts: Mass., Michigan: Mich., Minnesota: Minn., Mississippi: Miss., Missouri: Mo., Montana: Mont., Nebraska: Neb., Nevada: Nev., New Hampshire: N.H., New Jersey: N.J., New Mexico: N.M, New York: N.Y., North Carolina: N.C., North Dakota: N.D., Ohio: Ohio, Oklahoma: Okla., Oregon: Or., Pennsylvania: Pa., Puerto Rico: P.R., Rhode Island: R.I., South Carolina: S.C., South Dakota: S.D., Tennessee: Tenn., Texas: Tex., Utah: Utah, Vermont: Vt., Virginia: Va., Virgin Islands: V.I., Washington: Wash., West Virginia: W.Va., Wisconsin: Wis., Wyoming: Wyo.
 
 **Places as part of name:** Always spell out state names when they are part of a name. This also goes for the United States.
 
