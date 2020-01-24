@@ -260,13 +260,13 @@ for what to do when there's only one series.
 - Edit the descriptions, retaining only the truly significant content (always a judgment call), to create the a collection overview.
 You may content tag the collection overview or leave it for the cataloger
 
-- Copy the collection overview into the abstract area (<abstract encodinganalog="520">). Omit all internal tagging except <title> and 
+- Copy the collection overview into the abstract area (< abstract encodinganalog="520" >). Omit all internal tagging except < title > and 
 <emph>
 
 - Edit the abstract so that it's as concise as possible
 
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: <abstract encodinganalog="545">)
+(we no longer have this tag in the finding aid: < abstract encodinganalog="545" >)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
 
@@ -274,30 +274,17 @@ You may content tag the collection overview or leave it for the cataloger
 
 If you use the method above to write abstracts and collection overviews when there's just one series, you wind up with pretty much
 the same description three times in the finding aid (once in the series description, once in the collection overview, and once in 
-the <abstract encodinganalog="520">. This is overkill. If you have only one series, write its description as the collection overview.
-Use the collection overview as the <abstract encodinganalog="520"> (with editing as needed). At the series level, you may either omit 
-the <scopecontent> note entirely or use it for information that's not appropriate for the collection overview or abstract.  
+the < abstract encodinganalog="520" >. This is overkill. If you have only one series, write its description as the collection overview. Use the collection overview as the < abstract encodinganalog="520" > (with editing as needed). At the series level, you may either omit the < scopecontent > note entirely or use it for information that's not appropriate for the collection overview or abstract.  
 
 ## < Bioghist > verses < Scopecontent >
 
-<bioghist> is about the creator(s) of the materials. <scopecontent> is about the materials in the collection. It’s sometimes difficult
-to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on
-the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about
-the creator’s background in <bioghist>. You can also mention that the creator undertook the project at hand. But save the details of 
-the project for <scopecontent>. 
+< bioghist > is about the creator(s) of the materials. < scopecontent > is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in <bioghist>. You can also mention that the creator undertook the project at hand. But save the details of the project for < scopecontent >. 
 
 Here’s a short example:
 
-- :smiley: <bioghist><head>Biographical Note</head><p>Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked
-part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small
-circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal
-died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</p></bioghist>
+- :smiley: < bioghist >< head >Biographical Note</ head >< p >Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</ p ></ bioghist >
 
-- :smiley: <scopecontent><head>Collection Overview</head><p>The collection includes materials, 1870-1876, relating to missionary and
-trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876,
-is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document
-expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely
-etc., etc.</p></scopecontent>
+- :smiley: < scopecontent >< head >Collection Overview</ head >< p >The collection includes materials, 1870-1876, relating to missionary and trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876, is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely etc., etc.</ p ></ scopecontent >
 
 ## Biographical Note verses Historical Note
 
