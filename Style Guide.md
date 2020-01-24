@@ -662,11 +662,9 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 **One space rules:** Always use ONE space after punctuation (periods, colons, whatever). In an EAD finding aid, there is never a time 
 that you need more than one space in a row. 
 
-- :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined 
-the Foreign Legion._
+- :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
 
-- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined 
-the Foreign Legion._
+- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined the Foreign Legion._
 
 **Dashes:** Dashes should not be surrounded by spaces:
 
@@ -674,21 +672,15 @@ the Foreign Legion._
 
 - :smiley: _1983-1984_
 
-Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant.
-These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much 
-space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the 
-ends of statements do not show up, but are discouraged.  
+Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
-- :rage: _< bioghist >< head >Biographical Note</head>
-•Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, 
-Siam.••_
+- :rage: _< bioghist >< head >Biographical Note</ head >•Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam.••_
 
-- :smiley: _< bioghist >< head >Biographical Note</head>Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, 
-Siam._
+- :smiley: _< bioghist >< head >Biographical Note</ head >Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam._
 
-- :rage: _<unittitle>•<unitdate>1922</unitdate></unittitle>_
+- :rage: _< unittitle >•< unitdate >1922</ unitdate ></ unittitle >_
 
-- :smiley: _<unittitle><unitdate>1922</unitdate></unittitle>_
+- :smiley: _< unittitle >< unitdate >1922</ unitdate ></ unittitle >_
 
 - :rage: _< c02 >< did >< container type="folder" >•1</ container >< unittitle >Correspondence, 
 < unitdate type="inclusive" >1920-1939</ unitdate ></ unittitle ></ did ></ c02 >_
