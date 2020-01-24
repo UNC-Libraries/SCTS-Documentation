@@ -700,9 +700,7 @@ When describing a letter written by a Civil War soldier, if possible, include th
 
 - if the writer was a soldier or an officer
 
-- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very
-top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, 
-without reading more in depth)
+- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, without reading more in depth)
 
 - what places are referenced in the letters
 
@@ -714,11 +712,7 @@ wartime subjects.
 
 # UNC
 
-**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. 
-Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say 
-University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name 
-the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged 
-with <corpname> if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
+**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with < corpname > if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
 
 
 # Miscellaneous
