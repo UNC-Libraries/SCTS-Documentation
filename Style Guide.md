@@ -319,7 +319,7 @@ Use commas before locations:
 
 Use colons in complex statements:
 
-- :smiley: _<title render="doublequote">How the West Was Won</title>: Missionary Society, Raleigh, 1966_
+- :smiley: _< title render="doublequote" >How the West Was Won</ title >: Missionary Society, Raleigh, 1966_
 
 You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
 modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both
@@ -330,9 +330,9 @@ list would look like this:
 
 - :smiley: _Correspondence, 1903-1956_
 
-- :smiley: _Speech: <title render="doublequote">How I Spent My Summer Vacation</title>, Raleigh, 1922_
+- :smiley: _Speech: < title render="doublequote" >How I Spent My Summer Vacation</ title >, Raleigh, 1922_
 
-- :smiley: _Speech: <title render="doublequote">How the West Was Won</title>: Civitan Club, Chapel Hill, 1960_
+- :smiley: _Speech: < title render="doublequote" >How the West Was Won</ title >: Civitan Club, Chapel Hill, 1960_
 
 - :smiley: _Miscellaneous_
 
@@ -351,16 +351,11 @@ the folder list begins when you are using folder titles as received:
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
-HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each
-folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
+HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
 
-The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's
-folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names
-in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
+The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
 
-**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other
-order should make sense in terms of the papers. You are under no obligation to include an <arrangement> statement for each series or subseries.
-If there is no discernible order (especially in short folder lists), leave the <arrangement> statement out.  
+**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an < arrangement > statement for each series or subseries. If there is no discernible order (especially in short folder lists), leave the < arrangement > statement out.  
 
 Alphabetical by name means Last name, First name.
 
