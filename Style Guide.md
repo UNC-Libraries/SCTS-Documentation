@@ -561,48 +561,40 @@ NOT the 2-letter standard United States Post Office abbreviations. Note also tha
 
 ## Titles (published works)
 
-Use <title> tags to add italics or quotation marks to formal titles; use <emph> tags to add bold, italic, or quotation marks in all
+Use < title > tags to add italics or quotation marks to formal titles; use < emph > tags to add bold, italic, or quotation marks in all
 other cases.
 
-**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry 
-collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion 
-pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the </title> 
-tag comes before any ending punctuation. 
+**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the </ title > tag comes before any ending punctuation. 
 
-- :smiley: _In his <title render="italic">Dictionary of North Carolina Biography</title>, Powell ..._
+- :smiley: _In his < title render="italic" >Dictionary of North Carolina Biography</ title >, Powell ..._
 
-- :smiley: _Her column appeared in the <title render="italic">Charlotte News</title>, 1942-1953._
+- :smiley: _Her column appeared in the < title render="italic" >Charlotte News</ title >, 1942-1953._
 
-- :smiley: _He wrote for the <title render="italic">New York Times Book Review</title> regularly between 1966 and 1970._
+- :smiley: _He wrote for the < title render="italic" >New York Times Book Review</ title > regularly between 1966 and 1970._
 
-- :smiley: _His poetry collection, <title render="italic">Call of the Wildest</title> (Oxford, 1951), won the North Carolina Weird Poetry 
-Society award in 1952._
+- :smiley: _His poetry collection, < title render="italic" >Call of the Wildest</ title > (Oxford, 1951), won the North Carolina Weird Poetry Society award in 1952._
 
-- :smiley: _He wrote extensively about seeing a production of <title render="italic">The Emperor Jones</title> in 1939._
+- :smiley: _He wrote extensively about seeing a production of < title render="italic" >The Emperor Jones</ title > in 1939._
 
 **Quotation marks:** Use quotation marks for theses, dissertations, short stories, short poems, chapters, journal and newspaper articles,
 columns, and all unpublished works regardless of length. Make sure the </title> tag comes before or after punctuation as appropriate.
 
-- :smiley: _His novel, <title render="doublequote">Wilder West,</title> was never published._
+- :smiley: _His novel, < title render="doublequote" >Wilder West,</ title > was never published._
 
-- :smiley: _Her column, <title render="doublequote">Little Moi,</title> appeared in the <title render="italic">Chapel Hill Messenger</title>,
-1909-1910._
+- :smiley: _Her column, < title render="doublequote" >Little Moi,</ title > appeared in the < title render="italic" >Chapel Hill Messenger</ title >, 1909-1910._
 
-- :smiley: _His poem, <title render="doublequote">Now There Are None</title> won the Minor Poets of Portland award in 1902._
+- :smiley: _His poem, < title render="doublequote" >Now There Are None</ title > won the Minor Poets of Portland award in 1902._
 
 ## < Title > verses < Emph >
 
-<title> and <emph> result in the same outputs to the screen, but they're not the same intellectually. <title> is for titles, italic or 
-quoted; <emph> supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct <emph> 
-usage include:  
+< title > and < emph > result in the same outputs to the screen, but they're not the same intellectually. < title > is for titles, italic or quoted; < emph > supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct < emph > usage include:  
 
-- :smiley: _The letter indicates that she was <emph render="doublequote">goosed</emph> by the soldier._
+- :smiley: _The letter indicates that she was < emph render="doublequote" >goosed</ emph > by the soldier._
 
-- :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote, <emph render="doublequote">What the <emph render="italic">
-HELL</emph> am I doing here?</emph>_
+- :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote, < emph render="doublequote" >What the < emph render="italic" >HELL</ emph > am I doing here?</ emph >_
 
-- :smiley: _Her name was McGill, and she called herself <emph render="doublequote">Lil,</emph> but everyone knew her as <emph 
-render="doublequote">Nancy.</emph>  
+- :smiley: _Her name was McGill, and she called herself < emph render="doublequote" >Lil,</ emph > but everyone knew her as < emph 
+render="doublequote" >Nancy.</ emph >  
 
 ## Dates
 
