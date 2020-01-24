@@ -16,16 +16,9 @@
 
 # Saying it
 
-**Good writing and editing:** Deathless prose is not required; good concise standard English is required. Be prepared to have your finding
-aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies 
-description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your 
-collection. Editors add these words or phrases to facilitate searching across finding aids.
+**Good writing and editing:** Deathless prose is not required; good concise standard English is required. Be prepared to have your finding aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your collection. Editors add these words or phrases to facilitate searching across finding aids.
 
-**Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” 
-Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their
-collections for years and years. If your description includes statements that talk about what someone’s doing now or where that 
-someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this
-by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
+**Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
 
 - :smiley: In 2001, Fluffy moved to Cary, N.C., where she taught obedience classes.
 
@@ -33,30 +26,21 @@ by making the description more oblique and therefore more able to endure the tes
 
 - :smiley: The Hamptons had 24 children, 16 dogs, and 44 goldfish in 2001.
 
-**Lest ye be judged:** You may think that the person you’re working on was the cat’s meow. Please remember, however, that you’re writing
-description, not evaluation or appreciation (that’s for the other side of the desk). Keep the judgment out of your words and your tone.
-Just the facts, please.
+**Lest ye be judged:** You may think that the person you’re working on was the cat’s meow. Please remember, however, that you’re writing description, not evaluation or appreciation (that’s for the other side of the desk). Keep the judgment out of your words and your tone. Just the facts, please.
 
-**Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call 
-her Mary Va. del Rio. Ever. Think searchability.
+**Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call her Mary Va. del Rio. Ever. Think searchability.
 
-**Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators
-or recipients of the papers.
+**Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
 
 - :smiley: _There are three letters from John to Mary._
 
 - :smiley: _In a letter of 3 June 1870, Amos described his trip to High Point, N.C._
 
-**Say it and say it again:** We don't expect people to read our finding aids from beginning to end. This is especially true of online
-finding aids, which are designed to help researchers navigate directly to descriptions of the materials of interest. Therefore,
-repeat important information (e.g., complete names, full titles of writings, when an event took place) in every intellectual 
-component throughout the finding aid.
+**Say it and say it again:** We don't expect people to read our finding aids from beginning to end. This is especially true of online finding aids, which are designed to help researchers navigate directly to descriptions of the materials of interest. Therefore, repeat important information (e.g., complete names, full titles of writings, when an event took place) in every intellectual component throughout the finding aid.
 
 **Use abbreviations sparingly:** There are only a few cases in which the abbreviation is so well-known that it makes sense to use it.
 
-**BUT verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary
-choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts
-that hold particular interest for them.
+**BUT verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
 
 # Capitalization
 
@@ -69,8 +53,7 @@ There are three main categories that require capitalization:
 
 **1. Official names of events**
 
-If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament"
-should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized:
+If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized:
  
 - Carolina Invitational baseball tournament 
 - Concert for Carolina benefit event 
@@ -166,8 +149,7 @@ should be lowercase. But if the event's official name is "Midnight Sun Basketbal
   
 - southern
 
-  - He wrote in great detail about the daily plantation life at Woodstock, including crops, how the slaves lived, relationships between
-    slaves and masters, jobs and positions on the plantation, how the southern elite socialized, and what he called southern hospitality.
+  - He wrote in great detail about the daily plantation life at Woodstock, including crops, how the slaves lived, relationships between slaves and masters, jobs and positions on the plantation, how the southern elite socialized, and what he called southern hospitality.
     
 - southerner
 
@@ -719,17 +701,13 @@ wartime subjects.
 
 **Chair and chairman:** If we agree to use chair for both males and females, we cannot go wrong.
 
-**Correspondence:** _Correspondence_ means an exchange of letters. If we say, _Also included is correspondence between Amos Trevellyan and his 
-daughter Alma,_ we mean that there are letters from Amos to Alma as AND letters from Alma to Amos. Do not use _correspondence_ when there are letters
-going only one way. If the collection includes chiefly incoming letters and only a few outgoing letters, which may or may not be paired together, 
-_correspondence_ is still the correct term.
+**Correspondence:** _Correspondence_ means an exchange of letters. If we say, _Also included is correspondence between Amos Trevellyan and his daughter Alma,_ we mean that there are letters from Amos to Alma as AND letters from Alma to Amos. Do not use _correspondence_ when there are letters going only one way. If the collection includes chiefly incoming letters and only a few outgoing letters, which may or may not be paired together, _correspondence_ is still the correct term.
 
 - :rage: Included is correspondence Rankin received from supporters.
 
 - :smiley: Included are letters Rankin received from supporters.
 
-**Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, 
-photocopies, photocopies of typed transcriptions, and handwritten copies. Avoid vague terms (e.g., copies). 
+**Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, and handwritten copies. Avoid vague terms (e.g., copies). 
 
 **Things southern:** It's the South, not the south. BUT it is southern and southerner, not Southern and Southerner.
 
