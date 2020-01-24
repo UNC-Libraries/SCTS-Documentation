@@ -73,34 +73,24 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
 should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized:
  
 - Carolina Invitational baseball tournament 
-
 - Concert for Carolina benefit event 
-
 - Atlantic Coast Conference Championships 
 
 
 **2. Names of buildings**
 
 - Ehringhaus Dining Hall
-
 - Morehead Planetarium
-
 - South Building
-
 - Spencer Residence Hall
 
 **3. Corporate bodies (this includes committees, boards, and groups)**
 
 - Faculty Information Technology Advisory Committee
-
 - Chancellor's Committee on Diversity
-
 - Student Affairs Advisory Board
-
 - Board of Trustees
-
 - Office of Research Development
-
 - Atlantic Coast Conference
 
 **4. Other examples**
