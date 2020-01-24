@@ -16,16 +16,9 @@
 
 # Saying it
 
-**Good writing and editing:** Deathless prose is not required; good concise standard English is required. Be prepared to have your finding
-aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies 
-description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your 
-collection. Editors add these words or phrases to facilitate searching across finding aids.
+**Good writing and editing:** Deathless prose is not required; good concise standard English is required. Be prepared to have your finding aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your collection. Editors add these words or phrases to facilitate searching across finding aids.
 
-**Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” 
-Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their
-collections for years and years. If your description includes statements that talk about what someone’s doing now or where that 
-someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this
-by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
+**Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
 
 - :smiley: In 2001, Fluffy moved to Cary, N.C., where she taught obedience classes.
 
@@ -33,30 +26,21 @@ by making the description more oblique and therefore more able to endure the tes
 
 - :smiley: The Hamptons had 24 children, 16 dogs, and 44 goldfish in 2001.
 
-**Lest ye be judged:** You may think that the person you’re working on was the cat’s meow. Please remember, however, that you’re writing
-description, not evaluation or appreciation (that’s for the other side of the desk). Keep the judgment out of your words and your tone.
-Just the facts, please.
+**Lest ye be judged:** You may think that the person you’re working on was the cat’s meow. Please remember, however, that you’re writing description, not evaluation or appreciation (that’s for the other side of the desk). Keep the judgment out of your words and your tone. Just the facts, please.
 
-**Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call 
-her Mary Va. del Rio. Ever. Think searchability.
+**Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call her Mary Va. del Rio. Ever. Think searchability.
 
-**Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators
-or recipients of the papers.
+**Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
 
 - :smiley: _There are three letters from John to Mary._
 
 - :smiley: _In a letter of 3 June 1870, Amos described his trip to High Point, N.C._
 
-**Say it and say it again:** We don't expect people to read our finding aids from beginning to end. This is especially true of online
-finding aids, which are designed to help researchers navigate directly to descriptions of the materials of interest. Therefore,
-repeat important information (e.g., complete names, full titles of writings, when an event took place) in every intellectual 
-component throughout the finding aid.
+**Say it and say it again:** We don't expect people to read our finding aids from beginning to end. This is especially true of online finding aids, which are designed to help researchers navigate directly to descriptions of the materials of interest. Therefore, repeat important information (e.g., complete names, full titles of writings, when an event took place) in every intellectual component throughout the finding aid.
 
 **Use abbreviations sparingly:** There are only a few cases in which the abbreviation is so well-known that it makes sense to use it.
 
-**BUT verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary
-choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts
-that hold particular interest for them.
+**BUT verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
 
 # Capitalization
 
@@ -69,38 +53,27 @@ There are three main categories that require capitalization:
 
 **1. Official names of events**
 
-If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament"
-should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized:
+If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized:
  
 - Carolina Invitational baseball tournament 
-
 - Concert for Carolina benefit event 
-
 - Atlantic Coast Conference Championships 
 
 
 **2. Names of buildings**
 
 - Ehringhaus Dining Hall
-
 - Morehead Planetarium
-
 - South Building
-
 - Spencer Residence Hall
 
 **3. Corporate bodies (this includes committees, boards, and groups)**
 
 - Faculty Information Technology Advisory Committee
-
 - Chancellor's Committee on Diversity
-
 - Student Affairs Advisory Board
-
 - Board of Trustees
-
 - Office of Research Development
-
 - Atlantic Coast Conference
 
 **4. Other examples**
@@ -176,8 +149,7 @@ should be lowercase. But if the event's official name is "Midnight Sun Basketbal
   
 - southern
 
-  - He wrote in great detail about the daily plantation life at Woodstock, including crops, how the slaves lived, relationships between
-    slaves and masters, jobs and positions on the plantation, how the southern elite socialized, and what he called southern hospitality.
+  - He wrote in great detail about the daily plantation life at Woodstock, including crops, how the slaves lived, relationships between slaves and masters, jobs and positions on the plantation, how the southern elite socialized, and what he called southern hospitality.
     
 - southerner
 
@@ -270,13 +242,13 @@ for what to do when there's only one series.
 - Edit the descriptions, retaining only the truly significant content (always a judgment call), to create the a collection overview.
 You may content tag the collection overview or leave it for the cataloger
 
-- Copy the collection overview into the abstract area (<abstract encodinganalog="520">). Omit all internal tagging except <title> and 
+- Copy the collection overview into the abstract area (< abstract encodinganalog="520" >). Omit all internal tagging except < title > and 
 <emph>
 
 - Edit the abstract so that it's as concise as possible
 
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: <abstract encodinganalog="545">)
+(we no longer have this tag in the finding aid: < abstract encodinganalog="545" >)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
 
@@ -284,30 +256,17 @@ You may content tag the collection overview or leave it for the cataloger
 
 If you use the method above to write abstracts and collection overviews when there's just one series, you wind up with pretty much
 the same description three times in the finding aid (once in the series description, once in the collection overview, and once in 
-the <abstract encodinganalog="520">. This is overkill. If you have only one series, write its description as the collection overview.
-Use the collection overview as the <abstract encodinganalog="520"> (with editing as needed). At the series level, you may either omit 
-the <scopecontent> note entirely or use it for information that's not appropriate for the collection overview or abstract.  
+the < abstract encodinganalog="520" >. This is overkill. If you have only one series, write its description as the collection overview. Use the collection overview as the < abstract encodinganalog="520" > (with editing as needed). At the series level, you may either omit the < scopecontent > note entirely or use it for information that's not appropriate for the collection overview or abstract.  
 
 ## < Bioghist > verses < Scopecontent >
 
-<bioghist> is about the creator(s) of the materials. <scopecontent> is about the materials in the collection. It’s sometimes difficult
-to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on
-the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about
-the creator’s background in <bioghist>. You can also mention that the creator undertook the project at hand. But save the details of 
-the project for <scopecontent>. 
+< bioghist > is about the creator(s) of the materials. < scopecontent > is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in <bioghist>. You can also mention that the creator undertook the project at hand. But save the details of the project for < scopecontent >. 
 
 Here’s a short example:
 
-- :smiley: <bioghist><head>Biographical Note</head><p>Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked
-part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small
-circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal
-died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</p></bioghist>
+- :smiley: < bioghist >< head >Biographical Note</ head >< p >Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</ p ></ bioghist >
 
-- :smiley: <scopecontent><head>Collection Overview</head><p>The collection includes materials, 1870-1876, relating to missionary and
-trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876,
-is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document
-expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely
-etc., etc.</p></scopecontent>
+- :smiley: < scopecontent >< head >Collection Overview</ head >< p >The collection includes materials, 1870-1876, relating to missionary and trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876, is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely etc., etc.</ p ></ scopecontent >
 
 ## Biographical Note verses Historical Note
 
@@ -342,7 +301,7 @@ Use commas before locations:
 
 Use colons in complex statements:
 
-- :smiley: _<title render="doublequote">How the West Was Won</title>: Missionary Society, Raleigh, 1966_
+- :smiley: _< title render="doublequote" >How the West Was Won</ title >: Missionary Society, Raleigh, 1966_
 
 You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
 modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both
@@ -353,9 +312,9 @@ list would look like this:
 
 - :smiley: _Correspondence, 1903-1956_
 
-- :smiley: _Speech: <title render="doublequote">How I Spent My Summer Vacation</title>, Raleigh, 1922_
+- :smiley: _Speech: < title render="doublequote" >How I Spent My Summer Vacation</ title >, Raleigh, 1922_
 
-- :smiley: _Speech: <title render="doublequote">How the West Was Won</title>: Civitan Club, Chapel Hill, 1960_
+- :smiley: _Speech: < title render="doublequote" >How the West Was Won</ title >: Civitan Club, Chapel Hill, 1960_
 
 - :smiley: _Miscellaneous_
 
@@ -374,16 +333,11 @@ the folder list begins when you are using folder titles as received:
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
-HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each
-folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
+HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
 
-The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's
-folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names
-in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
+The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
 
-**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other
-order should make sense in terms of the papers. You are under no obligation to include an <arrangement> statement for each series or subseries.
-If there is no discernible order (especially in short folder lists), leave the <arrangement> statement out.  
+**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an < arrangement > statement for each series or subseries. If there is no discernible order (especially in short folder lists), leave the < arrangement > statement out.  
 
 Alphabetical by name means Last name, First name.
 
@@ -396,9 +350,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 # Transcribing Titles and Captions
 
-If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that
-title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) 
-from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks.  
+If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks.  
 
 Examples:
 
@@ -406,34 +358,33 @@ Examples:
 
 For example, a photograph with "Cullom Hall, 1926" written on the back:  
 
-<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>  
+< unittitle >< title render="doublequote" >Cullom Hall, 1926</ title ></ unittitle >  
 
 **Archivist-generated title**
 
 For example, a photograph that we identify as being Cullom Hall in 1926:  
 
-<unittitle>Cullom Hall, 1926</unittitle>  
+< unittitle >Cullom Hall, 1926</ unittitle >  
 
 **Creator-generated title with archivist-generated clarification**
 
 For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
 
-<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>  
+< unittitle >< title render="doublequote" >Dean Hall</ title > (now Holdzkom Hall)</ unittitle >  
 
 **Creator-generated caption**
 
 For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
 written on the back:  
 
-<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant
-in the background.</emph></p></scopecontent>  
+< unittitle >Cullom Hall, 1926</ unittitle ></ did >< scopecontent >< p >Caption reads: < emph render="doublequote" >Be sure to notice the elephant in the background.</ emph ></ p ></ scopecontent >  
 
 **Archivist-generated caption**
 
 For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
 front steps (not noted in original descriptions provided by creator):  
 
-<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent> 
+< unittitle >Cullom Hall, 1926</ unittitle ></ did > < scopecontent >< p >Image includes Edward Cullom.</ p ></ scopecontent > 
 
 
 # Commas, Other Punctuation, Capitalization
@@ -464,11 +415,10 @@ of a name is used.
 **Quontation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
 doing EAD markup.
 
-- :smiley: _She called herself <emph render="doublequote">Lil,</emph> but everyone knew her as Nancy._
+- :smiley: _She called herself < emph render="doublequote" >Lil,</ emph > but everyone knew her as Nancy._
 
-- :smiley: _Included is the 1922 version of his unsold novel, <title render="doublequote">When Bad Things Happen to Bad People</title>; 
-his unsold short story, <title render="doublequote">Worser and Worser</title>; and his unsold anthology, <title render="doublequote">Major 
-Works.</title>  
+- :smiley: _Included is the 1922 version of his unsold novel, < title render="doublequote" >When Bad Things Happen to Bad People</ title >; 
+his unsold short story, < title render="doublequote" >Worser and Worser</ title >; and his unsold anthology, < title render="doublequote" >Major Works.</ title >  
 
 **Capitalization of series and subseries titles:** Do capitalize all of the words in the supplied title at the series and subseries level.
 
@@ -569,20 +519,13 @@ Abbreviate for lesser government bodies and for military units
 Abbreviate a state name when it directly follows the name of a city or a county (parish). Otherwise spell out the name of the state.
 
 **Abbreviations:** Always use the approved Library of Congress state abbreviations when the state is a modifier. Note that these are
-NOT the 2-letter standard United States Post Office abbreviations. Note also that there is no space between N. and C. (N.C.) or S. and C. 
-(S.C.) or W. and Va. (W.Va.).
+NOT the 2-letter standard United States Post Office abbreviations. Note also that there is no space between N. and C. (N.C.) or S. and C. (S.C.) or W. and Va. (W.Va.).
 
 - :smiley: _Chapel Hill, N.C._
 
 - :smiley: _Little Rock, Ark._
 
-**State abbreviations:** Alabama: Ala., Alaska: Alaska, Arizona: Ariz., Arkansas: Ark., California: Calif., Colorado: Colo., Connecticut: 
-Conn., Delaware: Del., District of Columbia: D.C., Florida: Fla., Georgia: Ga., Hawaii: Hawaii, Idaho: Idaho, Illinois: Ill., Indiana: 
-Ind., Iowa: Iowa, Kansas: Kans., Kentucky: Ky., Louisiana: La., Maine: Me., Maryland: Md., Massachusetts: Mass., Michigan: Mich., 
-Minnesota: Minn., Mississippi: Miss., Missouri: Mo., Montana: Mont., Nebraska: Neb., Nevada: Nev., New Hampshire: N.H., New Jersey: N.J., 
-New Mexico: N.M, New York: N.Y., North Carolina: N.C., North Dakota: N.D., Ohio: Ohio, Oklahoma: Okla., Oregon: Or., Pennsylvania: Pa., 
-Puerto Rico: P.R., Rhode Island: R.I., South Carolina: S.C., South Dakota: S.D., Tennessee: Tenn., Texas: Tex., Utah: Utah, Vermont: Vt.,
-Virginia: Va., Virgin Islands: V.I., Washington: Wash., West Virginia: W.Va., Wisconsin: Wis., Wyoming: Wyo.
+**State abbreviations:** Alabama: Ala., Alaska: Alaska, Arizona: Ariz., Arkansas: Ark., California: Calif., Colorado: Colo., Connecticut: Conn., Delaware: Del., District of Columbia: D.C., Florida: Fla., Georgia: Ga., Hawaii: Hawaii, Idaho: Idaho, Illinois: Ill., Indiana: Ind., Iowa: Iowa, Kansas: Kans., Kentucky: Ky., Louisiana: La., Maine: Me., Maryland: Md., Massachusetts: Mass., Michigan: Mich., Minnesota: Minn., Mississippi: Miss., Missouri: Mo., Montana: Mont., Nebraska: Neb., Nevada: Nev., New Hampshire: N.H., New Jersey: N.J., New Mexico: N.M, New York: N.Y., North Carolina: N.C., North Dakota: N.D., Ohio: Ohio, Oklahoma: Okla., Oregon: Or., Pennsylvania: Pa., Puerto Rico: P.R., Rhode Island: R.I., South Carolina: S.C., South Dakota: S.D., Tennessee: Tenn., Texas: Tex., Utah: Utah, Vermont: Vt., Virginia: Va., Virgin Islands: V.I., Washington: Wash., West Virginia: W.Va., Wisconsin: Wis., Wyoming: Wyo.
 
 **Places as part of name:** Always spell out state names when they are part of a name. This also goes for the United States.
 
@@ -600,48 +543,40 @@ Virginia: Va., Virgin Islands: V.I., Washington: Wash., West Virginia: W.Va., Wi
 
 ## Titles (published works)
 
-Use <title> tags to add italics or quotation marks to formal titles; use <emph> tags to add bold, italic, or quotation marks in all
+Use < title > tags to add italics or quotation marks to formal titles; use < emph > tags to add bold, italic, or quotation marks in all
 other cases.
 
-**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry 
-collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion 
-pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the </title> 
-tag comes before any ending punctuation. 
+**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the </ title > tag comes before any ending punctuation. 
 
-- :smiley: _In his <title render="italic">Dictionary of North Carolina Biography</title>, Powell ..._
+- :smiley: _In his < title render="italic" >Dictionary of North Carolina Biography</ title >, Powell ..._
 
-- :smiley: _Her column appeared in the <title render="italic">Charlotte News</title>, 1942-1953._
+- :smiley: _Her column appeared in the < title render="italic" >Charlotte News</ title >, 1942-1953._
 
-- :smiley: _He wrote for the <title render="italic">New York Times Book Review</title> regularly between 1966 and 1970._
+- :smiley: _He wrote for the < title render="italic" >New York Times Book Review</ title > regularly between 1966 and 1970._
 
-- :smiley: _His poetry collection, <title render="italic">Call of the Wildest</title> (Oxford, 1951), won the North Carolina Weird Poetry 
-Society award in 1952._
+- :smiley: _His poetry collection, < title render="italic" >Call of the Wildest</ title > (Oxford, 1951), won the North Carolina Weird Poetry Society award in 1952._
 
-- :smiley: _He wrote extensively about seeing a production of <title render="italic">The Emperor Jones</title> in 1939._
+- :smiley: _He wrote extensively about seeing a production of < title render="italic" >The Emperor Jones</ title > in 1939._
 
 **Quotation marks:** Use quotation marks for theses, dissertations, short stories, short poems, chapters, journal and newspaper articles,
 columns, and all unpublished works regardless of length. Make sure the </title> tag comes before or after punctuation as appropriate.
 
-- :smiley: _His novel, <title render="doublequote">Wilder West,</title> was never published._
+- :smiley: _His novel, < title render="doublequote" >Wilder West,</ title > was never published._
 
-- :smiley: _Her column, <title render="doublequote">Little Moi,</title> appeared in the <title render="italic">Chapel Hill Messenger</title>,
-1909-1910._
+- :smiley: _Her column, < title render="doublequote" >Little Moi,</ title > appeared in the < title render="italic" >Chapel Hill Messenger</ title >, 1909-1910._
 
-- :smiley: _His poem, <title render="doublequote">Now There Are None</title> won the Minor Poets of Portland award in 1902._
+- :smiley: _His poem, < title render="doublequote" >Now There Are None</ title > won the Minor Poets of Portland award in 1902._
 
 ## < Title > verses < Emph >
 
-<title> and <emph> result in the same outputs to the screen, but they're not the same intellectually. <title> is for titles, italic or 
-quoted; <emph> supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct <emph> 
-usage include:  
+< title > and < emph > result in the same outputs to the screen, but they're not the same intellectually. < title > is for titles, italic or quoted; < emph > supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct < emph > usage include:  
 
-- :smiley: _The letter indicates that she was <emph render="doublequote">goosed</emph> by the soldier._
+- :smiley: _The letter indicates that she was < emph render="doublequote" >goosed</ emph > by the soldier._
 
-- :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote, <emph render="doublequote">What the <emph render="italic">
-HELL</emph> am I doing here?</emph>_
+- :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote, < emph render="doublequote" >What the < emph render="italic" >HELL</ emph > am I doing here?</ emph >_
 
-- :smiley: _Her name was McGill, and she called herself <emph render="doublequote">Lil,</emph> but everyone knew her as <emph 
-render="doublequote">Nancy.</emph>  
+- :smiley: _Her name was McGill, and she called herself < emph render="doublequote" >Lil,</ emph > but everyone knew her as < emph 
+render="doublequote" >Nancy.</ emph >  
 
 ## Dates
 
@@ -709,11 +644,9 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 **One space rules:** Always use ONE space after punctuation (periods, colons, whatever). In an EAD finding aid, there is never a time 
 that you need more than one space in a row. 
 
-- :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined 
-the Foreign Legion._
+- :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
 
-- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined 
-the Foreign Legion._
+- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined the Foreign Legion._
 
 **Dashes:** Dashes should not be surrounded by spaces:
 
@@ -721,21 +654,15 @@ the Foreign Legion._
 
 - :smiley: _1983-1984_
 
-Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant.
-These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much 
-space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the 
-ends of statements do not show up, but are discouraged.  
+Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
-- :rage: _< bioghist >< head >Biographical Note</head>
-•Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, 
-Siam.••_
+- :rage: _< bioghist >< head >Biographical Note</ head >•Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam.••_
 
-- :smiley: _< bioghist >< head >Biographical Note</head>Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, 
-Siam._
+- :smiley: _< bioghist >< head >Biographical Note</ head >Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam._
 
-- :rage: _<unittitle>•<unitdate>1922</unitdate></unittitle>_
+- :rage: _< unittitle >•< unitdate >1922</ unitdate ></ unittitle >_
 
-- :smiley: _<unittitle><unitdate>1922</unitdate></unittitle>_
+- :smiley: _< unittitle >< unitdate >1922</ unitdate ></ unittitle >_
 
 - :rage: _< c02 >< did >< container type="folder" >•1</ container >< unittitle >Correspondence, 
 < unitdate type="inclusive" >1920-1939</ unitdate ></ unittitle ></ did ></ c02 >_
@@ -755,9 +682,7 @@ When describing a letter written by a Civil War soldier, if possible, include th
 
 - if the writer was a soldier or an officer
 
-- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very
-top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, 
-without reading more in depth)
+- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, without reading more in depth)
 
 - what places are referenced in the letters
 
@@ -769,28 +694,20 @@ wartime subjects.
 
 # UNC
 
-**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. 
-Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say 
-University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name 
-the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged 
-with <corpname> if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
+**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with < corpname > if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
 
 
 # Miscellaneous
 
 **Chair and chairman:** If we agree to use chair for both males and females, we cannot go wrong.
 
-**Correspondence:** _Correspondence_ means an exchange of letters. If we say, _Also included is correspondence between Amos Trevellyan and his 
-daughter Alma,_ we mean that there are letters from Amos to Alma as AND letters from Alma to Amos. Do not use _correspondence_ when there are letters
-going only one way. If the collection includes chiefly incoming letters and only a few outgoing letters, which may or may not be paired together, 
-_correspondence_ is still the correct term.
+**Correspondence:** _Correspondence_ means an exchange of letters. If we say, _Also included is correspondence between Amos Trevellyan and his daughter Alma,_ we mean that there are letters from Amos to Alma as AND letters from Alma to Amos. Do not use _correspondence_ when there are letters going only one way. If the collection includes chiefly incoming letters and only a few outgoing letters, which may or may not be paired together, _correspondence_ is still the correct term.
 
 - :rage: Included is correspondence Rankin received from supporters.
 
 - :smiley: Included are letters Rankin received from supporters.
 
-**Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, 
-photocopies, photocopies of typed transcriptions, and handwritten copies. Avoid vague terms (e.g., copies). 
+**Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, and handwritten copies. Avoid vague terms (e.g., copies). 
 
 **Things southern:** It's the South, not the south. BUT it is southern and southerner, not Southern and Southerner.
 
