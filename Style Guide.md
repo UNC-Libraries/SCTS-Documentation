@@ -368,9 +368,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 # Transcribing Titles and Captions
 
-If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that
-title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) 
-from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks.  
+If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks.  
 
 Examples:
 
@@ -378,34 +376,33 @@ Examples:
 
 For example, a photograph with "Cullom Hall, 1926" written on the back:  
 
-<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>  
+< unittitle >< title render="doublequote" >Cullom Hall, 1926</ title ></ unittitle >  
 
 **Archivist-generated title**
 
 For example, a photograph that we identify as being Cullom Hall in 1926:  
 
-<unittitle>Cullom Hall, 1926</unittitle>  
+< unittitle >Cullom Hall, 1926</ unittitle >  
 
 **Creator-generated title with archivist-generated clarification**
 
 For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
 
-<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>  
+< unittitle >< title render="doublequote" >Dean Hall</ title > (now Holdzkom Hall)</ unittitle >  
 
 **Creator-generated caption**
 
 For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
 written on the back:  
 
-<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant
-in the background.</emph></p></scopecontent>  
+< unittitle >Cullom Hall, 1926</ unittitle ></ did >< scopecontent >< p >Caption reads: < emph render="doublequote" >Be sure to notice the elephant in the background.</ emph ></ p ></ scopecontent >  
 
 **Archivist-generated caption**
 
 For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
 front steps (not noted in original descriptions provided by creator):  
 
-<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent> 
+< unittitle >Cullom Hall, 1926</ unittitle ></ did > < scopecontent >< p >Image includes Edward Cullom.</ p ></ scopecontent > 
 
 
 # Commas, Other Punctuation, Capitalization
