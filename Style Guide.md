@@ -233,9 +233,7 @@ These files deal with a wide variety of topics and provide information on the da
 
 ## Abstracts and Collection Overviews for Multi-Series Collections
 
-**A good way to write the abstract and collection overview:** This is not the only way to write a good collection overview and abstract,
-but it usually works pretty well. You may want to ask for guidance on how to do this the first time you give it a try. And see below
-for what to do when there's only one series.
+**A good way to write the abstract and collection overview:** This is not the only way to write a good collection overview and abstract, but it usually works pretty well. You may want to ask for guidance on how to do this the first time you give it a try. And see below for what to do when there's only one series.
 
 - Copy all your series descriptions into the collection overview area of the finding aid
 
@@ -477,8 +475,7 @@ Championships," all words should be capitalized.
 section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In 
 subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the 
 most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or 
-_Hetty Betty Bodin_e or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty
-Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
+_Hetty Betty Bodin_e or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
 
 When an individual uses initials in a personal name, place a period followed by a space after each letter. 
 
@@ -558,8 +555,7 @@ other cases.
 
 - :smiley: _He wrote extensively about seeing a production of < title render="italic" >The Emperor Jones</ title > in 1939._
 
-**Quotation marks:** Use quotation marks for theses, dissertations, short stories, short poems, chapters, journal and newspaper articles,
-columns, and all unpublished works regardless of length. Make sure the </title> tag comes before or after punctuation as appropriate.
+**Quotation marks:** Use quotation marks for theses, dissertations, short stories, short poems, chapters, journal and newspaper articles, columns, and all unpublished works regardless of length. Make sure the </title> tag comes before or after punctuation as appropriate.
 
 - :smiley: _His novel, < title render="doublequote" >Wilder West,</ title > was never published._
 
