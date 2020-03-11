@@ -118,10 +118,78 @@ Items separated (S volumes, audiovisual materials, and oversize papers) are incl
 
 
 # Restrictions
+#### [DACS 4.](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/00_conditions_of_access_and_use_elements.html)
+### Conditions Governing Access
+In local practice, we define access as having the permission and ability to view, hear, or handle original documents or facsimiles in person and to make or receive photoduplicates for reference and research.
 
-Conditions Governing Access ([DACS 4.1.](https://www2.archivists.org/standards/DACS/part_I/chapter_4/1_conditions_governing_access)) 
+### Conditions Governing Use
+In local practice, we define use as the permission to publish, broadcast, exhibit, display, or present a collection’s content and to receive photoduplicates for publication, broadcast, exhibit, display, and online presentation.
 
-Conditions Governing Use ([DACS 4.4.](https://www2.archivists.org/standards/DACS/part_I/chapter_4/4_conditions_governing_reproduction_and_use)) 
+### General Guidelines for Restriction Statements
+Restriction statements provide information about any limitations imposed on a collection’s availability for reference, research, duplication, and use. Restrictions are placed on collections by the Library or by the collection’s source (typically donor, but also seller). Wilson Library’s librarians and archivists champion open access and seek to minimize restrictions. However, we do have contractual obligations to donors, and we do recognize that preservation of original documents, which are at risk for loss, sometimes does necessitate reasonable limitations on handling.  
+
+We record restrictions to access and restrictions to use in the finding aid in order to alert users and library staff to the limitations on a collection’s availability for reference, research, duplication, and use and to provide information about options they may have now or in the future to access and use a collection’s content.
+
+Restriction statements should be clear and concise and should indicate all of the following: 
+
+- Type of restriction
+
+- Collection materials included in the restriction
+
+- Who imposed the restriction (Library, Donor/Seller)
+
+- Reason for the restriction if the Library imposed the restriction
+
+- Reference to the gift agreement or other agreement if the donor/seller imposed the restriction
+
+- Duration of the restriction
+
+- Other options for access or use, if any
+
+- How to obtain permission if applicable
+  
+The first sentence in a restriction statement should be a standardized and general statement about the type of restriction placed on the materials. This boilerplate is followed by the specific information about the restriction in relation to the collection.
+Current list of standardized general statements for access restrictions.
+
+#### Permanently closed
+
+This collection contains materials which are permanently closed.
+
+#### Closed indefinitely or until…
+
+This collection contains materials which are closed.
+
+#### Duplication and digitization
+
+This collection has restrictions on duplication and digitization.
+
+#### Listening/Viewing Copies
+
+Access to audio or moving image materials may require production of listening or viewing copies.
+
+#### Missing items
+
+This collection has items which have been noted as missing and are not accessible.
+
+#### Redaction
+
+This collection contains materials that have been redacted by the Library to protect personally identifying information such as social security numbers.
+
+#### Removed or withdrawn
+
+This collection contained materials that have been permanently withdrawn.
+
+#### Additional material
+
+This collection contains additional materials that are not available for immediate or same day access.
+
+#### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
+
+This collection contains [microfilm/digital] copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library.
+
+#### Items not available for same day access (e.g., vault)
+
+This collection contains materials that are not available for immediate or same day use. 
 
 
 # Languages
