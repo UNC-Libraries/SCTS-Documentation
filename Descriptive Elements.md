@@ -149,47 +149,74 @@ Restriction statements should be clear and concise and should indicate all of th
 - How to obtain permission if applicable
   
 The first sentence in a restriction statement should be a standardized and general statement about the type of restriction placed on the materials. This boilerplate is followed by the specific information about the restriction in relation to the collection.
-Current list of standardized general statements for access restrictions.
+
+### Boilerplate Access Restriction Statements
 
 #### Permanently closed
-
-This collection contains materials which are permanently closed.
+_This collection contains materials which are permanently closed._
 
 #### Closed indefinitely or until…
-
-This collection contains materials which are closed.
+_This collection contains materials which are closed._
 
 #### Duplication and digitization
-
-This collection has restrictions on duplication and digitization.
+_This collection has restrictions on duplication and digitization._
 
 #### Listening/Viewing Copies
-
-Access to audio or moving image materials may require production of listening or viewing copies.
+_Access to audio or moving image materials may require production of listening or viewing copies._
 
 #### Missing items
-
-This collection has items which have been noted as missing and are not accessible.
+_This collection has items which have been noted as missing and are not accessible._
 
 #### Redaction
-
-This collection contains materials that have been redacted by the Library to protect personally identifying information such as social security numbers.
+_This collection contains materials that have been redacted by the Library to protect personally identifying information such as social security numbers._
 
 #### Removed or withdrawn
-
-This collection contained materials that have been permanently withdrawn.
+_This collection contained materials that have been permanently withdrawn._
 
 #### Additional material
-
-This collection contains additional materials that are not available for immediate or same day access.
+_This collection contains additional materials that are not available for immediate or same day access._
 
 #### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
-
-This collection contains [microfilm/digital] copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library.
+_This collection contains [microfilm/digital] copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library._
 
 #### Items not available for same day access (e.g., vault)
+_This collection contains materials that are not available for immediate or same day use._ 
 
-This collection contains materials that are not available for immediate or same day use. 
+### Sample Access Restrictions with Specific Conditions
+
+#### Permanently closed
+_This collection contains materials which are permanently closed. The Library permanently closed the original volume in folder 3 because it is too fragile to be safely handled and the enclosed photograph should not be exposed to light. Access is provided through the existing digital facsimile and microfilm copy. Duplication requests for this volume are filled with the existing facsimiles, and the volume will not be re-imaged to fill those requests._ 
+
+#### Closed indefinitely or until…
+_This collection contains materials which are closed. The Library closed all materials in boxes 1 through 5 and audio tapes (T-4556/1-61) because these records contain personally identifying information about minor students who participated in the Stouffer Foundation's program. These materials are closed and are not accessible for research or duplication of any type until 1 January 2049._ 
+
+
+_This collection contains materials which are closed. In accordance with the donor agreement, Volume S-297a is closed and is not accessible for research or duplication of any type until 1 January 2045._ 
+
+
+#### Duplication and digitization
+_This collection has restrictions on duplication and digitization. In accordance with the donor agreement, materials in this collection will not be duplicated or digitized without permission of the donor. Requests for copies of materials in this collection are evaluated after the requestor receives the express written permission of Kenny Dalsheimer of Durham, N.C., to obtain copies._ 
+
+
+_This collection has restrictions on duplication and digitization. In accordance with the donor agreement, photoduplication and digitization of any and all materials in this collection are prohibited without the explicit written permission of the literary agent firm McIntosh & Otis, Inc. 
+Permission request form 
+Mailing Address: 207 E. 37th Street, Suite BG New York, NY 10016 
+Tel: 212.687.7400 
+Email: info@mcintoshandotis.com._
+
+#### Missing items
+_This collection has items which have been noted as missing and are not accessible. The 1852 broadside "Announcement of auction of 25 slaves by Louis D. De Saussure, auctioneer, Charleston, S.C." and the undated advertisement for "Music, Singing, Dancing, Mathematical Experiments, Etc." were noted as missing from the collection in July 2004._  
+
+#### Removed or withdrawn
+_This collection contained materials that have been permanently withdrawn. In 2016, the donor withdrew the Pierce & Company account book, 1898-1900 (folder 1820). This item is no longer accessible for research or duplication of any type._ 
+
+#### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
+_This collection contains microfilm copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library. The original physical documents in Series 3 (Business and personal letters of Maunsel White and Maunsell White, Jr. and Plantation records and account book, 1833-1843) are not owned by the Library or stored in Wilson Special Collections Library. To access the content, researchers should use the microfilm copies of the documents (Microfilm reels: M-2234/1 and M-2234/1)._ 
+
+#### Items not available for same day access (e.g., vault)
+_This collection contains materials that are not available for immediate or same day use. The Library has digitized original documents in this collection that are vulnerable to theft and stored them separately. The original physical documents are not available for immediate or same day use. To access the content of the documents, researchers should use the digital facsimiles. To discuss other options, please contact staff at wilsonlibrary@unc.edu._ 
+
+
 
 
 # Languages
