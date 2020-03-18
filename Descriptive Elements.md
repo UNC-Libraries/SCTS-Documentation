@@ -17,6 +17,7 @@
 - acquisition
 - citation
 - privacy statement
+- processing information
 
 
 # Reference code
@@ -333,3 +334,11 @@ In 2009 archivists in Special Collections Technical Services worked with the off
 The privacy statement is included in all Wilson Library finding aids. 
 
 _Manuscript collections and archival records may contain materials with sensitive or confidential information that is protected under federal or state right to privacy laws and regulations, the North Carolina Public Records Act (N.C.G.S. § 132 1 et seq.), and Article 7 of the North Carolina State Personnel Act (Privacy of State Employee Personnel Records, N.C.G.S. § 126-22 et seq.). Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g., a cause of action under common law for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of North Carolina at Chapel Hill assumes no responsibility._
+
+# Processing Information
+
+We use this statement for first pass processing:
+
+
+
+
