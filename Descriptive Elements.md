@@ -117,6 +117,17 @@ The linear-foot count is even more straightforward. Linear feet are calculated a
 
 Items separated (S volumes, audiovisual materials, and oversize papers) are included in item counts, but not in linear footage.  
 
+Additionally, we record a quantitative measurement of processed digital content in an Extent statement. This measurement should be recorded separately from any Extent statement(s) for physical material. At minimum, record the extent of digital content in gigabytes (GB). Optionally, record the number of digital files. 
+
+EXAMPLES:
+
+HYBRID ANALOG AND BORN-DIGITAL COLLECTION:
+
+Extent: 27.5 feet of linear shelf space (approximately 5,000 items); 27 GB (4,825 digital files)
+
+ENTIRELY DIGITAL COLLECTION:
+
+Extent: 27 GB (4,825 digital files)
 
 # Restrictions
 #### [DACS 4.](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/00_conditions_of_access_and_use_elements.html)
