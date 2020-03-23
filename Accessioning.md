@@ -91,7 +91,7 @@ _Maps to: Title (Basic Information tab)_
 
 The title of the accession will typically, but need not always, match the title of the resource to which the accession belongs. For example, the accession title may be John Smith Diaries, which may become part of the larger Smith Family Papers.  
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 When spawning a resource (see below), this field maps to the resource title.
 
@@ -119,7 +119,7 @@ _Maps to: Description (Accession Notes tab)_
 
 A description of the document types and topical contents of the accession. When spawning a resource, this field maps to the main level scope and content note. 
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ### General Note
 
@@ -129,7 +129,7 @@ Intended for notes about the acquisition or processing of the accession, and not
 
 > Note that we will stop using this field to record temporary locations once we start using ArchivesSpace as our locations database. 
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ### Acquisition Type (Required by TS)
 
@@ -195,7 +195,7 @@ Choose from a drop-down list. Describes the type of activity that the date signi
 
 The date or date range of the materials in the accession. Some examples: 1968; 1979-1993; 1785-1960; bulk 1916-1958; 1827; circa 1870-1879; 1906 March 1; undated. 
 
-_Delete the boilerplate instruction!_
+**Delete the boilerplate instructions!**
 
 ### Type (Required by ArchivesSpace)
 
@@ -248,7 +248,7 @@ _Maps to: Extent number (Basic Information tab)_
  
 Serves to describe the logical or physical parts of a multi-level resource or digital object that makes up an aggregation of archival materials. Example of use: if the Number and Type are 10 linear feet, then the container summary might be used to record the actual number of containers (10 boxes and 4 flat files) 
  
-_Delete boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ### Removing an Extent sub-record:
 
@@ -408,7 +408,7 @@ _Maps to: Processing Plan (Acknowledgements, Restrictions & Processing Tasks tab
 
 Open text field. For recording a plan for processing of the archival unit. We typically use _Acc2Proc_ or _Intake_. 
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ### Processing Status
 
@@ -431,7 +431,7 @@ _Maps to: Items (User defined fields tab)_
 
 Used to record the approximate number of items in an accession. 
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ### Monetary
 
@@ -445,7 +445,7 @@ _Maps to: New or addition (User defined fields tab)_
 
 Used to record whether an accession is creating a new collection, or adding to an existing collection. 
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ### Biographical/historical information
 
@@ -453,7 +453,7 @@ _Maps to: Biographical/historical information (User defined fields tab)_
 
 Used to record biographical and historical information related to an accession and its agents. In the future, we might record some of this information in the agent records. 
 
-_Delete the boilerplate instructions!_
+**Delete the boilerplate instructions!**
 
 ***
 
