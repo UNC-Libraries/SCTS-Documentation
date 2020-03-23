@@ -509,7 +509,7 @@ Choose from drop-down list. Indicates the type of date is associated with this e
 
 - **Label (Required by ArchivesSpace)** Choose from drop-down list. Use to describe the type of activity the date signifies. The default is "Event." 
 
-- **Expression (Required by ArchivesSpace)** Open text field to record the date the event occurred. _Delete the boilerplate instructions!_
+- **Expression (Required by ArchivesSpace)** Open text field to record the date the event occurred. **Delete the boilerplate instructions!**
 
 - **Begin (Not Required)** Enter the date when the event began.
 
