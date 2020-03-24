@@ -538,10 +538,9 @@ NOT the 2-letter standard United States Post Office abbreviations. Note also tha
 
 ## Titles (published works)
 
-Use < title > tags to add italics or quotation marks to formal titles; use < emph > tags to add bold, italic, or quotation marks in all
-other cases.
+Use ```<title>``` tags to add italics or quotation marks to formal titles; use ```<emph>``` tags to add bold, italic, or quotation marks in all other cases.
 
-**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the </ title > tag comes before any ending punctuation. 
+**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the ```</title>``` tag comes before any ending punctuation. 
 
 - :smiley: _In his_ ```<title render="italic">Dictionary of North Carolina Biography</title>,``` _Powell ..._
 
