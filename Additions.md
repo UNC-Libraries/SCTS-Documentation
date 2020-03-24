@@ -175,12 +175,15 @@ In both places, how you enter the information is determined by whether or not yo
 
 If you're revising an EAD-encoded finding aid that was written fairly recently, the ```<revisiondesc>``` tags for entering revision information in the ```<eadheader>``` should be the first commented-out area you encounter:  
 
-```<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid.<revisiondesc><change><date>Date 
-of change</date><item>Updated because of ?</item></change></revisiondesc>-->```
+```
+<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid.<revisiondesc><change><date>Date 
+of change</date><item>Updated because of ?</item></change></revisiondesc>-->
+```
 
-If you're making the first revision to an EAD-encoded finding aid that was written when we first starting doing EAD, you may have to add the ```<revisiondesc>``` tags. Place your cursor after ```</profiledesc>``` and before ```</eadheader>``` and add
+If you're making the first revision to an EAD-encoded finding aid that was written when we first starting doing EAD, you may have to add the ```<revisiondesc>``` tags. Place your cursor after ```</profiledesc>``` and before ```</eadheader>``` and add 
 
-```</profiledesc>  
+```
+</profiledesc>
 
 <revisiondesc><change><date>(add month and year of revision)</date> 
 
@@ -189,7 +192,8 @@ If you're making the first revision to an EAD-encoded finding aid that was writt
 
 </change></revisiondesc> 
 
- </eadheader> ```
+ </eadheader>
+```
  
  If yours is NOT the finding aid's first revision (there's already a ```<revisiondesc>``` section, just add a new set of ```<change>``` tags:  
 
@@ -204,7 +208,8 @@ You'll also need to add revision information to ```<archdesc>``` so that it will
 Here's a full-blown example of a modern ```<processinfo>``` with a revision statement:  
 
 
-```<processinfo><head>Processing Information</head><p>Processed by: Carolyn Wallace, 1969; William Auman,
+```
+<processinfo><head>Processing Information</head><p>Processed by: Carolyn Wallace, 1969; William Auman,
 1985; Roslyn Holdzkom, 1996</p>
 
 <p>Encoded by: Roslyn Holdzkom, November 2003</p> 
