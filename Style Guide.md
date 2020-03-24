@@ -298,7 +298,7 @@ Use commas before locations:
 
 Use colons in complex statements:
 
-- :smiley: ```<title render="doublequote">How the West Was Won</title>:``` -Missionary Society, Raleigh, 1966_
+- :smiley: ```<title render="doublequote">How the West Was Won</title>:``` _Missionary Society, Raleigh, 1966_
 
 You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
 modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both
