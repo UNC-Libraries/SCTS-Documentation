@@ -180,8 +180,7 @@ of change</date><item>Updated because of ?</item></change></revisiondesc>-->```
 
 If you're making the first revision to an EAD-encoded finding aid that was written when we first starting doing EAD, you may have to add the ```<revisiondesc>``` tags. Place your cursor after ```</profiledesc>``` and before ```</eadheader>``` and add
 
-```
-</profiledesc>  
+```</profiledesc>  
 
 <revisiondesc><change><date>(add month and year of revision)</date> 
 
@@ -190,8 +189,7 @@ If you're making the first revision to an EAD-encoded finding aid that was writt
 
 </change></revisiondesc> 
 
- </eadheader> 
- ```
+ </eadheader> ```
  
  If yours is NOT the finding aid's first revision (there's already a ```<revisiondesc>``` section, just add a new set of ```<change>``` tags:  
 
@@ -220,8 +218,8 @@ always check additions to be sure they have identified all files of interest to 
 
 <p>Finding aid updated in January 2004 by Roslyn Holdzkom because of addition.</p> 
 
-</processinfo>```
-
+</processinfo>
+```
 
 Revisions can be made ad nauseam. Just keep piling them on, but feel free to do some logical consolidation of entries if things seem to be getting out of hand.  
 
@@ -233,9 +231,7 @@ If you're revising a pre-XML EAD-encoded finding aid, you may find that some tag
 
 It's always a good idea to add ```<prefercite>``` if there isn't one. Add ```<prefercite>``` after ```<processinfo>```. If there's no ```<processinfo>```, add ```<prefercite>``` after ```<acqinfo>```. You'll have to fill in the collection name, collection number, and edit the repository name.  
 
-```
-<prefercite encodinganalog="524"><head>Preferred Citation</head><p>[Identification of item], in the [name of collection] #[collection number], [chose one: Southern Historical Collection, Southern Folklife Collection, University Archives, General Manuscripts], Wilson Library, University of North Carolina at Chapel Hill.</p></prefercite>
-```
+```<prefercite encodinganalog="524"><head>Preferred Citation</head><p>[Identification of item], in the [name of collection] #[collection number], [chose one: Southern Historical Collection, Southern Folklife Collection, University Archives, General Manuscripts], Wilson Library, University of North Carolina at Chapel Hill.</p></prefercite>```
 
 ### ```<processinfo>``` 
 
