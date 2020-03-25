@@ -126,9 +126,7 @@ A description of the document types and topical contents of the accession. When 
 _Maps to: General Accession Note (Basic Information tab)_
 
 Intended for notes about the acquisition or processing of the accession, and not about the accession itself. Can used as a place to record temporary locations. (examples: 206_7a.1 or BD lab). 
-
-> Note that we will stop using this field to record temporary locations once we start using ArchivesSpace as our locations database. 
-
+ 
 **Delete the boilerplate instructions!**
 
 ### Acquisition Type (Required by TS)
@@ -163,7 +161,9 @@ A selected check box indicates that access to the materials is restricted.
 
 _Maps to: Access Restrictions Note (Acknowledgements, Restrictions & Processing Tasks tab)_
 
-A statement indicating what materials in the accession have restrictions on access, what the authority of the restriction is, and for how long the restriction will be in effect. Additional information may also be recorded in a Rights sub-record. 
+A statement indicating what materials in the accession have restrictions on access, what the authority of the restriction is, and for how long the restriction will be in effect. There are several boilerplated options available.
+
+**Delete the boilerplate instructions!**
 
 ### Use Restrictions
 
