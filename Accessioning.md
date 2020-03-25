@@ -163,7 +163,7 @@ _Maps to: Access Restrictions Note (Acknowledgements, Restrictions & Processing 
 
 A statement indicating what materials in the accession have restrictions on access, what the authority of the restriction is, and for how long the restriction will be in effect. There are several boilerplated options available.
 
-**Delete the boilerplate instructions!**
+**Delete the boilerplate examples that are not applicable to the accession you're working on!**
 
 ### Use Restrictions
 
