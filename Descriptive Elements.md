@@ -223,7 +223,7 @@ Tel: 212.687.7400
 Email: info@mcintoshandotis.com._
 
 #### Digital Listening/Viewing Copies (ONYEN and Campus-only streaming)
-_This collection contains digital listening or viewing copies that are accessible only on the campus of the University of North Carolina at Chapel Hill._ Access to streaming audio or moving image materials is limited to the UNC Chapel Hill campus. University affiliates who can authenticate with an ONYEN can stream from off campus. For further information about access to audio and moving image materials contact Research and Instructional Services staff at Wilsonlibrary@unc.edu
+_This collection contains digital listening or viewing copies that are accessible only on the campus of the University of North Carolina at Chapel Hill or through authentication with an ONYEN._ Access to streaming audio or moving image materials is limited to the UNC Chapel Hill campus. University affiliates who can authenticate with an ONYEN can stream from off campus. For further information about access to audio and moving image materials contact Research and Instructional Services staff at Wilsonlibrary@unc.edu
 
 #### Born-digital Materials (Research Room-only viewing)
 _This collection contains born-digital materials that are accessible only on the campus of the University of North Carolina at Chapel Hill._ Access to born-digital materials (DF-20573/1-8) is provided in the Special Collections Research Room at the University of North Carolina at Chapel Hill. For further information about access to these materials, contact Research and Instructional Services staff at Wilsonlibrary@unc.edu.
