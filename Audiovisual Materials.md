@@ -483,8 +483,8 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Bluegrass music. 
 - Dance music--North Carolina. 
 - Dulcimer music. 
-- **Fiddle contests.**
-- **Fiddle festivals.**
+- Fiddle contests.
+- Fiddle festivals.
 - Fiddle tunes--Southern States. 
 - Fiddlers. 
 - Field recordings--North Carolina. 
@@ -565,7 +565,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Weavers--North Carolina. 
 - Weaving--North Carolina. 
 
-#### Protest Music:
+#### Protest Music/Art:
 
 - Civil rights movements--Southern States. 
 - Protest--North Carolina 
