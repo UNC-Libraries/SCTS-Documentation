@@ -361,11 +361,9 @@ _Manuscript collections and archival records may contain materials with sensitiv
 # Processing Information
 
 #### We use this statement for first pass processing:
-
-_Archivists minimally arranged this addition. Box level information is not complete. Examination of all boxes [in the addition] may be necessary to access all relevant materials.
+_Archivists minimally arranged this addition. Box level information is not complete. Examination of all boxes [in the addition] may be necessary to access all relevant materials._
 
 #### We use this statement to acknowledge all of work that previously was captured as "processed by":
+_This finding aid compiles archival collecting, description, and preservation work performed by_
 
-_This finding aid compiles archival collecting, description, and preservation work performed by
-
-_The revised finding aid compiles archival collecting, description, and preservation work performed by:
+_The revised finding aid compiles archival collecting, description, and preservation work performed by:_
