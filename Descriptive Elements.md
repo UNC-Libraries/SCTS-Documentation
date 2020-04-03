@@ -369,7 +369,7 @@ _Manuscript collections and archival records may contain materials with sensitiv
 # Processing Information
 
 #### We use this statement to acknowledge all of the work that previously was captured as "processed by":
-_This finding aid compiles archival collecting, description, and preservation work performed by_
+_This finding aid compiles archival collecting, description, and preservation work performed by:_
 
 _The revised finding aid compiles archival collecting, description, and preservation work performed by:_
 
