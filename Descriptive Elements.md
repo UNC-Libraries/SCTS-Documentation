@@ -115,7 +115,15 @@ When estimating item counts, consider that a document case is said to contain ab
 
 The linear-foot count is even more straightforward. Linear feet are calculated according to the boxes used, whether or not these boxes are full. A Paige box is 1.5 linear feet, while a document case is 0.5 linear feet.  
 
-Items separated (S volumes, audiovisual materials, and oversize papers) are included in item counts, but not in linear footage.  
+Items separated (S volumes, audiovisual materials, and oversize papers) are included in item counts, but not in linear footage. 
+
+EXAMPLE:
+
+    Oversize papers (OPF-20450/1-8, XOPF-20450/1-2)
+    Audiocassettes (FS-20450/1-771)
+    Audiotape (FT-20450/1-143)
+    Digital Audiotape (DAT-20450/1-8)
+    Videotape (VT-20450/1-68)
 
 Additionally, we record a quantitative measurement of processed digital content in an Extent statement. This measurement should be recorded separately from any Extent statement(s) for physical material. At minimum, record the extent of digital content in gigabytes (GB). Optionally, record the number of digital files. 
 
