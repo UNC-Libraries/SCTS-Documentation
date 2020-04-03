@@ -368,6 +368,11 @@ _Manuscript collections and archival records may contain materials with sensitiv
 
 # Processing Information
 
+#### We use this statement to acknowledge all of the work that previously was captured as "processed by":
+_This finding aid compiles archival collecting, description, and preservation work performed by_
+
+_The revised finding aid compiles archival collecting, description, and preservation work performed by:_
+
 #### We use this statement to acknowledge ethnic and racial identities for individuals and families represented in collections:
 _Since August 2017, we have added ethnic and racial identities for individuals and families represented in collections. To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identitiy information to be excluded from description. When we have misidentified, please let us know at <wilsonlibrary@unc.edu>._
 
@@ -375,11 +380,6 @@ _Since August 2017, we have added ethnic and racial identities for individuals a
 _Archivists minimally arranged this collection. Box level information is not complete. Examination of all boxes may be necessary to access all relevant materials._
 
 _Archivists minimally arranged this addition. Box level information is not complete. Examination of all boxes in the addition may be necessary to access all relevant materials._
-
-#### We use this statement to acknowledge all of the work that previously was captured as "processed by":
-_This finding aid compiles archival collecting, description, and preservation work performed by_
-
-_The revised finding aid compiles archival collecting, description, and preservation work performed by:_
 
 #### We use this statement to acknowledge separated published materials:
 _Published materials have been separated from the collection._
