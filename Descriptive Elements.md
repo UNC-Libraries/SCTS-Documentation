@@ -117,7 +117,7 @@ The linear-foot count is even more straightforward. Linear feet are calculated a
 
 Items separated (S volumes, audiovisual materials, and oversize papers) are included in item counts, but not in linear footage. 
 
-EXAMPLE:
+Items separated EXAMPLE:
 
     Oversize papers (OPF-20450/1-8, XOPF-20450/1-2)
     Audiocassettes (FS-20450/1-771)
@@ -127,15 +127,15 @@ EXAMPLE:
 
 Additionally, we record a quantitative measurement of processed digital content in an Extent statement. This measurement should be recorded separately from any Extent statement(s) for physical material. At minimum, record the extent of digital content in gigabytes (GB). Optionally, record the number of digital files. 
 
-EXAMPLES:
+Extent EXAMPLES:
 
 HYBRID ANALOG AND BORN-DIGITAL COLLECTION:
 
-Extent: 27.5 feet of linear shelf space (approximately 5,000 items); 27 GB (4,825 digital files)
+    Extent: 27.5 feet of linear shelf space (approximately 5,000 items); 27 GB (4,825 digital files)
 
 ENTIRELY DIGITAL COLLECTION:
 
-Extent: 27 GB (4,825 digital files)
+    Extent: 27 GB (4,825 digital files)
 
 # Restrictions
 #### [DACS 4.](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/00_conditions_of_access_and_use_elements.html)
@@ -368,6 +368,9 @@ _Manuscript collections and archival records may contain materials with sensitiv
 
 # Processing Information
 
+#### We use this statement to discuss ethnic and racial identities:
+_Since August 2017, we have added ethnic and racial identities for individuals and families represented in collections. To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identitiy information to be excluded from description. When we have misidentified, please let us know at <wilsonlibrary@unc.edu>._
+
 #### We use this statement for first pass processing:
 _Archivists minimally arranged this collection. Box level information is not complete. Examination of all boxes may be necessary to access all relevant materials._
 
@@ -377,3 +380,6 @@ _Archivists minimally arranged this addition. Box level information is not compl
 _This finding aid compiles archival collecting, description, and preservation work performed by_
 
 _The revised finding aid compiles archival collecting, description, and preservation work performed by:_
+
+#### We use this statement to acknowledge separated published materials:
+_Published materials have been separated from the collection._
