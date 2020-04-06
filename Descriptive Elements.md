@@ -129,11 +129,11 @@ Additionally, we record a quantitative measurement of processed digital content 
 
 Extent EXAMPLES:
 
-HYBRID ANALOG AND BORN-DIGITAL COLLECTION:
+_HYBRID ANALOG AND BORN-DIGITAL COLLECTION_:
 
     Extent: 27.5 feet of linear shelf space (approximately 5,000 items); 27 GB (4,825 digital files)
 
-ENTIRELY DIGITAL COLLECTION:
+_ENTIRELY DIGITAL COLLECTION_:
 
     Extent: 27 GB (4,825 digital files)
 
