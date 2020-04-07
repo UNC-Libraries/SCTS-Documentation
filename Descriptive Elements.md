@@ -211,24 +211,24 @@ _This collection contains materials that are not available for immediate or same
 ### Sample Access Restrictions with Specific Conditions
 
 #### Permanently closed
-_This collection contains materials which are permanently closed. The Library permanently closed the original volume in folder 3 because it is too fragile to be safely handled and the enclosed photograph should not be exposed to light. Access is provided through the existing digital facsimile and microfilm copy. Duplication requests for this volume are filled with the existing facsimiles, and the volume will not be re-imaged to fill those requests._ 
+_This collection contains materials which are permanently closed._ The Library permanently closed the original volume in folder 3 because it is too fragile to be safely handled and the enclosed photograph should not be exposed to light. Access is provided through the existing digital facsimile and microfilm copy. Duplication requests for this volume are filled with the existing facsimiles, and the volume will not be re-imaged to fill those requests.
 
 #### Closed indefinitely or until…
-_This collection contains materials which are closed. The Library closed all materials in boxes 1 through 5 and audio tapes (T-4556/1-61) because these records contain personally identifying information about minor students who participated in the Stouffer Foundation's program. These materials are closed and are not accessible for research or duplication of any type until 1 January 2049._ 
+_This collection contains materials which are closed._ The Library closed all materials in boxes 1 through 5 and audio tapes (T-4556/1-61) because these records contain personally identifying information about minor students who participated in the Stouffer Foundation's program. These materials are closed and are not accessible for research or duplication of any type until 1 January 2049.
 
 
-_This collection contains materials which are closed. In accordance with the donor agreement, Volume S-297a is closed and is not accessible for research or duplication of any type until 1 January 2045._ 
+_This collection contains materials which are closed._ In accordance with the donor agreement, Volume S-297a is closed and is not accessible for research or duplication of any type until 1 January 2045.
 
 
 #### Duplication and digitization
-_This collection has restrictions on duplication and digitization. In accordance with the donor agreement, materials in this collection will not be duplicated or digitized without permission of the donor. Requests for copies of materials in this collection are evaluated after the requestor receives the express written permission of Kenny Dalsheimer of Durham, N.C., to obtain copies._ 
+_This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, materials in this collection will not be duplicated or digitized without permission of the donor. Requests for copies of materials in this collection are evaluated after the requestor receives the express written permission of Kenny Dalsheimer of Durham, N.C., to obtain copies.
 
 
-_This collection has restrictions on duplication and digitization. In accordance with the donor agreement, photoduplication and digitization of any and all materials in this collection are prohibited without the explicit written permission of the literary agent firm McIntosh & Otis, Inc. 
+_This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, photoduplication and digitization of any and all materials in this collection are prohibited without the explicit written permission of the literary agent firm McIntosh & Otis, Inc. 
 Permission request form 
 Mailing Address: 207 E. 37th Street, Suite BG New York, NY 10016 
 Tel: 212.687.7400 
-Email: info@mcintoshandotis.com._
+Email: info@mcintoshandotis.com.
 
 #### Digital Listening/Viewing Copies (ONYEN and Campus-only streaming)
 _This collection contains digital listening or viewing copies that are accessible only on the campus of the University of North Carolina at Chapel Hill or through authentication with an ONYEN._ Access to streaming audio or moving image materials is limited to the UNC Chapel Hill campus. University affiliates who can authenticate with an ONYEN can stream from off campus. For further information about access to audio and moving image materials contact Research and Instructional Services staff at Wilsonlibrary@unc.edu
@@ -237,16 +237,16 @@ _This collection contains digital listening or viewing copies that are accessibl
 _This collection contains born-digital materials that are accessible only on the campus of the University of North Carolina at Chapel Hill._ Access to born-digital materials (DF-20573/1-8) is provided in the Special Collections Research Room at the University of North Carolina at Chapel Hill. For further information about access to these materials, contact Research and Instructional Services staff at Wilsonlibrary@unc.edu.
 
 #### Missing items
-_This collection has items which have been noted as missing and are not accessible. The 1852 broadside "Announcement of auction of 25 slaves by Louis D. De Saussure, auctioneer, Charleston, S.C." and the undated advertisement for "Music, Singing, Dancing, Mathematical Experiments, Etc." were noted as missing from the collection in July 2004._  
+_This collection has items which have been noted as missing and are not accessible._ The 1852 broadside "Announcement of auction of 25 slaves by Louis D. De Saussure, auctioneer, Charleston, S.C." and the undated advertisement for "Music, Singing, Dancing, Mathematical Experiments, Etc." were noted as missing from the collection in July 2004. 
 
 #### Removed or withdrawn
-_This collection contained materials that have been permanently withdrawn. In 2016, the donor withdrew the Pierce & Company account book, 1898-1900 (folder 1820). This item is no longer accessible for research or duplication of any type._ 
+_This collection contained materials that have been permanently withdrawn._ In 2016, the donor withdrew the Pierce & Company account book, 1898-1900 (folder 1820). This item is no longer accessible for research or duplication of any type.
 
 #### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
-_This collection contains microfilm copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library. The original physical documents in Series 3 (Business and personal letters of Maunsel White and Maunsell White, Jr. and Plantation records and account book, 1833-1843) are not owned by the Library or stored in Wilson Special Collections Library. To access the content, researchers should use the microfilm copies of the documents (Microfilm reels: M-2234/1 and M-2234/1)._ 
+_This collection contains microfilm copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library._ The original physical documents in Series 3 (Business and personal letters of Maunsel White and Maunsell White, Jr. and Plantation records and account book, 1833-1843) are not owned by the Library or stored in Wilson Special Collections Library. To access the content, researchers should use the microfilm copies of the documents (Microfilm reels: M-2234/1 and M-2234/1).
 
 #### Additional unproccessed materials
-_This collection contains additional materials that are not available for immediate or same day access._ This collection contains unprocessed materials are currently not available to researchers. For information about access to these materials, contact Research and Instructional Services staff at wilsonlibrary@unc.edu. Please be advised that preparing unprocessed materials for access can be a lengthy process.
+_This collection contains additional materials that are not available for immediate or same day access._ This collection contains unprocessed materials that are currently not available to researchers. For information about access to these materials, contact Research and Instructional Services staff at wilsonlibrary@unc.edu. Please be advised that preparing unprocessed materials for access can be a lengthy process.
 
 #### Items not available for same day access (e.g., vault)
 _This collection contains materials that are not available for immediate or same day use._ The Library has digitized original documents in this collection that are vulnerable to theft and stored them separately. The original physical documents are not available for immediate or same day use. To access the content of the documents, researchers should use the digital facsimiles. To discuss other options, please contact staff at wilsonlibrary@unc.edu. 
