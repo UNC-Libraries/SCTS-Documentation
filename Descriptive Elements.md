@@ -392,5 +392,8 @@ _Archivists minimally arranged this collection. Box level information is not com
 
 _Archivists minimally arranged this addition. Box level information is not complete. Examination of all boxes in the addition may be necessary to access all relevant materials._
 
+#### We use this statement when creating collection-level records for unprocessed collections:
+_This summary description was created by Tierra Thomas in December 2019 to provide information about unprocessed materials in Wilson Special Collections Library._
+
 #### We use this statement to acknowledge separated published materials:
 _Published materials have been separated from the collection._
