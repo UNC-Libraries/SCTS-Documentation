@@ -205,6 +205,9 @@ _This collection contains additional materials that are not available for immedi
 #### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
 _This collection contains [microfilm/digital] copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library._
 
+#### Collection not available for same day access (e.g., unprocessed)
+_This collection is not available for immediate or same day access._
+
 #### Items not available for same day access (e.g., vault)
 _This collection contains materials that are not available for immediate or same day use._ 
 
@@ -248,8 +251,13 @@ _This collection contains microfilm copies of original physical documents that a
 #### Additional unproccessed materials
 _This collection contains additional materials that are not available for immediate or same day access._ This collection contains unprocessed materials that are currently not available to researchers. For information about access to these materials, contact Research and Instructional Services staff at wilsonlibrary@unc.edu. Please be advised that preparing unprocessed materials for access can be a lengthy process.
 
+#### Collection not available for same day access (e.g., unprocessed)
+_This collection is not available for immediate or same day access._ Please contact Research and Instructional Service staff at wilsonlibrary@unc.edu to discuss options for consulting this collection. 
+
 #### Items not available for same day access (e.g., vault)
 _This collection contains materials that are not available for immediate or same day use._ The Library has digitized original documents in this collection that are vulnerable to theft and stored them separately. The original physical documents are not available for immediate or same day use. To access the content of the documents, researchers should use the digital facsimiles. To discuss other options, please contact staff at wilsonlibrary@unc.edu. 
+
+_This collection contains materials that are not available for immediate or same day use._ 
 
 
 
