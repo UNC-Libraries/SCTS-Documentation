@@ -3,7 +3,7 @@
 - Arrangement
 - Formats/Container Types
 - Labeling and Putting Stuff Away (Work in Progress)
-- EAD
+- XML/EAD
 - LC Subject Headings
 
 ***
@@ -189,7 +189,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | Videotape (small) | VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8                        | Archival Audiocassette |
 
 
-# EAD
+# XML/EAD
 
 All AV materials are coded at the item-level - even materials that span multiple tapes or reels.  
 
