@@ -1,3 +1,7 @@
+Anne Wells
+last revised: 30 April 2020
+
+
 # Overview
 
 - Arrangement
@@ -580,7 +584,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 
 # Resources (work in progress)
 
-This documentaiton did not emerge from a vacuum! I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing audiovisual materials. Some example resources below:
+This documentaiton did not emerge from a vacuum! I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival audiovisual materials. Below are some example resources that I recommend checking out if you haven't already:
 
 - Megan McShea, Smithsonian Archives of American Art, "Guidelines for processing archival collections with audiovisual material"
 https://www.aaa.si.edu/tags/documentation
