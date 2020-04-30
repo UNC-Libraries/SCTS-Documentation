@@ -1,6 +1,4 @@
-Anne Wells
-last revised: 30 April 2020
-
+Content owner: Anne Wells
 
 # Overview
 
