@@ -5,20 +5,23 @@
 - Labeling and Putting Stuff Away (Work in Progress)
 - XML/EAD
 - LC Subject Headings
+- Resources (Work in Progress)
 
 ***
 
 # Arrangement
 
-When assigned an accession containing AV, consult with the AV Archivist about how to best arrange the materials. It is crucial to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials.  
+When assigned an accession containing AV, consult with the AV Archivist about how to best arrange the materials. It is crucial to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of making an arrangment plan for archival AV doesn't vary much from the processes of our manuscript and visual processing collegaues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangment are the same accross formats - or rather, how can we best present these materials so people can find what they need. 
 
 Generally, try to arrange materials by content, rather than by format. Exceptions to this may include production-heavy collections with defined works, or titles, that may benefit from having sub-groupings of like-format items in order to gain a sense of the creator's production process. An example of this includes the Tom Davenport Papers, http://finding-aids.lib.unc.edu/20025   
+
+It's also helpful to remember that archival audiovisual items are non-circulating materials. Or rather, access to all archival audiovisual materials requires an intervention of sorts - in-house or external digitization and the production of a viewing or listening copy that is either delivered on physical media to a patron, or more ideally, is streamed via the online finding aid. This distance grants us some freedom to present archival AV materials in a meaningful or helpful way on our online finding aids that is not inhibited by the physical materials, which are often stored by like formats across collections and collecting units. In other words, we can present materials intellectually by original order or mixed-format groupings and also store the materials in preservation friendly groupings and conditions.
 
 Below are examples of arrangement methods of AV materials and when to use them: 
 
 ### Orignial Order:
 
-When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections, and collections compiled by the creators themselves. 
+When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project based collections, and more generally, collections compiled by the creators themselves. 
 
 **Examples:**
 
@@ -574,3 +577,12 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Protest marches--North Carolina. 
 - Protest songs--Southern States. 
 - Work songs--Southern States. 
+
+# Resources (work in progress)
+
+This documentaiton did not emerge from a vacuum! I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing audiovisual materials. Some example resources below:
+
+Megan McShea, Smithsonian Archives of American Art, "Guidelines for processing archival collections with audiovisual material"
+https://www.aaa.si.edu/tags/documentation
+
+
