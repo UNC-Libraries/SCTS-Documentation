@@ -1,4 +1,4 @@
-Content owner: #Anne Wells
+Content owner: Anne Wells
 
 # Overview
 
