@@ -158,7 +158,7 @@ These papers consist chiefly of family letters from the 1790s through the early 
 Additions received after 1979 have not been integrated into the original deposits. Researchers should always check additions to be sure they have identified all files of interest to them. 
 
 
-# Unprocessed Additions Statement
+# Unprocessed Additions: Statement
 
 The following statement should go in the **Access Restrictions** element for collections having unprocessed additions: 
 
