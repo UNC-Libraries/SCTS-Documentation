@@ -322,7 +322,7 @@ list would look like this:
 
 Use the Last name, First name format:
 
-- :smiley: _Clark, Septima_
+- :smiley: _Clark, Septima Poinsette_
 
 **Capitalization of folder titles:** Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
 
