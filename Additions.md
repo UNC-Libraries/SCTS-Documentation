@@ -95,7 +95,7 @@ And at the series level:
 
 ```<acqinfo><p>Acquisitions Information:  F-20025/934 received as Addition of October 2016 (Acc. 102664).</p></acqinfo>```
 
-# Seperately Maintained Additions
+# Seperately Maintained: Additions
 
 ## Additions at the End
 
