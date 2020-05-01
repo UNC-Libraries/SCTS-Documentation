@@ -414,7 +414,7 @@ of a name is used.
 
 - :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
 
-**Quontation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
+**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
 doing EAD markup.
 
 - :smiley: _She called herself_ ```<emph render="doublequote">Lil,</emph>``` _but everyone knew her as Nancy._
