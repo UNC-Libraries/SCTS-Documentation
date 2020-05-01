@@ -68,16 +68,18 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
 - South Building
 - Spencer Residence Hall
 
-**3. Corporate bodies (this includes committees, boards, student organizations, and groups)**
+**3. Corporate bodies (this includes committees, boards, and groups)**
 
 - Faculty Information Technology Advisory Committee
 - Chancellor's Committee on Diversity
 - Student Affairs Advisory Board
 - Black Student Movement
 - Board of Trustees
+- Carolina American Indian Caucus
 - Office of Research Development
 - Carolina Latinx Center
 - Atlantic Coast Conference
+- Harmonyx A Cappella
 
 **4. Other examples**
 
