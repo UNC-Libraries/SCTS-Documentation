@@ -29,7 +29,7 @@
     - [Type](#type)
     - [Container Summary](#container-summary)
     - [Removing Extents](#removing-an-extent-sub-record)
-  - [Agents](#agent-links)
+  - [Agents](#agents)
     - [Role](#role)
     - [Realator](#realator)
     - [Agent](#agent)
@@ -263,7 +263,7 @@ Example of use: if the Number and Type are 10 linear feet, then the container su
 3. Click on the **Confirm Removal** option to remove the Extent sub-record, or on the **Cancel** option to retain the sub-record.
 4. Click on **Save** in the context record to save the context record with the Extent sub-record removed.
 
-## Agent Links
+## Agents
 
 _Maps to: Names & Subjects tab_
 
