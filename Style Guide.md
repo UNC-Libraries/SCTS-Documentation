@@ -477,6 +477,8 @@ Championships," all words should be capitalized.
 
 - :smiley: _Atlantic Coast Conference_
 
+- :smiley: _Harmonyx A Cappella_
+
 # PersNames, CorpNames, GeogNames, Titles, Dates, Numbers 
 
 ## PersnNames and CorpNames
