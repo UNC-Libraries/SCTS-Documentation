@@ -343,7 +343,7 @@ The creator may have been creative with names, punctuation, date style, etc., bu
 
 Alphabetical by name means Last name, First name.
 
-- :smiley: _Polk, Leonidas LaFayette_
+- :smiley: _Bushyhead, Robert H._
 
 Company names that include a person’s name are alphabetized by the first letter of the first word in the name.  
 
