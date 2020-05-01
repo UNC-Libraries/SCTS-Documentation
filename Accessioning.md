@@ -29,7 +29,7 @@
     - [Type](#type)
     - [Container Summary](#container-summary)
     - [Removing Extents](#removing-an-extent-sub-record)
-  - [Agents](#agents)
+  - [Agents](#agent-links)
     - [Role](#role)
     - [Realator](#realator)
     - [Agent](#agent)
