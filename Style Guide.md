@@ -632,7 +632,7 @@ Use numerals for centuries.
 
 Use numerals for troop numbers.
 
-- :smiley: _He seved with the 1st North Carolina Volunteers._
+- :smiley: _He served with the 1st North Carolina Volunteers._
 
 Spell out numbers 1-12 when they appear singly in text. Use numerals when they represent a numerical span.
 
