@@ -255,7 +255,7 @@ If you use the method above to write abstracts and collection overviews when the
 the same description three times in the finding aid (once in the series description, once in the collection overview, and once in 
 the ```<abstract encodinganalog="520">```. This is overkill. If you have only one series, write its description as the collection overview. Use the collection overview as the ```<abstract encodinganalog="520">``` (with editing as needed). At the series level, you may either omit the ```<scopecontent>``` note entirely or use it for information that's not appropriate for the collection overview or abstract.  
 
-## ```<Bioghist>``` verses ```<Scopecontent>```
+## ```<Bioghist>``` versus ```<Scopecontent>```
 
 ```<bioghist>``` is about the creator(s) of the materials. ```<scopecontent>``` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in ```<bioghist>```. You can also mention that the creator undertook the project at hand. But save the details of the project for ```<scopecontent>```. 
 
@@ -560,7 +560,7 @@ Use ```<title>``` tags to add italics or quotation marks to formal titles; use `
 
 - :smiley: _His poem,_ ```<title render="doublequote">Now There Are None</title>``` _won the Minor Poets of Portland award in 1902._
 
-## ```<Title>``` verses ```<Emph>```
+## ```<Title>``` versus ```<Emph>```
 
 ```<title>``` and ```<emph>``` result in the same outputs to the screen, but they're not the same intellectually. ```<title>``` is for titles, italic or quoted; ```<emph>``` supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct ```<emph>``` usage include:  
 
