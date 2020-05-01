@@ -463,7 +463,7 @@ Championships," all words should be capitalized.
 
 - :smiley: _Chancellor's Committee on Diversity_
 
-- :smiley: _Carolina American Indian Caucuse_
+- :smiley: _Carolina American Indian Caucus_
 
 - :smiley: _Student Affairs Advisory Board_
 
