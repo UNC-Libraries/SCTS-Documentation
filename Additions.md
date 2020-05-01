@@ -1,6 +1,8 @@
 # Overview
 
-- [Introduction](#introduction)
+- [Arrangement](#arrangement)
+- [Revising the XML](#revising-the-xml)
+- [Other Unusual Situations](#other-unusual-situations)
 - [Drop-ins](#drop-ins)
 - [Integrated Additions](#integrated-additions)
 - [2 Integrated Additions](#2-integrated-additions)
@@ -12,284 +14,204 @@
 
 ***
 
-# Introduction
+# Arrangement
 
-We often receive material that is related to collections that are already here. Instead of making a new collection, we add this material to the existing collection, hence the name Addition. When faced with an addition, the first decision that must be made is whether to incorporate the addition into the arrangement of the original deposit or to add the additional materials at the end of the original deposit’s arrangement in what we call a separately maintained addition.  
+We often receive material that is related to collections that are already here. Instead of making a new collection, we add this material to the existing collection. Additions are maintained separately in a physical sense, but we try to integrate them intellectually with materials received previously to facilitate discovery. Sometimes this is easily done; sometimes it is better to append new description to the end of the finding aid.
 
-In some cases, it may be very easy to drop materials into the appropriate places in the original deposit without changing the arrangement or description. However, before integrating materials consider how the collection has already been used. Some collections are heavily used by repeat researchers who may find confusing the intermingling of new material with old. Also, for some collections, it might make sense to highlight new material, even if it is just one letter. It is a good idea to consult with your supervising archivist for help with the decision to interfile or to create a separate addition. If you do interfile, be sure to put a note in the control file indicating what, where, and when new material was interfiled.  
+If the materials in the addition clearly mimic the materials in the original deposit you can use the same arrangement in your addition. 
+Note that the “A” is for Addition, to distinguish it from the original deposit. Use the “A” whether you are adding to an existing series or creating a new one. Always add the date of the accession in parentheses after the series title.
 
-More frequently, you will opt for creating separately maintained additions; these can come in many styles. If the materials in the addition mimic the materials in the original deposit you can use the same arrangement in your addition. The materials do not have to correspond exactly. For example, in your original deposit, you might have Series 1. Correspondence, Series 2. Diaries, and Series 3. Pictures. It is fine for your addition to have a diaries series; a pictures series; and a new series of audio-visual materials. Of course, materials in the addition may not have anything to do with the original deposit. In that case, it is completely fine to devise a new arrangement for them. 
+Series 1. Correspondence
 
-See the pages for Drop-ins, Integrated Additions, and Separately Maintained Additions in this section. 
+#### Series 1A. Correspondence (Addition of January 2000)
 
+Series 2. Diaries
 
-# Drop ins
+Series 3. Pictures
 
-_Items_
 
-Occasionally it makes sense to drop a single item or two in with the original deposit. This does not mean that we have stopped caring about provenance! Enclose your item in a piece of archival paper and write the accession number on outside before dropping into an existing folder. In the finding aid, add an < acqinfo > statement at the container level: 
+Perhaps the addition consists of several different kinds of materials. For a variety of reasons, it may not make sense to divide these up according to the original series arrangement:
 
-```<acqinfo><p>Acquisitions Information: Letter, 10 April 1865, was received as Accession 109832</p></acqinfo>```
+Series 1. Correspondence
 
-> Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized. 
+Series 2. Diaries
 
+Series 3. Pictures
 
-# Integrated Additions
+#### Series 4A. Papers (Addition of February 2005)
 
-_Series_
 
-In some cases you will decide it is both efficient and more transparent to do some top level intellectual arrangement.  This may be the case when you have a large collection with an extensive contents list in which the addition is likely to be lost at the end for most researchers.  
+Many of our collections receive subsequent additions over many years. You may use multiple different strategies.
 
-You will add an "A" to the series number to indicate that it is an addition and include a parenthetical at the end to identify which addition (as collections can have many additions). You will also add ```<acqinfo>``` tags to indicate the accession number. In this example, there have been two additions to the correspondence series, one in March 2008 and one in April 2010. 
+Series 1. Correspondence
 
-When you have material that falls outside the existing series, add a new one, with the "A" to indicate that it was part of an addition. In this example, a photographs series is new with the Addition of March 2008. 
+#### Series 1A. Correspondence (Addition of April 2000)
 
-> Note that these additions are not physically integrated with the original deposit. 
+Series 2. Diaries
 
-#### Series 1. Correspondence and related materials
+Series 3. Pictures
 
-Folder 1 Correspondence, 1901-1910 
+#### Series 4A. Papers (Addition of February 2005)
 
-Folder 2 Correspondence, 1911-1920 
+#### Series 4A. Papers (Addition of April 2015)
 
-Folder 3 Correspondence, 1921-1945 
+#### Series 5A. Audio Visual (Addition of March 2010)
 
-#### Series 1A. Correspondence (Addition of March 2008)  
+#### Series 5A. Audio Visual (Addition of April 2015)
 
-```<acqinfo><p>Acquisitions Information: Accession 10452</p></acqinfo>```
 
-**_Folder 6 Correspondence, 1927_**
+Sometimes with organizational records and family collections with a lot of additions, it is easiest just to append the additions to the end, with no arrangement or intellectual integration of the material. Sometimes there is material that overlaps with the original deposit and sometimes there is new material that does not. Until researcher interest proves otherwise, we simply note
+the additions and move on.
 
-**_Folder 7 Correspondence, 1956_**
+1. Foundation Records, 1990-1995 (Original Deposit).
 
-#### Series 1A. Correspondence (Addition of April 2010)
+2A. Foundation Records, 1986-1988 (Addition of May 1996).
 
-```<acqinfo><p>Acquisitions Information: Accession 19874</p></acqinfo>```
+2A. Foundation Records, 1983-1989 (Addition of March 1997).
 
-**_Folder 8 Correspondence, 1920-1930 _**
+2A. Foundation Records, 1970-1992 (Addition of March 1998).
 
-#### Series 2.Diaries  
 
-Folder 4 Diary, 1925 
+We have a long and complicated history with additions so you might encounter all kinds of variations on the above examples. Usually it is most expedient to follow the arrangement that already exists, though you sometimes it makes sense to do minor re-coding to bring clarity. 
 
-Folder 5 Diary, 1942  
 
-#### Series 3A. Photographs (Addition of March 2008)  
+# Revising the XML
 
-```<acqinfo><p>Acquisitions Information: Accession 10452</p></acqinfo>```
+This section deals with revisions to finding aids that have already been encoded in EAD. Some may have originally been SGML documents from back in the old days of EAD. These SGML documents have now been converted to XML. Documents that started out in XML will have commented-out revision tags that you can activate. Finding aids converted from SGML won't have those commented-out tags.
 
-**_Image folder PF-09999/1 Photographs, 1927_**
+The <revisiondesc> tag in the <eadheader> is where EAD keeps track of revisions. However, the information coded in the < eadheader > section doesn't show up on the screen. Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the <revisiondesc> tags in the <eadheader> and the <processinfo> section in <archdesc>. In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
 
+_Adding revision statements to <revisiondesc> in the <eadheader>:_
 
-# 2 Integrated Additions
+If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the <revisiondesc> tags for entering revision information in the <eadheader> should be the first commented-out area you encounter:
 
-_Folder_
+```<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid.
+<revisiondesc>
+<change><date>Date of change</date>
+<item>Updated because of ?</item></change>
+</revisiondesc>
+-->```
 
-Occasionally it makes sense to integrate a folder into the original deposit rather than to create a new series. Unlike drop-ins, this addition likely will be filed physically at the end of the collection but will be listed with the original deposit where it fits intellectually.  This does not mean that we have stopped caring about provenance! Write "Addition of ___" and the accession number on the folder.  
 
-In the finding aid, add an < acqinfo > statement at the container level: 
+If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the <revisiondesc> tags after </profiledesc> and before </eadheader>:
 
-```<acqinfo><p>Acquisitions Information:  Accession 109832</p></acqinfo>```
 
-And at the series level: 
+```</profiledesc>
 
-```<acqinfo><p>Acquisitions Information:  F-20025/934 received as Addition of October 2016 (Acc. 102664).</p></acqinfo>```
+<revisiondesc>
+<change>
+<date>May 2020</date> 
+<item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item> 
+</change>
+</revisiondesc> 
 
-# Seperately Maintained Additions
+ </eadheader>```
 
-## Additions at the End
 
-The quickest way to handle additions is usually to add them on to the end of the finding aid with no arrangement or intellectual integration of the material.  In the first example, there are three additions, one in March 2008, one in January 2012, and one in February 2017. Sometimes there is material that overlaps with the original deposit and sometimes there is new material that does not.  The second example is a full-blown finding aid in which all of the changes are bolded. 
+If yours is NOT the finding aid's first revision (there's already a <revisiondesc> section, just add a new set of <change> tags:
 
-If the contents list begins to get unwieldy and hard to penetrate, think about going the route of integrated additions. 
 
-## Example 1
+```<change>
+<date>February 2020</date>
+<item>Updated for addition (Acc. 20200110.4) by Nancy Kaiser</item>
+</change>```
 
-### Contents List
 
-#### Series 1. Correspondence and related materials
+_Adding revision statements to <processinfo> in <archdesc>:_
 
-Folder 1 Correspondence, 1901-1910 
+We are committed to transparency so you'll also need to add revision information to <archdesc> so that it will display in the finding aid. For minor additions, you may just be adding another name and date to the processing information already there.
 
-Folder 2 Correspondence, 1911-1920 
 
-Folder 3 Correspondence, 1921-1945 
+```<processinfo>
+<head>Processing Information</head>
+<p>Processed by: Nancy Kaiser, January 2010</p>
+<p>Encoded by: Nancy Kaiser, January 2010</p>
+<p>Revisions by: Anne Wells, April 2017; Patrick Cullom, January 2020; (your name, date).</p>
+</processinfo>```
 
-#### Series 2. Diaries
 
-Folder 4 Diary, 1925 
+When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive processing info statements <link> that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
 
-Folder 5 Diary, 1942  
+Other parts of the finding aid may or may not require updates.
 
-#### Series 3. Additions
+Title <link>: Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-#### 3.1. Correspondence and Photographs (Addition of March 2008)
+Collection dates <link>: Don’t miss any of the 3 collection level places to update this information.
 
-```<acqinfo><p>Acquisitions Information: Accession 10452</p></acqinfo>```
+Extent <link>: This will almost certainly change. 
 
-**_Folder 6 Correspondence, 1946_**
+Abstract <link>: You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the <processinfo>.
 
-**_PF-09999/1 Photographs, 1900s-1920s_** 
+Acquisition <link>: Information should be updated to include the donor, date, and accession information.
 
-#### 3.2. Account Books (Addition of January 2012)  
+Collection overview <link>: This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description. 
 
-```<acqinfo><p>Acquisitions Information: Accession 19567</p></acqinfo>```
+If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
+Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
 
-**_Folder 7 Account book, 1901_**
 
-**_Folder 8 Account book, 1902-1903_**
+_Between the <dsc>:_ 
 
-#### Account Book and Photographs (Addition of February 2017)  
+When you add your new series, whether integrated intellectually, or appended to the end, it should look like this:
 
-```<acqinfo><p>Acquisitions Information: Accession 200135</p></acqinfo>```
 
-**_Folder 9 Account book, 1905_**
+```<c01 level="series"><did><unittitle>Papers and Digital Files, <unitdate normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 2020).</unittitle>```
 
-**_PF-09999/2 Photographs of Hetty Holdzkom, 1903_**
 
-## Alerting Researchers to Additions
+```<physdesc><extent>1000 paper items / 1 gigabyte (17 digital files).</extent></physdesc><did>```
 
-With separately maintained additions, it's good practice to warn researchers that they will need to look in the collection's additions to find all the materials that they need. Include a note indicating this as the last paragraph of your scope and content note.  
 
-_Example of a collection level scope content note alerting researchers about additions:_
+```<arrangement><p>Arrangement: as received. (Most likely you are just rehousing into archival boxes.)</p></arrangement>```
 
-These papers consist chiefly of family letters from the 1790s through the early 1860s. Correspondence of the family with outsiders had been almost entirely excluded from the collection, but family letters were deliberately preserved as a "family record" (see Ellen Mordecai's letters of October-November 1854). The Addition of January 2007 includes personal letters between family members; 1816 letters by Maria Edgeworth and Richard Lovell Edgeworth responding to Rachel Mordecai Lazarus's letter concerning Edgeworth's literary treatment of Jews; and reminiscences, song lyrics, and fragments. The Addition of September 2007 includes letters written to and by Mordecai family members, 1865 and 1916-1917, and one poem dated 1945. The Addition of December 2007 contains the three-volume "A Memoir of Maria Edgeworth with a Selection from Her Letters by the late Mrs. Edgeworth" (unpublished) with accompanying notes tipped in.  
 
-Additions received after 1979 have not been integrated into the original deposits. Researchers should always check additions to be sure they have identified all files of interest to them. 
+```<acqinfo><p>Acquisitions Information: Accession 20200124.2)</p></acqinfo>```
 
 
-# Unprocessed Additions: Statement
+```<processinfo><p>Processing Note: Sometimes we want to communicate to researchers that we really do not know what is in the addition we are making available for use. Be sure to use one of the boilerplate processing notes <link>. This is also where you will note any archivist interventions, such as arrangement imposed or materials appraised out of the addition.</p></processinfo>```
 
-The following statement should go in the **Access Restrictions** element for collections having unprocessed additions: 
 
-_This collection contains additional materials that are not processed and are currently not available to researchers. For information about access to these materials, contact Research and Instructional Services staff. Please be advised that preparing unprocessed materials for access can be a lengthy process._
+```<scopecontent><p>Overview of the addition. (Probably this will be same brief description as you added to the Collection Overview.</p></scopecontent>```
 
-When an addition is described in the finding aid to make the content discoverable, but it has not been made usable: 
 
-_This addition is not available for immediate or same day access. Please contact Research and Instructional Service staff at wilsonlibrary@unc.edu to discuss options for consulting this collection._
+```<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle></did></c02></c01>
 
+<c02><did><container type=”digfolder”><extref href=”lettersandnumbers”>DF-90999/1</extref></container><unittitle>Papers, 1990-2000</unittitle></did></c02>
+</c01>```
 
-# Revisions to XML
 
-This section deals with revisions to finding aids that have already been encoded in EAD. Some may have originally been SGML documents from back in the old days of EAD. These SGML documents have now been converted to XML. Documents that started out in XML will have commented-out revision tags that you can activate. Finding aids converted from SGML won't have those commented-out tags.  
+# Other Unusual Situations
+_Drop-ins_
 
-The ```<revisiondesc>``` tag in the ```<eadheader>``` is where EAD keeps track of revisions. However, the information coded in the < eadheader > section doesn't show up on the screen. Therefore, to track revision information and to make said information visible on the screen, you must enter the information in both the ```<revisiondesc>``` tags in the ```<eadheader>``` and the ```<processinfo>``` section in ```<archdesc>```.  
+Occasionally it makes sense to drop a single item or two in with the original deposit. This does not mean that we have stopped caring about provenance! Enclose your item in a piece of archival paper and write the accession number on the outside before dropping into an existing folder.
 
-In both places, how you enter the information is determined by whether or not you're the first one in with a revision.  
+In the finding aid:
 
-## Adding revision statements to ```<revisiondesc>``` in the ```<eadheader>```: 
+You still have to record the edits in the <revision> section, and to update the acquisitions information at the collection level. Because we do drop-ins only for items with low anticipated research value, it is less likely that you will need to amend title, collection dates, extent, and abstract. Of course you should make those changes as needed.
 
-If you're revising an EAD-encoded finding aid that was written fairly recently, the ```<revisiondesc>``` tags for entering revision information in the ```<eadheader>``` should be the first commented-out area you encounter:  
+Also add an < acqinfo > statement at the container level:
 
-```
-<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid.<revisiondesc><change><date>Date 
-of change</date><item>Updated because of ?</item></change></revisiondesc>-->
-```
+```<c02><did><container type=”folder”>100</container><unittitle>Correspondence, 1865</unittitle></did>
+<acqinfo><p>Acquisitions Information: Letter, 10 April 1865, was received as Accession 109832</p></acqinfo></c02>```
 
-If you're making the first revision to an EAD-encoded finding aid that was written when we first starting doing EAD, you may have to add the ```<revisiondesc>``` tags. Place your cursor after ```</profiledesc>``` and before ```</eadheader>``` and add 
+>Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized.
 
-```
-</profiledesc>
 
-<revisiondesc><change><date>(add month and year of revision)</date> 
+_Folder only_
 
-<item>Updated because of (say why you're updating--addition/donor request/corrections, etc.) by 
-(your name)</item> 
+Similarly, it occasionally makes sense to integrate a single folder into the original deposit rather than to create a new series. Unlike drop-ins, this addition likely will be filed physically at the end of the collection but will be listed with the original deposit where it fits intellectually. 
 
-</change></revisiondesc> 
+Write "Addition of ___" and the accession number on the folder.
 
- </eadheader>
-```
- 
- If yours is NOT the finding aid's first revision (there's already a ```<revisiondesc>``` section, just add a new set of ```<change>``` tags:  
+In the finding aid, add an <acqinfo> statement at the container level:
 
-```<change><date></date><item></item></change>```  
+```<c02><did><container type=”audiotape”>F-20025/934</container><unittitle>Bluegrass performance, 1978</unittitle></did>
+<acqinfo><p>Acquisitions Information: Accession 109832</p></acqinfo></c02>```
 
-## Adding revision statements to ```<processinfo>``` in ```<archdesc>```:
 
-You'll also need to add revision information to ```<archdesc>``` so that it will display. You needn't give a reason for revising here. You may have to turn the ```<processinfo>``` tags on or you may just be adding another to processing information already there. If the latter, you can use this template:  
+And at the series level:
 
-```<p>Revisions: Finding aid updated in <date>(add month and year of revision)</date> by (your name).</p>```
 
-Here's a full-blown example of a modern ```<processinfo>``` with a revision statement:  
+```<acqinfo><p>Acquisitions Information: F-20025/934 received as Addition of October 2016 (Acc. 102664).</p></acqinfo>```
 
 
-```
-<processinfo><head>Processing Information</head><p>Processed by: Carolyn Wallace, 1969; William Auman,
-1985; Roslyn Holdzkom, 1996</p>
-
-<p>Encoded by: Roslyn Holdzkom, November 2003</p> 
-
-<p>This collection was processed with support from the National Endowment for the Humanities.</p><p>The Addition
-of November 2001 is arranged in the same way as, but has not been incorporated into, the original deposit of 
-materials.</p>
-
-<p>Additions received after February 1995 have not been integrated into the original deposits. Researchers should 
-always check additions to be sure they have identified all files of interest to them.</p> 
-
-<p>Finding aid updated in January 2004 by Roslyn Holdzkom because of addition.</p> 
-
-</processinfo>
-```
-
-Revisions can be made ad nauseam. Just keep piling them on, but feel free to do some logical consolidation of entries if things seem to be getting out of hand.  
-
-## Adding Missing Tags
-
-If you're revising a pre-XML EAD-encoded finding aid, you may find that some tags are missing. Three of the most common missing tags that you might want to add are available in the Other Elements section of the clip sidebar.  
-
-### ```<prefercite>``` 
-
-It's always a good idea to add ```<prefercite>``` if there isn't one. Add ```<prefercite>``` after ```<processinfo>```. If there's no ```<processinfo>```, add ```<prefercite>``` after ```<acqinfo>```. You'll have to fill in the collection name, collection number, and edit the repository name.  
-
-```<prefercite encodinganalog="524"><head>Preferred Citation</head><p>[Identification of item], in the [name of collection] #[collection number], [chose one: Southern Historical Collection, Southern Folklife Collection, University Archives, General Manuscripts], Wilson Library, University of North Carolina at Chapel Hill.</p></prefercite>```
-
-### ```<processinfo>``` 
-
-If you need to add a ```<processinfo>```, do so after ```<acqinfo>```.  
-
-```
-<processinfo><p>Processing Note: Enter Note.</p></processinfo>
-```
-
-### ```<accessrestrict>``` and ```<userestrict>``` 
-
-You may need to add ```<accessrestrict>``` and ```<userestrict>```. ```<userestrict>``` must follow ```<accessrestrict>```. If there's no ```<accessrestrict>```, add one. Add ```<accessrestrict>``` right after ```<head>Administrative Information</head>``` and ```<userestrict>``` right after ```<accessrestrict>```.  
-
-```
-<accessrestrict encodinganalog="506"><p>Restriction: Enter Restrictions Note.</p></accessrestrict><userestrict><p>Use Restriction: Enter Restrictions Note.</p></userestrict> 
-
-<p>Additions received after February 1995 have not been integrated into the original deposits. Researchers should always check additions to be sure they have identified all files of interest to them.</p> 
-
-<p>Finding aid updated in January 2004 by Roslyn Holdzkom because of addition.</p></processinfo>  
-```
-
-
-# Processing Note: Statements
-
-The Addition of November 2001 is arranged in the same way as, but has not been incorporated into, the original deposit of materials. 
-
-Additions received after February 1995 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them. 
-
-The Addition has been intellectually integrated with the original deposit but is distinguishable by accession information.   
-
-
-# ```<acqinfo>```
-
-We have always used ```<acqinfo>``` to record the collection provenance in the front part of the finding aid. Since 2016 we have taken to using it more liberally throughout a finding aid to record new accessions to the same collection.  
-
-Use ```<acqinfo><p></p ></acqinfo>``` at the container level when you are intellectually integrating an addition into a finding aid (even though physically it will live elsewhere).  
-
-At the container level, include a label and either an addition statement or accession number or both: 
-
-```<acqinfo><p>Acquisition information: Addition of April 2004 (Acc. 101003)</p></acqinfo>``` 
-
-You can also use it for an additions series. If you have an additions series, an addition statement will be part of the title. Use ```<acqinfo>``` for the accession number:
-
-```
-<c02><did><unittitle>Correspondence, 1990-1992: Addition of June 1994</unittitle></did> 
-
-<acqinfo><p>Acquisition Information: Acc. 101003<p></acqinfo> 
-
-</c02> 
-```
+Sometimes not all the materials in the addition will be made usable at the same time, especially when there are born digital materials. Be sure to add one of the Access Restriction statements if that is the case. 
