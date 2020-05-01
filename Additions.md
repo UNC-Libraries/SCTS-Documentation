@@ -1,14 +1,14 @@
 # Overview
 
-- Introduction
-- Drop-ins (items)
-- Integrated Additions (series)
-- 2 Integrated Additions (folder)
-- Seperately Maintained Additions
-- Unprocessed Additions: Statement
-- Revisions to XML
-- Processing Note: Statements
-- ```<acqinfo>```
+- [Introduction](#introduction)
+- [Drop-ins](#drop-ins)
+- [Integrated Additions](#integrated-additions)
+- [2 Integrated Additions](#2-integrated-additions)
+- [Seperately Maintained Additions](#seperately-maintained-additions)
+- [Unprocessed Additions: Statement](#unprocessed-additions-statement)
+- [Revisions to XML](#revisions-to-xml)
+- [Processing Note Statements](#processing-note-statements)
+- [```<acqinfo>```](#acqinfo)
 
 ***
 
@@ -23,7 +23,9 @@ More frequently, you will opt for creating separately maintained additions; thes
 See the pages for Drop-ins, Integrated Additions, and Separately Maintained Additions in this section. 
 
 
-# Drop-ins (items)
+# Drop ins
+
+_Items_
 
 Occasionally it makes sense to drop a single item or two in with the original deposit. This does not mean that we have stopped caring about provenance! Enclose your item in a piece of archival paper and write the accession number on outside before dropping into an existing folder. In the finding aid, add an < acqinfo > statement at the container level: 
 
@@ -32,7 +34,9 @@ Occasionally it makes sense to drop a single item or two in with the original de
 > Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized. 
 
 
-# Integrated Additions (series)
+# Integrated Additions
+
+_Series_
 
 In some cases you will decide it is both efficient and more transparent to do some top level intellectual arrangement.  This may be the case when you have a large collection with an extensive contents list in which the addition is likely to be lost at the end for most researchers.  
 
@@ -77,7 +81,9 @@ Folder 5 Diary, 1942
 **_Image folder PF-09999/1 Photographs, 1927_**
 
 
-# 2 Integrated Additions (folder)
+# 2 Integrated Additions
+
+_Folder_
 
 Occasionally it makes sense to integrate a folder into the original deposit rather than to create a new series. Unlike drop-ins, this addition likely will be filed physically at the end of the collection but will be listed with the original deposit where it fits intellectually.  This does not mean that we have stopped caring about provenance! Write "Addition of ___" and the accession number on the folder.  
 
@@ -152,7 +158,7 @@ These papers consist chiefly of family letters from the 1790s through the early 
 Additions received after 1979 have not been integrated into the original deposits. Researchers should always check additions to be sure they have identified all files of interest to them. 
 
 
-# Unprocessed Additions: Statement
+# Unprocessed Additions Statement
 
 The following statement should go in the **Access Restrictions** element for collections having unprocessed additions: 
 
