@@ -3,14 +3,6 @@
 - [Arrangement](#arrangement)
 - [Revising the XML](#revising-the-xml)
 - [Other Unusual Situations](#other-unusual-situations)
-- [Drop-ins](#drop-ins)
-- [Integrated Additions](#integrated-additions)
-- [2 Integrated Additions](#2-integrated-additions)
-- [Seperately Maintained Additions](#seperately-maintained-additions)
-- [Unprocessed Additions: Statement](#unprocessed-additions-statement)
-- [Revisions to XML](#revisions-to-xml)
-- [Processing Note: Statements](#processing-note-statements)
-- [```<acqinfo>```](#acqinfo)
 
 ***
 
@@ -22,12 +14,11 @@ If the materials in the addition clearly mimic the materials in the original dep
 Note that the “A” is for Addition, to distinguish it from the original deposit. Use the “A” whether you are adding to an existing series or creating a new one. Always add the date of the accession in parentheses after the series title.
 
 Series 1. Correspondence
-
 #### Series 1A. Correspondence (Addition of January 2000)
-
 Series 2. Diaries
 
 Series 3. Pictures
+
 
 
 Perhaps the addition consists of several different kinds of materials. For a variety of reasons, it may not make sense to divide these up according to the original series arrangement:
@@ -180,6 +171,7 @@ When you add your new series, whether integrated intellectually, or appended to 
 
 
 # Other Unusual Situations
+
 _Drop-ins_
 
 Occasionally it makes sense to drop a single item or two in with the original deposit. This does not mean that we have stopped caring about provenance! Enclose your item in a piece of archival paper and write the accession number on the outside before dropping into an existing folder.
