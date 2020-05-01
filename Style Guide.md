@@ -449,6 +449,8 @@ Championships," all words should be capitalized.
 
 - :smiley: _Ehringhaus Dining Hall_
 
+- :smiley: _Stone Center_
+
 - :smiley: _Morehead Planetarium_
 
 - :smiley: _South Building_
@@ -461,14 +463,19 @@ Championships," all words should be capitalized.
 
 - :smiley: _Chancellor's Committee on Diversity_
 
+- :smiley: _Carolina American Indian Caucuse_
+
 - :smiley: _Student Affairs Advisory Board_
+
+- :smiley: _Black Student Movement_
 
 - :smiley: _Board of Trustees_
 
 - :smiley: _Office of Research Development_
 
-- :smiley: _Atlantic Coast Conference_
+- :smiley: _Carolina Latinx Center_
 
+- :smiley: _Atlantic Coast Conference_
 
 # PersNames, CorpNames, GeogNames, Titles, Dates, Numbers 
 
