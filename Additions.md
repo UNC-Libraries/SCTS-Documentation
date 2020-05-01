@@ -72,40 +72,23 @@ This section deals with revisions to finding aids that have already been encoded
 
 The <revisiondesc> tag in the <eadheader> is where EAD keeps track of revisions. However, the information coded in the < eadheader > section doesn't show up on the screen. Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the <revisiondesc> tags in the <eadheader> and the <processinfo> section in <archdesc>. In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
 
-_Adding revision statements to <revisiondesc> in the <eadheader>:_
+_Adding revision statements to ```<revisiondesc>``` in the ```<eadheader>```:_
 
 If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the <revisiondesc> tags for entering revision information in the <eadheader> should be the first commented-out area you encounter:
 
-```<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid.
-<revisiondesc>
-<change><date>Date of change</date>
-<item>Updated because of ?</item></change>
-</revisiondesc>
--->```
+```<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid. <revisiondesc><change><date>Date of change</date><item>Updated because of ?</item></change></revisiondesc>-->```
 
 
 If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the <revisiondesc> tags after </profiledesc> and before </eadheader>:
 
 
-```</profiledesc>
-
-<revisiondesc>
-<change>
-<date>May 2020</date> 
-<item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item> 
-</change>
-</revisiondesc> 
-
- </eadheader>```
+```</profiledesc>  <revisiondesc><change><date>May 2020</date> <item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item></change></revisiondesc> </eadheader>```
 
 
 If yours is NOT the finding aid's first revision (there's already a <revisiondesc> section, just add a new set of <change> tags:
 
 
-```<change>
-<date>February 2020</date>
-<item>Updated for addition (Acc. 20200110.4) by Nancy Kaiser</item>
-</change>```
+```<change><date>February 2020</date><item>Updated for addition (Acc. 20200110.4) by Nancy Kaiser</item></change>```
 
 
 _Adding revision statements to <processinfo> in <archdesc>:_
@@ -113,8 +96,7 @@ _Adding revision statements to <processinfo> in <archdesc>:_
 We are committed to transparency so you'll also need to add revision information to <archdesc> so that it will display in the finding aid. For minor additions, you may just be adding another name and date to the processing information already there.
 
 
-```<processinfo>
-<head>Processing Information</head>
+```<processinfo><head>Processing Information</head>
 <p>Processed by: Nancy Kaiser, January 2010</p>
 <p>Encoded by: Nancy Kaiser, January 2010</p>
 <p>Revisions by: Anne Wells, April 2017; Patrick Cullom, January 2020; (your name, date).</p>
