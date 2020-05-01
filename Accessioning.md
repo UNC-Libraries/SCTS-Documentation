@@ -1,61 +1,61 @@
 # Overview
 
-- Before we begin
-- Creating an Accession Record
-- Instructions
-  - Basic Information
-    - Title
-    - Identifier
-    - Accession Date
-    - Content Description
-    - General Note
-    - Acquisition Type
-    - Resource Type
-    - Restrictions Apply?
-    - ~~Publish?~~
-    - Access Restrictions?
-    - Access Restrictions Note
-    - Use Restrictions
-    - Use Restrictions Note
-  - Dates
-    - Label
-    - Expression
-    - Type
-    - Certainty
-    - Removing Dates
-  - Extents
-    - Portion
-    - Number
-    - Type
-    - Container Summary
-    - Removing Extents
-  - Agents
-    - Role
-    - Realator
-    - Agent
-      - Person Agent Records
-      - Family Agent Records
-      - Corporate Agent Records
-    - Removing Agents
-  - Related Resources
-    - Resource
-    - Removing Related Resources
-  - Collection Management
-    - Processing Plan
-    - Processing Status
-  - User Defined
-    - Items
-    - Monetary
-    - New or addition
-    - Biographical/historical information
-- Tracking Processing and Collection Management Events in ASpace
-  - Basic Information
-    - Type
-    - Outcome
-    - Outcome Note
-  - Event Date/Time
-    - Date/Time Specifier
-Agent Links
+- [Before we begin](#before-we-begin)
+- [Creating an Accession Record](#creating-an-accession-record-at-the-wilson-special-collections-library)
+- [Instructions](#instructions)
+  - [Basic Information](#basic-information)
+    - [Title](#title)
+    - [Identifier](#identifier)
+    - [Accession Date](#accession-date)
+    - [Content Description](#content-description)
+    - [General Note](#general-note)
+    - [Acquisition Type](#acquisition-type)
+    - [Resource Type](#resource-type)
+    - [Restrictions Apply](#restrictions-apply)
+    - [~~Publish~~](#publish)
+    - [Access Restrictions](#access-restrictions)
+    - [Access Restrictions Note](#access-restrictions-note)
+    - [Use Restrictions](#use-restrictions)
+    - [Use Restrictions Note](#use-restrictions-note)
+  - [Dates](#dates)
+    - [Label](#label)
+    - [Expression](#expression)
+    - [Type](#type)
+    - [Certainty](#certainty)
+    - [Removing Dates](#removing-a-date-sub-record)
+  - [Extents](#extents)
+    - [Portion](#portion)
+    - [Number](#number)
+    - [Type](#type)
+    - [Container Summary](#container-summary)
+    - [Removing Extents](#removing-an-extent-sub-record)
+  - [Agents](#agents)
+    - [Role](#role)
+    - [Realator](#realator)
+    - [Agent](#agent)
+      - [Person Agent Records](#person-agent-records)
+      - [Family Agent Records](#family-agent-records)
+      - [Corporate Agent Records](#corporate-entity-agent-records)
+    - [Removing Agents](#removing-a-link-to-an-agent-record)
+  - [Related Resources](#related-resources)
+    - [Resource](#resource)
+    - [Removing Related Resources](#removing-a-link-to-a-relate-resource-record)
+  - [Collection Management](#collection-management)
+    - [Processing Plan](#processing-plan)
+    - [Processing Status](#processing-status)
+  - [User Defined](#user-defined)
+    - [Items](#items)
+    - [Monetary](#monetary)
+    - [New or addition](#new-or-addition)
+    - [Biographical/historical information](#biographical-and-historical-information)
+- [Tracking Processing and Collection Management Events in ASpace](#tracking-processing-and-collection-management-events-in-ASpace)
+  - [Basic Information](#basic-information)
+    - [Type](#type)
+    - [Outcome](#outcome)
+    - [Outcome Note](#outcome-note)
+  - [Event Date/Time](#event-date-and-time)
+    - [Date/Time Specifier](#date-and-time-specifier)
+- [Agent Links](#agent-links)
 
 ***
 
@@ -85,17 +85,17 @@ Other fields are used for accessions at the Wilson Special Collections Library, 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76891925-309d8480-6860-11ea-9751-b826c7f28473.png "screenshot example basic info")
 
-### Title (Required by TS)
+### Title
 
 _Maps to: Title (Basic Information tab)_
 
-The title of the accession will typically, but need not always, match the title of the resource to which the accession belongs. For example, the accession title may be John Smith Diaries, which may become part of the larger Smith Family Papers.  
+The title of the accession will typically, but need not always, match the title of the resource to which the accession belongs. For example, the accession title may be John Smith Diaries, which may become part of the larger Smith Family Papers. Required by TS.
 
 **Delete the boilerplate instructions!**
 
 When spawning a resource (see below), this field maps to the resource title.
 
-### Identifier (Required by ArchivesSpace)
+### Identifier
 
 _Maps to: Accession Number (Basic Information tab)_
 
@@ -105,19 +105,21 @@ Here's how we enter identifiers at the Wilson Special Collections Library:
 - **Second component:** this number will autogenerate based on today's date.
 - **Third component:** enter the collection number for the collection to which this accession will be added (example: #04534). _If you don't know the collection number at the time of accession, you can leave this component blank and fill it in later._
 
+Required by ArchivesSpace.
+
 > Note that we are no longer creating separate accession records for digital items. 
 
-### Accession Date (Required by ArchivesSpace)
+### Accession Date
 
 _Maps to: Accession Date (Basic Information tab)_
 
-When you create a new accession, this field is automatically filled with the current date, so you may need to edit that date to reflect the actual date of the accession transaction. The accession date in ArchivesSpace is meant to represent the date of the receipt of the materials, which is not necessarily the same as the date the accession record is created and most probably not the date that the contents of the accession were created. 
+When you create a new accession, this field is automatically filled with the current date, so you may need to edit that date to reflect the actual date of the accession transaction. The accession date in ArchivesSpace is meant to represent the date of the receipt of the materials, which is not necessarily the same as the date the accession record is created and most probably not the date that the contents of the accession were created. Required by ArchivesSpace.
 
-### Content Description (Required by TS)
+### Content Description
 
 _Maps to: Description (Accession Notes tab)_
 
-A description of the document types and topical contents of the accession. When spawning a resource, this field maps to the main level scope and content note. 
+A description of the document types and topical contents of the accession. When spawning a resource, this field maps to the main level scope and content note. Required by TS.
 
 **Delete the boilerplate instructions!**
 
@@ -129,17 +131,17 @@ Intended for notes about the acquisition or processing of the accession, and not
  
 **Delete the boilerplate instructions!**
 
-### Acquisition Type (Required by TS)
+### Acquisition Type
 
 _Maps to: Acquisition Type (Accession Notes tab)_
 
-Choose from a drop-down list. A categorical descriptor for the type of acquisition. We typically select _gift, purchase, or transfer._
+Choose from a drop-down list. A categorical descriptor for the type of acquisition. We typically select _gift, purchase, or transfer._ Required by TS.
 
-### Resource Type (Required by TS)
+### Resource Type
 
 _Maps to: Resource Type (Basic Information tab)_
 
-Choose from a drop-down list. A list of terms for categorizing resources into basic types. We typically select _Collection, Papers, or Records._
+Choose from a drop-down list. A list of terms for categorizing resources into basic types. We typically select _Collection, Papers, or Records._ Required by TS.
 
 ### Restrictions Apply?
 
@@ -187,19 +189,21 @@ One Date sub-record will automatically appear as part of the accession record te
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76894777-2b8f0400-6865-11ea-800e-ed6f1e7e2fd5.png "screenshot example dates")
 
-### Label (Required by ArchivesSpace)
+### Label
 
-Choose from a drop-down list. Describes the type of activity that the date signifies. You will most likely always select _Creation._
+Choose from a drop-down list. Describes the type of activity that the date signifies. You will most likely always select _Creation._ Required by ArchivesSpace.
 
-### Expression (Required by TS)
+### Expression
 
-The date or date range of the materials in the accession. Some examples: 1968; 1979-1993; 1785-1960; bulk 1916-1958; 1827; circa 1870-1879; 1906 March 1; undated. 
+The date or date range of the materials in the accession. Required by TS.
+
+Some examples: 1968; 1979-1993; 1785-1960; bulk 1916-1958; 1827; circa 1870-1879; 1906 March 1; undated.
 
 **Delete the boilerplate instructions!**
 
-### Type (Required by ArchivesSpace)
+### Type
 
-Choose from a drop-down list. Indicate the type for normalized date information, either a single date or a date range (inclusive or bulk). The default is "Inclusive." 
+Choose from a drop-down list. Indicate the type for normalized date information, either a single date or a date range (inclusive or bulk). The default is "Inclusive." Required by ArchivesSpace.
 
 ### Certainty
 
@@ -224,29 +228,31 @@ One Extent sub-record will automatically appear as part of the accession record 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76895739-f2579380-6866-11ea-93c0-b9509988dba7.png "screenshot example extent")
 
-### Portion (Required by ArchivesSpace)
+### Portion
 
 _Maps to: This is a new feature that does not map to AT_
 
-Used to specify whether an extent statement relates to the whole or part of a given accession. Choose part or whole from the drop-down list. If you are recording multiple extents (for example, if you have 1 box of papers and 1 hard drive), you will need to create multiple sub-records. 
+Used to specify whether an extent statement relates to the whole or part of a given accession. Choose part or whole from the drop-down list. If you are recording multiple extents (for example, if you have 1 box of papers and 1 hard drive), you will need to create multiple sub-records. Required by ArchivesSpace.
 
-### Number (Required by ArchivesSpace)
+### Number
 
 _Maps to: Extent number (Basic Information tab)_
 
- A numeric value for indicating the number of units in the extent statement, e.g., 5, 11.5, 245. Used in conjunction with Type (below) to provide a structured extent statement. 
+ A numeric value for indicating the number of units in the extent statement, e.g., 5, 11.5, 245. Used in conjunction with Type (below) to provide a structured extent statement. Required by ArchivesSpace.
  
- ### Type (Required by ArchivesSpace)
+ ### Type
  
  _Maps to: Extent number (Basic Information tab)_
  
- A term indicating the type of unit used to measure the extent of materials described (examples: items, linear feet, gigabytes). Choose from a drop-down list.  
+ A term indicating the type of unit used to measure the extent of materials described (examples: items, linear feet, gigabytes). Choose from a drop-down list. Required by ArchivesSpace.
  
- ### Container Summary (Required by TS)
+ ### Container Summary
  
  _Maps to: Container Summary (Basic Information tab)_
  
-Serves to describe the logical or physical parts of a multi-level resource or digital object that makes up an aggregation of archival materials. Example of use: if the Number and Type are 10 linear feet, then the container summary might be used to record the actual number of containers (10 boxes and 4 flat files) 
+Serves to describe the logical or physical parts of a multi-level resource or digital object that makes up an aggregation of archival materials. Required by TS.
+
+Example of use: if the Number and Type are 10 linear feet, then the container summary might be used to record the actual number of containers (10 boxes and 4 flat files)
  
 **Delete the boilerplate instructions!**
 
@@ -257,11 +263,11 @@ Serves to describe the logical or physical parts of a multi-level resource or di
 3. Click on the **Confirm Removal** option to remove the Extent sub-record, or on the **Cancel** option to retain the sub-record.
 4. Click on **Save** in the context record to save the context record with the Extent sub-record removed.
 
-## Agent [a.k.a. Names] Links
+## Agent Links
 
 _Maps to: Names & Subjects tab_
 
-This sub-record enables associating an agent as a creator, source, or subject to the materials being described, as a rights holder to a rights statement, as an agent responsible for a recorded event, and to other agents. 
+Also known as names, this sub-record enables associating an agent as a creator, source, or subject to the materials being described, as a rights holder to a rights statement, as an agent responsible for a recorded event, and to other agents. 
 
 > Note that we will be using agent records much more comprehensively in the future!
 
@@ -273,23 +279,25 @@ To link an agent record to a material description record, click **Agent Links** 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76896528-5d559a00-6868-11ea-936c-0ba1981f089b.png "screenshot example agent")
 
-### Role (Required by ArchivesSpace)
+### Role
 
 _Maps to: Function (Names & Subjects tab)_
 
-Choose from drop-down list. An indication of what function (creator, source, or subject) the agent has in regards to its link to a certain material description record. Note that if you choose a Role=Creator, the screen will present a **Title** field. _You do not have to fill in the **Title** field._
+Choose from drop-down list. An indication of what function (creator, source, or subject) the agent has in regards to its link to a certain material description record. Required by ArchivesSpace
 
-### Realator (_Very_ optional)
+> Note that if you choose a Role=Creator, the screen will present a **Title** field. _You do not have to fill in the **Title** field._
+
+### Realator
 
 _Maps to: Role (Names & Subjects tab) Isn't that confusing?_
 
-Choose from drop-down list. A more specific indication of what role the agent has in respect to the materials being described. For example, an agent may be linked as a creator to a record, but with the more specific role of "illustrator" or as the source to a record, but with the more specific role of "donor."  
+_Very_ optional. Choose from drop-down list. A more specific indication of what role the agent has in respect to the materials being described. For example, an agent may be linked as a creator to a record, but with the more specific role of "illustrator" or as the source to a record, but with the more specific role of "donor."  
 
-### Agent (Required by ArchivesSpace)
+### Agent
 
 _Maps to: Name Lookup (Names & Subjects tab)_
 
-For identifying the agent related to the material described in the record. Agents may be searched using auto-complete, using a browse function, or, if need be, may be created on demand. 
+For identifying the agent related to the material described in the record. Agents may be searched using auto-complete, using a browse function, or, if need be, may be created on demand. Required by ArchivesSpace.
 
 - To select an agent using the auto-complete function simply start typing the name of an agent in the agent box to find an agent in the agent index. The system will present you with names matching the string you have keyed. Select the name that matches the name you want to link to the materials being described. 
 
@@ -344,19 +352,19 @@ For identifying the agent related to the material described in the record. Agent
 3. Click on the **Confirm Removal** option to remove the link, or on the **Cancel** option to retain the link. 
 4. Click on **Save** to save the context record with the agent link removed. 
 
-## Related Resources (a.k.a. Collections)
+## Related Resources
 
 _Maps to: Resources Linked to this accession (Basic Information tab)_
 
-This field allows you link an accession to an existing resource record in your repository. The **Resource** field is required. You may link as many resource records to an accession as necessary. 
+Also known as collections, this field allows you link an accession to an existing resource record in your repository. The **Resource** field is required. You may link as many resource records to an accession as necessary. 
 
 To link a related resource to an accession record, click **Related Resources** on the left navigation bar and then click Add Related Resource on the right side of the screen. 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76900784-65193c80-6870-11ea-9071-5e886994e39b.png "screenshot related resources")
 
-### Resource (Required by ArchivesSpace)
+### Resource
 
-Two selection options: 1) start typing to filter existing resources and autocomplete the field; 2) use the down arrow to browse existing resources. 
+Required by ArchivesSpace. Two selection options: 1) start typing to filter existing resources and autocomplete the field; 2) use the down arrow to browse existing resources. 
 
 - To select a resource using the auto-complete function simply start typing the resource title in the Resource box. The system will present you with matching options as you type. Select the resource record you want to link the accession to and it will populate the Resource box. 
 
@@ -402,11 +410,11 @@ This sub-record is used to add staff-only information about the processing of ma
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76985970-694c6500-6917-11ea-8c11-25b4101e665a.png "screenshot collection management")
 
-### Processing Plan (Required by TS)
+### Processing Plan
 
 _Maps to: Processing Plan (Acknowledgements, Restrictions & Processing Tasks tab)_
 
-Open text field. For recording a plan for processing of the archival unit. We typically use _Acc2Proc_ or _Intake_. 
+Open text field. For recording a plan for processing of the archival unit. We typically use _Acc2Proc_ or _Intake_. Required by TS.
 
 **Delete the boilerplate instructions!**
 
@@ -447,7 +455,7 @@ Used to record whether an accession is creating a new collection, or adding to a
 
 **Delete the boilerplate instructions!**
 
-### Biographical/historical information
+### Biographical and historical information
 
 _Maps to: Biographical/historical information (User defined fields tab)_
 
@@ -485,25 +493,25 @@ To add an event record to an accession record:
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76987140-14115300-6919-11ea-899a-89e77bbf2b6a.png "screenshot for Aspace basic info")
 
-### Type (Required by ArchivesSpace)
+### Type
 
-Choose from drop-down list. The default is "Processed." 
+Choose from drop-down list. The default is "Processed." Required by ArchivesSpace.
 
-### Outcome (Very optional)
+### Outcome
 
-Choose from drop-down list. Describe the overall result of the event in terms of success, partial success, or failure. Recommended practice is to define events with sufficient granularity that each event has a single outcome and to use a controlled vocabulary that a system can act upon automatically. More detail about the outcome may be recorded in an Outcome Note.  
+_Very_ optional. Choose from drop-down list. Describe the overall result of the event in terms of success, partial success, or failure. Recommended practice is to define events with sufficient granularity that each event has a single outcome and to use a controlled vocabulary that a system can act upon automatically. More detail about the outcome may be recorded in an Outcome Note.  
 
-### Outcome Note (Very optional)
+### Outcome Note
 
-Open text field. Provide a detailed description of the result or product of the event. This field may be used to record error and warning messages issued by a program involved in the event or to record a pointer to an error log. 
+_Very_ optional. Open text field. Provide a detailed description of the result or product of the event. This field may be used to record error and warning messages issued by a program involved in the event or to record a pointer to an error log. 
 
-## Event Date/Time
+## Event Date and Time
 
 This sub-record is required. Only one date may be associated with an event record. 
 
-### Date/Time Specifier (Required by ArchivesSpace)
+### Date and Time Specifier
 
-Choose from drop-down list. Indicates the type of date is associated with this event. The default is "Date Subrecord." 
+Choose from drop-down list. Indicates the type of date is associated with this event. The default is "Date Subrecord." Required by ArchivesSpace.
 
 **If Date Sub-record is chosen for the Date/Time Specifier**, the required fields are Label and Type.
 
