@@ -424,7 +424,7 @@ doing EAD markup.
 
 **Capitalization of job titles:** Don't capitalize job titles unless they are used as an identifier before a name.
 
-- :smiley: _She was dierctor of the Sports Information office._
+- :smiley: _She was director of the Sports Information office._
 
 - :smiley: _Robert Wagner, mayor of New York City, was there._
 
