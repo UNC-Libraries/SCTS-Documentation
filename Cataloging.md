@@ -1,10 +1,8 @@
 # Overview
 
-- Creating new MARC records
-
-- Editing existing MARC records
-
-- Headings for archival records (authority work)
+- [Creating new MARC records](#creating-new-marc-records)
+- [Editing existing MARC records](#editing-existing-marc-records)
+- [Headings for archival records (authority work)](#headings-for-archival-records-authority-work)
 
 ***
 
