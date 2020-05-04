@@ -1,7 +1,11 @@
 # Overview
 
-- GIT Set-up Instructions
-- Oxygen Install and Transformation Scenario
+- [GIT Set-up Instructions](#git-setup-instructions)
+  - [Finding Aids: Setting Up Your Development Space](#finding-aids-setting-up-your-development-space)
+  - [Install Git for Windows](#install-git-for-windows)
+- [Oxygen Install and Transformation Scenario](#oxygen-install-and-transformation-scenario)
+  - [Install Oxygen XML Editor](#install-oxygen-xml-editor)
+  - [Set up Transformation Scenario](#set-up-transformation-scenario)
 
 ***
 
@@ -164,7 +168,7 @@ If Putty doesn't work for you, follow these instructions:
 
    Maintenance=374 SGN=MCwCFFnvMwFb46l7evGVjmLvrQHbLdc+AhR4SOcVT5QvkKKRj1EdgHZDzj/+mA\=\=      
    
-## Set up transformation scenario
+## Set up Transformation Scenario
 
 (Occasionally, you may have to recreate a new transformation scenario. Sometimes they just go away.) 
 
