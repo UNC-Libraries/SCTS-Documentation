@@ -1,12 +1,12 @@
 # Overview
 
-- [Locations Database](#locations-database)
+- [Looking up Locations in ArchivesSpace](#looking-up-locations-in-archivesspace)
 - [Labels](#labels)
 - [Items Separated](#items-separated)
 
 ***
 
-# Locations Database
+# Looking up Locations in ArchivesSpace
 
 ## Why keep track of locations?
 
@@ -18,9 +18,11 @@ Many collections contain material in several different formats--folders of paper
 
 With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in the Location Database! 
 
-> NOTE: This location database is ONLY for items that are circulating, which is why you won't see things in the location database like audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx 
+> NOTE: For right now, you can use ArchivesSpace to look for locations for circulating materials ONLY, which is why you won't see things in the location database like audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx. 
 
-## Where do I find the Location Database?
+## How do I access ArchivesSpace?
+
+To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password or the reading room account. 
 
 <!-- It works best if you open Access first, and from Access open the Location Database. 
 
@@ -28,11 +30,11 @@ The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_re
 
 ## Deciphering the Database
 
-With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. 
+<!-- With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. 
 
 Each database field is described in detail below, including the purpose of each field, the type of information it should contain, and the way you should format data in each column. As you will see, some fields are more complicated than others. All of these column names use terminology from the Archivists' Toolkit, sometimes this is confusing. 
 
-For materials in records cartons or document cases, each box is tracked in a separate row in the database. Yes, this is a lot of data entry. 
+For materials in records cartons or document cases, each box is tracked in a separate row in the database. Yes, this is a lot of data entry. -->
 
 ## Resource ID
 
