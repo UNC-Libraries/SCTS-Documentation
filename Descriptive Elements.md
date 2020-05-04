@@ -1,23 +1,18 @@
 # Overview
 
-
-- UNC proposed
-- reference code
-- [implied; included in stylesheet]
-- title
-- date (in title)
-- extent
-- creator
-- scope and content
-- restrictions
-- languages
-- biographical/historical note
-- access points
-- abstract
-- acquisition
-- citation
-- privacy statement
-- processing information
+- [Reference code](#reference-code)
+- [Title and date](#title-and-date)
+- [Creator](#creator)
+- [Scope and Content Note and Abstract](#scope-and-content-note-and-abstract)
+- [Extent](#extent)
+- [Restrictions](#restrictions)
+- [Languages](#languages)
+- [Biographical/historical note](#biographicalhistorical-note)
+- [Access points](#access-points)
+- [Acquisition](#acquisition)
+- [Citation](#citation)
+- [Privacy statement](#privacy-statement)
+- [Processing information](#processing-information)
 
 
 # Reference code
