@@ -56,14 +56,14 @@ the additions and move on.
 
 1. Foundation Records, 1990-1995 (Original Deposit).
 
-2A. Foundation Records, 1986-1988 (Addition of May 1996).
+#### 2A. Foundation Records, 1986-1988 (Addition of May 1996).
 
-2A. Foundation Records, 1983-1989 (Addition of March 1997).
+#### 2A. Foundation Records, 1983-1989 (Addition of March 1997).
 
-2A. Foundation Records, 1970-1992 (Addition of March 1998).
+#### 2A. Foundation Records, 1970-1992 (Addition of March 1998).
 
 
-We have a long and complicated history with additions so you might encounter all kinds of variations on the above examples. Usually it is most expedient to follow the arrangement that already exists, though you sometimes it makes sense to do minor re-coding to bring clarity. 
+We have a long and complicated history with additions so you might encounter all kinds of variations on the above examples. Usually it is most expedient to follow the arrangement that already exists, though sometimes it makes sense to do minor re-coding to bring clarity. 
 
 
 # Revising the XML
