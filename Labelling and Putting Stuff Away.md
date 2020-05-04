@@ -22,9 +22,9 @@ With so many collections and so many formats dispersed throughout the stacks it 
 
 ## Where do I find the Location Database?
 
-It works best if you open Access first, and from Access open the Location Database. 
+<!-- It works best if you open Access first, and from Access open the Location Database. 
 
-The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored 
+The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored -->
 
 ## Deciphering the Database
 
