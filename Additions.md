@@ -72,22 +72,22 @@ We have a long and complicated history with additions so you might encounter all
 
 This section deals with revisions to finding aids that have already been encoded in EAD. Some may have originally been SGML documents from back in the old days of EAD. These SGML documents have now been converted to XML. Documents that started out in XML will have commented-out revision tags that you can activate. Finding aids converted from SGML won't have those commented-out tags.
 
-The <revisiondesc> tag in the <eadheader> is where EAD keeps track of revisions. However, the information coded in the < eadheader > section doesn't show up on the screen. Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the <revisiondesc> tags in the <eadheader> and the <processinfo> section in <archdesc>. In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
+The `<revisiondesc>` tag in the `<eadheader>` is where EAD keeps track of revisions. However, the information coded in the `<eadheader>` section doesn't show up on the screen. Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the `<revisiondesc>` tags in the `<eadheader>` and the `<processinfo>` section in `<archdesc>`. In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
 
 _Adding revision statements to `<revisiondesc>` in the `<eadheader>`:_
 
-If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the <revisiondesc> tags for entering revision information in the <eadheader> should be the first commented-out area you encounter:
+If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the `<revisiondesc>` tags for entering revision information in the `<eadheader>` should be the first commented-out area you encounter:
 
 `<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid. <revisiondesc><change><date>Date of change</date><item>Updated because of ?</item></change></revisiondesc>-->`
 
 
-If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the <revisiondesc> tags after </profiledesc> and before </eadheader>:
+If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the `<revisiondesc>` tags after `</profiledesc>` and before `</eadheader>`:
 
 
-`</profiledesc>  <revisiondesc><change><date>May 2020</date> <item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item></change></revisiondesc> </eadheader>`
+`</profiledesc><revisiondesc><change><date>May 2020</date><item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item></change></revisiondesc> </eadheader>`
 
 
-If yours is NOT the finding aid's first revision (there's already a <revisiondesc> section, just add a new set of <change> tags:
+If yours is NOT the finding aid's first revision (there's already a `<revisiondesc>` section, just add a new set of <change> tags:
 
 
 `<change><date>February 2020</date><item>Updated for addition (Acc. 20200110.4) by Nancy Kaiser</item></change>`
@@ -109,17 +109,18 @@ When multiple people are involved in preparing a collection for discovery and us
 
 Other parts of the finding aid may or may not require updates.
 
-Title <link>: Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
+[Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-Collection dates <link>: Don’t miss any of the 3 collection level places to update this information.
+Don’t miss any of the 3 collection level places to edit date information.
 
-Extent <link>: This will almost certainly change. 
+[Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
 
-Abstract <link>: You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the <processinfo>.
+[Abstract and Collection Overview](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the <processinfo>.
+  
+Collection overview: This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description.
 
-Acquisition <link>: Information should be updated to include the donor, date, and accession information.
+[Acquisition](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#acquisition): Information should be updated to include the donor, date, and accession information.
 
-Collection overview <link>: This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description. 
 
 If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
 Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
