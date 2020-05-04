@@ -1,13 +1,13 @@
 # Overview
 
-- ```<digfolder>``` coding in the FAID
-- Legacy updates to finding aids
-- ```<processinfo>``` Example Statements
-- CSV to MODS (the Patrick Cullom method)
-- Processing
-- UARS/Wilson Born Digital Documentation
-- MODS requirements
-- Statements
+- [```<digfolder>``` coding in the FAID](#digfolder-coding-in-the-faid)
+- [Legacy updates to finding aids](#legacy-updates-to-finding-aid)
+- [```<processinfo>``` Example Statements](#processinfo-example-statements)
+- [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
+- [Processing](#processing)
+- [UARS/Wilson Born Digital Documentation](#uarswilson-born-digital-documentation)
+- [MODS requirements](#mods-requirements)
+- [Statements](#statements)
 
 ***
 
