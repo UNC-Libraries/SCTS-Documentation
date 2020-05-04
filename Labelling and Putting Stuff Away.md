@@ -1,5 +1,7 @@
 # Overview
 
+**Dawne needs to update to include ArchivesSpace location information**
+
 - [Looking up Locations in ArchivesSpace](#looking-up-locations-in-archivesspace)
 - [Labels](#labels)
 - [Items Separated](#items-separated)
