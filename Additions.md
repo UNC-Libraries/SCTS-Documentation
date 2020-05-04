@@ -125,7 +125,7 @@ If you have a separately maintained addition that has been appended to the end w
 Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
 
 
-_Between the <dsc>:_ 
+_Between the `<dsc>`:_ 
 
 When you add your new series, whether integrated intellectually, or appended to the end, it should look like this:
 
@@ -148,9 +148,9 @@ When you add your new series, whether integrated intellectually, or appended to 
 `<scopecontent><p>Overview of the addition. (Probably this will be same brief description as you added to the Collection Overview.</p></scopecontent>`
 
 
-`<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle></did></c02></c01>
+`<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle></did></c02></c01>`
 
-<c02><did><container type=”digfolder”><extref href=”lettersandnumbers”>DF-90999/1</extref></container><unittitle>Papers, 1990-2000</unittitle></did></c02>
+`<c02><did><container type=”digfolder”><extref href=”lettersandnumbers”>DF-90999/1</extref></container><unittitle>Papers, 1990-2000</unittitle></did></c02>
 </c01>`
 
 
