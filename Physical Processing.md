@@ -1,16 +1,16 @@
 # Overview
 
-- Paper
-- Artifacts, Framed and Rolled Items
-- Born Digital
-- Photographs
-- Oversized Papers and Photographs
-- AV
-- SVs (Special Volumes)
-- Z Collections
-- Photocopying/Scanning
-- In Case of Mold
-- First pass physical processing
+- [Paper](#paper)
+- [Artifacts, Framed and Rolled Items](#artifacts-framed-and-rolled-items)
+- [Born Digital](#born-digital)
+- [Photographs](#photographs)
+- [Oversized Papers and Photographs](#oversize-papers-and-photographs)
+- [AV](#av)
+- [SVs (Special Volumes)](#svs-special-volumes)
+- [Z Collections](#z-collections)
+- [Photocopying/Scanning](#photocopyingscanning)
+- [In Case of Mold](#in-case-of-mold)
+- [First pass physical processing](#first-pass-physical-processing)
 
 ***
 
@@ -402,7 +402,7 @@ Another example of MFD use was with a multi-page document from 05088. Boyer.  Th
 I’m so glad you asked.  Sometimes, materials will have mold on them, usually from exposure to water/moisture.  Separate the moldy stuff from the rest, and show it to the archivist-in-charge.  Sometimes, they will call in one of the curators to assess it and make a judgment about if it’s important enough to keep and send to Conservation for cleaning, or if it should be discarded. 
 
 
-# First pass phusical processing
+# First pass physical processing
 
 ## For boxes primarily filled with paper
 
