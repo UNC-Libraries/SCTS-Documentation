@@ -1,14 +1,14 @@
 # Overview
 
-- Words, Statements, EAD
-- Intro: Minimal Processing of Photographic Materials
-- One Page For Collecting
-- Identifying 19th and early 20th century formats
-- Photographs PRE-Intake
-- Minimal Processing Pre-intake
-- Minimal Processing Recommendations
-- SHC-Z Images
-- Photographic Formats
+- [Words, Statements, EAD](#words-statements-ead)
+- [Intro: Minimal Processing of Photographic Materials](#intro-minimal-processing-of-photographic-materials)
+- [One Page For Collecting](#one-page-for-collecting)
+- [Identifying 19th and early 20th century formats](#identifying-19th-and-early-20th-century-formats)
+- [Photographs PRE-Intake](#photographs-pre-intake)
+- [Minimal Processing Pre-intake](#minimal-processing-pre-intake)
+- [Minimal Processing Recommendations](#minimal-processing-recommendations)
+- [SHC-Z Images](#shc-z-images)
+- [Photographic Formats](#photographic-formats)
 
 ***
 
