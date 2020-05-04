@@ -1,8 +1,8 @@
 # Overview
 
-- Locations Database
-- Labels
-- Items Separated
+- [Locations Database](#locations-database)
+- [Labels](#labels)
+- [Items Separated](#items-separated)
 
 ***
 
