@@ -2,12 +2,12 @@ Content owner: **Anne Wells**
 
 # Overview
 
-- Arrangement
-- Formats/Container Types
-- Labeling and Putting Stuff Away (Work in Progress)
-- XML/EAD
-- LC Subject Headings
-- Resources (Work in Progress)
+- [Arrangement](#arrangement)
+- [Formats/Container Types](#formatscontainer-types)
+- [Labeling and Putting Stuff Away (Work in Progress)](#labeling-and-putting-stuff-away-work-in-progress)
+- [XML/EAD](#xmlead)
+- [LC Subject Headings](#subject-headings)
+- [Resources (Work in Progress)](#resources-work-in-progress)
 
 ***
 
