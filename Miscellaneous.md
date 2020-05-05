@@ -64,7 +64,7 @@ Restricted materials should be isolated in their own folders and labeled "RESTRI
 
 # XML to TXT script
 
-Use the Saxon script to convert finding aid XML files to TXT files. This is an easy way to get finding aid data into a spreadsheet friendly format. Please note this script only exports limited fields from the XML file. At this time, nothing below the item title (i.e. ```<genreform>```, ```<scopecontent>```) can be exported through this script). The Saxon script exports the following fields from the XML file: 
+Use the Saxon script to convert finding aid XML files to TXT files. This is an easy way to get finding aid data into a spreadsheet friendly format. Please note this script only exports limited fields from the XML file. At this time, nothing below the item title (i.e. `<genreform>`, `<scopecontent>`) can be exported through this script). The Saxon script exports the following fields from the XML file: 
 
 - Collection Name 
 - Collection Number 
