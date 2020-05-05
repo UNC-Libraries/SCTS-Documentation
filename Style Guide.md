@@ -1,17 +1,17 @@
 # Overview
 
-- Saying it
-- Capitalization
-- Finding Aid Phrases
-- Abstracts, Collection Overview, Biog/Hist notes
-- Folder Titles
-- Transcribing Titles and Captions
-- Commas, Other Punctuation, Capitalization
-- PersNames, CorpNames, GeogNames, Titles, Dates, Numbers
-- Spaces and Dashes
-- Civil War Letters
-- UNC
-- Miscellaneous
+- [Saying it](#saying-it)
+- [Capitalization](#capitalization)
+- [Finding Aid Phrases](#finding-aid-phrases)
+- [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
+- [Folder Titles](#folder-titles)
+- [Transcribing Titles and Captions](#transcribing-titles-and-captions)
+- [Commas, Other Punctuation, Capitalization](#commas-other-punctuation-capitalization)
+- [PersNames, CorpNames, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-geognames-titles-dates-numbers)
+- [Spaces and Dashes](#spaces-and-dashes)
+- [Civil War Letters](#civil-war-letters)
+- [UNC](#unc)
+- [Miscellaneous](#miscellaneous)
 
 
 # Saying it
@@ -245,12 +245,12 @@ These files deal with a wide variety of topics and provide information on the da
 - Edit the descriptions, retaining only the truly significant content (always a judgment call), to create the a collection overview.
 You may content tag the collection overview or leave it for the cataloger
 
-- Copy the collection overview into the abstract area ```(<abstract encodinganalog="520">)```. Omit all internal tagging except ```<title>``` and ```<emph>```
+- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`. Omit all internal tagging except `<title>` and `<emph>`
 
 - Edit the abstract so that it's as concise as possible
 
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: ```<abstract encodinganalog="545">```)
+(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
 
@@ -258,17 +258,17 @@ You may content tag the collection overview or leave it for the cataloger
 
 If you use the method above to write abstracts and collection overviews when there's just one series, you wind up with pretty much
 the same description three times in the finding aid (once in the series description, once in the collection overview, and once in 
-the ```<abstract encodinganalog="520">```. This is overkill. If you have only one series, write its description as the collection overview. Use the collection overview as the ```<abstract encodinganalog="520">``` (with editing as needed). At the series level, you may either omit the ```<scopecontent>``` note entirely or use it for information that's not appropriate for the collection overview or abstract.  
+the `<abstract encodinganalog="520">`. This is overkill. If you have only one series, write its description as the collection overview. Use the collection overview as the `<abstract encodinganalog="520">` (with editing as needed). At the series level, you may either omit the `<scopecontent>` note entirely or use it for information that's not appropriate for the collection overview or abstract.  
 
-## ```<Bioghist>``` versus ```<Scopecontent>```
+## `<Bioghist>` versus `<Scopecontent>`
 
-```<bioghist>``` is about the creator(s) of the materials. ```<scopecontent>``` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in ```<bioghist>```. You can also mention that the creator undertook the project at hand. But save the details of the project for ```<scopecontent>```. 
+`<bioghist>` is about the creator(s) of the materials. `<scopecontent>` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in `<bioghist>`. You can also mention that the creator undertook the project at hand. But save the details of the project for `<scopecontent>`. 
 
 Here’s a short example:
 
-- :smiley: ```<bioghist><head>Biographical Note</head><p>Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</p></bioghist>```
+- :smiley: `<bioghist><head>Biographical Note</head><p>Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</p></bioghist>`
 
-- :smiley: ```<scopecontent><head>Collection Overview</head><p>The collection includes materials, 1870-1876, relating to missionary and trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876, is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely etc., etc.</p></scopecontent>```
+- :smiley: `<scopecontent><head>Collection Overview</head><p>The collection includes materials, 1870-1876, relating to missionary and trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876, is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely etc., etc.</p></scopecontent>`
 
 ## Biographical Note verses Historical Note
 
@@ -303,20 +303,18 @@ Use commas before locations:
 
 Use colons in complex statements:
 
-- :smiley: ```<title render="doublequote">How the West Was Won</title>:``` _Missionary Society, Raleigh, 1966_
+- :smiley: `<title render="doublequote">How the West Was Won</title>:` _Missionary Society, Raleigh, 1966_
 
 You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
-modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both
-titles and dates; and miscellaneous other items. Remembering that you use a simple comma before locations and before dates, the folder 
-list would look like this:  
+modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both titles and dates; and miscellaneous other items. Remembering that you use a simple comma before locations and before dates, the folder list would look like this:  
 
 - :smiley: _Correspondence, 1901-1902_
 
 - :smiley: _Correspondence, 1903-1956_
 
-- :smiley: _Speech: ```<title render="doublequote">How I Spent My Summer Vacation</title>,``` _Raleigh, 1922_
+- :smiley: _Speech: `<title render="doublequote">How I Spent My Summer Vacation</title>,` _Raleigh, 1922_
 
-- :smiley: _Speech: ```<title render="doublequote">How the West Was Won</ title>:``` _Civitan Club, Chapel Hill, 1960_
+- :smiley: _Speech: `<title render="doublequote">How the West Was Won</ title>:` _Civitan Club, Chapel Hill, 1960_
 
 - :smiley: _Miscellaneous_
 
@@ -330,8 +328,7 @@ Use the Last name, First name format:
 
 - :rage: _Folder 21 Annual Reports_
 
-**Creator-generated folder titles:** We usually use creator-generated folder titles. Add this statement (or something close) just before 
-the folder list begins when you are using folder titles as received:
+**Creator-generated folder titles:** We usually use creator-generated folder titles. Add this statement (or something close) just before the folder list begins when you are using folder titles as received:
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
@@ -339,7 +336,7 @@ HOWEVER, take that statement with a grain of salt: Make the list as intelligible
 
 The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
 
-**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an ```<arrangement>``` statement for each series or subseries. If there is no discernible order (especially in short folder lists), leave the ```<arrangement>``` statement out.  
+**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement for each series or subseries. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
 
 Alphabetical by name means Last name, First name.
 
@@ -360,33 +357,33 @@ Examples:
 
 For example, a photograph with "Cullom Hall, 1926" written on the back:  
 
-```<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>```  
+`<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>` 
 
 **Archivist-generated title**
 
 For example, a photograph that we identify as being Cullom Hall in 1926:  
 
-```<unittitle>Cullom Hall, 1926</unittitle>```  
+`<unittitle>Cullom Hall, 1926</unittitle>`  
 
 **Creator-generated title with archivist-generated clarification**
 
 For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
 
-```<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>```  
+`<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>`  
 
 **Creator-generated caption**
 
 For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
 written on the back:  
 
-```<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>```  
+`<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>`  
 
 **Archivist-generated caption**
 
 For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
 front steps (not noted in original descriptions provided by creator):  
 
-```<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>``` 
+`<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
 
 
 # Commas, Other Punctuation, Capitalization
@@ -417,9 +414,9 @@ of a name is used.
 **Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
 doing EAD markup.
 
-- :smiley: _She called herself_ ```<emph render="doublequote">Lil,</emph>``` _but everyone knew her as Nancy._
+- :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
 
-- :smiley: _Included is the 1922 version of his unsold novel,_ ```<title render="doublequote">When Bad Things Happen to Bad People</title>;``` _his unsold short story,_ ```<title render="doublequote">Worser and Worser</title>;``` _and his unsold anthology,_ ```<title render="doublequote">Major Works.</title>```  
+- :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
 
 **Capitalization of series and subseries titles:** Do capitalize all of the words in the supplied title at the series and subseries level.
 
@@ -435,9 +432,7 @@ doing EAD markup.
 
 - :smiley: _Mayor Robert Wagner of New York City was there._
 
-**Capitalizing official names of events:** If the event's official name is "Great Alaska Shootout," and the event happens to be a 
-basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball 
-Championships," all words should be capitalized.
+**Capitalizing official names of events:** If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized.
 
 - :smiley: _Carolina Invitational baseball tournament_
 
@@ -483,19 +478,13 @@ Championships," all words should be capitalized.
 
 ## PersnNames and CorpNames
 
-**Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each
-section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In 
-subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the 
-most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or 
-_Hetty Betty Bodin_e or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
+**Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or _Hetty Betty Bodin_e or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
 
 When an individual uses initials in a personal name, place a period followed by a space after each letter. 
 
 - J. G. de Roulhac Hamilton
 
-**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case
-basis, often according to whether or not there is an authority record for a name. For example, use and instead of & unless you know that
-the authority record specifies & (remember to use & for & in EAD-encoded finding aids).  
+**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. For example, use and instead of & unless you know that the authority record specifies & (remember to use & for & in EAD-encoded finding aids).  
 
 - :smiley: _University of North Carolina at Chapel Hill_
 
@@ -527,8 +516,7 @@ Abbreviate for lesser government bodies and for military units
 
 Abbreviate a state name when it directly follows the name of a city or a county (parish). Otherwise spell out the name of the state.
 
-**Abbreviations:** Always use the approved Library of Congress state abbreviations when the state is a modifier. Note that these are
-NOT the 2-letter standard United States Post Office abbreviations. Note also that there is no space between N. and C. (N.C.) or S. and C. (S.C.) or W. and Va. (W.Va.).
+**Abbreviations:** Always use the approved Library of Congress state abbreviations when the state is a modifier. Note that these are NOT the 2-letter standard United States Post Office abbreviations. Note also that there is no space between N. and C. (N.C.) or S. and C. (S.C.) or W. and Va. (W.Va.).
 
 - :smiley: _Chapel Hill, N.C._
 
@@ -552,37 +540,37 @@ NOT the 2-letter standard United States Post Office abbreviations. Note also tha
 
 ## Titles (published works)
 
-Use ```<title>``` tags to add italics or quotation marks to formal titles; use ```<emph>``` tags to add bold, italic, or quotation marks in all other cases.
+Use `<title>` tags to add italics or quotation marks to formal titles; use `<emph>` tags to add bold, italic, or quotation marks in all other cases.
 
-**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the ```</title>``` tag comes before any ending punctuation. 
+**Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the `</title>` tag comes before any ending punctuation. 
 
-- :smiley: _In his_ ```<title render="italic">Dictionary of North Carolina Biography</title>,``` _Powell ..._
+- :smiley: _In his_ `<title render="italic">Dictionary of North Carolina Biography</title>,` _Powell ..._
 
-- :smiley: _Her column appeared in the_ ```<title render="italic">Charlotte News</title>,``` _1942-1953._
+- :smiley: _Her column appeared in the_ `<title render="italic">Charlotte News</title>,` _1942-1953._
 
-- :smiley: _He wrote for the_ ```<title render="italic">New York Times Book Review</title>``` _regularly between 1966 and 1970._
+- :smiley: _He wrote for the_ `<title render="italic">New York Times Book Review</title>` _regularly between 1966 and 1970._
 
-- :smiley: _His poetry collection,_ ```<title render="italic">Call of the Wildest</title>``` _(Oxford, 1951), won the North Carolina Weird Poetry Society award in 1952._
+- :smiley: _His poetry collection,_ `<title render="italic">Call of the Wildest</title>` _(Oxford, 1951), won the North Carolina Weird Poetry Society award in 1952._
 
-- :smiley: _He wrote extensively about seeing a production of_ ```<title render="italic">The Emperor Jones</title>``` _in 1939._
+- :smiley: _He wrote extensively about seeing a production of_ `<title render="italic">The Emperor Jones</title>` _in 1939._
 
-**Quotation marks:** Use quotation marks for theses, dissertations, short stories, short poems, chapters, journal and newspaper articles, columns, and all unpublished works regardless of length. Make sure the ```</title>``` tag comes before or after punctuation as appropriate.
+**Quotation marks:** Use quotation marks for theses, dissertations, short stories, short poems, chapters, journal and newspaper articles, columns, and all unpublished works regardless of length. Make sure the `</title>` tag comes before or after punctuation as appropriate.
 
-- :smiley: _His novel,_ ```<title render="doublequote">Wilder West,</title>``` _was never published._
+- :smiley: _His novel,_ `<title render="doublequote">Wilder West,</title>` _was never published._
 
-- :smiley: _Her column,_ ```<title render="doublequote">Little Moi,</title>``` _appeared in the_ ```<title render="italic">Chapel Hill Messenger</title>,``` _1909-1910._
+- :smiley: _Her column,_ `<title render="doublequote">Little Moi,</title>` _appeared in the_ `<title render="italic">Chapel Hill Messenger</title>,` _1909-1910._
 
-- :smiley: _His poem,_ ```<title render="doublequote">Now There Are None</title>``` _won the Minor Poets of Portland award in 1902._
+- :smiley: _His poem,_ `<title render="doublequote">Now There Are None</title>` _won the Minor Poets of Portland award in 1902._
 
-## ```<Title>``` versus ```<Emph>```
+## `<Title>` versus `<Emph>`
 
-```<title>``` and ```<emph>``` result in the same outputs to the screen, but they're not the same intellectually. ```<title>``` is for titles, italic or quoted; ```<emph>``` supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct ```<emph>``` usage include:  
+`<title>` and `<emph>` result in the same outputs to the screen, but they're not the same intellectually. `<title>` is for titles, italic or quoted; `<emph>` supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct `<emph>` usage include:  
 
-- :smiley: _The letter indicates that she was_ ```<emph render="doublequote">goosed</emph>``` _by the soldier._
+- :smiley: _The letter indicates that she was_ `<emph render="doublequote">goosed</emph>` _by the soldier._
 
-- :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote,_ ```<emph render="doublequote">What the <emph render="italic">HELL</emph> am I doing here?</emph>```
+- :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote,_ `<emph render="doublequote">What the <emph render="italic">HELL</emph> am I doing here?</emph>`
 
-- :smiley: _Her name was McGill, and she called herself_ ```<emph render="doublequote">Lil,</emph>``` _but everyone knew her as_ ```<emph render="doublequote">Nancy.</emph>```  
+- :smiley: _Her name was McGill, and she called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as_ `<emph render="doublequote">Nancy.</emph>` 
 
 ## Dates
 
@@ -647,8 +635,7 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 # Spaces and Dashes
 
-**One space rules:** Always use ONE space after punctuation (periods, colons, whatever). In an EAD finding aid, there is never a time 
-that you need more than one space in a row. 
+**One space rules:** Always use ONE space after punctuation (periods, colons, whatever). In an EAD finding aid, there is never a time that you need more than one space in a row. 
 
 - :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
 
@@ -662,19 +649,19 @@ that you need more than one space in a row. 
 
 Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
-- :rage: ```<bioghist><head>Biographical Note</head>•```_Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam.••_
+- :rage: `<bioghist><head>Biographical Note</head>•`_Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam.••_
 
-- :smiley: ``<bioghist><head>Biographical Note</head>```_Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam._
+- :smiley: `<bioghist><head>Biographical Note</head>`_Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam._
 
-- :rage: ```<unittitle>•<unitdate>1922</unitdate></unittitle>```
+- :rage: `<unittitle>•<unitdate>1922</unitdate></unittitle>`
 
-- :smiley: ```<unittitle><unitdate>1922</unitdate></unittitle>```
+- :smiley: `<unittitle><unitdate>1922</unitdate></unittitle>`
 
-- :rage: ```<c02><did><container type="folder">•1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>```
+- :rage: `<c02><did><container type="folder">•1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
-- :rage: ```<c02><did><container type="folder">1</container><unittitle>•Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>```
+- :rage: `<c02><did><container type="folder">1</container><unittitle>•Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
-- :smiley: ```<c02><did><container type="folder">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>```
+- :smiley: `<c02><did><container type="folder">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
 
 # Civil War letters
@@ -691,13 +678,12 @@ When describing a letter written by a Civil War soldier, if possible, include th
 
 - what battles are being described
 
-If you are describing the letters in more depth, you can include information about camp life, sickness, death, and other cheerful 
-wartime subjects.  
+If you are describing the letters in more depth, you can include information about camp life, sickness, death, and other cheerful wartime subjects.  
 
 
 # UNC
 
-**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with ```<corpname>``` if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
+**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with `<corpname>` if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
 
 
 # Miscellaneous
