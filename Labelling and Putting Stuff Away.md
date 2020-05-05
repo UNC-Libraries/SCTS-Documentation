@@ -2,13 +2,13 @@
 
 **Dawne needs to update to include ArchivesSpace location information**
 
-- [Looking up Locations in ArchivesSpace](#looking-up-locations-in-archivesspace)
+- [Creating locations in ArchivesSpace](#creating-locations-in-archivesspace)
 - [Labels](#labels)
 - [Items Separated](#items-separated)
 
 ***
 
-# Looking up Locations in ArchivesSpace
+# Creating locations in ArchivesSpace
 
 ## Why keep track of locations?
 
@@ -24,7 +24,7 @@ With so many collections and so many formats dispersed throughout the stacks it 
 
 ## How do I access ArchivesSpace?
 
-To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password or the reading room account. 
+To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password. 
 
 <!-- It works best if you open Access first, and from Access open the Location Database. 
 
