@@ -1,16 +1,16 @@
 # Overview
 
-- Diacritics
-- Deaccessioned
-- Copyright
-- Restrictions
-- Original Order
-- Ethical Description
+- [Diacritics](#diacritics)
+- [Deaccessioned](#deaccessioned)
+- [Copyright](#copyright)
+- [Restrictions](#restrictions)
+- [Original Order](#original-order)
+- [Ethical Description](#ethical-description)
 
 
 # Diacritics
 
-Diacritics and other special characters have been omitted from this finding aid to facilitate keyword searching in web browsers.  
+Diacritics and other special characters have been omitted from this finding aid to facilitate keyword searching in web browsers. 
 
 
 # Deaccessioned
