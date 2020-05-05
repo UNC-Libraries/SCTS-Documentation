@@ -85,7 +85,9 @@ If you're revising an EAD-encoded finding aid that was written in the 2000s and 
 If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the `<revisiondesc>` tags after `</profiledesc>` and before `</eadheader>`:
 
 ```
-</profiledesc><revisiondesc><change><date>May 2020</date><item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item></change></revisiondesc> </eadheader>
+</profiledesc><revisiondesc><change><date>May 2020</date>
+<item>Updated because of addition (Acc. 20200224.1) 
+by Nancy Kaiser</item></change></revisiondesc> </eadheader>
 ```
 
 If yours is NOT the finding aid's first revision (there's already a `<revisiondesc>` section, just add a new set of <change> tags:
@@ -98,13 +100,14 @@ _Adding revision statements to <processinfo> in <archdesc>:_
 
 We are committed to transparency so you'll also need to add revision information to <archdesc> so that it will display in the finding aid. For minor additions, you may just be adding another name and date to the processing information already there.
 
-
-`<processinfo><head>Processing Information</head>
+```
+<processinfo><head>Processing Information</head>
 <p>Processed by: Nancy Kaiser, January 2010</p>
 <p>Encoded by: Nancy Kaiser, January 2010</p>
-<p>Revisions by: Anne Wells, April 2017; Patrick Cullom, January 2020; (your name, date).</p>
-</processinfo>`
-
+<p>Revisions by: Anne Wells, April 2017; 
+Patrick Cullom, January 2020; (your name, date).</p>
+</processinfo>
+```
 
 When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive processing info statements <link> that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
 
