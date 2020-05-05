@@ -74,7 +74,11 @@ _Adding revision statements to `<revisiondesc>` in the `<eadheader>`:_
 
 If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the `<revisiondesc>` tags for entering revision information in the `<eadheader>` should be the first commented-out area you encounter:
 
-`<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid. <revisiondesc><change><date>Date of change</date><item>Updated because of ?</item></change></revisiondesc>-->`
+```
+<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid. 
+<revisiondesc><change><date>Date of change</date><item>
+Updated because of ?</item></change></revisiondesc>-->
+```
 
 If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the `<revisiondesc>` tags after `</profiledesc>` and before `</eadheader>`:
 
@@ -86,7 +90,10 @@ by Nancy Kaiser</item></change></revisiondesc> </eadheader>
 
 If yours is NOT the finding aid's first revision (there's already a `<revisiondesc>` section, just add a new set of <change> tags:
 
-`<change><date>February 2020</date><item>Updated for addition (Acc. 20200110.4) by Nancy Kaiser</item></change>`
+```
+<change><date>February 2020</date><item>Updated for addition 
+(Acc. 20200110.4) by Nancy Kaiser</item></change>
+```
 
 _Adding revision statements to <processinfo> in <archdesc>:_
 
@@ -124,23 +131,35 @@ _Between the `<dsc>`:_
 
 When you add your new series, whether integrated intellectually, or appended to the end, it should look like this:
 
-`<c01 level="series"><did><unittitle>Papers and Digital Files, <unitdate normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 2020).</unittitle>`
+```
+<c01 level="series"><did><unittitle>Papers and Digital Files, <unitdate 
+normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 2020).
+</unittitle>
 
-`<physdesc><extent>1000 paper items / 1 gigabyte (17 digital files).</extent></physdesc><did>`
+<physdesc><extent>1000 paper items / 1 gigabyte (17 digital files).</extent>
+</physdesc><did>
 
-`<arrangement><p>Arrangement: as received. (Most likely you are just rehousing into archival boxes.)</p></arrangement>`
+<arrangement><p>Arrangement: as received. (Most likely you are just rehousing into 
+archival boxes.)</p></arrangement>
 
-`<acqinfo><p>Acquisitions Information: Accession 20200124.2)</p></acqinfo>`
+<acqinfo><p>Acquisitions Information: Accession 20200124.2)</p></acqinfo>
 
-`<processinfo><p>Processing Note: Sometimes we want to communicate to researchers that we really do not know what is in the addition we are making available for use. Be sure to use one of the boilerplate processing notes <link>. This is also where you will note any archivist interventions, such as arrangement imposed or materials appraised out of the addition.</p></processinfo>`
+<processinfo><p>Processing Note: Sometimes we want to communicate to researchers 
+that we really do not know what is in the addition we are making available for use. 
+Be sure to use one of the boilerplate processing notes <link>. This is also where 
+you will note any archivist interventions, such as arrangement imposed or materials 
+appraised out of the addition.</p></processinfo>
 
-`<scopecontent><p>Overview of the addition. (Probably this will be same brief description as you added to the Collection Overview.</p></scopecontent>`
+<scopecontent><p>Overview of the addition. (Probably this will be same brief description
+as you added to the Collection Overview.</p></scopecontent>
 
-`<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle></did></c02></c01>`
+<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle>
+</did></c02></c01>
 
-`<c02><did><container type=”digfolder”><extref href=”lettersandnumbers”>DF-90999/1</extref></container><unittitle>Papers, 1990-2000</unittitle></did></c02>
-</c01>`
-
+<c02><did><container type=”digfolder”><extref href=”lettersandnumbers”>DF-90999/1</extref>
+</container><unittitle>Papers, 1990-2000</unittitle></did></c02>
+</c01>
+```
 
 # Other Unusual Situations
 
@@ -152,12 +171,15 @@ In the finding aid:
 
 You still have to record the edits in the <revision> section, and to update the acquisitions information at the collection level. Because we do drop-ins only for items with low anticipated research value, it is less likely that you will need to amend title, collection dates, extent, and abstract. Of course you should make those changes as needed.
 
-Also add an < acqinfo > statement at the container level:
+Also add an `<acqinfo>` statement at the container level:
 
-`<c02><did><container type=”folder”>100</container><unittitle>Correspondence, 1865</unittitle></did>
-<acqinfo><p>Acquisitions Information: Letter, 10 April 1865, was received as Accession 109832</p></acqinfo></c02>`
+```
+<c02><did><container type=”folder”>100</container><unittitle>
+Correspondence, 1865</unittitle></did><acqinfo><p>Acquisitions Information: 
+Letter, 10 April 1865, was received as Accession 109832</p></acqinfo></c02>
+```
 
->Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized.
+> Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized.
 
 _Folder only_
 
@@ -165,13 +187,19 @@ Similarly, it occasionally makes sense to integrate a single folder into the ori
 
 Write "Addition of ___" and the accession number on the folder.
 
-In the finding aid, add an <acqinfo> statement at the container level:
+In the finding aid, add an `<acqinfo>` statement at the container level:
 
-`<c02><did><container type=”audiotape”>F-20025/934</container><unittitle>Bluegrass performance, 1978</unittitle></did>
-<acqinfo><p>Acquisitions Information: Accession 109832</p></acqinfo></c02>`
+```
+<c02><did><container type=”audiotape”>F-20025/934</container><unittitle>
+Bluegrass performance, 1978</unittitle></did><acqinfo><p>Acquisitions Information: 
+Accession 109832</p></acqinfo></c02>
+```
 
 And at the series level:
 
-`<acqinfo><p>Acquisitions Information: F-20025/934 received as Addition of October 2016 (Acc. 102664).</p></acqinfo>`
+```
+<acqinfo><p>Acquisitions Information: F-20025/934 received as Addition 
+of October 2016 (Acc. 102664).</p></acqinfo>
+```
 
 Sometimes not all the materials in the addition will be made usable at the same time, especially when there are born digital materials. Be sure to add one of the Access Restriction statements if that is the case. 
