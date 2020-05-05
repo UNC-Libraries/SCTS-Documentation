@@ -11,7 +11,8 @@
 We often receive material that is related to collections that are already here. Instead of making a new collection, we add this material to the existing collection. Additions are maintained separately in a physical sense, but we try to integrate them intellectually with materials received previously to facilitate discovery. Sometimes this is easily done; sometimes it is better to append new description to the end of the finding aid.
 
 If the materials in the addition clearly mimic the materials in the original deposit you can use the same arrangement in your addition. 
-Note that the “A” is for Addition, to distinguish it from the original deposit. Use the “A” whether you are adding to an existing series or creating a new one. Always add the date of the accession in parentheses after the series title.
+
+> Note that the “A” is for Addition, to distinguish it from the original deposit. Use the “A” whether you are adding to an existing series or creating a new one. Always add the date of the accession in parentheses after the series title.
 
 Series 1. Correspondence
 
@@ -83,9 +84,9 @@ If you're revising an EAD-encoded finding aid that was written in the 2000s and 
 
 If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the `<revisiondesc>` tags after `</profiledesc>` and before `</eadheader>`:
 
-
-`</profiledesc><revisiondesc><change><date>May 2020</date><item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item></change></revisiondesc> </eadheader>`
-
+```
+</profiledesc><revisiondesc><change><date>May 2020</date><item>Updated because of addition (Acc. 20200224.1) by Nancy Kaiser</item></change></revisiondesc> </eadheader>
+```
 
 If yours is NOT the finding aid's first revision (there's already a `<revisiondesc>` section, just add a new set of <change> tags:
 
