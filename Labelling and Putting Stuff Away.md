@@ -30,9 +30,9 @@ To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in usin
 
 The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored -->
 
-## Deciphering the Database
+<!-- ## Deciphering the Database
 
-<!-- With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. 
+With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. 
 
 Each database field is described in detail below, including the purpose of each field, the type of information it should contain, and the way you should format data in each column. As you will see, some fields are more complicated than others. All of these column names use terminology from the Archivists' Toolkit, sometimes this is confusing. 
 
@@ -68,7 +68,7 @@ The H2_Label column records the container type of whatever container is listed i
 
 These columns designate the range of container numbers. It will ALWAYS be a span--even if there is only one folder or box. Simply repeat the number in both columns. 
 
-If your H2 label is a records box or document case, only record one box per line. DO NOT record a span of record boxes of 1 to 2. The span will be 1 to 1 in one line, and then 2 to 2 in the next line, and so on. 
+If your H2 label is a records box or document case, only record one box per line. DO NOT record a span of record boxes of 1 to 2. The span will be 1 to 1 in one line, and then 2 to 2 in the next line, and so on. -->
 
 ## A note on the set-up of the Wilson Stacks
 
@@ -88,7 +88,7 @@ This column will be an uppercase letter from A-Z, describing an area within the 
 
 This will be a number describing a range within an area. Check the sign on the end of range to find the coordinate range number. 
 
-### Coordinate slide
+### Coordinate side
 
 This will be either a lowercase a or b, describing which side of the range the shelf is on. 
 
@@ -104,7 +104,7 @@ For the time being, we can safely assume that all of the collections we'll be de
 
 Which floor is the container on? Typically 3, 5, 9 or 10 (and now 7). 
 
-## ID number
+<!-- ## ID number
 
 The ID number is automatically generated every time you add a record to the database. The number exists only to ensure that each row has a unique identifier in the database. This field can be sorted in order to track the order in which records have been entered into the database. 
 
@@ -146,6 +146,7 @@ Resource_ID H1_Label H1_Value H2_Label H2_Value_1 H2_Value_2 area coordinate ran
 | **05231**       | oversize box  | 201          | oversize paper folder | 8              | 14             | R        | 10                   | a                   | 2                    | Wilson       | 10        | Orange   | 11268         |
 | **05231**       | oversize box  | 200          | oversize image folder | 1              | 2              | R        | 7                    | a                   | 1                    | Wilson       | 10        | Orange   | 11269         |
 
+--> 
 ## Other notes
 
 Some format types still have unusual exceptions to the above instructions, such as extra oversize papers that go in map cases. Just ask if you're unsure about how to handle a particular format, or have any other questions! 
