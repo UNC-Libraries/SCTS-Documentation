@@ -12,9 +12,9 @@
 
 # Container Types
 
-Here is the list of container types for the _type_ attribute in the ```<container>``` tag (note that this attribute is case sensitive). Anyone needing another type of container can ask Lynn to expand the list.   
+Here is the list of container types for the _type_ attribute in the `<container>` tag (note that this attribute is case sensitive). Anyone needing another type of container can ask Lynn to expand the list.   
 
-| **Display Names**                              | ```<container type=>``` | Invidual Item/Folder/Box Style        |
+| **Display Names**                              | `<container type=>`     | Invidual Item/Folder/Box Style        |
 | ---------------------------------------------- | ------------------------| ------------------------------------- | 
 | **8-Track Tape**                               | 8t                      | 8T-#                                  |
 | **Audiocassette**                              | audiocassette           | C-collection#/item#                   |
@@ -95,7 +95,7 @@ Example:
 
 ![Changed record with improved tags](https://user-images.githubusercontent.com/58087302/78701232-abdcde00-78d4-11ea-8f50-06546165d184.jpeg "Example with changes")
 
-In this example, I want to **remove the ```<emph render=”doublequote”>``` from the scope content notes (Location and Photographer) but NOT from the ```<unittitle>```**. In this particular finding aid, there are tens of thousands of entries; each with different locations and photographers. Add to it that I **don’t want to touch the other ```<emph render=”doublequote”>``` tags in each entry.** The solution is using the REGULAR EXPRESSION feature available in the Oxygen “Find and Replace” feature. First, let me state: I AM NOT A PROGRAMMER in any sense of the word, but I have spent the last few years learning about Python and Regular Expression and how they can be used to navigate the world of EAD/XML especially in regards to the creation of POWERFULL search features.  
+In this example, I want to **remove the `<emph render=”doublequote”>` from the scope content notes (Location and Photographer) but NOT from the `<unittitle>`**. In this particular finding aid, there are tens of thousands of entries; each with different locations and photographers. Add to it that I **don’t want to touch the other `<emph render=”doublequote”>` tags in each entry.** The solution is using the REGULAR EXPRESSION feature available in the Oxygen “Find and Replace” feature. First, let me state: I AM NOT A PROGRAMMER in any sense of the word, but I have spent the last few years learning about Python and Regular Expression and how they can be used to navigate the world of EAD/XML especially in regards to the creation of POWERFULL search features.  
 
 I will show how to use Regular Expression within Oxygen to make the changes shown above.  
 
@@ -115,7 +115,7 @@ I will show how to use Regular Expression within Oxygen to make the changes show
 
 ![Windowed text 1](https://user-images.githubusercontent.com/58087302/78702032-f3179e80-78d5-11ea-841a-d831f578122f.jpeg "Example within instructions 2")
 
-In this case, what I want to do is strip out the ```<emph render=”doublequote”>``` and ```</emph>``` tags from the scope content portion and nowhere else. In this case, all of the tags I am looking to replace are nested in "p" tags found within the scopecontent feature. This is a great use for regular expression.  
+In this case, what I want to do is strip out the `<emph render=”doublequote”>` and `</emph>` tags from the scope content portion and nowhere else. In this case, all of the tags I am looking to replace are nested in "p" tags found within the scopecontent feature. This is a great use for regular expression.  
 
 Simply put, Regular Expression is a set of special (predefined) characters that can be used to parse stings of characters and identify patterns. It is more complex than that, but for our purposes, this is good. (There are lots of sites out there but check out : http://www.regular-expressions.info/reference.html)  
 
@@ -145,7 +145,7 @@ Letters can appear in single folder numbers but they cannot appear in ranges. Fo
 
 For containers with prefixes, write as P-0345/1, P-0345/2 , and P-0345/3, rather than as a range: P-0345/1-3 even if they have the same unit titles. (via Laura Hart, January 2017) 
 
-Do not encode multiple, non-sequential container numbers in the same ```<container>```. For example, if both folder 14 and folder 18 have information on Martians, do not write ```<container type='folder'>14, 18</container>```. In this case, you should encode them separately.(check with Lynn) 
+Do not encode multiple, non-sequential container numbers in the same `<container>`. For example, if both folder 14 and folder 18 have information on Martians, do not write `<container type='folder'>14, 18</container>`. In this case, you should encode them separately.(check with Lynn) 
 
 Do not encode multiple unittitles in one c0x. We prefer multiple c0x with a repeating container, which is automatically suppressed so that you end up just seeing the multiple unittitles. 
 
