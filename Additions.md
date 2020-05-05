@@ -22,8 +22,6 @@ Series 2. Diaries
 
 Series 3. Pictures
 
-
-
 Perhaps the addition consists of several different kinds of materials. For a variety of reasons, it may not make sense to divide these up according to the original series arrangement:
 
 Series 1. Correspondence
@@ -33,7 +31,6 @@ Series 2. Diaries
 Series 3. Pictures
 
 **Series 4A. Papers (Addition of February 2005)**
-
 
 Many of our collections receive subsequent additions over many years. You may use multiple different strategies.
 
@@ -53,7 +50,6 @@ Series 3. Pictures
 
 **Series 5A. Audio Visual (Addition of April 2015)**
 
-
 Sometimes with organizational records and family collections with a lot of additions, it is easiest just to append the additions to the end, with no arrangement or intellectual integration of the material. Sometimes there is material that overlaps with the original deposit and sometimes there is new material that does not. Until researcher interest proves otherwise, we simply note
 the additions and move on.
 
@@ -64,7 +60,6 @@ the additions and move on.
 **2A. Foundation Records, 1983-1989 (Addition of March 1997).**
 
 **2A. Foundation Records, 1970-1992 (Addition of March 1998).**
-
 
 We have a long and complicated history with additions so you might encounter all kinds of variations on the above examples. Usually it is most expedient to follow the arrangement that already exists, though sometimes it makes sense to do minor re-coding to bring clarity. 
 
@@ -81,7 +76,6 @@ If you're revising an EAD-encoded finding aid that was written in the 2000s and 
 
 `<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid. <revisiondesc><change><date>Date of change</date><item>Updated because of ?</item></change></revisiondesc>-->`
 
-
 If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the `<revisiondesc>` tags after `</profiledesc>` and before `</eadheader>`:
 
 ```
@@ -92,9 +86,7 @@ by Nancy Kaiser</item></change></revisiondesc> </eadheader>
 
 If yours is NOT the finding aid's first revision (there's already a `<revisiondesc>` section, just add a new set of <change> tags:
 
-
 `<change><date>February 2020</date><item>Updated for addition (Acc. 20200110.4) by Nancy Kaiser</item></change>`
-
 
 _Adding revision statements to <processinfo> in <archdesc>:_
 
@@ -125,33 +117,24 @@ Collection overview: This will change, even if the abstract does not. Typically 
 
 [Acquisition](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#acquisition): Information should be updated to include the donor, date, and accession information.
 
-
 If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
 Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
-
 
 _Between the `<dsc>`:_ 
 
 When you add your new series, whether integrated intellectually, or appended to the end, it should look like this:
 
-
 `<c01 level="series"><did><unittitle>Papers and Digital Files, <unitdate normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 2020).</unittitle>`
-
 
 `<physdesc><extent>1000 paper items / 1 gigabyte (17 digital files).</extent></physdesc><did>`
 
-
 `<arrangement><p>Arrangement: as received. (Most likely you are just rehousing into archival boxes.)</p></arrangement>`
-
 
 `<acqinfo><p>Acquisitions Information: Accession 20200124.2)</p></acqinfo>`
 
-
 `<processinfo><p>Processing Note: Sometimes we want to communicate to researchers that we really do not know what is in the addition we are making available for use. Be sure to use one of the boilerplate processing notes <link>. This is also where you will note any archivist interventions, such as arrangement imposed or materials appraised out of the addition.</p></processinfo>`
 
-
 `<scopecontent><p>Overview of the addition. (Probably this will be same brief description as you added to the Collection Overview.</p></scopecontent>`
-
 
 `<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle></did></c02></c01>`
 
@@ -176,7 +159,6 @@ Also add an < acqinfo > statement at the container level:
 
 >Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized.
 
-
 _Folder only_
 
 Similarly, it occasionally makes sense to integrate a single folder into the original deposit rather than to create a new series. Unlike drop-ins, this addition likely will be filed physically at the end of the collection but will be listed with the original deposit where it fits intellectually. 
@@ -188,11 +170,8 @@ In the finding aid, add an <acqinfo> statement at the container level:
 `<c02><did><container type=”audiotape”>F-20025/934</container><unittitle>Bluegrass performance, 1978</unittitle></did>
 <acqinfo><p>Acquisitions Information: Accession 109832</p></acqinfo></c02>`
 
-
 And at the series level:
 
-
 `<acqinfo><p>Acquisitions Information: F-20025/934 received as Addition of October 2016 (Acc. 102664).</p></acqinfo>`
-
 
 Sometimes not all the materials in the addition will be made usable at the same time, especially when there are born digital materials. Be sure to add one of the Access Restriction statements if that is the case. 
