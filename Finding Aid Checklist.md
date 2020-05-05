@@ -80,7 +80,10 @@ addition of DATE (Acc. XXXXXX) by NAME. Last folder
 
 List relevant related collections. Hyperlinking other UNC collections is now possible (example below).  
 
-```<item><extref href="http://finding-aids.lib.unc.edu/20386/">Ken Griffis Collection (#20386)</extref></item>```
+```
+<item><extref href="http://finding-aids.lib.unc.edu/20386/">
+Ken Griffis Collection (#20386)</extref></item>
+```
 
 ## Restrictions
 
