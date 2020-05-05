@@ -18,7 +18,7 @@ In brief, recording locations allows staff--especially Research and Instructiona
 
 Many collections contain material in several different formats--folders of paper, photographs, oversize materials, audiotapes, videotapes, film, etc. Generally, each format is shelved in a different location in the stacks to maximize shelf space and to aid in preservation. Sometimes additions to collections are also housed apart from the original deposit even if they contain the same type or format of materials. Because additions are often acquired over many years, they are usually shelved wherever shelf space is currently available. 
 
-With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in the Location Database! 
+With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in ArchivesSpace! 
 
 > NOTE: For right now, you can use ArchivesSpace to look for locations for circulating materials ONLY, which is why you won't see things in the location database like audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx. 
 
