@@ -36,13 +36,15 @@ Collection level records for unprocessed materials will contain the elements pre
 
 - Extent Element (2.5):
 
-```<physdesc label="Extent"> <extent encodinganalog="300">Add extent here. It can be rough.</extent> </physdesc>```
+```
+<physdesc label="Extent"> <extent encodinganalog="300">Add extent here. It can be rough.</extent> </physdesc>
+```
 
 - Name of Creator(s) Element (2.6) (if known) : we will check our catalog and LC authorities
 
 - Conditions Governing Access Element (4.1): This collection is not available for immediate or same day access. Please contact Research and Instructional Service staff at wilsonlibrary@unc.edu to discuss options for consulting this collection.  
 
-> Revise attribute: ```<accessrestrict type="unprocessed">```
+> Revise attribute: `<accessrestrict type="unprocessed">`
 
 - Languages and Scripts of the Material Element (4.5)
 
@@ -74,15 +76,15 @@ If present in the AT record:
 
 4. Remove type="unprocessed" from the accessrestrict tag. 
 
-   - ```<accessrestrict type="unprocessed">``` becomes just ```<accessrestrict>```
+   - `<accessrestrict type="unprocessed">` becomes just `<accessrestrict>`
    
-   - Unless there are restrictions on the collection, remove the restriction note within the ```<p>``` tags and replace with ```<p>No restrictions. Open for research.</p>```
+   - Unless there are restrictions on the collection, remove the restriction note within the `<p>` tags and replace with `<p>No restrictions. Open for research.</p>`
    
 5. Add identity to the abstract if you can make a reasonable assumption. 
    
-6. Remove the comment out tags (```<!-- -->```) from the userestrict. Should read ```<p>No usage restrictions.</p>``` unless restrictions apply. 
+6. Remove the comment out tags (`<!-- -->`) from the userestrict. Should read `<p>No usage restrictions.</p>` unless restrictions apply. 
    
-7. Remove the comment out tags from acqinfo and include acquisitions information and accession number within the ```<p>``` tags. 
+7. Remove the comment out tags from acqinfo and include acquisitions information and accession number within the `<p>` tags. 
    
    Example:
       
@@ -96,19 +98,21 @@ If present in the AT record:
    </acqinfo> 
    ```
 
-8. In ```<processinfo>```, remove the summary description (This summary description was created...), and replace with <p>Processed by [your name], [month year] 
+8. In `<processinfo>`, remove the summary description (This summary description was created...), and replace with `<p>Processed by [your name], [month year]`
 
-   - Add ```<p></p>``` tags, and put the identity statement between them. 
+   - Add `<p></p>` tags, and put the identity statement between them. 
    
-     ```<p>Since August 2017, we have added ethnic identities for individuals and families represented in collections. To determine ethnic identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Omissions of ethnic identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual’s preference for ethnicity to be excluded from description. When we have misidentified, please let us know at wilsonlibrary@email.unc.edu.</p>``` 
+     ```
+     <p>Since August 2017, we have added ethnic identities for individuals and families represented in collections. To determine ethnic identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Omissions of ethnic identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual’s preference for ethnicity to be excluded from description. When we have misidentified, please let us know at wilsonlibrary@email.unc.edu.</p>
+     ``` 
 
-9. Add container list under ```<head>Detailed Description of the Collection</head>
+9. Add container list under `<head>Detailed Description of the Collection</head>`
 
    - Remove the coment out tags.
    
    - Remove "Enter Description Information Here" and replace with container list.
    
-   - Start with ```<c01>``` tags.
+   - Start with `<c01>` tags.
    
      ```
      <c01 level="collection"> 
@@ -118,7 +122,7 @@ If present in the AT record:
      </c01> 
      ```
 
-   - Add ```<c02>``` tags for each container listing, between ```</did>``` and ```</c01>```
+   - Add `<c02>` tags for each container listing, between `</did>` and `</c01>`
    
      ```
      <c01 level="collection"> 
@@ -128,6 +132,7 @@ If present in the AT record:
           <c02><did><container type="[container type]">[Container number]</container><unittitle>[Box/folder title]</unittitle></did></c02> 
 
      </c01> 
+     ```
 
    - Refer to container type list under the EAD tab of the notebook for valid container types and how to write container numbers. 
 
@@ -135,15 +140,15 @@ If present in the AT record:
 
 10. Optional tags:
 
-    - ```<scopecontent><p>[Scope/content note]</p></scopecontent>```
+    - `<scopecontent><p>[Scope/content note]</p></scopecontent>`
    
-      - Use for notes about content of the container that's not in the title. Goes between ```</did>``` and ```</c02>```
+      - Use for notes about content of the container that's not in the title. Goes between `</did>` and `</c02>`
       
-    - ```<accessrestrict><p>[Restriction note]</p></accessrestrict>```
+    - `<accessrestrict><p>[Restriction note]</p></accessrestrict>`
     
-      - Use for restrictions on containers. Goes between ```</did>``` and ```</c02>```
+      - Use for restrictions on containers. Goes between `</did>` and `</c02>`
       
-    - For titles that need to be in italics, use ```<title render="italic">[Title]</title>```
+    - For titles that need to be in italics, use `<title render="italic">[Title]</title>`
     
     - Copy/paste any diacritics. 
     
@@ -174,7 +179,7 @@ If present in the AT record:
 
 7. Fill out the creator, extent, and abstract. Add a bio/hist and scope/content if included in the ticket. 
 
-   - Creator could use ```<persname>```, ```<corpname>```, or ```<famname>``` depending on type of creator. 
+   - Creator could use `<persname>`, `<corpname>`, or `<famname>` depending on type of creator. 
    
    - You may only be given one form of extent (item count or linear feet). If so, just include it in the correct tags and comment out the other field. 
    
@@ -182,7 +187,9 @@ If present in the AT record:
    
    - If including a bioghist note, change the header to either Biographical or Historical depending on the type of note. E.g.
    
-     ```<head>Biographical/Historical Note</head> becomes <head>Biographical Note</head> ```
+     ```
+     <head>Biographical/Historical Note</head> becomes <head>Biographical Note</head>
+     ```
      
 8. Transform the file and check everything over. 
 
