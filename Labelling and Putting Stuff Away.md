@@ -1,6 +1,5 @@
 # Overview
 
-**Dawne needs to update to include ArchivesSpace location information**
 
 - [Creating locations in ArchivesSpace](#creating-locations-in-archivesspace)
 - [Labels](#labels)
@@ -9,6 +8,8 @@
 ***
 
 # Creating locations in ArchivesSpace
+
+_Updated May 2020_
 
 ## Why keep track of locations?
 
@@ -22,59 +23,65 @@ With so many collections and so many formats dispersed throughout the stacks it 
 
 > NOTE: For right now, you can use ArchivesSpace to look for locations for circulating materials ONLY, which is why you won't see things in the location database like audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx. 
 
-## How do I access ArchivesSpace?
 
-To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password. 
 
-<!-- It works best if you open Access first, and from Access open the Location Database. 
+<!-- It works best if you open Access first, and from Access open the Location Database. -->
 
-The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored -->
+<!-- The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored -->
 
 <!-- ## Deciphering the Database
 
-With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. 
+<!-- With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. -->
 
-Each database field is described in detail below, including the purpose of each field, the type of information it should contain, and the way you should format data in each column. As you will see, some fields are more complicated than others. All of these column names use terminology from the Archivists' Toolkit, sometimes this is confusing. 
+<!-- Each database field is described in detail below, including the purpose of each field, the type of information it should contain, and the way you should format data in each column. As you will see, some fields are more complicated than others. All of these column names use terminology from the Archivists' Toolkit, sometimes this is confusing. -->
 
-For materials in records cartons or document cases, each box is tracked in a separate row in the database. Yes, this is a lot of data entry. -->
+<!-- For materials in records cartons or document cases, each box is tracked in a separate row in the database. Yes, this is a lot of data entry. -->
 
-## Resource ID
+<!-- ## Resource ID -->
 
-The Resource ID column records the collection or record group number as a 5-digit number. (Add enough zeroes to make it 5 digits: 00234, for example.) You will enter the collection number for your collection every time you create a record (row) in the database. The Resource ID field can be sorted numerically to group all entries for a single collection together. This is helpful when you want to see all of the materials and formats for a collection together in one place. 
+<!-- The Resource ID column records the collection or record group number as a 5-digit number. (Add enough zeroes to make it 5 digits: 00234, for example.) You will enter the collection number for your collection every time you create a record (row) in the database. The Resource ID field can be sorted numerically to group all entries for a single collection together. This is helpful when you want to see all of the materials and formats for a collection together in one place. -->
 
-##  A note on H1 and H2
+<!-- ##  A note on H1 and H2 -->
 
-This system is based on the idea of having numbered folders in numbered boxes, but can be adapted to most any of our locations situations. 
+<!-- This system is based on the idea of having numbered folders in numbered boxes, but can be adapted to most any of our locations situations. -->
 
-H1 stands for Hierarchy 1. H1 represents the container that is NOT listed in the finding aid. In the H1 columns, we record the information about the boxes in the box/folder scenario presented above. If you only have boxes and no folder numbers, you will record the information about the boxes to the H2 columns and record "Blank" in the H1 columns. 
+<!-- H1 stands for Hierarchy 1. H1 represents the container that is NOT listed in the finding aid. In the H1 columns, we record the information about the boxes in the box/folder scenario presented above. If you only have boxes and no folder numbers, you will record the information about the boxes to the H2 columns and record "Blank" in the H1 columns. -->
 
-The H2 or Hierarchy 2 columns record information about whatever container is listed in the finding aid. We typically record folder numbers in the finding aid, but not the numbers of the boxes that they live in. Information about the folders would go in the H2 columns. 
+<!-- The H2 or Hierarchy 2 columns record information about whatever container is listed in the finding aid. We typically record folder numbers in the finding aid, but not the numbers of the boxes that they live in. Information about the folders would go in the H2 columns. -->
 
-The H2 fields are never blank. If, for example, there are box numbers in the finding aid, record information about the boxes in H2 and leave the H1 columns blank. 
+<!-- The H2 fields are never blank. If, for example, there are box numbers in the finding aid, record information about the boxes in H2 and leave the H1 columns blank. -->
 
-### H1_Label
+<!-- ### H1_Label -->
 
-The H1_Label column is for the container type (document case, record carton, oversize box, etc). If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. These values are constrained to a list. If you need to add a new label, see Jackie. 
+<!-- The H1_Label column is for the container type (document case, record carton, oversize box, etc). If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. These values are constrained to a list. If you need to add a new label, see Jackie. -->
 
-### H1_Value
+<!-- ### H1_Value -->
 
-The H1_Value column records the container number. It will never be a span. Each container gets its own row in the database! If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here.
+<!-- The H1_Value column records the container number. It will never be a span. Each container gets its own row in the database! If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. -->
 
-### H2_Label
+<!-- ### H2_Label -->
 
-The H2_Label column records the container type of whatever container is listed in the finding aid. This column will never be blank. These values are constrained to a list. If you need to add a new label, see Jackie. 
+<!-- The H2_Label column records the container type of whatever container is listed in the finding aid. This column will never be blank. These values are constrained to a list. If you need to add a new label, see Jackie. -->
 
-### H2_Value_1 and H2_Value_2
+<!-- ### H2_Value_1 and H2_Value_2 -->
 
-These columns designate the range of container numbers. It will ALWAYS be a span--even if there is only one folder or box. Simply repeat the number in both columns. 
+<!-- These columns designate the range of container numbers. It will ALWAYS be a span--even if there is only one folder or box. Simply repeat the number in both columns. -->
 
-If your H2 label is a records box or document case, only record one box per line. DO NOT record a span of record boxes of 1 to 2. The span will be 1 to 1 in one line, and then 2 to 2 in the next line, and so on. -->
+<!-- If your H2 label is a records box or document case, only record one box per line. DO NOT record a span of record boxes of 1 to 2. The span will be 1 to 1 in one line, and then 2 to 2 in the next line, and so on. -->
 
 ## A note on the set-up of the Wilson Stacks
 
 The stacks are divided into color zones and lettered sections within those zones. Each row of shelves is identified by a color, a section letter and a range number. For example, Red U.11. Further, each row of shelves has two sides (side a and side b) and each individual shelf is numbered in sequence. Using the example above, a location might be Red U.11 a.2 (in other words the "a" side of "Row 11" and the second shelf on that side). Most shelves have identifying labels. If you shelve materials on a shelf without a label, find the nearest shelf with a label (usually the top shelf, or a shelf at the end of the range) and count up to your shelf number. This shelf numbering scheme will make more sense when you shelve your first collection. 
 
-Remember, a good processor always takes a pencil and notepaper into the stacks when shelving collections. Some processors bring a phone instead and take picture of the boxes they are shelving. 
+It's always a good idea to take a pencil and notepaper into the stacks when shelving collections, or bring a phone to take pictures of the boxes you are shelving. 
+
+### Building
+
+For the time being, assume that all of the collections you'll be dealing with will be stored in Wilson, although we do have some collections stored at the Library Service Center (LSC) in Durham.
+
+### Floor
+
+Which floor is the container on? Typically 3, 5, 7, 9 or 10. 
 
 ### Room
 
@@ -96,44 +103,86 @@ This will be either a lowercase a or b, describing which side of the range the s
 
 This is a number describing which shelf the container/item is on. 
 
-### Building
+## Accessing ArchivesSpace
 
-For the time being, we can safely assume that all of the collections we'll be dealing with will be stored in Wilson. 
+To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password. 
 
-### Floor
+## Creating new location information
 
-Which floor is the container on? Typically 3, 5, 9 or 10 (and now 7). 
+Let's say you are in charge of shelving the latest addition to the Student Health Coalition Papers (#05649). Once you have shelved the materials and logged into ArchivesSpace, search for the collection using the "Search All Records" box. 
 
-<!-- ## ID number
+[Add screenshot here.]
 
-The ID number is automatically generated every time you add a record to the database. The number exists only to ensure that each row has a unique identifier in the database. This field can be sorted in order to track the order in which records have been entered into the database. 
+Identify the correct resource record for the collection, and then click "Edit." 
+> NOTE: Be careful! The correct resource record might not be the first result on the page.
 
-Example: Doug and Hazel Storer Collection #5231 (with liberal changes, for example purposes) 
 
-The sample table below is a snapshot of the (modified, for example purposes) database entries for one collection (Doug and Hazel Storer Collection #5231). Notice that this particular collection contains several different formats of material--folders, images, oversize papers, videotapes, etc. This collection contains more formats--and more database entries--than most collections you will process, but it should help you understand how to shelve your material and how to create location database records for all of the different formats you encounter in your collections. 
+[Add screenshot here.]
 
-So, in this (heavily modified) example, let's say that the Storer Collection #5231 includes... 
+Once the record is open, click on the collection title to give you a fuller view.
+> NOTE: You will sometimes encounter this note, especially when dealing with large collections: "Oops! We're having trouble fetching this tree. Please try refreshing the page." Just be patient, and it will usually open with no further action needed.
 
-- 3 document cases, containing 71 folders
+[Add screenshot here.]
+
+Now that you can see the entire record in edit view, click on the "Instances" tab on the left side of the screen.
+
+[Add screenshot here.]
+
+Once you are in the "Instances" portion of the record, scroll down to the end of the container list and click on "Add Container Instance." 
+> NOTE: You can click on "Add Container Instance" at the beginning of the container list, but you will still have to scroll down to the end of the list.
+
+[Add screenshot here.]
+
+You will see the following form:
+
+[Add screenshot here.]
+
+### Type
+
+There's a lot of options to choose from, but for right now, always select the top choice, "Mixed Materials."
+
+[Add screenshot here.]
+
+### Top Container
+
+Top containers typically refer to pageable units, such as record cartons or document cases. 
+
+To select an existing top container (such as a shared oversize box), simply search for the record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
+
+[Add screenshot here.]
+
+To create a new top container, 
+
+<!-- ## ID number -->
+
+<!-- The ID number is automatically generated every time you add a record to the database. The number exists only to ensure that each row has a unique identifier in the database. This field can be sorted in order to track the order in which records have been entered into the database. -->
+
+<!-- Example: Doug and Hazel Storer Collection #5231 (with liberal changes, for example purposes) -->
+
+<!-- The sample table below is a snapshot of the (modified, for example purposes) database entries for one collection (Doug and Hazel Storer Collection #5231). Notice that this particular collection contains several different formats of material--folders, images, oversize papers, videotapes, etc. This collection contains more formats--and more database entries--than most collections you will process, but it should help you understand how to shelve your material and how to create location database records for all of the different formats you encounter in your collections. -->
+
+<!-- So, in this (heavily modified) example, let's say that the Storer Collection #5231 includes... -->
+
+<!-- - 3 document cases, containing 71 folders
 - 2 image boxes, containing 45 folders
 - 1 museum item
 - 1 SV volume
 - 2 oversize boxes, containing 14 oversize paper folders
-- 1 (additional) oversize box, contianing 2 oversize image folders
+- 1 (additional) oversize box, contianing 2 oversize image folders -->
 
-Some things to note from the above list:
+<!-- Some things to note from the above list: -->
 
-- Only the contents of the H2 columns will be in the finding aid. 
+<!-- - Only the contents of the H2 columns will be in the finding aid. -->
 
-- The H1 containers are simply to help us internally, to account for and locate the various parts of the collection. 
+<!-- - The H1 containers are simply to help us internally, to account for and locate the various parts of the collection. -->
 
-- For items that have no container, such as SV volumes and museum items, we leave the columns H1_Label and H1_Value blank. 
+<!-- - For items that have no container, such as SV volumes and museum items, we leave the columns H1_Label and H1_Value blank. -->
 
-**But... the H2_Label, H2_Value_1, and H2_Value_2 columns will NEVER be blank!**
+<!-- **But... the H2_Label, H2_Value_1, and H2_Value_2 columns will NEVER be blank!** -->
 
-Resource_ID H1_Label H1_Value H2_Label H2_Value_1 H2_Value_2 area coordinate range coordinate side coordinate shelf building floor room ID number 
+<!-- Resource_ID H1_Label H1_Value H2_Label H2_Value_1 H2_Value_2 area coordinate range coordinate side coordinate shelf building floor room ID number -->
 
-| **Resource_ID** | **H1_Label**  | **H1_Value** | **H2_Label**          | **H2_Value_1** | **H2_Value_2** | **area** | **coordinate range** | **coordinate side** | **coordinate shelf** | **building** | **floor** | **room** | **ID number** |
+<!-- | **Resource_ID** | **H1_Label**  | **H1_Value** | **H2_Label**          | **H2_Value_1** | **H2_Value_2** | **area** | **coordinate range** | **coordinate side** | **coordinate shelf** | **building** | **floor** | **room** | **ID number** |
 | --------------- | ------------- | ------------ | --------------------- | -------------- | -------------- | -------- | -------------------- | ------------------- | -------------------- | ------------ | --------- | -------- | ------------- |
 | **05231**       | document case | 1            | folder                | 1              | 30             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11260         |
 | **05231**       | document case | 2            | folder                | 31             | 62             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11261         |
@@ -147,9 +196,9 @@ Resource_ID H1_Label H1_Value H2_Label H2_Value_1 H2_Value_2 area coordinate ran
 | **05231**       | oversize box  | 200          | oversize image folder | 1              | 2              | R        | 7                    | a                   | 1                    | Wilson       | 10        | Orange   | 11269         |
 
 --> 
-## Other notes
+<!-- ## Other notes
 
-Some format types still have unusual exceptions to the above instructions, such as extra oversize papers that go in map cases. Just ask if you're unsure about how to handle a particular format, or have any other questions! 
+Some format types still have unusual exceptions to the above instructions, such as extra oversize papers that go in map cases. Just ask if you're unsure about how to handle a particular format, or have any other questions! -->
 
 
 # Labels
