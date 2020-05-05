@@ -1,8 +1,8 @@
 # Overview
 
-- [```<digfolder>``` coding in the FAID](#digfolder-coding-in-the-faid)
+- [`<digfolder>` coding in the FAID](#digfolder-coding-in-the-faid)
 - [Legacy updates to finding aids](#legacy-updates-to-finding-aid)
-- [```<processinfo>``` Example Statements](#processinfo-example-statements)
+- [`<processinfo>` Example Statements](#processinfo-example-statements)
 - [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
 - [Processing](#processing)
 - [UARS/Wilson Born Digital Documentation](#uarswilson-born-digital-documentation)
@@ -12,11 +12,13 @@
 ***
 
 
-# ```<digfolder>``` coding in the FAID
+# `<digfolder>` coding in the FAID
 
 In the example below the key parts of the coding are these two tags:  
 
-```<container type="digfolder"><extref href=""></extref></container> ```
+```
+<container type="digfolder"><extref href=""></extref></container>
+```
 
 Href="": Copy the link to the public view of the digital file in the CDR and paste it between the quotation marks.  
 
@@ -29,7 +31,8 @@ The admin view can only be accessed by people with admin privileges.
 ```
 <c02><did><container type="digfolder"> 
 
-<extref href="https://cdr.lib.unc.edu/list/uuid:f27b77d9-40d0-4e05-9601-5dabcd6372cf">DF-xxxx/x</extref>
+<extref href="https://cdr.lib.unc.edu/list/
+uuid:f27b77d9-40d0-4e05-9601-5dabcd6372cf">DF-xxxx/x</extref>
 </container> 
 
 <unittitle>Reflections of My Life and Ministry</unittitle> 
@@ -46,18 +49,24 @@ Be sure to check that your links are working from the finding aid.
 
    - Insert change tags between revisiondesc tags: 
 
-   ```<change> <date>[Month] 2015</date> <item>Finding aid updated for born digital processing by [Name].</item> </change>```
+   ```
+   <change> <date>[Month] 2015</date> <item>Finding aid updated for 
+   born digital processing by [Name].</item> </change>
+   ```
 
    - Some finding aids might not have revisions description tags. Insert revisiondesc tags between profiledesc and eadheader: ]
 
-   ```</profiledesc> <revisiondesc> </revisiondesc> </eadheader> ```
+   ```
+   </profiledesc> <revisiondesc> </revisiondesc> </eadheader>
+   ```
 
 2. Update processing info:
 
    ```
    <processinfo> <head>Processing Information</head> 
 
-   <p>Finding aid updated for born digital processing by [Name], [Month] 2015. </p> </processinfo> 
+   <p>Finding aid updated for born digital processing by [Name], [Month] 
+   2015. </p> </processinfo> 
    ```
 
 3. Update items seperated:
@@ -66,11 +75,23 @@ Be sure to check that your links are working from the finding aid.
 
    - List as Digital Folder (DF-): 
 
-   ```<separatedmaterial> <head>Items Separated</head> <list type="simple"> <item>Digital Item (DF-40124/1) available in the Carolina Digital Repository. </item> </list> </separatedmaterial>```
+   ```
+   <separatedmaterial> <head>Items Separated</head> <list type="simple"> 
+   <item>Digital Item (DF-40124/1) available in the    Carolina Digital Repository. 
+   </item> </list> </separatedmaterial>
+   ```
 
 4. Add an item-level note explainging the files came from legacy media:
 
-   ```<c03> <did> <container type="digitem"><extref href="https://cdr.lib.unc.edu/list/uuid:fb046a55-7424-4092-87cf-94af90d054eb">DI-40124/1</extref></container><unittitle>North Carolina Fellows Program: <emph render="doublequote">Perspectives on Diversity</emph></unittitle> </did> <scopecontent> <p>Produced by the Class of 2005.</p><p>Migrated from DVD-40124/1.</p> </scopecontent></c03> ```
+   ```
+   <c03> <did> <container type="digitem"><extref 
+   href="https://cdr.lib.unc.edu/list/uuid:fb046a55-7424-4092-87cf-   
+   94af90d054eb">DI-40124/1</extref></container><unittitle>
+   North Carolina Fellows Program: <emph render="doublequote">
+   Perspectives on Diversity</emph></unittitle> </did> <scopecontent> 
+   <p>Produced by the Class of 2005.</p><p>Migrated from DVD-40124/1.
+   </p> </scopecontent></c03>
+   ```
 
 ## In the CDR:
 
@@ -89,17 +110,24 @@ Be sure to check that your links are working from the finding aid.
 3. Publish items.
 
 
-# ```<processinfo>```: Example Statements
+# `<processinfo>`: Example Statements
 
 ## At the collection level:
 
 ** Regarding processing of back-log born digital:**
 
-```<p>Finding aid updated for born digital processing by [Name], [Month] 2015.</p>  ```
+```
+<p>Finding aid updated for born digital processing by [Name], 
+[Month] 2015.</p> 
+```
 
 **Regarding obsolete file formats:**
 
-```<p>Digital files in this collection may contain file formats that users might find difficult to access. For guidance on accessing these files, please email wilsonlibrary@unc.edu.</> ```
+```
+<p>Digital files in this collection may contain file formats that 
+users might find difficult to access. For guidance on accessing these 
+files, please email wilsonlibrary@unc.edu.</>
+```
 
 **Regarding Items Separated:**
 
@@ -109,15 +137,24 @@ Be sure to check that your links are working from the finding aid.
 
 **Regarding media that has been retained but not ingested into CDR because it was unreadable with current technology:**
 
-```<p>Storage media was inaccessible in MONTH YEAR. If you would like to inquire about this item, please email wilsonlibrary@unc.edu</p> ```
+```
+<p>Storage media was inaccessible in MONTH YEAR. 
+If you would like to inquire about this item, 
+please email wilsonlibrary@unc.edu</p> 
+```
 
 **Regarding media that has been retained per curator but not ingested into CDR:**
 
-```<p>This file includes media that has been retained for its visual artifactual value.</p> ```
+```
+<p>This file includes media that has been retained 
+for its visual artifactual value.</p> 
+```
 
 **Regarding the creation of access files:**
 
-```<p>An access .mp4 file was made from the DVD files for viewing purposes.</p> ```
+```
+<p>An access .mp4 file was made from the DVD files for viewing purposes.</p> 
+```
 
 
 # CVS to MODS (the Patrick Cullom method)
@@ -144,7 +181,6 @@ What's this for?
 What's added to the finding aid?  
 
 - Name of the storage media. Can be detailed and include brand information or size capacity or just generic types. For example:  
-
   - The digital files were extracted from 3.5in Floppy Disks and CDs.  
 
   - The digital files in this folder were extracted from Iomega 100MB zip disks.  
@@ -157,7 +193,7 @@ What's this for?
 
 > Remember that while the current CDR user interface doesn't always present the best file format metadata, the data is there. It's just not always readily apparent on the front end, but is available to staff in FITS extract.  
 
-- If you choose to describe file formats in the collection, describe the original file formats as given to us by the donor.  If derivatives are created for access in the finding aid, create a <processinfo> statement at the file level.  
+- If you choose to describe file formats in the collection, describe the original file formats as given to us by the donor.  If derivatives are created for access in the finding aid, create a `<processinfo>` statement at the file level.  
 
 Standard Format Information to be used
 
