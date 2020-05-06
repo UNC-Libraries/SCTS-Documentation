@@ -117,7 +117,7 @@ Identify the correct resource record for the collection, and then click "Edit."
 > NOTE: Be careful! The correct resource record might not be the first result on the page.
 
 
-[Add screenshot here.]
+![edit_button](https://user-images.githubusercontent.com/62356141/81222256-fde75100-8fb1-11ea-9da9-ae7532385173.png)
 
 Once the record is open, click on the collection title to give you a fuller view.
 > NOTE: You will sometimes encounter this note, especially when dealing with large collections: "Oops! We're having trouble fetching this tree. Please try refreshing the page." Just be patient, and it will usually open with no further action needed.
