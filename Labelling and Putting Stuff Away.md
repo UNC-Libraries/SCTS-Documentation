@@ -126,7 +126,7 @@ Once the record is open, click on the collection title to give you a fuller view
 
 Now that you can see the entire record in edit view, click on the "Instances" tab on the left side of the screen.
 
-[Add screenshot here.]
+![instances_menu](https://user-images.githubusercontent.com/62356141/81226886-89181500-8fb9-11ea-9ea2-d6a836c981be.png)
 
 Once you are in the "Instances" portion of the record, scroll down to the end of the container list and click on "Add Container Instance." 
 > NOTE: You can click on "Add Container Instance" at the beginning of the container list, but you will still have to scroll down to the end of the list.
