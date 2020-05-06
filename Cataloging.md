@@ -21,8 +21,8 @@
 4. Identify record to use to derive new record
    - F3 brings up save file
    - Choose record, copy OCLC number
-   - Paste OCLC number into search box
-5. Edit > Deruve > New master record (Ctrl-Alt-C)
+   - Paste OCLC number into search box (# first)
+5. Edit > Derive > New master record (Ctrl-Alt-C)
    - Yes to transfer fixed field values
    
 ## Completing the fields
@@ -45,9 +45,11 @@ Select type of date (i: inclusive; s: single); enter dates
  
  enter ‡b eng and ‡e dacs **(Ctrl-D to insert ‡)**
 
+### 041 : non-English language
+
 If materials in a language other than English are present:
 
-  - 041 _ _ ‡a lang code, repeat ‡a as needed
+  enter ‡a lang code, repeat ‡a as needed
   
 ### 100 : Creator
 
@@ -55,7 +57,9 @@ Copy and paste from finding aid
  
   - Right click > Control single heading (F11)
   - ‡d for dates, ‡c for qualifier
-  - Person: 100 1 _; Family 100 3 _
+  - Person: 100 1 _ 
+  - Family: 100 3 _
+  - Corporate body: 110 1 _
   - See Michelle's documentation for forming family and other headings
   
 ### 245 1 0 : Title
@@ -79,9 +83,10 @@ Copy and paste from finding aid
 
   - Possibly other notes, depending
   
-### 520 8 _ : Abstract scope and content
+### 520 8 _ : Abstract
 
-Copy and paste abstract scope and content from finding aid (no period at end)
+Copy and paste abstract from finding aid (no period at end)
+Biographical information goes here as well (545 no longer used)
 
 ### 506 1 _ : Access restrict
 
@@ -106,7 +111,7 @@ No period at end
 
 ### 546 _ _ : Language note
 
-**"In English"** (no period at end)
+**"English"** (no period at end)
 
 ### 600/610/650/651 : Subject access fields
 
@@ -179,7 +184,7 @@ No period at end
       
 ### 2. In Connexion, open the record you want to edit (search: #OCLCnumber)
 
-### 3. Make necessary updates according to the blue/green sheet
+### 3. Make necessary updates according to the blue sheet
 
    - Note that dates need to be updated in two locations:
       - Fixed fields
@@ -190,7 +195,7 @@ No period at end
 
    - Add ‡e dacs in the **040**, if it isn't there already
    - Remove **545**, update **520**
-   - **546 _ _** In English
+   - **546 _ _** English
    - **506 0 _** No restrictions (if there's not already a **506** listing in the restrictions)
    - **856 4 2** the finding aid URL is current
    
@@ -205,6 +210,7 @@ No period at end
 
   - Export (F5)
   - Open the record in Sierra
+    - Add 599 LTIEXP if 1xx, 240, 4xx, 6xx, 7xx, 8xx edited (NOT 2xx, 3xx, 5xx)
   - Open the summary
     - Update the cat date in the internal note (“lls cat date 16 Feb, 2018”) - "x" for internal note
     - If there are older codes from a previous ILS, they can be deleted (the bottom of the summary should only include the collection call number and the cat date info) 
