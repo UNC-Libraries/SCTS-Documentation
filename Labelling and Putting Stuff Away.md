@@ -111,7 +111,7 @@ To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in usin
 
 Let's say you are in charge of shelving the latest addition to the Student Health Coalition Papers (#05649). Once you have shelved the materials and logged into ArchivesSpace, search for the collection using the "Search All Records" box. 
 
-![Example on a Hollinger](https://user-images.githubusercontent.com/58087302/79390068-07dedc80-7f3d-11ea-92d2-a87be95b4109.jpeg "Example on a Hollinger")
+![home_page](https://user-images.githubusercontent.com/62356141/81219801-54529080-8fae-11ea-9a91-55620828f2ac.png)
 
 Identify the correct resource record for the collection, and then click "Edit." 
 > NOTE: Be careful! The correct resource record might not be the first result on the page.
