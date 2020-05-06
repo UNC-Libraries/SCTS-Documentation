@@ -122,7 +122,7 @@ Identify the correct resource record for the collection, and then click "Edit."
 Once the record is open, click on the collection title to give you a fuller view.
 > NOTE: You will sometimes encounter this note, especially when dealing with large collections: "Oops! We're having trouble fetching this tree. Please try refreshing the page." Just be patient, and it will usually open with no further action needed.
 
-[Add screenshot here.]
+![edit_view](https://user-images.githubusercontent.com/62356141/81224230-6421a300-8fb5-11ea-8cf8-dccea2544467.png)
 
 Now that you can see the entire record in edit view, click on the "Instances" tab on the left side of the screen.
 
