@@ -21,7 +21,7 @@ Many collections contain material in several different formats--folders of paper
 
 With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in ArchivesSpace! 
 
-> NOTE: For right now, you can use ArchivesSpace to look for locations for circulating materials ONLY, which is why you won't see things in the location database like audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx. 
+> NOTE: For right now, you can use ArchivesSpace to look for locations for circulating materials ONLY, which is why you won't see location information in ArchivesSpace for materials such as audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx. 
 
 
 
@@ -111,7 +111,7 @@ To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in usin
 
 Let's say you are in charge of shelving the latest addition to the Student Health Coalition Papers (#05649). Once you have shelved the materials and logged into ArchivesSpace, search for the collection using the "Search All Records" box. 
 
-[Add screenshot here.]
+![Example on a Hollinger](https://user-images.githubusercontent.com/58087302/79390068-07dedc80-7f3d-11ea-92d2-a87be95b4109.jpeg "Example on a Hollinger")
 
 Identify the correct resource record for the collection, and then click "Edit." 
 > NOTE: Be careful! The correct resource record might not be the first result on the page.
@@ -354,7 +354,7 @@ Many of our items separated formats are housed "Z-style," which is our way of sa
 
 The principle behind housing Z-style is that you find the next available place for your materials in the run of boxes or drawers. Each box or drawer is numbered and this number is recorded in the location database. There will also be a place for you to record your item numbers, usually on the lid of the box or the front of the drawer, as a double-check. 
 
-Unlike the three-part item number, the box number or drawer number represents the item's physical location and is recorded in the location database, but not recorded in the finding aid. For example, an oversize paper folder may have the item number OPF-2504/3 and be housed in Oversize Box 25. Patrons would request the folder using the number OPF-2504/3. Research and Instruction staff would check the database and see that that particular folder can be found in Box 25. 
+Unlike the three-part item number, the box number or drawer number represents the item's physical location and is recorded in ArchivesSpace, but not recorded in the finding aid. For example, an oversize paper folder may have the item number OPF-2504/3 and be housed in Oversize Box 25. Patrons would request the folder using the number OPF-2504/3. Research and Instruction staff would check ArchivesSpace and see that that particular folder can be found in Box 25. 
 
 ![Photograph Zs](https://user-images.githubusercontent.com/58087302/79476026-7fad1580-7fd6-11ea-9c91-694eefcdd70b.jpeg "Photograph Zs are housed in order")
 ![Oversize paper and photograph Zs](https://user-images.githubusercontent.com/58087302/79476377-e6caca00-7fd6-11ea-8e75-7cb38a038c3d.jpeg "Oversize paper and photographs are housed Z-style, but not necessarily in collection number order")
