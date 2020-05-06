@@ -352,7 +352,7 @@ Or
 
 Many of our items separated formats are housed "Z-style," which is our way of saying that items from several collections are housed in the same container, a la the Z collections. Z collections are collections that have five or fewer folders and are all housed together in document cases. That way we do not have half-empty document cases scattered through the stacks unnecessarily taking up space. The Z collections and Photograph Z folders are housed in collection number order. The rest of the formats that are housed Z style do not need to be housed in collection number order. 
 
-The principle behind housing Z-style is that you find the next available place for your materials in the run of boxes or drawers. Each box or drawer is numbered and this number is recorded in the location database. There will also be a place for you to record your item numbers, usually on the lid of the box or the front of the drawer, as a double-check. 
+The principle behind housing Z-style is that you find the next available place for your materials in the run of boxes or drawers. Each box or drawer is numbered and this number is recorded in ArchivesSpace. There will also be a place for you to record your item numbers, usually on the lid of the box or the front of the drawer, as a double-check. 
 
 Unlike the three-part item number, the box number or drawer number represents the item's physical location and is recorded in ArchivesSpace, but not recorded in the finding aid. For example, an oversize paper folder may have the item number OPF-2504/3 and be housed in Oversize Box 25. Patrons would request the folder using the number OPF-2504/3. Research and Instruction staff would check ArchivesSpace and see that that particular folder can be found in Box 25. 
 
