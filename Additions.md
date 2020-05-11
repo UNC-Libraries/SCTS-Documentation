@@ -10,6 +10,7 @@
 
 We often receive material that is related to collections that are already here. Instead of making a new collection, we add this material to the existing collection. Additions are maintained separately in a physical sense, but we try to integrate them intellectually with materials received previously to facilitate discovery. Sometimes this is easily done; sometimes it is better to append new description to the end of the finding aid.
 
+## Same Arrangement
 If the materials in the addition clearly mimic the materials in the original deposit you can use the same arrangement in your addition. 
 
 > Note that the “A” is for Addition, to distinguish it from the original deposit. Use the “A” whether you are adding to an existing series or creating a new one. Always add the date of the accession in parentheses after the series title.
@@ -22,7 +23,19 @@ Series 2. Diaries
 
 Series 3. Pictures
 
-Perhaps the addition consists of several different kinds of materials. For a variety of reasons, it may not make sense to divide these up according to the original series arrangement:
+## Adding a New Series
+Perhaps the addition consists of an entirely new category of materials.
+
+Series 1. Correspondence
+
+Series 2. Diaries
+
+Series 3. Pictures
+
+**Series 4A. Audiovisual Materials (Addition of March 2020)**
+
+## Multiple formats in one addition
+Or the addition may consist of several different kinds of materials. For a variety of reasons, it may not make sense to divide these up according to the original series arrangement:
 
 Series 1. Correspondence
 
@@ -32,7 +45,8 @@ Series 3. Pictures
 
 **Series 4A. Papers (Addition of February 2005)**
 
-Many of our collections receive subsequent additions over many years. You may use multiple different strategies.
+## Multiple Strategies
+Many of our collections receive subsequent additions over many years. You may use multiple different strategies, as long as you are tracking carefully with date and accession number information.
 
 Series 1. Correspondence
 
@@ -50,6 +64,7 @@ Series 3. Pictures
 
 **Series 5A. Audio Visual (Addition of April 2015)**
 
+## Adding to the End
 Sometimes with organizational records and family collections with a lot of additions, it is easiest just to append the additions to the end, with no arrangement or intellectual integration of the material. Sometimes there is material that overlaps with the original deposit and sometimes there is new material that does not. Until researcher interest proves otherwise, we simply note
 the additions and move on.
 
@@ -61,6 +76,7 @@ the additions and move on.
 
 **2A. Foundation Records, 1970-1992 (Addition of March 1998).**
 
+## Variations
 We have a long and complicated history with additions so you might encounter all kinds of variations on the above examples. Usually it is most expedient to follow the arrangement that already exists, though sometimes it makes sense to do minor re-coding to bring clarity. 
 
 
@@ -70,7 +86,7 @@ This section deals with revisions to finding aids that have already been encoded
 
 The `<revisiondesc>` tag in the `<eadheader>` is where EAD keeps track of revisions. However, the information coded in the `<eadheader>` section doesn't show up on the screen. Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the `<revisiondesc>` tags in the `<eadheader>` and the `<processinfo>` section in `<archdesc>`. In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
 
-_Adding revision statements to `<revisiondesc>` in the `<eadheader>`:_
+## Adding revision statements to `<revisiondesc>` in the `<eadheader>`:
 
 If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the `<revisiondesc>` tags for entering revision information in the `<eadheader>` should be the first commented-out area you encounter:
 
@@ -95,7 +111,7 @@ If yours is NOT the finding aid's first revision (there's already a `<revisionde
 (Acc. 20200110.4) by Nancy Kaiser</item></change>
 ```
 
-_Adding revision statements to <processinfo> in <archdesc>:_
+## Adding revision statements to `<processinfo>` in `<archdesc>`:
 
 We are committed to transparency so you'll also need to add revision information to <archdesc> so that it will display in the finding aid. For minor additions, you may just be adding another name and date to the processing information already there.
 
@@ -110,11 +126,11 @@ Patrick Cullom, January 2020; (your name, date).</p>
 
 When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive processing info statements <link> that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
 
-Other parts of the finding aid may or may not require updates.
+## Other parts of the finding aid that may or may not require updates:
 
 [Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-Don’t miss any of the 3 collection level places to edit date information.
+_Don’t miss any of the 3 collection level places to edit date information._
 
 [Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
 
@@ -127,7 +143,7 @@ Collection overview: This will change, even if the abstract does not. Typically 
 If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
 Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
 
-_Between the `<dsc>`:_ 
+## Between the `<dsc>`:
 
 When you add your new series, whether integrated intellectually, or appended to the end, it should look like this:
 
@@ -163,7 +179,7 @@ as you added to the Collection Overview.</p></scopecontent>
 
 # Other Unusual Situations
 
-_Drop-ins_
+## Drop-ins
 
 Occasionally it makes sense to drop a single item or two in with the original deposit. This does not mean that we have stopped caring about provenance! Enclose your item in a piece of archival paper and write the accession number on the outside before dropping into an existing folder.
 
@@ -181,7 +197,7 @@ Letter, 10 April 1865, was received as Accession 109832</p></acqinfo></c02>
 
 > Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized.
 
-_Folder only_
+## Folder only
 
 Similarly, it occasionally makes sense to integrate a single folder into the original deposit rather than to create a new series. Unlike drop-ins, this addition likely will be filed physically at the end of the collection but will be listed with the original deposit where it fits intellectually. 
 
