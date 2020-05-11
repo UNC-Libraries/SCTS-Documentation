@@ -162,9 +162,12 @@ Use the "Keyword" search box to enter the top container information, then scroll
 Now select the box and click "Link to Top Containers."
 ![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
 
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below.
+![os_with_subcontainer](https://user-images.githubusercontent.com/62356141/81601208-96a61400-9398-11ea-8d7b-8d2ead7a7fdc.png)
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
 
-![oversize_box_342](https://user-images.githubusercontent.com/62356141/81594459-eda6eb80-938e-11ea-8539-498b56242111.png)
+
+
 
 #### To create a new top container, select the "Create" option instead of the browse option. 
 
@@ -180,8 +183,8 @@ Select the correct container type from the container type drop menu. The most co
 
 Once you've selected the correct container type, type the container number in the "Indicator" field, then click on "Create and Link to Top Container."
 ![create_top_container_record_carton_9](https://user-images.githubusercontent.com/62356141/81598706-b982f900-9395-11ea-9cd4-4edea1e0e7a9.png)
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders.
-![with_folders](https://user-images.githubusercontent.com/62356141/81598727-c1429d80-9395-11ea-8993-628d32f816ef.png)
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below.
+![with_folders](https://user-images.githubusercontent.com/62356141/81601250-9c9bf500-9398-11ea-888d-1209650021b4.png)
 
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
 
