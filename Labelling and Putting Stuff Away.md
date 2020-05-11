@@ -145,7 +145,7 @@ You will see the following form:
 
 There's a lot of options to choose from, but for right now, always select the top choice, "Mixed Materials."
 
-[Add screenshot here.]
+![mixed_materials](https://user-images.githubusercontent.com/62356141/81591815-01505300-938b-11ea-8c88-bee88e04366c.png)
 
 ### Top Container
 
