@@ -155,6 +155,13 @@ To select an existing top container (such as a shared oversize box), simply brow
 
 ![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
 
+Use the "Keyword" search box to enter the top container information, then scroll down and click the "Search" button (not pictured here). 
+
+![browse_top_containers](https://user-images.githubusercontent.com/62356141/81593400-660cad00-938d-11ea-90df-2ad36f40ecbb.png)
+
+Now select the box and click "Link to Top Containers."
+![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
+
 To create a new top container, 
 
 <!-- ## ID number -->
