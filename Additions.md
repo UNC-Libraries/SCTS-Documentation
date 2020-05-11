@@ -130,7 +130,7 @@ When multiple people are involved in preparing a collection for discovery and us
 
 [Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-_Don’t miss any of the 3 collection level places to edit date information._
+> Note: Don’t miss any of the 3 collection level places to edit date information.
 
 [Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
 
