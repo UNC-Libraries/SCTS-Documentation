@@ -35,6 +35,12 @@ Note that copyright does not apply to records in University Archives, since they
 
 
 # Restrictions
+Restriction statements should meet these minimum requirements: 
+
+* What are the limitations to access/use?
+* When does the restriction end?
+* Who imposed the restriction?
+* Who can be contacted for permission to for further information/access/use?
 
 ## For FLASHERS:
 This collection is not processed and currently not available to researchers. For information about access to these materials, contact 
