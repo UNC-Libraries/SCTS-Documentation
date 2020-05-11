@@ -151,7 +151,7 @@ There's a lot of options to choose from, but for right now, always select the fi
 
 Top containers typically refer to pageable units, such as record cartons or document cases. 
 
-To select an existing top container (such as a shared oversize box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
+#### To select an existing top container (such as a shared oversize box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
 
 ![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
 
@@ -162,7 +162,17 @@ Use the "Keyword" search box to enter the top container information, then scroll
 Now select the box and click "Link to Top Containers."
 ![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
 
-To create a new top container, 
+That's it! You have successfully added the top container to the resource record!
+
+![oversize_box_342](https://user-images.githubusercontent.com/62356141/81594459-eda6eb80-938e-11ea-8539-498b56242111.png)
+
+#### To create a new top container, select the "Create" option instead of the browse option. 
+
+![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
+
+On the "Create Top Container" screen, 
+
+
 
 <!-- ## ID number -->
 
