@@ -162,7 +162,7 @@ Use the "Keyword" search box to enter the top container information, then scroll
 Now select the box and click "Link to Top Containers."
 ![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
 
-That's it! You have successfully added the top container to the resource record!
+That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
 
 ![oversize_box_342](https://user-images.githubusercontent.com/62356141/81594459-eda6eb80-938e-11ea-8539-498b56242111.png)
 
@@ -170,9 +170,12 @@ That's it! You have successfully added the top container to the resource record!
 
 ![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
 
-On the "Create Top Container" screen, 
+You will now see the "Create Top Container" screen. 
+
+![create_top_container](https://user-images.githubusercontent.com/62356141/81596233-b980fa00-9391-11ea-898c-2ca8e10b6fc3.png)
 
 
+That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
 
 <!-- ## ID number -->
 
