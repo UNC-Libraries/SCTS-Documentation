@@ -9,7 +9,7 @@
 
 # Creating locations in ArchivesSpace
 
-_Updated May 2020_
+_Updated by Dawne Howard Lucas, May 2020_
 
 ## Why keep track of locations?
 
@@ -135,7 +135,7 @@ Once you are in the "Instances" portion of the record, click where you see the w
 Scroll down to the end of the container list and click on "Add Container Instance." 
 > NOTE: You can also click on "Add Container Instance" at the beginning of the container list, but you will still have to scroll down to the end of the list.
 
-[Add screenshot here.]
+![add_container_instance](https://user-images.githubusercontent.com/62356141/81590589-057b7100-9389-11ea-9b62-3a3b8b98fe51.png)
 
 You will see the following form:
 
