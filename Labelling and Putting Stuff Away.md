@@ -143,7 +143,7 @@ You will see the following form:
 
 ### Type
 
-There's a lot of options to choose from, but for right now, always select the top choice, "Mixed Materials."
+There's a lot of options to choose from, but for right now, always select the first option, "Mixed Materials." 
 
 ![mixed_materials](https://user-images.githubusercontent.com/62356141/81591815-01505300-938b-11ea-8c88-bee88e04366c.png)
 
@@ -151,9 +151,9 @@ There's a lot of options to choose from, but for right now, always select the to
 
 Top containers typically refer to pageable units, such as record cartons or document cases. 
 
-To select an existing top container (such as a shared oversize box), simply search for the record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
+To select an existing top container (such as a shared oversize box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
 
-[Add screenshot here.]
+![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
 
 To create a new top container, 
 
