@@ -139,7 +139,7 @@ Scroll down to the end of the container list and click on "Add Container Instanc
 
 You will see the following form:
 
-[Add screenshot here.]
+![add_container_instance_form](https://user-images.githubusercontent.com/62356141/81591299-360fda80-938a-11ea-98c8-23e7a184ae04.png)
 
 ### Type
 
