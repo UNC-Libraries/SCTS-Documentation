@@ -185,14 +185,24 @@ Once you've selected the correct container type, type the container number in th
 ![create_top_container_record_carton_9](https://user-images.githubusercontent.com/62356141/81598706-b982f900-9395-11ea-9cd4-4edea1e0e7a9.png)
 Scroll down to the "Location" drop menu and select "Browse."
 
-[Insert photo here]
+![location_browse_option](https://user-images.githubusercontent.com/62356141/81603318-21d4d900-939c-11ea-8c79-616428569d78.png)
+
+
+
+
+
 
 You will now see a list of all shelf locations. 
 
+![browse_locations_all](https://user-images.githubusercontent.com/62356141/81603177-eb975980-939b-11ea-97af-383445a704c6.png)
+
 Use the facets or "Filter by Text" box to find the correct shelf, then click on "Link to Locations."
+
+![browse_locations_selected](https://user-images.githubusercontent.com/62356141/81603181-edf9b380-939b-11ea-965f-443ca854d2d5.png)
 
 The location will now appear in the "Location" field. "Create and Link to Top Container."
 
+![location_linked](https://user-images.githubusercontent.com/62356141/81603213-ffdb5680-939b-11ea-9265-33f1bfe1e43a.png)
 
 If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below.
 ![with_folders](https://user-images.githubusercontent.com/62356141/81601250-9c9bf500-9398-11ea-888d-1209650021b4.png)
