@@ -174,6 +174,14 @@ You will now see the "Create Top Container" screen.
 
 ![create_top_container](https://user-images.githubusercontent.com/62356141/81596233-b980fa00-9391-11ea-898c-2ca8e10b6fc3.png)
 
+Select the correct container type from the container type drop menu. The most commonly used container types appear at the top of the menu.
+
+![create_top_container_record_carton](https://user-images.githubusercontent.com/62356141/81598696-b7b93580-9395-11ea-9b69-80f8a200f2c1.png)
+
+Once you've selected the correct container type, type the container number in the "Indicator" field, then click on "Create and Link to Top Container."
+![create_top_container_record_carton_9](https://user-images.githubusercontent.com/62356141/81598706-b982f900-9395-11ea-9cd4-4edea1e0e7a9.png)
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders.
+![with_folders](https://user-images.githubusercontent.com/62356141/81598727-c1429d80-9395-11ea-8993-628d32f816ef.png)
 
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
 
