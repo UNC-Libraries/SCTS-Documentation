@@ -528,6 +528,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Church music--North Carolina. 
 - Divination--North Carolina. 
 - Hymns, English--North Carolina. 
+- Gospel music--North Carolina.
 - Primitive Baptists--Clergy--North Carolina. 
 - Prayer--North Carolina. 
 - Preaching--North Carolina. 
