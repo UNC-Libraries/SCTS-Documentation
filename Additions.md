@@ -145,30 +145,53 @@ Example: Additions received after 1979 have not been integrated into the origina
 
 ## Between the `<dsc>`:
 
-When you add your new series, whether integrated intellectually, or appended to the end, it should look like this:
+When you add your new series, whether integrated intellectually or appended to the end, it should look like this:
 
+### Title, inclusive dates, (Addition of ____).
 ```
 <c01 level="series"><did><unittitle>Papers and Digital Files, <unitdate 
 normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 2020).
 </unittitle>
-
-<physdesc><extent>1000 paper items / 1 gigabyte (17 digital files).</extent>
+```
+### Extent: linear feet and/or items / gigabytes and/or digital files
+```
+<physdesc><extent>1.0 linear feet (1000 paper items) / 1 gigabyte (17 digital files).</extent>
 </physdesc><did>
+```
+### Arrangement: if archivist imposed any arrangement, put that information in a processing note
 
-<arrangement><p>Arrangement: as received. (Most likely you are just rehousing into 
-archival boxes.)</p></arrangement>
+Most likely you are just rehousing into 
+archival boxes
+```
+<arrangement><p>Arrangement: as received.</p></arrangement>
+```
+### Acquisitions
 
-<acqinfo><p>Acquisitions Information: Accession 20200124.2)</p></acqinfo>
+Include all accession numbers at the series level.
+```
+<acqinfo><p>Acquisitions Information: Accession 20200124.2</p></acqinfo>
+```
+### Processing Note
 
-<processinfo><p>Processing Note: Sometimes we want to communicate to researchers 
+Sometimes we want to communicate to researchers 
 that we really do not know what is in the addition we are making available for use. 
-Be sure to use one of the boilerplate processing notes <link>. This is also where 
+Be sure to use one of the boilerplate notes for [first pass processing](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information). This is also where 
 you will note any archivist interventions, such as arrangement imposed or materials 
-appraised out of the addition.</p></processinfo>
+appraised out of the addition.
+```
+<processinfo><p>Processing Note: </p></processinfo>
+```
+### Scope and Content
 
-<scopecontent><p>Overview of the addition. (Probably this will be same brief description
-as you added to the Collection Overview.</p></scopecontent>
-
+Probably this will be same brief description
+as you added to the Collection Overview
+Probably this will be same brief description
+as you added to the Collection Overview
+```
+<scopecontent><p>Overview of the addition.</p></scopecontent>
+```
+### Container list
+```
 <c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle>
 </did></c02></c01>
 
