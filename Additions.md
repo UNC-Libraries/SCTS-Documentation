@@ -130,11 +130,18 @@ When multiple people are involved in preparing a collection for discovery and us
 
 [Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-> Note: Don’t miss any of the 3 collection level places to edit date information.
+> Note: Don’t miss any of the 3 collection level places and the series level when editing date information.
+```
+<titlestmt> <titleproper encodinganalog="title">
 
+<frontmatter> <titlepage> <titleproper>
+
+<unittitle label="Title" encodinganalog="245">
+```
+  
 [Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
 
-[Abstract and Collection Overview](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the <processinfo>.
+[Abstract and Collection Overview](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, 1) check to see if 545 tag is in use. If so, move content from the 545 to the 520 tags and then delete the 545; and 2) check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the <processinfo>.
   
 Collection overview: This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description.
 
@@ -142,6 +149,8 @@ Collection overview: This will change, even if the abstract does not. Typically 
 
 If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
 Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
+
+[Restriction](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#restrictions): Add or remove restrictions as needed. Be sure to add or remove the restriction at every level: collection, series, and container.
 
 ## Between the `<dsc>`:
 
