@@ -392,3 +392,6 @@ _This summary description was created by Tierra Thomas in December 2019 to provi
 
 #### We use this statement to acknowledge separated published materials:
 _Published materials have been separated from the collection._
+
+#### We use this statement to acknowledge when processors alter or remove original offensive titles/descriptions from finding aids:
+_In 2020, archivists removed the transcription of Bayard Wootten’s title and caption from the finding aid because they contain racial slurs._ 
