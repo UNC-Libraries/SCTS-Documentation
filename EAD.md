@@ -212,14 +212,10 @@ Code like this:
 <extent encodinganalog="300">6990 items (5.0 linear feet)</extent> </physdesc> 
 ```
 
-# Unsurpress a Container Number
+# Unsupress a Container Number
 
-Code like this"
+Add altrender="display" to the container coding.
 
 ```
-<c02><did><container type="box" 
-
-altrender="display">11</container><unittitle>Volume 1-
-
-4</unittitle></did></c02> 
+<c02><did><container type="box" altrender="display">11</container><unittitle>Volume 1-4</unittitle></did></c02> 
 ```
