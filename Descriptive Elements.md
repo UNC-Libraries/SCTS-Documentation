@@ -401,3 +401,8 @@ _Photographs/Papers have been arranged into subject groupings by the processing/
 
 #### We use this statement to acknowledge guesswork by/uncertainty of the archivist:
 _Little is known about Nancy Hamilton and her connection to the recordings found in the collection. The interview recordings may be related to the This is Carolina radio program (found in the Department of Radio, Television, and Motion Pictures of the University of North Carolina at Chapel Hill Records #40086) or loosely related to Unto These Hills, an outdoor historical drama which was presented each year in Cherokee, N.C. Materials related to Unto These Hills reside in the North Carolina Collection and are accessible through the university libraries catalog._
+
+#### For specific format-related statements, see
+[Born Digital](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Born%20Digital.md#processinfo-example-statements)
+
+[Photographs](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Photographs.md)
