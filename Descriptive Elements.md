@@ -391,3 +391,10 @@ _This summary description was created by Tierra Thomas in December 2019 to provi
 
 #### We use this statement to acknowledge separated published materials:
 _Published materials have been separated from the collection._
+
+#### We use these statements to acknowledge original order:
+_The creator's/organization's original arrangement has been retained._
+_Folder titles were derived from original folder names and from descriptive metadata found within the files by the processing archivist._
+
+#### We use these statements to acknowledge interventions by the archivist:
+_Photographs/Papers have been arranged into subject groupings by the processing/collecting archivist.
