@@ -11,6 +11,7 @@
 - [Photocopying/Scanning](#photocopyingscanning)
 - [In Case of Mold](#in-case-of-mold)
 - [First pass physical processing](#first-pass-physical-processing)
+- [Closed materials](#closed-materials)
 
 ***
 
@@ -443,3 +444,6 @@ Metal case with contracts. Contracts were foldered, labelled with information fr
 ![metal case with contracts exterior](https://user-images.githubusercontent.com/58087302/80030016-a2976800-84b5-11ea-990e-16a87460e700.jpeg)
 
 ![contracts inside metal case](https://user-images.githubusercontent.com/58087302/80030083-b9d65580-84b5-11ea-96df-498c24f8fcd0.jpeg)
+
+# Closed Materials
+Closed materials are always isolated in their own boxes. If the closed materials consist of selected items from throughout the collection, the items may be filed individually in folders that refer back to where they belong when the restriction expires. The closed folders should be filed in a box at the end of the collection, with an orange "Closed, do not page" slip attached to all boxes that are closed.
