@@ -194,14 +194,14 @@ _This collection contains materials that have been redacted by the Library to pr
 #### Removed or withdrawn
 _This collection contained materials that have been permanently withdrawn._
 
-#### Additional material
-_This collection contains additional materials that are not available for immediate or same day access._
-
 #### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
 _This collection contains [microfilm/digital] copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library._
 
-#### Collection not available for same day access (e.g., unprocessed)
+#### Collection not available for same day access (e.g., unprocessed, flashers)
 _This collection is not available for immediate or same day access._
+
+#### Additional material (e.g., unprocessed)
+_This collection contains additional materials that are not available for immediate or same day access._
 
 #### Items not available for same day access (e.g., vault)
 _This collection contains materials that are not available for immediate or same day use._ 
@@ -214,9 +214,11 @@ _This collection contains materials which are permanently closed._ The Library p
 #### Closed indefinitely or until…
 _This collection contains materials which are closed._ The Library closed all materials in boxes 1 through 5 and audio tapes (T-4556/1-61) because these records contain personally identifying information about minor students who participated in the Stouffer Foundation's program. These materials are closed and are not accessible for research or duplication of any type until 1 January 2049.
 
+_This collection contains materials which are closed._ The Library closed materials in [this container] until [75 years from the date of their creation] for reasons related to the confidentiality of personnel, student, medical, or other legally protected records.
 
 _This collection contains materials which are closed._ In accordance with the donor agreement, Volume S-297a is closed and is not accessible for research or duplication of any type until 1 January 2045.
 
+_This collection contains materials which are closed._ Media removed from [this container] in [month year] is closed pending curatorial review. For further information about access to these materials, contact Research and Instructional Services staff at Wilsonlibrary@unc.edu.
 
 #### Duplication and digitization
 _This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, materials in this collection will not be duplicated or digitized without permission of the donor. Requests for copies of materials in this collection are evaluated after the requestor receives the express written permission of Kenny Dalsheimer of Durham, N.C., to obtain copies.
@@ -251,9 +253,6 @@ _This collection is not available for immediate or same day access._ Please cont
 
 #### Items not available for same day access (e.g., vault)
 _This collection contains materials that are not available for immediate or same day use._ The Library has digitized original documents in this collection that are vulnerable to theft and stored them separately. The original physical documents are not available for immediate or same day use. To access the content of the documents, researchers should use the digital facsimiles. To discuss other options, please contact staff at wilsonlibrary@unc.edu. 
-
-_This collection contains materials that are not available for immediate or same day use._ 
-
 
 
 
