@@ -9,7 +9,6 @@
 - [Commas, Other Punctuation, Capitalization](#commas-other-punctuation-capitalization)
 - [PersNames, CorpNames, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-geognames-titles-dates-numbers)
 - [Spaces and Dashes](#spaces-and-dashes)
-- [Civil War Letters](#civil-war-letters)
 - [UNC](#unc)
 - [Miscellaneous](#miscellaneous)
 
@@ -662,23 +661,6 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 - :rage: `<c02><did><container type="folder">1</container><unittitle>•Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
 - :smiley: `<c02><did><container type="folder">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
-
-
-# Civil War letters
-
-When describing a letter written by a Civil War soldier, if possible, include the following in the biographical and scope and content notes:
-
-- the regiment in which the writer served
-
-- if the writer was a soldier or an officer
-
-- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, without reading more in depth)
-
-- what places are referenced in the letters
-
-- what battles are being described
-
-If you are describing the letters in more depth, you can include information about camp life, sickness, death, and other cheerful wartime subjects.  
 
 
 # UNC
