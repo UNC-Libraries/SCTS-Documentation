@@ -176,7 +176,7 @@ _This collection contains materials which are closed._
 #### Duplication and digitization
 _This collection has restrictions on duplication and digitization._
 
-#### Listening/Viewing Copies
+#### Analog Audiovisual materials without listening/viewing Copies
 _Access to audio or moving image materials may require production of listening or viewing copies._
 
 #### Digital Listening/Viewing Copies (ONYEN, Campus, and Research Room streaming)
@@ -184,6 +184,9 @@ _This collection contains digital listening or viewing copies that are accessibl
 
 #### Born-digital Materials (ONYEN, Campus, and Research Room viewing)
 _This collection contains born-digital materials that are accessible only on the campus of the University of North Carolina at Chapel Hill or through authentication with an ONYEN._ 
+
+#### Photographic negatives
+_Negatives in this collection are not available for same day access. For information about access to these materials, contact Research and Instructional Services staff at wilsonlibrary@unc.edu._
 
 #### Missing items
 _This collection has items which have been noted as missing and are not accessible._
