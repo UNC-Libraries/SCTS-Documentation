@@ -52,6 +52,12 @@ Sample collection titles include:
 
 - Phillip G. Collins Collection on Ruey “Curley” Collins, circa 1920s-2009 
 
+- Willa Cofield Brick School Collection (05745)
+
+- Anderson Blanton Collection of Oral Roberts' Broadcast (20494)
+
+- University of North Carolina at Chapel Hill American Studies 60/Folklore 195 Photographic Projects Collection (P0053)
+
 
 # Creator
 #### [DACS 2.6](https://www2.archivists.org/standards/DACS/part_I/chapter_2/6_name_of_creators)
@@ -139,6 +145,12 @@ In local practice, we define access as having the permission and ability to view
 
 ### Conditions Governing Use
 In local practice, we define use as the permission to publish, broadcast, exhibit, display, or present a collection’s content and to receive photoduplicates for publication, broadcast, exhibit, display, and online presentation.
+
+This is the copyright statement we use in our finding aids:
+
+_Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law._
+
+> Note: copyright does not apply to records in University Archives, since they are public records. 
 
 ### General Guidelines for Restriction Statements
 Restriction statements provide information about any limitations imposed on a collection’s availability for reference, research, duplication, and use. Restrictions are placed on collections by the Library or by the collection’s source (typically donor, but also seller). Wilson Library’s librarians and archivists champion open access and seek to minimize restrictions. However, we do have contractual obligations to donors, and we do recognize that preservation of original documents, which are at risk for loss, sometimes does necessitate reasonable limitations on handling.  
@@ -376,6 +388,13 @@ _Manuscript collections and archival records may contain materials with sensitiv
 
 # Processing Information
 
+- [Current processing statements](#current-processing-statements)
+- [Historical processing statements](#historical-processing-statements)
+
+***
+
+## Current processing statements
+
 #### We use this statement to acknowledge all of the work that previously was captured as "processed by":
 _This finding aid compiles archival collecting, description, and preservation work performed by:_
 
@@ -409,3 +428,9 @@ _Little is known about Nancy Hamilton and her connection to the recordings found
 [Born Digital](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Born%20Digital.md#processinfo-example-statements)
 
 [Photographs](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Photographs.md)
+
+## Historical processing statements
+
+#### Diacritics
+
+Diacritics and other special characters have been omitted from this finding aid to facilitate keyword searching in web browsers.
