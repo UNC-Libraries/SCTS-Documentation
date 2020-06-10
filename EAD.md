@@ -3,7 +3,6 @@
 - [Container Types](#container-types)
 - [Find and Replace with Regular Expression](#find-and-replace-with-regular-expression)
 - [Container Numbers hook-I.D.](#container-numbers-hook-id)
-- [Transformation Scenario](#tranformation-scenario)
 - [Extent (overriding "approximately")](#extent-overriding-approximately)
 - [Unsuppress a Container Number](#unsurpress-a-container-number)
 
@@ -148,41 +147,6 @@ For containers with prefixes, write as P-0345/1, P-0345/2 , and P-0345/3, rather
 Do not encode multiple, non-sequential container numbers in the same `<container>`. For example, if both folder 14 and folder 18 have information on Martians, do not write `<container type='folder'>14, 18</container>`. In this case, you should encode them separately.(check with Lynn) 
 
 Do not encode multiple unittitles in one c0x. We prefer multiple c0x with a repeating container, which is automatically suppressed so that you end up just seeing the multiple unittitles. 
-
-
-# Tranformation Scenario
-
-Occasionally, you may have to create a new transformation scenario. Sometimes they just go away. Open an EAD XML file in Oxygen. 
-
-- Click on the top horizontal menu's icon of a wrench with a red arrow
-
-- In the pop-up box, select "New."
-
-- Name your scenario something simple like "transformation_2017"
-
-In the XSLT tab:
-
-- XML URL should be "${currentFileURL}" (which it will be by default). 
-
-- XLS URL should point to our stylesheet: http://cdn.lib.unc.edu/faids/ead.xsl 
-
-- Select the transformer. Saxon EE 9.5.1.3. 
-
-![Edit scenario window](https://user-images.githubusercontent.com/58087302/78826539-a902eb80-79af-11ea-9a4b-68fba90374ee.png "Window 1")
-
-We don't use the FO Processor tab
-
-In the Output tab:
-
-- In the Output File menu, the "Save as" box should be selected, and the value should be: "${cfn}.html" 
-
-- If you would like for the resulting HTML file to automatically open in your Internet browser for preview, or in Oxygen for you to inspect, check the boxes for these options. 
-
-- Click "OK." You will be returned to the opening menu, but now you will see your new scenario appearing in the list of available transformation scenarios. 
-
-> Note: If you forgot to name your scenario, it will automatically be named after the EAD XML file that you had opened when you began creating the scenario. To rename it, select it in the list and click "EDIT." Then change the name across the very top of the menu. Click "OK" to save your new scenario and return to Oxygen. 
-
-![Transformation window](https://user-images.githubusercontent.com/58087302/78826705-f717ef00-79af-11ea-8eac-b89053d1a68d.png "Window 2")
 
 
 # Extent (overriding "approximately")
