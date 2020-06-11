@@ -137,42 +137,42 @@ Please consult the [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Pr
 
 - **Example 1**  
 
-_Legacy description:_
+*Legacy description:*
 
 The F. W. Tuttle Collection of Papers documents financial transactions concerning enslaved people, land, and other goods of the Harper family and others. 
 
-_Edited description:_ 
+*Edited description:* 
 
 The Frank W. Tuttle Collection of Papers documents enslaved people, land, and other goods as financial transactions of the Harper family and others. 
 
 - **Example 2** 
 
-_Legacy description:_ 
+*Legacy description:* 
 
 Thomas Francis Price was a farmer from Rutherford County, N.C., serving in the 56th North Carolina Volunteers. He was married to Sarah Harrill Price. 
 
-_Edited description:_ 
+*Edited description:* 
 
 Thomas Francis Price and Sarah Harrill Price were married white farmers from Rutherford County, N.C. Thomas Francis Price served in the 56th North Carolina Infantry. 
 
 - **Example 3**  
 
-_Legacy description:_
+*Legacy description:*
 
 Prudhomme family members were planters in Natchitoches Parish, La., with interests in slaves, cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). Among the important members of the Prudhomme family were Phanor Prudhomme (1807-1865); his son, J. Alphonse Prudhomme I (1838-1919); his grandson, P. Phanor Prudhomme II (1865-1948); and his great grandson, J. Alphonse Prudhomme II (1896-1991), who carried on the various agricultural operations and the general store until the early 1980s; and J. Alphonse II's wife, Lucile Keator Prudhomme (1906-1994). 
 
-_Edited description:_
+*Edited description:*
 
 The Prudhomme family of Natchitoches Parish, La., were the French Creole owners of a plantation based on a workforce of enslaved people and later tenant farmers, sharecroppers, and day laborers, with interests in cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes and enslaved people and their descendants, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). 
 
 - **Example 4** 
 
-_Legacy description:_
+*Legacy description:*
 
 Tunstall Family Letter, 1850 
 Whitmell P. (Pugh) Tunstall was born in Pittsylvania County, Virginia. He was educated at Danville Academy and the University of North Carolina. Tunstall served in the Virginia General Assembly in both houses. He was a delegate in the House of Delegates from 1836 to 1841, a senator in the State Senate in 1841 and 1842, and a delegate again from 1845 to 1848. Tunstall was a proponent of railroads and in 1838 introduced a bill to charter the Richmond and Danville (R&D) Railroad. A charter was granted for the R&D Railroad in 1847. He was married to Mary Tunstall and they had a daughter, Mary Ellen. Whitmell P. Tunstall died in 1854 of typhoid fever, two years prior to the railroad's completion. The collection is a letter from Mrs. Mary Tunstall in Danville, Va., to her husband, Whitmell P. Tunstall, in Richmond, Va., dated 25 January 1850 in which she acknowledges receipt of his gift of a female slave child and relates her satisfaction with the child in terms of skin color and sewing capabilities. 
 
-_Edited description:_
+*Edited description:*
 
 Mary Tunstall Letter on Enslaved Child Betsy, 1850 
 The collection is a letter dated 25 January 1850 about Betsy an enslaved African American female child. Written by white Virginian Mary Tunstall from Danville, Va., to her husband white Virginia politician Whitmell P. Tunstall (1810-1854), in Richmond, Va., the letter describes the color of Betsy's skin, her sewing skills, and suitability for working in the home from the perspective of Betsy's enslaver. 
@@ -508,9 +508,14 @@ Diacritics and other special characters have been omitted from this finding aid 
 
 # Endnotes
 
-[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint 
-[^2]: Patrick Cullom and others, Alt-text project documentation
-[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 41 
-[^4]: Laura Hart, “Abstracts for Collection Records” powerpoint 
-[^5]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 49 
-[^6]: Laura Hart, “Abstracts for Collection Records” powerpoint
+[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint.
+
+[^2]: Patrick Cullom and others, Alt-text project documentation.
+
+[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 41. 
+
+[^4]: Laura Hart, “Abstracts for Collection Records” powerpoint.
+
+[^5]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 49. 
+
+[^6]: Laura Hart, “Abstracts for Collection Records” powerpoint.
