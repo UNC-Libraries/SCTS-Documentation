@@ -99,13 +99,7 @@ Code ampersands ```&amp;```
 
 Do not use curly quotes and/or apostrophes.  
 
-Check for funky characters in the html. 
-
-Add the statement about diacritics if appropriate. 
-
-**Diacritics and other special characters have been omitted from this finding aid to facilitate keyword searching in web browsers.** 
-
-[From](https://adminliveunc-my.sharepoint.com/personal/ljcb_ad_unc_edu/Documents/Checklist%20Mockup.docx)
+Check for funky characters in the html.
 
 
 # Style
@@ -116,7 +110,11 @@ Add the statement about diacritics if appropriate.
 
 Include contextual information in the first sentence of the 520 abstract, as appropriate. 
 
+Include ethnic and racial identities for creator(s), collector(s), and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections. Consult [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for a list of recommended ethnic and racial identities. 
+
 For additions: add information to abstract, as needed. 
+
+Conscious editing: When appropriate, re-frame the abstract narrative to surface and emphasize the lives of those historically left out of our description. Consult [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md), and [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for further information. 
 
 ## Dates
 
