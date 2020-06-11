@@ -70,13 +70,13 @@ The creator element consists of the authorized form of the creator’s name. Thi
 
 Wilson Library uses both the scope and content note and the abstract. The abstract often duplicates the scope and content note, particularly for small and medium size collections.  For large and complex collections, the abstract will be a distilled version of the scope and content note, which may include more details and offer more specificity about the range of material types, individuals and groups documented, geographical and chronological scope, and topics. 
 
-The abstract identifies, summarizes, and contextualizes the collection. An effective abstract provides a general audience with concise information that they can use to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking. An effective abstract suggests avenues for discovery and use of the collection materials. 
+The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking.1 An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  
 
 An abstract (scope and content note) should identify, summarize, and contextualize the following elements of content in a collection: 
 
 - **People.** Individuals and groups (i.e., organizations or corporate bodies) who created or assembled the collection materials and those represented in the collection’s content. 
 
-- **Time.** Chronological scope of the materials and the content. 
+- **Time.** Chronological scope of the materials and the content. Life dates for creators and other key figures represented in the collection.
 
 - **Place.** Geographical scope of the materials and content and non-geographical location such as “in the home.” 
 
@@ -84,27 +84,97 @@ An abstract (scope and content note) should identify, summarize, and contextuali
 
 - **Topics.** Subject matter addressed or documented in the collection materials. 
 
-An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  In the past, Special Collections Technical Services archivists included a substantial amount of biographical information at the beginning of the abstract.  In current practice, the creators and collectors are briefly identified with full names, life dates or operational dates, racial or ethnic identity, and a characterization of individuals’ occupations, communities’ connections, or organization’s purpose. 
+In addition to these core elements, we strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description (“conscious editing”). As an embodiof the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of content that is deeply offensive and disturbing.2 Historically our finding aid description has centered on the creators and collectors, often white individuals or families who owned enslaved individuals. Conscious description and editing practices seek to acknowledge and present this reality clearly, to better enable researchers to engage with the detail and scope of historical evidence, and to surface voices and stories of enslaved individuals and those previously hidden in our legacy collection description.  
 
-  - Roberta H. Jackson, African American professor of education at the University of North Carolina at Chapel Hill 
+We aspire to re-envision our descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible, and description does not obscure collection material that documents the lives of enslaved people.3 This work is influenced and inspired by the conversation happening around ethical archival description in the profession. We have based our approach on the writings and presentations by Jarrett Drake, Gloria Gonzalez, Jasmine Jones, Michelle Caswell, Annie Tang, Dorothy Berry, Kelly Bolding, Rachel Winston, Nathan Sentence, and the Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, among others. 
 
-  - Helen Maynor Scheirbeck (1935-2010), a Lumbee Indian political scientist, educator, and community organizer born in Lumberton, N.C. 
+The remainder of this section will focus on two core descriptive elements of our department’s conscious description and editing practices in relation to the abstract. The first highlights our focus to de-center whiteness in our abstract description by identifying and characterizing individuals and groups, while the second discusses our recommendations and examples for reframing the abstract narrative away from a white and male centered narrative and towards a more inclusive description that gives voice and visibility to those documented in the collections at UNC. Please consult our [Style Guide](#https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for more on inclusive language and a list of recommended terms for ethnic and racial identities used in our description.
 
-  - William R. Ferris, white folklorist, author, professor, and filmmaker of Vicksburg, Miss. 
+### Identifying and characterizing: De-centering whiteness  
 
-  - multi generational African American community with familial ties to coal mining towns in Harlan County, Ky. 
+In the past, Special Collections Technical Services archivists included a substantial amount of biographical information on the creator or collector at the beginning of the abstract. This legacy description often valorized the creators and collectors and hid the voices and stories of those documented in the collection, including the names of enslaved individuals and families. In current practice, the creators and collectors are briefly identified with full names, life dates or operational dates, racial or ethnic identity, and a characterization of individuals’ occupations, communities’ connections, or organization’s purpose.  
 
-  - Latinx immigrant communities in and around Siler City, N.C. 
+- William R. Ferris, white folklorist, author, professor, and filmmaker of Vicksburg, Miss. 
 
-  - Psi Delta Chapter of Omega Psi Phi Fraternity, the first historically black Greek organization established at the University of North Carolina at Chapel Hill 
+- Roberta H. Jackson, African American professor of education at the University of North Carolina at Chapel Hill 
 
-  - Southern Tenant Farmers' Union, organized at Poinsett County, Ark., in 1934, and founded as an interracial labor union for sharecroppers, tenant farmers, and agricultural workers
+- Helen Maynor Scheirbeck (1935-2010), a Lumbee Indian political scientist, educator, and community organizer born in Lumberton, N.C. 
 
-- The collection of organizational records, audiovisual materials, and photographs documents the Southern Folk Cultural Revival Project, an organization based in Nashville, Tenn., and founded in 1966 by African American folklorist, singer, and civil rights activist Bernice Johnson Reagon and white folklorist and folk musician Anne Romaine. The Southern Folk Cultural Revival Project (SFCRP) worked to present traditional musicians from African American and white cultures in performance together at a time when this was considered controversial. The SFCRP continued presenting musical performances throughout the South until the late 1980s, keeping close ties with the civil rights movement. 
+- Psi Delta Chapter of Omega Psi Phi Fraternity, the first historically Black Greek organization established at the University of North Carolina at Chapel Hill 
 
-- Albums and scrapbooks collected by Bowman Gray, Jr., of Winston-Salem, N.C., provide documentation of the First World War (1914-1918) through images created by photographers likely working for the French government or French Armée, through press coverage in clippings from the New York Times, and through printed items and ephemera reflecting the war effort on the American home front. Photograph albums contain more than 3000 captioned images taken in Europe and North Africa. Many images depict the destruction wrought by modern warfare and artillery on the villages and communes across France. The primary subject is the French Armée soldiers and officers on the front line in camps, cantonments, shelters, tunnels, and trenches before and after battles. Camp life is particularly well documented. Also pictured are colonial troops and cavalry including Spahis, Zouaves, Algerians, Moroccans, and Senegalese; troops from the countries comprising the Allies; German, Bulgarian, and Turk prisoners of war; nurses and doctors; refugees; civilians in towns, cities, schools, factories, and internment camps; wounded soldiers in the field and in hospitals; and disabled veterans "crippled" or blinded in the war. Loose images in the collection are photomechanical reproductions depicting French Armée officers and soldiers and colonial troops and cavalry. 
+- Southern Tenant Farmers' Union, organized at Poinsett County, Ark., in 1934, and founded as an interracial labor union for sharecroppers, tenant farmers, and agricultural workers. 
 
-- This collection contains four account books, 1873-1903, of white physician A. G. Davison of Luzerne County, Pa., in which he kept records on his patients. Entries record charges for visits, prescriptions, and details of other medical care. The first volume documents that Davison had an equal partnership with white physician and druggist E. F. Kamerly in 1873. In 1874, Kamerly had three-fifths of the partnership and Davison had two-fifths. The remaining volumes do not show an apparent partnership between Davison and Kamerly. Although the first page of the third volume contains information from 1903, the rest of the volume appears to pertain to 1880-1886. 
+- Videotapes created by Judith McWillie, a white artist, author, and professor emeritus of drawing and painting at the Lamar Dodd School of Art in Athens, Ga. 
+
+- The collection of organizational records, audiovisual materials, and photographs documents the Southern Folk Cultural Revival Project, an organization based in Nashville, Tenn., and founded in 1966 by Bernice Johnson Reagon, an African American folklorist, singer, and civil rights activist, and Anne Romaine, a white folklorist and folk musician. The Southern Folk Cultural Revival Project (SFCRP) worked to present traditional musicians from African American and white cultures in performance together at a time when this was considered controversial. The SFCRP continued presenting musical performances throughout the South until the late 1980s, keeping close ties with the civil rights movement. - 
+
+As seen in the examples above, we list ethnic and racial identities to describe creators and collectors in the abstract. Previously we only included ethnic and racial identities for underrepresented racial identities, such as African Americans or Indigenous people. Since August 2017 we have described the ethnic and racial identities of all creators and collectors so that whiteness is no longer the invisible norm. When applicable, we use “white” as an ethnic and racial identity in our abstract description so that whiteness is no longer the presumed default of the people represented in our collections. We also add ethnic and racial identities to groups and organizations if identity is relevant currently or historically to the group.4 Please consult the [Style Guide](#https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for a list of preferred terms of racial and ethnic identities.  
+
+This descriptive element of identifying and characterizing creators and collectors focuses on race rather than any of the other aspects of identity such as gender, sexuality, religion, or physical ability. This focus was not meant to diminish any of these aspects of identity; rather, it is a recognition that racial identity is especially significant for the collections and context at UNC-Chapel Hill.5 To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Self-identification is favored above all else. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identity information to be excluded from description. We strongly encourage researchers, the general public, our colleagues, and those described or the descendants of those described to please let us know when we have misidentified individuals or groups.  
+
+When appropriate, we also add racial and ethnic identities to key figures documented in the collection. This may include individuals or groups who have significant or meaningful ties to the creator or collector(s), such as a working relationship (e.g. business partners, project collaborators, interviewer/interviewee, documentarian/subject, mentor/mentee, etc) or when the collection contains a substantial amount of materials on specific individuals or groups.6 
+
+- A 1990 oral history interview conducted by Molly Conrecode, a white folklorist, with Bland Simpson, a white author, playwright, songwriter, and musician, who was a member of the North Carolina string band, the Red Clay Ramblers. 
+
+- The collection of journalist and author Paul Cuadros [update finding aid with his identity?] contains images of central North Carolina and Latinx immigrant communities in and around Siler City that were taken by Cuadros while he conducted research for his 2006 book A Home on the Field: How One Championship Team Inspires Hope for the Revival of Small Town America. 
+
+- The Eastern Kentucky African American Migration Project (EKAAMP) is a public humanities and archival collecting initiative directed by sociologist Karida Brown [update finding aid with her identity?] in partnership with the Southern Historical Collection (SHC) at the University of North Carolina at Chapel Hill. In 2013, the SHC joined Brown in her efforts to document a multi-generational African American community with familial ties to coal mining towns in Harlan County, Ky. 
+
+- A video recording of Piedmont blues guitarist, Etta Baker (1913-2006), created by white folklorists, Cecelia Conway and Elva Bishop. Etta Baker, born Etta Lucille Reid, claimed European, African American, and Native American ancestry. She grew up in Caldwell County, N.C., where she learned to play Piedmont blues, ragtime, and fiddle tunes from her father, Boone Reid. 
+
+- This collection contains four account books, 1873-1903, of A. G. Davison, a white physician of Luzerne County, Pa., in which he kept records on his patients. Entries record charges for visits, prescriptions, and details of other medical care. The first volume documents that Davison had an equal partnership with white physician and druggist E. F. Kamerly in 1873. In 1874, Kamerly had three-fifths of the partnership and Davison had two-fifths. The remaining volumes do not show an apparent partnership between Davison and Kamerly. Although the first page of the third volume contains information from 1903, the rest of the volume appears to pertain to 1880-1886. 
+
+- Recordings of the Rising Stars of Louisa Anniversary Program featuring the Rising Stars, a modern African American gospel quartet, performing at the St. Steven's Baptist Church in Stevensburg, Va. Included are congregational singing, solo gospel, and spirituals, religious testimonials, sung prayer with response, and shouts. Douglas Turner Day, a white folklorist who received his masters in folklore at the University of North Carolina at Chapel Hill, made the recordings, presumably as part of his masters thesis research on an African American gospel program in central Virginia. 
+
+- The collection of African American photographer Colvin M. Edwards contains approximately 48000 images from the portrait studio he owned and operated in Charlotte, N.C. A majority of the photographs depict community members of two of Charlotte's oldest historically African American neighborhoods, Beatties Ford and Biddleville, and date from the early 1940s through the late 1960s. Also included are images depicting members of local businesses, churches, groups, and schools. 
+
+### Reframing the Narrative: Surfacing Voices and Stories of the Enslaved   
+
+Much of the legacy abstract description found at Wilson Special Collections Library glorifies the experiences of white individuals and groups. In the Southern Historical Collection this is most evident in our description of white antebellum southerners. While sometimes acknowledging slavery, much of the language in these finding aids centers the lives of enslavers and softens the role that white southerners played in the system of racial oppression, often obscuring the lives and lived experiences of enslaved individuals documented in the collection. More generally, our legacy description leans towards a white (often white supremacist), male, straight, and able-bodied perspective. We strive to actively reframe this narrative for both new finding aids and our conscious editing of legacy description. We do this by calling out racist actions and viewpoints and by purposefully calling out the lives and voices of those historically left out in our legacy description. We do this to make our description more inclusive and accessible and to better enable researchers to engage with the detail and scope of historical evidence. 
+
+Please consult the [Style Guide](#https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for more on conscious language and the voice and style of inclusive description. Below are examples of our efforts to remediate legacy description to reframe the narrative and surface the voices of those previously left out of our description. 
+
+- **Example 1**  
+
+_Legacy description:_
+
+The F. W. Tuttle Collection of Papers documents financial transactions concerning enslaved people, land, and other goods of the Harper family and others. 
+
+_Edited description:_ 
+
+The Frank W. Tuttle Collection of Papers documents enslaved people, land, and other goods as financial transactions of the Harper family and others. 
+
+- **Example 2** 
+
+_Legacy description:_ 
+
+Thomas Francis Price was a farmer from Rutherford County, N.C., serving in the 56th North Carolina Volunteers. He was married to Sarah Harrill Price. 
+
+_Edited description:_ 
+
+Thomas Francis Price and Sarah Harrill Price were married white farmers from Rutherford County, N.C. Thomas Francis Price served in the 56th North Carolina Infantry. 
+
+- **Example 3**  
+
+_Legacy description:_
+
+Prudhomme family members were planters in Natchitoches Parish, La., with interests in slaves, cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). Among the important members of the Prudhomme family were Phanor Prudhomme (1807-1865); his son, J. Alphonse Prudhomme I (1838-1919); his grandson, P. Phanor Prudhomme II (1865-1948); and his great grandson, J. Alphonse Prudhomme II (1896-1991), who carried on the various agricultural operations and the general store until the early 1980s; and J. Alphonse II's wife, Lucile Keator Prudhomme (1906-1994). 
+
+_Edited description:_
+
+The Prudhomme family of Natchitoches Parish, La., were the French Creole owners of a plantation based on a workforce of enslaved people and later tenant farmers, sharecroppers, and day laborers, with interests in cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes and enslaved people and their descendants, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). 
+
+- **Example 4** 
+
+_Legacy description:_
+
+Tunstall Family Letter, 1850 
+Whitmell P. (Pugh) Tunstall was born in Pittsylvania County, Virginia. He was educated at Danville Academy and the University of North Carolina. Tunstall served in the Virginia General Assembly in both houses. He was a delegate in the House of Delegates from 1836 to 1841, a senator in the State Senate in 1841 and 1842, and a delegate again from 1845 to 1848. Tunstall was a proponent of railroads and in 1838 introduced a bill to charter the Richmond and Danville (R&D) Railroad. A charter was granted for the R&D Railroad in 1847. He was married to Mary Tunstall and they had a daughter, Mary Ellen. Whitmell P. Tunstall died in 1854 of typhoid fever, two years prior to the railroad's completion. The collection is a letter from Mrs. Mary Tunstall in Danville, Va., to her husband, Whitmell P. Tunstall, in Richmond, Va., dated 25 January 1850 in which she acknowledges receipt of his gift of a female slave child and relates her satisfaction with the child in terms of skin color and sewing capabilities. 
+
+_Edited description:_
+
+Mary Tunstall Letter on Enslaved Child Betsy, 1850 
+The collection is a letter dated 25 January 1850 about Betsy an enslaved African American female child. Written by white Virginian Mary Tunstall from Danville, Va., to her husband white Virginia politician Whitmell P. Tunstall (1810-1854), in Richmond, Va., the letter describes the color of Betsy's skin, her sewing skills, and suitability for working in the home from the perspective of Betsy's enslaver. 
 
 
 # Extent 
