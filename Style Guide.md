@@ -15,7 +15,9 @@
 
 # Saying it
 
-**Good writing and editing:** Deathless prose is not required; good concise standard English is required. Be prepared to have your finding aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your collection. Editors add these words or phrases to facilitate searching across finding aids.
+**Good writing and editing:** Deathless prose is not required; good concise standard English with a kind and respectful lens is required. Be prepared to have your finding aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your collection. Editors add these words or phrases to facilitate searching across finding aids. 
+
+**Ethical and inclusive description:** We strive to use conscious language that is kind, compassionate, mindful, empowering, respectful, and inclusive.[^1] In regards to voice and style, we lean heavily on the thoughtful work of our peers and colleagues, especially the recommendations produced by the Archives for Black Lives in Philadelphia (A4BLiP), which recommends we “decenter “neutrality” and “objectivity” in favor of “respect” and “care”; avoid passive voice when describing oppressive relationships. Use active voice in order to embed responsibility within description; Focus on the humanity of an individual before their identity/ies; Refrain from writing flowery, valorizing biographical notes for collection creators; Use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate; Describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2] 
 
 **Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
 
@@ -24,8 +26,6 @@
 - :smiley: As of 1969, she had written 18 novels about cane toads in Australia.
 
 - :smiley: The Hamptons had 24 children, 16 dogs, and 44 goldfish in 2001.
-
-**Lest ye be judged:** You may think that the person you’re working on was the cat’s meow. Please remember, however, that you’re writing description, not evaluation or appreciation (that’s for the other side of the desk). Keep the judgment out of your words and your tone. Just the facts, please.
 
 **Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call her Mary Va. del Rio. Ever. Think searchability.
 
@@ -98,7 +98,7 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
 
 - Battle of New Orleans, Battle of Seven Pines, Battle of First Manassas, etc.
 
-- black
+- Black
 
 - board of directors
 
@@ -116,13 +116,11 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
 
 - Internet
 
-- Latino
+- Latinx
 
 - navy
 
 - Native American (not hyphenated)
-
-- Negro, Negroes
 
 - Normandy invasion
 
@@ -153,7 +151,7 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
   
 - southern
 
-  - He wrote in great detail about the daily plantation life at Woodstock, including crops, how the slaves lived, relationships between slaves and masters, jobs and positions on the plantation, how the southern elite socialized, and what he called southern hospitality.
+  - He wrote in detail about the daily life at Woodstock plantation, including crops, how the enslaved lived, relationships between enslaved individuals and enslavers, jobs and positions on the plantation, how the southern elite socialized, and what he called southern hospitality.
     
 - southerner
 
@@ -235,21 +233,28 @@ These files deal with a wide variety of topics and provide information on the da
 
 # Abstracts, Collection Overview, Biog/Hist notes
 
+## Consciously edited abstracts 
+
+We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
+
+We follow the A4BLiP voice and style guidelines (outlined above under “Ethical and inclusive description”) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (listed in the “PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers” section below). [link]).  
+
+It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
+
 ## Abstracts and Collection Overviews for Multi-Series Collections
 
 **A good way to write the abstract and collection overview:** This is not the only way to write a good collection overview and abstract, but it usually works pretty well. You may want to ask for guidance on how to do this the first time you give it a try. And see below for what to do when there's only one series.
 
 - Copy all your series descriptions into the collection overview area of the finding aid
 
-- Edit the descriptions, retaining only the truly significant content (always a judgment call), to create the a collection overview.
-You may content tag the collection overview or leave it for the cataloger
+- Edit the descriptions, retaining only the truly significant content (always a judgment call), and using conscious language, to create a collection overview.
 
 - Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`. Omit all internal tagging except `<title>` and `<emph>`
 
 - Edit the abstract so that it's as concise as possible
 
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`)
+(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across these tags in an existing finding aid, you can remove them, with the option of adding it to the `<abstract encodinganalog="520">` in brief form)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
 
@@ -265,9 +270,13 @@ the `<abstract encodinganalog="520">`. This is overkill. If you have only one se
 
 Here’s a short example:
 
-- :smiley: `<bioghist><head>Biographical Note</head><p>Alma Ravenal was born in rural Georgia in 1831. Until the age of 25, she worked part-time as a missionary in China. After her return to the United States, she became a trapeze artist, traveling with various small circuses. During this period, she was involved in a project to memorialize great trapeze artists who were also missionaries. Ravenal died in 1876 as a result of a fall during a performance in DosiWallops, Wash.</p></bioghist>`
+- :smiley: `<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>
 
-- :smiley: `<scopecontent><head>Collection Overview</head><p>The collection includes materials, 1870-1876, relating to missionary and trapeze artist Alma Ravenal’s efforts to document the history of trapeze artists who were also missionaries. Correspondence, 1870-1876, is chiefly between Ravenal and friends and family members trying to convince her to give up her pursuit. Financial records document expenditures for bail and other expenses Ravenal incurred as she became increasingly vehement in her pursuit. Photographs are largely etc., etc.</p></scopecontent>`
+<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>
+
+<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>`
+
+- :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
 
 ## Biographical Note verses Historical Note
 
@@ -400,9 +409,9 @@ front steps (not noted in original descriptions provided by creator):
 **Names as modifiers:** With appositives involving names, add a comma when the full name is used. Leave the comma out when only part
 of a name is used.
 
-- :smiley: _His wife, Mary Johnson Smith, ran away in 1806._
+- :smiley: _His wife, Mary Johnson Smith, marched for women's suffrage in 1906._
 
-- :smiley: _His daughter Sue was a famous stripper._
+- :smiley: _His daughter Sue was an activist for civil rights in the 1930s._
 
 **Other modifiers:** Use commas before and after location names used as modifiers but not before and after Jr./Sr.
 
@@ -473,7 +482,7 @@ doing EAD markup.
 
 - :smiley: _Harmonyx A Cappella_
 
-# PersNames, CorpNames, GeogNames, Titles, Dates, Numbers 
+# PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers 
 
 ## PersnNames and CorpNames
 
@@ -510,6 +519,92 @@ Abbreviate for lesser government bodies and for military units
 - U.S. Farm Security Administration
 
 - U.S. Army Corps of Engineers
+
+## Racial and Ethnic Identities 
+
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of “Descriptive Elements” for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide”3, when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Descriptive Elements, we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+
+- African 
+
+- African American  
+
+- Afro-Caribbean 
+
+- American Indian 
+
+- Asian American 
+
+- Black 
+
+- Cambodian American 
+
+- Central Asian 
+
+- Chinese American 
+
+- Coharie Indian 
+
+- Creole 
+
+- Cuban 
+
+- Cuban American 
+
+- East Indian Americans 
+
+- Greek American 
+
+- Haitian American 
+
+- Haliwa-Saponi Indian 
+
+- Hispanic [stick to Latinx?] 
+
+- Japanese American 
+
+- Jewish 
+
+- Jewish American 
+
+- Latinx 
+
+- Lumbee Indian 
+
+- Mexican American 
+
+- Montagnard 
+
+- Multiracial American [preferably list out: European, African American, and Native American ancestry.] 
+
+- Native American [preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] 
+
+- South Asian 
+
+- Tuscarora Indian 
+
+- Vietnamese American 
+
+- white 
+
+We acknowledge that race and ethnic identity is only one facet of an individual’s or group of individuals’ identity and that above all else we must emphasize the humanity of those being described. We do this through voice and style. An example from the A4BLiP:  
+
+Consider the difference between “documents the business dealings of a Black woman named Maria in 18th century Mexico” and “documents the business dealings of Maria, a Black woman in 18th century Mexico.[^4]  
+
+Additional examples from UNC finding aids below: 
+
+- William R. Ferris, white folklorist, author, professor, and filmmaker of Vicksburg, Miss. 
+
+- Roberta H. Jackson, African American professor of education at the University of North Carolina at Chapel Hill 
+
+- Helen Maynor Scheirbeck (1935-2010), a Lumbee Indian political scientist, educator, and community organizer born in Lumberton, N.C. 
+
+- Psi Delta Chapter of Omega Psi Phi Fraternity, the first historically Black Greek organization established at the University of North Carolina at Chapel Hill 
+
+- Videotapes created by Judith McWillie, a white artist, author, and professor emeritus of drawing and painting at the Lamar Dodd School of Art in Athens, Ga. 
+
+- Etta Baker, born Etta Lucille Reid, claimed European, African American, and Native American ancestry. 
+
+- Interview conducted by Molly Conrecode, a white folklorist, with Bland Simpson, a white author, playwright, songwriter, and musician, who was a member of the North Carolina string band, the Red Clay Ramblers. 
 
 ## GeogNames
 
@@ -648,9 +743,9 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
-- :rage: `<bioghist><head>Biographical Note</head>•`_Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam.••_
+- :rage: `<bioghist><head>Biographical Note</head> Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer.••_
 
-- :smiley: `<bioghist><head>Biographical Note</head>`_Chang and Eng Bunker (1811-1874), the original Siamese twins, were born in Meklong, Siam._
+- :smiley: `<bioghist><head>Biographical Note</head>`_Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer._
 
 - :rage: `<unittitle>•<unitdate>1922</unitdate></unittitle>`
 
@@ -678,7 +773,7 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 
 - :smiley: Included are letters Rankin received from supporters.
 
-**Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, and handwritten copies. Avoid vague terms (e.g., copies). 
+**Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, handwritten copies, and dubs (for audiovisual materials). Avoid vague terms (e.g., copies). 
 
 **Things southern:** It's the South, not the south. BUT it is southern and southerner, not Southern and Southerner.
 
