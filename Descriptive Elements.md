@@ -75,13 +75,13 @@ The purpose of an abstract is to suggest avenues for discovery and use of collec
 
 An abstract (scope and content note) should identify, summarize, and contextualize the following elements of content in a collection: 
 
-- **People.** Individuals and groups (i.e., organizations or corporate bodies) who created or assembled the collection materials and those represented in the collection’s content. 
+- **People.** Individuals and groups (i.e., organizations or corporate bodies) who created or assembled the collection materials and those represented in the collection’s content, including enslaved people whose voices typically are not heard in the collection, but whose lives nevertheless are documented. 
 
 - **Time.** Chronological scope of the materials and the content. Life dates for creators and other key figures represented in the collection.
 
-- **Place.** Geographical scope of the materials and content and non-geographical location such as “in the home.” 
+- **Place.** Geographical scope of the materials and content and non-geographical location such as “in the home.” Note that it is important to note plantation names linked with slavery in order to assist researchers who are doing pre 1870 African American genealogy, which leans heavily on place names to locate enslaved family members.
 
-- **Format and genre.** Physical and digital forms of material (e.g., photographs, audio recordings, moving images, database) and document types in relation to their purpose and content (e.g., correspondence, diaries, ledgers, zines) held in the collection. 
+- **Format and genre.** Physical and digital forms of material (e.g., photographs, audio recordings, moving images, database) and document types in relation to their purpose and content (e.g., correspondence, diaries, ledgers, zines) held in the collection. Note that in trying to surface the lives of enslaved people, it is especially important to record types of legal and financial materials, such as estate papers, wills, deeds, and bills of sale, as the names of enslaved people may appear here.
 
 - **Topics.** Subject matter addressed or documented in the collection materials. 
 
