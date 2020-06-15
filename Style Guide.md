@@ -15,9 +15,16 @@
 
 # Saying it
 
-**Good writing and editing:** Deathless prose is not required; good concise standard English with a kind and respectful lens is required. Be prepared to have your finding aid edited by those who have been writing these things for a long time. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. Often editing serves to add words or phrases that appear in finding aids describing materials similar to those in your collection. Editors add these words or phrases to facilitate searching across finding aids. 
+**Good writing and editing:** Deathless prose is not required; good concise standard English with a kind and respectful lens is required. In addition to writing new description, be prepared to edit the writing of archivists who have gone before you. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. 
 
-**Ethical and inclusive description:** We strive to use conscious language that is kind, compassionate, mindful, empowering, respectful, and inclusive.[^1] In regards to voice and style, we lean heavily on the thoughtful work of our peers and colleagues, especially the recommendations produced by the Archives for Black Lives in Philadelphia (A4BLiP), which recommends we “decenter “neutrality” and “objectivity” in favor of “respect” and “care”; avoid passive voice when describing oppressive relationships. Use active voice in order to embed responsibility within description; Focus on the humanity of an individual before their identity/ies; Refrain from writing flowery, valorizing biographical notes for collection creators; Use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate; Describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2] 
+**Ethical and inclusive description:** We strive to use conscious language that is kind, compassionate, mindful, empowering, respectful, and inclusive.[^1] In regards to voice and style, we lean heavily on the thoughtful work of our peers and colleagues, especially the [recommendations produced by the Archives for Black Lives in Philadelphia (A4BLiP)](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf): 
+- decenter “neutrality” and “objectivity” in favor of “respect” and “care”; 
+- avoid passive voice when describing oppressive relationships; 
+- use active voice in order to embed responsibility within description; 
+- focus on the humanity of an individual before their identity/ies; 
+- refrain from writing flowery, valorizing biographical notes for collection creators; 
+- use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate; 
+- describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2] 
 
 **Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
 
@@ -226,9 +233,9 @@ These files deal with a wide variety of topics and provide information on the da
 
 - The collection consists of x, y, and z.
 
-**Other item collections?**
+**Single item collections?**
 
-- The collection is a letter from Jackie Dean to Nancy Kaiser describing...
+- The collection is a letter dated 25 January 1850 about Betsy an enslaved African American child.
 
 
 # Abstracts, Collection Overview, Biog/Hist notes
@@ -237,32 +244,24 @@ These files deal with a wide variety of topics and provide information on the da
 
 We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
 
-We follow the A4BLiP voice and style guidelines (outlined above under “Ethical and inclusive description”) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (listed in the “PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers” section below). [link]).  
+We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under [“Ethical and inclusive description”](####ethical-and-inclusive-description)) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (listed in the “PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers” section below). [link]).  
 
 It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
 
 ## Abstracts and Collection Overviews for Multi-Series Collections
 
-**A good way to write the abstract and collection overview:** This is not the only way to write a good collection overview and abstract, but it usually works pretty well. You may want to ask for guidance on how to do this the first time you give it a try. And see below for what to do when there's only one series.
+**A good way to write the abstract and collection overview:** 
 
-- Copy all your series descriptions into the collection overview area of the finding aid
+- Create a collection overview that concisely answers who, what, where, and when about the collection.
 
-- Edit the descriptions, retaining only the truly significant content (always a judgment call), and using conscious language, to create a collection overview.
-
-- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`. Omit all internal tagging except `<title>` and `<emph>`
+- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`.
 
 - Edit the abstract so that it's as concise as possible
 
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across these tags in an existing finding aid, you can remove them, with the option of adding it to the `<abstract encodinganalog="520">` in brief form)
+(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across these tags in an existing finding aid, you can remove them, with the option of adding the biographical information to the `<abstract encodinganalog="520">` in brief form)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
-
-## Abstracts and Collection Overviews for One-Series Collections
-
-If you use the method above to write abstracts and collection overviews when there's just one series, you wind up with pretty much
-the same description three times in the finding aid (once in the series description, once in the collection overview, and once in 
-the `<abstract encodinganalog="520">`. This is overkill. If you have only one series, write its description as the collection overview. Use the collection overview as the `<abstract encodinganalog="520">` (with editing as needed). At the series level, you may either omit the `<scopecontent>` note entirely or use it for information that's not appropriate for the collection overview or abstract.  
 
 ## `<Bioghist>` versus `<Scopecontent>`
 
@@ -272,9 +271,9 @@ Here’s a short example:
 
 - :smiley: `<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>
 
-<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>
+<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>`
 
-<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>`
+`<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>`
 
 - :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
 
@@ -320,9 +319,9 @@ modifying information for other folders. For example, a series may contain corre
 
 - :smiley: _Correspondence, 1903-1956_
 
-- :smiley: _Speech: `<title render="doublequote">How I Spent My Summer Vacation</title>,` _Raleigh, 1922_
+- :smiley: _Speech: `<title render="doublequote">How I Spent My Summer Vacation</title>,` Raleigh, 1922_
 
-- :smiley: _Speech: `<title render="doublequote">How the West Was Won</ title>:` _Civitan Club, Chapel Hill, 1960_
+- :smiley: _Speech: `<title render="doublequote">How the West Was Won</ title>:` Civitan Club, Chapel Hill, 1960_
 
 - :smiley: _Miscellaneous_
 
@@ -357,7 +356,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 # Transcribing Titles and Captions
 
-If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks.  
+If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-genertated and archivist-generated folder titles.  
 
 Examples:
 
@@ -486,7 +485,7 @@ doing EAD markup.
 
 ## PersnNames and CorpNames
 
-**Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or _Hetty Betty Bodin_e or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
+**Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or _Hetty Betty Bodine_ or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
 
 When an individual uses initials in a personal name, place a period followed by a space after each letter. 
 
@@ -522,7 +521,7 @@ Abbreviate for lesser government bodies and for military units
 
 ## Racial and Ethnic Identities 
 
-In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of “Descriptive Elements” for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide”3, when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Descriptive Elements, we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of “Descriptive Elements” for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Descriptive Elements, we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
 - African 
 
@@ -588,7 +587,7 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 We acknowledge that race and ethnic identity is only one facet of an individual’s or group of individuals’ identity and that above all else we must emphasize the humanity of those being described. We do this through voice and style. An example from the A4BLiP:  
 
-Consider the difference between “documents the business dealings of a Black woman named Maria in 18th century Mexico” and “documents the business dealings of Maria, a Black woman in 18th century Mexico.[^4]  
+Consider the difference between “documents the business dealings of a Black woman named Maria in 18th century Mexico” and “documents the business dealings of Maria, a Black woman in 18th century Mexico. [^4]  
 
 Additional examples from UNC finding aids below: 
 
@@ -743,7 +742,7 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
-- :rage: `<bioghist><head>Biographical Note</head> Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer.••_
+- :rage: `<bioghist><head>Biographical Note</head><p> Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer.••</p>`_
 
 - :smiley: `<bioghist><head>Biographical Note</head>`_Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer._
 
@@ -794,6 +793,8 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 - :smiley: He was a southerner.
 
 # Historical Documentation
+
+How we process archival collections has evolved over time. Since implementation of a local version of More Product, Less Process (MPLP), we have significantly curtailed the depth to which we describe collection materials. Included here is descriptive guidance that is not wrong, but it is generally not in active use because we are not doing in-depth processing. 
 
 - [Military Papers](#military-papers)
 - [Literary Papers](#literary-papers)
