@@ -1,8 +1,6 @@
 # Overview
 
 - [Saying it](#saying-it)
-- [Capitalization](#capitalization)
-- [Finding Aid Phrases](#finding-aid-phrases)
 - [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
 - [Folder Titles](#folder-titles)
 - [Transcribing Titles and Captions](#transcribing-titles-and-captions)
@@ -14,6 +12,8 @@
 - [Historical Documentation](#historical-documentation)
 
 # Saying it
+
+## General rules
 
 **Good writing and editing:** Deathless prose is not required; good concise standard English with a kind and respectful lens is required. In addition to writing new description, be prepared to edit the writing of archivists who have gone before you. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. 
 
@@ -34,7 +34,13 @@
 
 - :smiley: The Hamptons had 24 children, 16 dogs, and 44 goldfish in 2001.
 
-**Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call her Mary Va. del Rio. Ever. Think searchability.
+**Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call her Mary Va. del Rio. Ever. This is important for searchability. 
+
+- :smiley: _Mary Virginia del Rio._
+
+- :smiley: _Mary Va. del Rio._
+
+Also, strive for consistency in punctuation and capitalization. Especially when writing folder titles for University Archives, it is important to be consistent with capitalization throughout our collections. You can become an expert by following a few simple rules. See below for [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization).
 
 **Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
 
@@ -48,52 +54,318 @@
 
 **BUT verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
 
+
+## Finding Aid Phrases
+
+**Appears to have been:** William D. McDowall _appears to have been_ a partner with Charles J. Shannon in the firm of McDowall and
+Shannon of Charleston, S.C.
+
+**May have been:** Aritcles and writing by D. Hiden Ramsey; some _may have been_ intended as articles for the Asheville Citizen or
+other publications or as speeches.
+
+**Possibly related to:** Account book with entries relating chiefly to food, some show equipment purchased. Page 84 contains an "Academy"
+account _possibly related to_ construction work at Vine Hill Academy.
+
+**The relationship between these materials and other materials in the collection is unclear:** There are also envelopes and other papers.
+_The relation between these materials and other materials in the collection is unclear._
+
+**Notable:** _Notable_ correspondents include Terry Sanford, Dean Smith, Christopher Fordham, many state and national politicians, and
+various editors and publishers.
+
+**A few:** There are also _a few_ photographs of Leavitt at various stages of his career.
+
+**Chiefly:** Antebellum letters are _chiefly_ about farming and family matters.
+
+**Scattered:** About half of the undated letters were received by Louisa H. Watkins from relatives, with the bulk of the remainder
+addressed to her cousin George Hairston. _Scattered_ items appear for Peter Watkins, Lizzie Hairston, and others.
+
+**Unrelated:** Chiefly _unrelated_ 19-century letters from several different states collected by James Baylor Blackford of Richmond, Va.
+
+**Loose:** The collection contains _loose_ legal papers, pertaining to cases handled by L. B. Wetmore between 1887 and 1918, including
+contracts, deeds, letters, handwritten notes, briefs, and copies of court filings; memo pads; attorney's pocket docket; and an account
+book.
+
+**A wide variety of topics:** Operations material is chiefly correspondence to and from executives of the Atlantic Coast Line Railroad.
+These files deal with _a wide variety of topics_ and provide information on the day-to-day operation of the company.
+
+**Useful structural phrases for scope and content notes:**
+
+- The collection includes
+
+- There are also
+
+- There are (repeat as needed)
+
+- Also included
+
+**Includes versus contains/consists of:**
+
+- "Includes" is more vague; "contains" is more specific.
+
+- The collection includes x, y, z, and other items.
+
+- The collection contains x, y, and z.
+
+- The collection consists of x, y, and z.
+
+**Single item collections?**
+
+- The collection is a letter dated 25 January 1850 about Betsy an enslaved African American child.
+
+
+# Abstracts, Collection Overview, Biog/Hist notes
+
+## Consciously edited abstracts 
+
+We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
+
+We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under [Ethical and inclusive description](####ethical-and-inclusive-description)) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (listed in the [PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers).  
+
+It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
+
+## Abstracts and Collection Overviews for Multi-Series Collections
+
+**A good way to write the abstract and collection overview:** 
+
+- Create a collection overview that concisely answers who, what, where, and when about the collection.
+
+- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`.
+
+- Edit the abstract so that it's as concise as possible.
+
+- You may include brief biographical/historical information to provide context for the collection but it is no longer required  
+(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across this tag in an existing finding aid, you can remove it, with the option of adding the biographical information to the `<abstract encodinganalog="520">` in brief form)
+
+- Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
+
+## `<Bioghist>` versus `<Scopecontent>`
+
+`<bioghist>` is about the creator(s) of the materials. `<scopecontent>` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in `<bioghist>`. You can also mention that the creator undertook the project at hand. But save the details of the project for `<scopecontent>`. 
+
+Here’s a short example:
+
+- :smiley: `<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>
+
+<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>
+
+<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>`
+
+- :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
+
+## Biographical Note verses Historical Note
+
+Biographical notes are about individuals and families; historical notes are about organizations.
+
+
+# Folder Lists
+
+Most of the time we will use creator-generated folder lists and we will keep the original order of folders, which often are in chronological or alphabetical order. Ideally the creator will supply us with a typed version of the folder list, but even then there are some general rules to follow with regard to punctuation and capitalization in folder titles. See below for more about [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization) throughout the finding aid.
+
+**Creator-generated folder titles:** We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received:
+
+- :smiley: _Note that original file folder titles have, for the most part, been retained._
+
+- :smiley: _The creator's/organization's original arrangement has been retained. Folder titles were derived from original folder names and from descriptive metadata found within the files by the processing archivist._
+
+HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
+
+The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
+
+**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
+
+Alphabetical by name means Last name, First name.
+
+- :smiley: _Bushyhead, Robert H._
+
+Company names that include a person’s name are alphabetized by the first letter of the first word in the name.  
+
+- :smiley: _J. M. Dent and Sons_
+
+**Punctuation:** 
+
+Do not end folder titles with a period.
+
+- :smiley: _Steele, Danielle_
+
+Use colons to show subordination. Capitalize first word after colon.
+
+- :smiley: _Missionary Society: Committee on Part-time Missionaries_
+
+- :smiley: _1901: January-March_
+
+Always use commas before dates:
+
+- :smiley: _Missionary Society: Minutes, 1901-1903_
+
+- :smiley: _Correspondence, 1901-1902_
+
+Use commas before locations:
+
+- :smiley: _Missionary Society: Annual meeting, Raleigh, 1902_
+
+Use colons in complex statements:
+
+- :smiley: `<title render="doublequote">How the West Was Won</title>:` _Missionary Society, Raleigh, 1966_
+
+You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
+modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both titles and dates; and miscellaneous other items. Remembering that you use a simple comma before locations and before dates, the folder list would look like this:  
+
+- :smiley: _Correspondence, 1903-1956_
+
+- :smiley: _Speech: `<title render="doublequote">How I Spent My Summer Vacation</title>,` Raleigh, 1922_
+
+- :smiley: _Speech: `<title render="doublequote">How the West Was Won</ title>:` Civitan Club, Chapel Hill, 1960_
+
+
+Use the Last name, First name format:
+
+- :smiley: _Clark, Septima Poinsette_
+
+**Capitalization of folder titles:** Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
+
+- :smiley: _Folder 21 Annual reports_
+
+- :rage: _Folder 21 Annual Reports_
+
+
+# Transcribing Titles and Captions
+
+If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.  
+
+Examples:
+
+**Creator-generated title**
+
+For example, a photograph with "Cullom Hall, 1926" written on the back:  
+
+`<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>` 
+
+**Archivist-generated title**
+
+For example, a photograph that we identify as being Cullom Hall in 1926:  
+
+`<unittitle>Cullom Hall, 1926</unittitle>`  
+
+**Creator-generated title with archivist-generated clarification**
+
+For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
+
+`<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>`  
+
+**Creator-generated caption**
+
+For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
+written on the back:  
+
+`<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>`  
+
+**Archivist-generated caption**
+
+For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
+front steps (not noted in original descriptions provided by creator):  
+
+`<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
+
+
+# Commas and Other Punctuation
+
+**Introductory phrases and clauses:** Use a comma to set off all introductory phrases and clauses.
+
+- :smiley: _In December 1980, she totally freaked out._
+
+- :smiley: _By the following summer, she was the CEO for a leading corporation._
+
+**Terms in series:** In a series of three or more terms, use a comma after each term.
+
+- :smiley: _She traveled to Raleigh, Atlanta, and Memphis._
+
+**Names as modifiers:** With appositives involving names, add a comma when the full name is used. Leave the comma out when only part
+of a name is used.
+
+- :smiley: _His wife, Mary Johnson Smith, marched for women's suffrage in 1906._
+
+- :smiley: _His daughter Sue was an activist for civil rights in the 1930s._
+
+**Other modifiers:** Use commas before and after location names used as modifiers but not before and after Jr./Sr.
+
+- :smiley: _Goodman moved to Brooklyn, N.Y., in August 1900._
+
+- :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
+
+**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
+doing EAD markup.
+
+- :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
+
+- :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
+
 # Capitalization
 
-## When to capitalize folder titles
+**Capitalization of series titles:** Do capitalize all of the words in a series title.
 
-Especially when writing folder titles for University Archives, it is important to be consistent with capitalization throughout our 
-collections. You can become an expert by following a few simple rules.  
- 
-There are three main categories that require capitalization: 
+- Series 1. Correspondence and Related Material
 
-**1. Official names of events**
+- Series 2.1. Other Writings
 
-If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized:
- 
-- Carolina Invitational baseball tournament 
-- Concert for Carolina benefit event 
-- Atlantic Coast Conference Championships 
+**Capitalization of job titles:** Don't capitalize job titles unless they are used as an identifier before a name.
 
+- She was director of the Sports Information office.
 
-**2. Names of buildings**
+- Robert Wagner, mayor of New York City, was there.
+
+- Mayor Robert Wagner of New York City was there.
+
+**Capitalizing official names of events:** If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized.
+
+- Carolina Invitational baseball tournament
+
+- Concert for Carolina benefit event
+
+- Atlantic Coast Conference Championships
+
+**Capitalize names of buildings:**
 
 - Ehringhaus Dining Hall
-- Morehead Planetarium
+
 - Stone Center
+
+- Morehead Planetarium
+
 - South Building
+
 - Spencer Residence Hall
 
-**3. Corporate bodies (this includes committees, boards, and groups)**
+**Capitalize corporate bodies:**
 
 - Faculty Information Technology Advisory Committee
+
 - Chancellor's Committee on Diversity
-- Student Affairs Advisory Board
-- Black Student Movement
-- Board of Trustees
+
 - Carolina American Indian Caucus
+
+- Student Affairs Advisory Board
+
+- Black Student Movement
+
+- Board of Trustees
+
 - Office of Research Development
+
 - Carolina Latinx Center
+
 - Atlantic Coast Conference
+
 - Harmonyx A Cappella
 
-**4. Other examples**
+**Other capitalization examples:**
 
 - African American (not hyphenated)
 
 - a.m.
 
 - American Indian (not hyphenated)
+
+- Annual reports (:rage: _Folder 21 Annual Reports_)
 
 - antebellum
 
@@ -117,7 +389,7 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
 
 - federal
 
-  - Pettigrew was wounded and captured by federal troops.
+  - James Johnston Pettigrew was wounded and captured by federal troops.
   
 - General Assembly
 
@@ -179,311 +451,9 @@ If the event's official name is "Great Alaska Shootout," and the event happens t
 - Yankee
 
 
-
-# Finding Aid Phrases
-
-**Appears to have been:** William D. McDowall _appears to have been_ a partner with Charles J. Shannon in the firm of McDowall and
-Shannon of Charleston, S.C.
-
-**May have been:** Aritcles and writing by D. Hiden Ramsey; some _may have been_ intended as articles for the Asheville Citizen or
-other publications or as speeches.
-
-**Possibly related to:** Account book with entries relating chiefly to food, some show equipment purchased. Page 84 contains an "Academy"
-account _possibly related to_ construction work at Vine Hill Academy.
-
-**The relationship between these materials and other materials in the collection is unclear:** There are also envelopes and other papers.
-_The relation between these materials and other materials in the collection is unclear._
-
-**Notable:** _Notable_ correspondents include Terry Sanford, Dean Smith, Christopher Fordham, many state and national politicians, and
-various editors and publishers.
-
-**A few:** There are also _a few_ photographs of Leavitt at various stages of his career.
-
-**Chiefly:** Antebellum letters are _chiefly_ about farming and family matters.
-
-**Scattered:** About half of the undated letters were received by Louisa H. Watkins from relatives, with the bulk of the remainder
-addressed to her cousin George Hairston. _Scattered_ items appear for Peter Watkins, Lizzie Hairston, and others.
-
-**Unrelated:** Chiefly _unrelated_ 19-century letters from several different states collected by James Baylor Blackford of Richmond, Va.
-
-**Loose:** The collection contains _loose_ legal papers, pertaining to cases handled by L. B. Wetmore between 1887 and 1918, including
-contracts, deeds, letters, handwritten notes, briefs, and copies of court filings; memo pads; attorney's pocket docket; and an account
-book.
-
-**A wide variety of topics:** Operations material is chiefly correspondence to and from executives of the Atlantic Coast Line Railroad.
-These files deal with a wide variety of topics and provide information on the day-to-day operation of the company.
-
-**A possible structure for scope and content notes:**
-
-- The collection includes
-
-- There are also
-
-- There are (repeat as needed)
-
-- Also included
-
-**Includes versus contains/consists of:**
-
-- "Includes" is more vague; "contains" is more specific.
-
-- The collection includes x, y, z, and other items.
-
-- The collection contains x, y, and z.
-
-- The collection consists of x, y, and z.
-
-**Single item collections?**
-
-- The collection is a letter dated 25 January 1850 about Betsy an enslaved African American child.
-
-
-# Abstracts, Collection Overview, Biog/Hist notes
-
-## Consciously edited abstracts 
-
-We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
-
-We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under [“Ethical and inclusive description”](####ethical-and-inclusive-description)) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (listed in the “PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers” section below). [link]).  
-
-It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
-
-## Abstracts and Collection Overviews for Multi-Series Collections
-
-**A good way to write the abstract and collection overview:** 
-
-- Create a collection overview that concisely answers who, what, where, and when about the collection.
-
-- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`.
-
-- Edit the abstract so that it's as concise as possible
-
-- You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across these tags in an existing finding aid, you can remove them, with the option of adding the biographical information to the `<abstract encodinganalog="520">` in brief form)
-
-- Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
-
-## `<Bioghist>` versus `<Scopecontent>`
-
-`<bioghist>` is about the creator(s) of the materials. `<scopecontent>` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in `<bioghist>`. You can also mention that the creator undertook the project at hand. But save the details of the project for `<scopecontent>`. 
-
-Here’s a short example:
-
-- :smiley: `<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>
-
-<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>`
-
-`<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>`
-
-- :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
-
-## Biographical Note verses Historical Note
-
-Biographical notes are about individuals and families; historical notes are about organizations.
-
-
-# Folder Titles
-
-**Folder titles:** Folder titles come in many shapes and sizes. In general: Do not end folder titles with a period.
-
-- :smiley: _Steele, Danielle_
-
-Use colons to show subordination. Capitalize first word after colon.
-
-- :smiley: _Missionary Society: Committee on Part-time Missionaries_
-
-- :smiley: _1901: January-March_
-
-- :smiley: _1901: Undated_
-
-Always use commas before dates:
-
-- :smiley: _Missionary Society: Minutes, 1901-1903_
-
-- :smiley: _Correspondence, 1901-1902_
-
-- :smiley: _Speeches, 1901-1902_
-
-Use commas before locations:
-
-- :smiley: _Missionary Society: Annual meeting, Raleigh, 1902_
-
-Use colons in complex statements:
-
-- :smiley: `<title render="doublequote">How the West Was Won</title>:` _Missionary Society, Raleigh, 1966_
-
-You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
-modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both titles and dates; and miscellaneous other items. Remembering that you use a simple comma before locations and before dates, the folder list would look like this:  
-
-- :smiley: _Correspondence, 1901-1902_
-
-- :smiley: _Correspondence, 1903-1956_
-
-- :smiley: _Speech: `<title render="doublequote">How I Spent My Summer Vacation</title>,` Raleigh, 1922_
-
-- :smiley: _Speech: `<title render="doublequote">How the West Was Won</ title>:` Civitan Club, Chapel Hill, 1960_
-
-- :smiley: _Miscellaneous_
-
-Use the Last name, First name format:
-
-- :smiley: _Clark, Septima Poinsette_
-
-**Capitalization of folder titles:** Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
-
-- :smiley: _Folder 21 Annual reports_
-
-- :rage: _Folder 21 Annual Reports_
-
-**Creator-generated folder titles:** We usually use creator-generated folder titles. Add this statement (or something close) just before the folder list begins when you are using folder titles as received:
-
-- :smiley: _Note that original file folder titles have, for the most part, been retained._
-
-HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
-
-The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
-
-**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement for each series or subseries. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
-
-Alphabetical by name means Last name, First name.
-
-- :smiley: _Bushyhead, Robert H._
-
-Company names that include a person’s name are alphabetized by the first letter of the first word in the name.  
-
-- :smiley: _J. M. Dent and Sons_
-
-
-# Transcribing Titles and Captions
-
-If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-genertated and archivist-generated folder titles.  
-
-Examples:
-
-**Creator-generated title**
-
-For example, a photograph with "Cullom Hall, 1926" written on the back:  
-
-`<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>` 
-
-**Archivist-generated title**
-
-For example, a photograph that we identify as being Cullom Hall in 1926:  
-
-`<unittitle>Cullom Hall, 1926</unittitle>`  
-
-**Creator-generated title with archivist-generated clarification**
-
-For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
-
-`<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>`  
-
-**Creator-generated caption**
-
-For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
-written on the back:  
-
-`<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>`  
-
-**Archivist-generated caption**
-
-For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
-front steps (not noted in original descriptions provided by creator):  
-
-`<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
-
-
-# Commas, Other Punctuation, Capitalization
-
-**Introductory phrases and clauses:** Use a comma to set off all introductory phrases and clauses.
-
-- :smiley: _In December 1980, she totally freaked out._
-
-- :smiley: _By the following summer, she was the CEO for a leading corporation._
-
-**Terms in series:** In a series of three or more terms, use a comma after each term.
-
-- :smiley: _She traveled to Raleigh, Atlanta, and Memphis._
-
-**Names as modifiers:** With appositives involving names, add a comma when the full name is used. Leave the comma out when only part
-of a name is used.
-
-- :smiley: _His wife, Mary Johnson Smith, marched for women's suffrage in 1906._
-
-- :smiley: _His daughter Sue was an activist for civil rights in the 1930s._
-
-**Other modifiers:** Use commas before and after location names used as modifiers but not before and after Jr./Sr.
-
-- :smiley: _Goodman moved to Brooklyn, N.Y., in August 1900._
-
-- :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
-
-**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
-doing EAD markup.
-
-- :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
-
-- :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
-
-**Capitalization of series and subseries titles:** Do capitalize all of the words in the supplied title at the series and subseries level.
-
-- :smiley: _Series 1. Correspondence and Related Material_
-
-- :smiley: _Series 2.1. Other Writings_
-
-**Capitalization of job titles:** Don't capitalize job titles unless they are used as an identifier before a name.
-
-- :smiley: _She was director of the Sports Information office._
-
-- :smiley: _Robert Wagner, mayor of New York City, was there._
-
-- :smiley: _Mayor Robert Wagner of New York City was there._
-
-**Capitalizing official names of events:** If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized.
-
-- :smiley: _Carolina Invitational baseball tournament_
-
-- :smiley: _Concert for Carolina benefit event_
-
-- :smiley: _Atlantic Coast Conference Championships_
-
-**Capitalize names of buildings:**
-
-- :smiley: _Ehringhaus Dining Hall_
-
-- :smiley: _Stone Center_
-
-- :smiley: _Morehead Planetarium_
-
-- :smiley: _South Building_
-
-- :smiley: _Spencer Residence Hall_
-
-**Capitalize corporate bodies:**
-
-- :smiley: _Faculty Information Technology Advisory Committee_
-
-- :smiley: _Chancellor's Committee on Diversity_
-
-- :smiley: _Carolina American Indian Caucus_
-
-- :smiley: _Student Affairs Advisory Board_
-
-- :smiley: _Black Student Movement_
-
-- :smiley: _Board of Trustees_
-
-- :smiley: _Office of Research Development_
-
-- :smiley: _Carolina Latinx Center_
-
-- :smiley: _Atlantic Coast Conference_
-
-- :smiley: _Harmonyx A Cappella_
-
 # PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers 
 
-## PersnNames and CorpNames
+## PersNames and CorpNames
 
 **Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or _Hetty Betty Bodine_ or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
 
@@ -491,7 +461,7 @@ When an individual uses initials in a personal name, place a period followed by 
 
 - J. G. de Roulhac Hamilton
 
-**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. For example, use and instead of & unless you know that the authority record specifies & (remember to use & for & in EAD-encoded finding aids).  
+**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. For example, use "and" instead of "&" unless you know that the authority record specifies & (remember to use & for & in EAD-encoded finding aids).  
 
 - :smiley: _University of North Carolina at Chapel Hill_
 
@@ -521,7 +491,7 @@ Abbreviate for lesser government bodies and for military units
 
 ## Racial and Ethnic Identities 
 
-In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of “Descriptive Elements” for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Descriptive Elements, we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Descriptive Elements, we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
 - African 
 
