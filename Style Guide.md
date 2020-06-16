@@ -2,12 +2,10 @@
 
 - [Saying it](#saying-it)
 - [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
-- [Folder Titles](#folder-titles)
-- [Commas and Other Punctuation](#commas-and-other-punctuation)
+- [Folder Lists](#folder-lists)
+- [Punctuation](#punctuation)
 - [Capitalization](#capitalization)
 - [PersNames, CorpNames, Racial and Ethnic Identies, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers)
-- [Spaces](#spaces)
-- [UNC](#unc)
 - [Miscellaneous](#miscellaneous)
 - [Historical Documentation](#historical-documentation)
 
@@ -271,7 +269,9 @@ front steps (not noted in original descriptions provided by creator):
 `<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
 
 
-# Commas, Dashes, and Other Punctuation
+# Punctuation
+
+## Commas
 
 **Introductory phrases and clauses:** Use a comma to set off all introductory phrases and clauses.
 
@@ -296,7 +296,9 @@ of a name is used.
 
 - :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
 
-**Dashes:** Dashes should not be surrounded by spaces:
+## Dashes
+
+Dashes should not be surrounded by spaces:
 
 - :rage: _1983•-•1984_
 
@@ -308,6 +310,30 @@ doing EAD markup.
 - :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
 
 - :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
+
+## Spaces
+
+**One space rules:** Always use ONE space after punctuation (periods, colons, whatever). In an EAD finding aid, there is never a time that you need more than one space in a row. 
+
+- :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
+
+- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined the Foreign Legion._
+
+Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
+
+- :rage: `<bioghist><head>Biographical Note</head><p> Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer.••</p>`_
+
+- :smiley: `<bioghist><head>Biographical Note</head>`_Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer._
+
+- :rage: `<unittitle>•<unitdate>1922</unitdate></unittitle>`
+
+- :smiley: `<unittitle><unitdate>1922</unitdate></unittitle>`
+
+- :rage: `<c02><did><container type="folder">•1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
+
+- :rage: `<c02><did><container type="folder">1</container><unittitle>•Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
+
+- :smiley: `<c02><did><container type="folder">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
 # Capitalization
 
@@ -706,37 +732,10 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 - :smiley: _One hundred years later, he was still eating blueberry pie._
 
 
-# Spaces and Dashes
-
-**One space rules:** Always use ONE space after punctuation (periods, colons, whatever). In an EAD finding aid, there is never a time that you need more than one space in a row. 
-
-- :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
-
-- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined the Foreign Legion._
-
-Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
-
-- :rage: `<bioghist><head>Biographical Note</head><p> Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer.••</p>`_
-
-- :smiley: `<bioghist><head>Biographical Note</head>`_Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer._
-
-- :rage: `<unittitle>•<unitdate>1922</unitdate></unittitle>`
-
-- :smiley: `<unittitle><unitdate>1922</unitdate></unittitle>`
-
-- :rage: `<c02><did><container type="folder">•1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
-
-- :rage: `<c02><did><container type="folder">1</container><unittitle>•Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
-
-- :smiley: `<c02><did><container type="folder">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
-
-
-# UNC
-
-**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with `<corpname>` if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
-
 
 # Miscellaneous
+
+**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with `<corpname>` if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
 
 **Chair and chairman:** If we agree to use chair for both males and females, we cannot go wrong.
 
@@ -747,24 +746,6 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 - :smiley: Included are letters Rankin received from supporters.
 
 **Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, handwritten copies, and dubs (for audiovisual materials). Avoid vague terms (e.g., copies). 
-
-**Things southern:** It's the South, not the south. BUT it is southern and southerner, not Southern and Southerner.
-
-- :rage: He was from the south.
-
-- :smiley: He was from the South.
-
-- :rage: We traveled South on the highway.
-
-- :smiley: We traveled south on the highway.
-
-- :rage: The tea had a very Southern taste.
-
-- :smiley: The tea had a very southern taste.
-
-- :rage: He was a Southerner.
-
-- :smiley: He was a southerner.
 
 # Historical Documentation
 
