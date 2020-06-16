@@ -155,9 +155,9 @@ Here’s a short example:
 Biographical notes are about individuals and families; historical notes are about organizations.
 
 
-# Folder Lists
+# Folder and Item Lists
 
-Most of the time we will use creator-generated folder lists and we will keep the original order of folders, which often are in chronological or alphabetical order. Ideally the creator will supply us with a typed version of the folder list, but even then there are some general rules to follow with regard to punctuation and capitalization in folder titles. See below for more about [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization) throughout the finding aid.
+Most of the time we will use creator-generated folder and item lists, and we will preserve the original order in which we received the materials, which often are in chronological or alphabetical order. Ideally the creator will supply us with an electronic version of the folder or item list, but even then there are some general rules to follow with regard to punctuation and capitalization in folder titles. See below for more about [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization) throughout the finding aid. Guidance for transcribing titles and captions follows.
 
 ## Creator-generated folder titles 
 We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received:
@@ -181,7 +181,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 - :smiley: _J. M. Dent and Sons_
 
-## Punctuation 
+## Punctuation within folder titles
 
 Do not end folder titles with a period.
 
@@ -296,6 +296,13 @@ of a name is used.
 
 - :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
 
+**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
+doing EAD markup.
+
+- :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
+
+- :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
+
 ## Dashes
 
 Dashes should not be surrounded by spaces:
@@ -303,13 +310,6 @@ Dashes should not be surrounded by spaces:
 - :rage: _1983•-•1984_
 
 - :smiley: _1983-1984_
-
-**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
-doing EAD markup.
-
-- :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
-
-- :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
 
 ## Spaces
 
