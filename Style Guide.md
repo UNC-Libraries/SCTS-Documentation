@@ -161,7 +161,8 @@ Biographical notes are about individuals and families; historical notes are abou
 
 Most of the time we will use creator-generated folder lists and we will keep the original order of folders, which often are in chronological or alphabetical order. Ideally the creator will supply us with a typed version of the folder list, but even then there are some general rules to follow with regard to punctuation and capitalization in folder titles. See below for more about [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization) throughout the finding aid.
 
-**Creator-generated folder titles:** We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received:
+## Creator-generated folder titles 
+We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received:
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
@@ -171,7 +172,8 @@ HOWEVER, take that statement with a grain of salt: Make the list as intelligible
 
 The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
 
-**Folder list order:** Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
+## Folder list order
+Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
 
 Alphabetical by name means Last name, First name.
 
@@ -181,7 +183,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 - :smiley: _J. M. Dent and Sons_
 
-**Punctuation:** 
+## Punctuation 
 
 Do not end folder titles with a period.
 
@@ -221,14 +223,16 @@ Use the Last name, First name format:
 
 - :smiley: _Clark, Septima Poinsette_
 
-**Capitalization of folder titles:** Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
+## Capitalization of folder titles
+
+Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
 
 - :smiley: _Folder 21 Annual reports_
 
 - :rage: _Folder 21 Annual Reports_
 
 
-# Transcribing Titles and Captions
+## Transcribing Titles and Captions
 
 If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.  
 
