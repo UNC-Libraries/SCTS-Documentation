@@ -3,10 +3,10 @@
 - [Saying it](#saying-it)
 - [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
 - [Folder Titles](#folder-titles)
-- [Transcribing Titles and Captions](#transcribing-titles-and-captions)
-- [Commas, Other Punctuation, Capitalization](#commas-other-punctuation-capitalization)
-- [PersNames, CorpNames, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-geognames-titles-dates-numbers)
-- [Spaces and Dashes](#spaces-and-dashes)
+- [Commas and Other Punctuation](#commas-and-other-punctuation)
+- [Capitalization](#capitalization)
+- [PersNames, CorpNames, Racial and Ethnic Identies, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers)
+- [Spaces](#spaces)
 - [UNC](#unc)
 - [Miscellaneous](#miscellaneous)
 - [Historical Documentation](#historical-documentation)
@@ -271,7 +271,7 @@ front steps (not noted in original descriptions provided by creator):
 `<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
 
 
-# Commas and Other Punctuation
+# Commas, Dashes, and Other Punctuation
 
 **Introductory phrases and clauses:** Use a comma to set off all introductory phrases and clauses.
 
@@ -295,6 +295,12 @@ of a name is used.
 - :smiley: _Goodman moved to Brooklyn, N.Y., in August 1900._
 
 - :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
+
+**Dashes:** Dashes should not be surrounded by spaces:
+
+- :rage: _1983•-•1984_
+
+- :smiley: _1983-1984_
 
 **Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
 doing EAD markup.
@@ -707,12 +713,6 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 - :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
 
 - :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined the Foreign Legion._
-
-**Dashes:** Dashes should not be surrounded by spaces:
-
-- :rage: _1983•-•1984_
-
-- :smiley: _1983-1984_
 
 Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
