@@ -5,6 +5,7 @@
 - [Container Numbers hook-I.D.](#container-numbers-hook-id)
 - [Extent (overriding "approximately")](#extent-overriding-approximately)
 - [Unsuppress a Container Number](#unsurpress-a-container-number)
+- [Special Characters](#special-characters)
 
 ***
 
@@ -183,3 +184,11 @@ Add altrender="display" to the container coding.
 ```
 <c02><did><container type="box" altrender="display">11</container><unittitle>Volume 1-4</unittitle></did></c02> 
 ```
+
+# Special Characters
+
+Code ampersands &amp; OR &#38;. You can use "insert character" from the drop down menu in Oxygen.
+
+Do not use curly quotes and/or apostrophes.  
+
+Transform your document and check for funky characters in the html.
