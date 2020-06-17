@@ -2,7 +2,7 @@
 
 - [Saying it](#saying-it)
 - [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
-- [Folder Lists](#folder-lists)
+- [Container Lists](#container-lists)
 - [Punctuation](#punctuation)
 - [Capitalization](#capitalization)
 - [PersNames, CorpNames, Racial and Ethnic Identies, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers)
@@ -36,9 +36,9 @@
 
 - :smiley: _Mary Virginia del Rio._
 
-- :smiley: _Mary Va. del Rio._
+- :rage: _Mary Va. del Rio._
 
-Also, strive for consistency in punctuation and capitalization. Especially when writing folder titles for University Archives, it is important to be consistent with capitalization throughout our collections. You can become an expert by following a few simple rules. See below for [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization).
+Also, strive for consistency in punctuation and capitalization. You can become an expert by following a few simple rules found in the [Punctuation](#punctuation) and [Capitalization](#capitalization) sections below.
 
 **Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
 
@@ -96,7 +96,7 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 - Also included
 
-**Includes versus contains/consists of:**
+**Includes / Contains / Consists of:**
 
 - "Includes" is more vague; "contains" is more specific.
 
@@ -106,7 +106,7 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 - The collection consists of x, y, and z.
 
-**Single item collections?**
+**Single item collections**
 
 - The collection is a letter dated 25 January 1850 about Betsy an enslaved African American child.
 
@@ -117,22 +117,22 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
 
-We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under [Ethical and inclusive description](####ethical-and-inclusive-description)) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (listed in the [PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers).  
+We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under [Ethical and inclusive description](####ethical-and-inclusive-description)) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (found in the [PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers) section below).  
 
 It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
 
-## Abstracts and Collection Overviews for Multi-Series Collections
+## Abstracts and Collection Overviews
 
 **A good way to write the abstract and collection overview:** 
 
-- Create a collection overview that concisely answers who, what, where, and when about the collection.
+- Create a collection overview that concisely answers who, what, where, and when about the collection. If you have multiple series, you may be able to repurpose the series descriptions here with minor editing. The goal is a concise synthesis that makes the series arrangement clear but reduces the detail found at the series level description.
 
 - Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`.
 
 - Edit the abstract so that it's as concise as possible.
 
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across this tag in an existing finding aid, you can remove it, with the option of adding the biographical information to the `<abstract encodinganalog="520">` in brief form)
+(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across this tag in an existing finding aid, you can remove it, with the option of adding a briefer version of the biographical information to the `<abstract encodinganalog="520">`)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
 
@@ -142,11 +142,11 @@ It is important to note that our recommendations and practice of using conscious
 
 Here’s a short example:
 
-- :smiley: `<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>
+* :smiley: ```<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>```
 
-<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>
+```<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>```
 
-<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>`
+```<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>```
 
 - :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
 
@@ -155,12 +155,12 @@ Here’s a short example:
 Biographical notes are about individuals and families; historical notes are about organizations.
 
 
-# Folder and Item Lists
+# Container Lists
 
-Most of the time we will use creator-generated folder and item lists, and we will preserve the original order in which we received the materials, which often are in chronological or alphabetical order. Ideally the creator will supply us with an electronic version of the folder or item list, but even then there are some general rules to follow with regard to punctuation and capitalization in folder titles. See below for more about [Commas and Other Punctuation](#commas-and-other-punctuation) and [Capitalization](#capitalization) throughout the finding aid. Guidance for transcribing titles and captions follows.
+Most of the time we will use creator-generated folder and item lists, and we will preserve the original order in which we received the materials, which often are in chronological or alphabetical order. Ideally the creator will supply us with an electronic version of the container list, but even then there are some general rules to follow with regard to punctuation, capitalization, and transcription of titles and captions. See [Punctuation](#punctuation) and [Capitalization](#capitalization) for rules that are applied throughout the finding aid. 
 
 ## Creator-generated folder titles 
-We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received:
+We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received (See Processing Information in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information)):
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
@@ -170,7 +170,7 @@ HOWEVER, take that statement with a grain of salt: Make the list as intelligible
 
 The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
 
-## Folder list order
+## Arrangement of folders
 Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
 
 Alphabetical by name means Last name, First name.
@@ -181,7 +181,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 - :smiley: _J. M. Dent and Sons_
 
-## Punctuation within folder titles
+## Punctuation for container lists
 
 Do not end folder titles with a period.
 
@@ -221,7 +221,7 @@ Use the Last name, First name format:
 
 - :smiley: _Clark, Septima Poinsette_
 
-## Capitalization of folder titles
+## Capitalization of container lists
 
 Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
 
@@ -230,7 +230,7 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 - :rage: _Folder 21 Annual Reports_
 
 
-## Transcribing Titles and Captions
+## Transcribing titles and captions in container lists
 
 If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.  
 
