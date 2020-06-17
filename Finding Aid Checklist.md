@@ -143,8 +143,6 @@ Where proceeded by city or county, use appropriate abbreviations: **She was born
 
 Put commas around the abbreviated state name: **She stopped by Oxford, Miss., on her way to Los Angeles, Calif.**  
 
-[From](https://adminliveunc-my.sharepoint.com/personal/ljcb_ad_unc_edu/Documents/Checklist%20Mockup.docx)
-
 # Spell check
 
 Run it over your XML document.
@@ -152,3 +150,5 @@ Run it over your XML document.
 # Transformation Review
 
 Take one last look at the HTML document to make sure you do not have any special characters interrupting the display. See Special Characters in [EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/EAD.md) for help.
+
+**This Finding Aid Checklist was modified from [Checklist Mock-up](https://adminliveunc-my.sharepoint.com/personal/ljcb_ad_unc_edu/Documents/Checklist%20Mockup.docx) in June 2020.**
