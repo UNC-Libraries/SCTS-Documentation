@@ -3,12 +3,11 @@
 - [Acquisition Information](#acquisition-information)
 - [Dates](#dates)
 - [Extent](#extent)
-- [Subject Headings](#subject-headings)
 - [Items Separated](#items-separated)
 - [Processing and Revision Notes](#processing-and-revision-notes)
 - [Restrictions](#restrictions)
-- [Special Characters](#special-characters)
 - [Abstract](#abstract)
+- [Subject Headings](#subject-headings)
 - [Capitalization and Punctuation](#capitalization-and-punctuation)
 - [People and Place Names](#people-and-place-names)
 - [Spell check](#spell-check)
@@ -51,16 +50,6 @@
 - Check the math across series to ensure that extents add up. Rounding up or down is okay. 
 
 - For additions: add addition extent to collection level extent. 
-
-# Subject Headings
-
-- Be sure to include a heading for the creator
-
-- End with a period, with at least two exceptions: 
-
--- Open-ended dates, e.g., **Davis, Angela Y. (Angela Yvonne), 1944-** 
-
--- Information in parentheses, e.g., **Guitar music (Blues)**
 
 # Items Separated
 
@@ -106,6 +95,15 @@ For additions: add information to abstract, as needed.
 
 Conscious editing: When appropriate, re-frame the abstract narrative to surface and emphasize the lives of those historically left out of our description. Consult [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md), and [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for further information. 
 
+# Subject Headings
+
+- Be sure to include a heading for the creator
+
+- End with a period, with at least two exceptions: 
+
+  - Open-ended dates, e.g., **Davis, Angela Y. (Angela Yvonne), 1944-** 
+
+  - Information in parentheses, e.g., **Guitar music (Blues)**
 
 # Capitalization and Punctuation
 
