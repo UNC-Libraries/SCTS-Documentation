@@ -497,13 +497,13 @@ When an individual uses initials in a personal name, place a period followed by 
 
 - J. G. de Roulhac Hamilton
 
-**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. For example, use "and" instead of "&" unless you know that the authority record specifies & (remember to use & for & in EAD-encoded finding aids).  
+**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. For example, use "and" instead of "&" unless you know that the authority record specifies & (remember to code any &s in [EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/EAD.md)).  
 
 - :smiley: _University of North Carolina at Chapel Hill_
 
 - :smiley: _Smith and Company_
 
-## United States or U.S.
+**United States or U.S.**
 
 Do not abbreviate for major government bodies and officials.
 
@@ -527,7 +527,7 @@ Abbreviate for lesser government bodies and for military units
 
 ## Racial and Ethnic Identities 
 
-In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Descriptive Elements, we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Identifying and characterizing: Decentering whiteness in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
 - African 
 
@@ -661,7 +661,7 @@ Use `<title>` tags to add italics or quotation marks to formal titles; use `<emp
 
 - :smiley: _His poem,_ `<title render="doublequote">Now There Are None</title>` _won the Minor Poets of Portland award in 1902._
 
-## `<Title>` versus `<Emph>`
+**`<Title>` versus `<Emph>`**
 
 `<title>` and `<emph>` result in the same outputs to the screen, but they're not the same intellectually. `<title>` is for titles, italic or quoted; `<emph>` supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct `<emph>` usage include:  
 
@@ -730,7 +730,6 @@ Spell out numbers 1-12 when they appear singly in text. Use numerals when they r
 Spell out numbers when they appear at the beginning of sentences (or reconstruct the sentence so that the number does not come first).
 
 - :smiley: _One hundred years later, he was still eating blueberry pie._
-
 
 
 # Miscellaneous
