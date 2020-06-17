@@ -1,8 +1,6 @@
 # Overview
 
 - [Arrangement](#arrangement)
-- [Military Papers](military-papers)
-- [Literary Papers](#literary-papers)
 
 This page provides guidance for the intellectual work of processing, from first pass treatment to arrangement of series to creation of consistent description for topical materials of continuing interest to researchers.
 
