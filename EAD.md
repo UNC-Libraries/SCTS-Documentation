@@ -187,7 +187,7 @@ Add altrender="display" to the container coding.
 
 # Special Characters
 
-Code ampersands &amp; OR &#38;. You can use "insert character" from the drop down menu in Oxygen.
+Code ampersands ```&amp;``` OR ```&#38;```. You can use "insert character" from the drop down menu in Oxygen.
 
 Do not use curly quotes and/or apostrophes.  
 
