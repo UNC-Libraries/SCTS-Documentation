@@ -87,7 +87,7 @@ An abstract (scope and content note) should identify, summarize, and contextuali
 
 We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description (“conscious editing”). As an embodiment of the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of content that is deeply offensive and disturbing. [^2] Historically our finding aid description has centered on the creators and collectors, often white individuals or families who owned enslaved individuals. Conscious description and editing practices seek to acknowledge and present this reality clearly, to better enable researchers to engage with the detail and scope of historical evidence, and to surface voices and stories of enslaved individuals and those previously hidden in our legacy collection description.  
 
-We aspire to re-envision our descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible, and description does not obscure collection material that documents the lives of enslaved people. [^3] This work is influenced and inspired by the conversation happening around ethical archival description in the profession. We have based our approach on the writings and presentations by Jarrett Drake, Gloria Gonzalez, Jasmine Jones, Michelle Caswell, Annie Tang, Dorothy Berry, Kelly Bolding, Rachel Winston, Nathan Sentence, and the [Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group](https://archivesforblacklives.wordpress.com/), among others. [citation] 
+We aspire to re-envision our descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible, and description does not obscure collection material that documents the lives of enslaved people. [^3] This work is influenced and inspired by the conversation happening around ethical archival description in the profession. We have based our approach on the writings and presentations by Jarrett Drake, Gloria Gonzalez, Jasmine Jones, Michelle Caswell, Annie Tang, Dorothy Berry, Kelly Bolding, Rachel Winston, Nathan Sentence, P. Gabrielle Foreman, and the Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, among others. [^4] 
 
 
 # Extent 
@@ -426,8 +426,24 @@ Diacritics and other special characters have been omitted from this finding aid 
 
 [^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 41. 
 
-[^4]: Laura Hart, “Abstracts for Collection Records” powerpoint.
+[^4] Jarrett Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” Paper presented at Radcliffe Workshop on Technology & Archival Processing, Cambridge, MA, April 2016. Accessed December 5, 2019.
+https://medium.com/on-archivy/radtech-meetsradarch-towards-a-new-principle-for-archives-andarchival-description-568f133e4325
 
-[^5]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 49. 
+Gloria Gonzalez and Jasmine Jones, "Access and Diversity: How to Create Practical and Ethical Minimal Archival Description," Presented at Intersections: Technology and Public Services in Special Collections Symposium, State College, PA, August 2017
 
-[^6]: Laura Hart, “Abstracts for Collection Records” powerpoint.
+Michelle Caswell, "Teaching to Dismantle White Supremacy in Archives." The Library Quarterly 87, no. 3 (July 2017): 222-235. https://
+doi.org/10.1086/692299
+
+Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Culturally Competent Archival (Re)description of Marginalized Histories.” Presented at Society of American Archivists Annual Meeting, Washington, D.C., August 2018 
+
+Nathan Sentence, “Maker unknown and the decentring First Nations People.” Archival Decolonist (blog). 2017. Accessed December 5, 2019. https://archivaldecolonist.com/2017/07/21/maker-unknown-and-the-decentring-first-nations-people/amp/?__twitter_impression=true /
+
+Kelly Bolding, “Reparative Processing: A Case Study in Auditing Legacy Archival Description for 55 Racism” Presentation at Midwestern Archives Conference, Chicago, IL, March 2018. goo.gl/uwjQpg
+
+Bergis Jules, “Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives,” Keynote address presented at National Digital Stewardship Alliance, Pittsburg, PA October 2017. Accessed December 5, 2019. https://medium.com/on-archivy/confronting-our-failure-ofcare-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280
+
+P. Gabrielle Foreman, et al. “Writing about Slavery/Teaching About Slavery: This Might Help” community-sourced document, Accessed 18 June 2020, 5:55pm, https://naacpculpeper.org/resources/writing-about-slavery-this-might-help/.
+
+[Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group](https://archivesforblacklives.wordpress.com/
+
+
