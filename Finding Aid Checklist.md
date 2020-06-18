@@ -93,7 +93,7 @@ Include ethnic and racial identities for creator(s), collector(s), and major fig
 
 For additions: add information to abstract, as needed. 
 
-Conscious editing: When appropriate, re-frame the abstract narrative to surface and emphasize the lives of those historically left out of our description. Consult [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md), and [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for further information. 
+Conscious editing: When appropriate, re-frame the abstract narrative to surface and emphasize the lives of those historically left out of our description. Consult [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md), and [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes) for further information. 
 
 # Subject Headings
 
