@@ -121,6 +121,8 @@ We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.
 
 It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
 
+The remainder of this section will focus on two core descriptive elements of our department’s conscious description and editing practices in relation to the abstract. The first highlights our focus to de-center whiteness in our abstract description by identifying and characterizing individuals and groups, while the second discusses our recommendations and examples for reframing the abstract narrative away from a white and male centered narrative and towards a more inclusive description that gives voice and visibility to those documented in the collections at UNC. 
+
 ### Identifying and characterizing: De-centering whiteness  
 
 In the past, Special Collections Technical Services archivists included a substantial amount of biographical information on the creator or collector at the beginning of the abstract. This legacy description often valorized the creators and collectors and hid the voices and stories of those documented in the collection, including the names of enslaved individuals and families. In current practice, the creators and collectors are briefly identified with full names, life dates or operational dates, racial or ethnic identity, and a characterization of individuals’ occupations, communities’ connections, or organization’s purpose.  
@@ -833,34 +835,4 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 - :smiley: Included are letters Rankin received from supporters.
 
 **Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, handwritten copies, and dubs (for audiovisual materials). Avoid vague terms (e.g., copies). 
-
-# Historical Documentation
-
-How we process archival collections has evolved over time. Since implementation of a local version of More Product, Less Process (MPLP), we have significantly curtailed the depth to which we describe collection materials. Included here is descriptive guidance that is not wrong, but it is generally not in active use because we are not doing in-depth processing. 
-
-- [Military Papers](#military-papers)
-- [Literary Papers](#literary-papers)
-
-
-## Military Papers
-
-When describing an oral history of or a letter written by a soldier, if possible, include the following in the biographical and scope and content notes:
-
-- the regiment in which the writer served
-
-- if the writer was a soldier or an officer
-
-- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, without reading more in depth)
-
-- what places are referenced in the letters or oral history
-
-- what battles are being described
-
-If you are describing the letters in more depth, you can include information about camp life, sickness, death, and other cheerful wartime subjects.  
-
-## Literary papers
-
-### Life Cycle of a Publication
-
-![idea to book figure](https://user-images.githubusercontent.com/58087302/80127592-8a315700-8562-11ea-98ab-fdd2623d2a27.jpeg)
 
