@@ -5,9 +5,11 @@
 - [Container Lists](#container-lists)
 - [Punctuation](#punctuation)
 - [Capitalization](#capitalization)
-- [PersNames, CorpNames, Racial and Ethnic Identies, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers)
+- [PersNames, CorpNames, GeogNames](#persnames-corpnames-geognames)
+  - [Racial and Ethnic Identities](#racial-and-ethnic-identities)
+- [Titles, Dates, Numbers](#titles-dates-numbers)
 - [Miscellaneous](#miscellaneous)
-- [Historical Documentation](#historical-documentation)
+- [Endnotes](#endnotes)
 
 # Saying it
 
@@ -117,7 +119,7 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
 
-We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under [Ethical and inclusive description](####ethical-and-inclusive-description)) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), and recommendations for describing racial and ethnic identities (found in the [PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers](#persnames-corpnames-racial-and-ethnic-identities-geognames-titles-dates-numbers) section below).  
+We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under **Ethical and inclusive description**) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract), and recommendations for describing racial and ethnic identities (found in the [Racial and ethnic identities](#racial-and-ethnic-identities) section below).  
 
 It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
 
@@ -141,11 +143,11 @@ In the past, Special Collections Technical Services archivists included a substa
 
 - The collection of organizational records, audiovisual materials, and photographs documents the Southern Folk Cultural Revival Project, an organization based in Nashville, Tenn., and founded in 1966 by Bernice Johnson Reagon, an African American folklorist, singer, and civil rights activist, and Anne Romaine, a white folklorist and folk musician. The Southern Folk Cultural Revival Project (SFCRP) worked to present traditional musicians from African American and white cultures in performance together at a time when this was considered controversial. The SFCRP continued presenting musical performances throughout the South until the late 1980s, keeping close ties with the civil rights movement. - 
 
-As seen in the examples above, we list ethnic and racial identities to describe creators and collectors in the abstract. Previously we only included ethnic and racial identities for underrepresented racial identities, such as African Americans or Indigenous people. Since August 2017, we have described the ethnic and racial identities of all creators and collectors so that whiteness is no longer the invisible norm. When applicable, we use “white” as an ethnic and racial identity in our abstract description so that whiteness is no longer the presumed default of the people represented in our collections. We also add ethnic and racial identities to groups and organizations if identity is relevant currently or historically to the group. [^4] Please consult the [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for a list of preferred terms of racial and ethnic identities.  
+As seen in the examples above, we list ethnic and racial identities to describe creators and collectors in the abstract. Previously we only included ethnic and racial identities for underrepresented racial identities, such as African Americans or Indigenous people. Since August 2017, we have described the ethnic and racial identities of all creators and collectors so that whiteness is no longer the invisible norm. When applicable, we use “white” as an ethnic and racial identity in our abstract description so that whiteness is no longer the presumed default of the people represented in our collections. We also add ethnic and racial identities to groups and organizations if identity is relevant currently or historically to the group. [^3] Please consult the [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for a list of preferred terms of racial and ethnic identities.  
 
-This descriptive element of identifying and characterizing creators and collectors focuses on race rather than any of the other aspects of identity such as gender, sexuality, religion, or physical ability. This focus was not meant to diminish any of these aspects of identity; rather, it is a recognition that racial identity is especially significant for the collections and context at UNC-Chapel Hill. [^5] To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Self-identification is favored above all else. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identity information to be excluded from description. We strongly encourage researchers, the general public, our colleagues, and those described or the descendants of those described to please let us know when we have misidentified individuals or groups.  
+This descriptive element of identifying and characterizing creators and collectors focuses on race rather than any of the other aspects of identity such as gender, sexuality, religion, or physical ability. This focus was not meant to diminish any of these aspects of identity; rather, it is a recognition that racial identity is especially significant for the collections and context at UNC-Chapel Hill. [^4] To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Self-identification is favored above all else. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identity information to be excluded from description. We strongly encourage researchers, the general public, our colleagues, and those described or the descendants of those described to please let us know when we have misidentified individuals or groups.  
 
-When appropriate, we also add racial and ethnic identities to key figures documented in the collection. This may include individuals or groups who have significant or meaningful ties to the creator or collector(s), such as a working relationship (e.g. business partners, project collaborators, interviewer/interviewee, documentarian/subject, mentor/mentee, etc) or when the collection contains a substantial amount of materials on specific individuals or groups. [^6]
+When appropriate, we also add racial and ethnic identities to key figures documented in the collection. This may include individuals or groups who have significant or meaningful ties to the creator or collector(s), such as a working relationship (e.g. business partners, project collaborators, interviewer/interviewee, documentarian/subject, mentor/mentee, etc) or when the collection contains a substantial amount of materials on specific individuals or groups. [^5]
 
 - A 1990 oral history interview conducted by Molly Conrecode, a white folklorist, with Bland Simpson, a white author, playwright, songwriter, and musician, who was a member of the North Carolina string band, the Red Clay Ramblers. 
 
@@ -165,7 +167,7 @@ When appropriate, we also add racial and ethnic identities to key figures docume
 
 Much of the legacy abstract description found at Wilson Special Collections Library glorifies the experiences of white individuals and groups. In the Southern Historical Collection this is most evident in our description of white antebellum southerners. While sometimes acknowledging slavery, much of the language in these finding aids centers the lives of enslavers and softens the role that white southerners played in the system of racial oppression, often obscuring the lives and lived experiences of enslaved individuals documented in the collection. More generally, our legacy description leans towards a white (often white supremacist), male, straight, and able-bodied perspective. We strive to actively reframe this narrative for both new finding aids and our conscious editing of legacy description. We do this by calling out racist actions and viewpoints and by purposefully calling out the lives and voices of those historically left out in our legacy description. We do this to make our description more inclusive and accessible and to better enable researchers to engage with the detail and scope of historical evidence. 
 
-Please consult the [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for more on conscious language and the voice and style of inclusive description. Below are examples of our efforts to remediate legacy description to reframe the narrative and surface the voices of those previously left out of our description. 
+Below are examples of our efforts to remediate legacy description to reframe the narrative and surface the voices of those previously left out of our description. 
 
 - **Example 1**  
 
@@ -210,7 +212,6 @@ Mary Tunstall Letter on Enslaved Child Betsy, 1850
 The collection is a letter dated 25 January 1850 about Betsy an enslaved African American female child. Written by white Virginian Mary Tunstall from Danville, Va., to her husband white Virginia politician Whitmell P. Tunstall (1810-1854), in Richmond, Va., the letter describes the color of Betsy's skin, her sewing skills, and suitability for working in the home from the perspective of Betsy's enslaver. 
 
 
-
 ## Abstracts and Collection Overviews
 
 **A good way to write the abstract and collection overview:** 
@@ -245,25 +246,31 @@ Here’s a short example:
 Biographical notes are about individuals and families; historical notes are about organizations.
 
 
+# Arrangement 
+
+We typically preserve the original order in which we received the materials, which often are in chronological or alphabetical order, but sometimes there is no discernible arrangement.
+
+A good `<arrangement>` statement that covers almost all situations is this:
+
+`<arrangement><p>Arrangement: As received from donor.</p></arrangement>` 
+
+If you think it will be helpful to point out to researchers, indicate that the arrangement is alphabetical, chronological, or by format. If the archivist has had a hand in imposing an arrangement, be sure to note the specifics in a `<processinfo>` statement. See [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) for example statements.
+
+
 # Container Lists
 
-Most of the time we will use creator-generated folder and item lists, and we will preserve the original order in which we received the materials, which often are in chronological or alphabetical order. Ideally the creator will supply us with an electronic version of the container list, but even then there are some general rules to follow with regard to punctuation, capitalization, and transcription of titles and captions. See [Punctuation](#punctuation) and [Capitalization](#capitalization) for rules that are applied throughout the finding aid. 
+Ideally the creator will supply us with an electronic version of the container list, but even then there are some general rules to follow with regard to punctuation, capitalization, and transcription of titles and captions. See [Punctuation](#punctuation) and [Capitalization](#capitalization) for rules that are applied throughout the finding aid. 
 
-## Creator-generated folder titles 
-We privilege creator-generated folder titles. Add a processing note just before the folder list begins when you are using folder titles as received (See Processing Information in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information)):
+## Creator-generated unittitles 
+We privilege creator-generated unittitles. Add a processing note just before the container list begins when you are using unittitles as received (See Processing Information in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information)):
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
 - :smiley: _The creator's/organization's original arrangement has been retained. Folder titles were derived from original folder names and from descriptive metadata found within the files by the processing archivist._
 
-HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each folder. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
+HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each unittitle. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
 
-The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's folder titles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
-
-## Arrangement of folders
-Folder order should have some kind of logic. Alphabetical or chronological order should be easily discerned. Any other order should make sense in terms of the papers. You are under no obligation to include an `<arrangement>` statement. If there is no discernible order (especially in short folder lists), leave the `<arrangement>` statement out.  
-
-Alphabetical by name means Last name, First name.
+The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's unittitles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
 
 - :smiley: _Bushyhead, Robert H._
 
@@ -271,7 +278,49 @@ Company names that include a person’s name are alphabetized by the first lette
 
 - :smiley: _J. M. Dent and Sons_
 
-## Punctuation for container lists
+
+## Transcribing titles and captions in container lists
+
+If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.  
+
+Examples:
+
+**Creator-generated title**
+
+For example, a photograph with "Cullom Hall, 1926" written on the back:  
+
+`<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>` 
+
+**Archivist-generated title**
+
+For example, a photograph that we identify as being Cullom Hall in 1926:  
+
+`<unittitle>Cullom Hall, 1926</unittitle>`  
+
+**Creator-generated title with archivist-generated clarification**
+
+For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
+
+`<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>`  
+
+**Creator-generated caption**
+
+For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
+written on the back:  
+
+`<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>`  
+
+**Archivist-generated caption**
+
+For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
+front steps (not noted in original descriptions provided by creator):  
+
+`<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
+
+
+# Punctuation
+
+## For container lists
 
 Do not end folder titles with a period.
 
@@ -310,56 +359,6 @@ modifying information for other folders. For example, a series may contain corre
 Use the Last name, First name format:
 
 - :smiley: _Clark, Septima Poinsette_
-
-## Capitalization of container lists
-
-Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
-
-- :smiley: _Folder 21 Annual reports_
-
-- :rage: _Folder 21 Annual Reports_
-
-
-## Transcribing titles and captions in container lists
-
-If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.  
-
-Examples:
-
-**Creator-generated title**
-
-For example, a photograph with "Cullom Hall, 1926" written on the back:  
-
-`<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>` 
-
-**Archivist-generated title**
-
-For example, a photograph that we identify as being Cullom Hall in 1926:  
-
-`<unittitle>Cullom Hall, 1926</unittitle>`  
-
-**Creator-generated title with archivist-generated clarification**
-
-For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
-
-`<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>`  
-
-**Creator-generated caption**
-
-For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
-written on the back:  
-
-`<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>`  
-
-**Archivist-generated caption**
-
-For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
-front steps (not noted in original descriptions provided by creator):  
-
-`<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
-
-
-# Punctuation
 
 ## Commas
 
@@ -432,6 +431,14 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 - Series 1. Correspondence and Related Material
 
 - Series 2.1. Other Writings
+
+## Capitalization of container lists
+
+Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
+
+- :smiley: _Folder 21 Annual reports_
+
+- :rage: _Folder 21 Annual Reports_
 
 **Capitalization of job titles:** Don't capitalize job titles unless they are used as an identifier before a name.
 
@@ -577,7 +584,7 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 - Yankee
 
 
-# PersNames, CorpNames, Racial and ethnic identities, GeogNames, Titles, Dates, Numbers 
+# PersNames, CorpNames, GeogNames 
 
 ## PersNames and CorpNames
 
@@ -615,7 +622,7 @@ Abbreviate for lesser government bodies and for military units
 
 - U.S. Army Corps of Engineers
 
-## Racial and Ethnic Identities 
+### Racial and Ethnic Identities 
 
 In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Identifying and characterizing: Decentering whiteness in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
@@ -727,8 +734,9 @@ Abbreviate a state name when it directly follows the name of a city or a county 
 
 - :smiley: _They came to the United States in 1856._
 
-## Titles (published works)
+#  Titles, Dates, Numbers
 
+## Titles (published works)
 Use `<title>` tags to add italics or quotation marks to formal titles; use `<emph>` tags to add bold, italic, or quotation marks in all other cases.
 
 **Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the `</title>` tag comes before any ending punctuation. 
@@ -836,3 +844,13 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 **Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, handwritten copies, and dubs (for audiovisual materials). Avoid vague terms (e.g., copies). 
 
+# Endnotes
+[^1]:
+
+[2^]: [Archives for Black Lives in Philadelphia (A4BLiP)](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf)
+
+[^3]: Laura Hart, “Abstracts for Collection Records” powerpoint.
+
+[^4]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 49. 
+
+[^5]: Laura Hart, “Abstracts for Collection Records” powerpoint.
