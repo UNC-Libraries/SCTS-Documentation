@@ -4,9 +4,9 @@
    - [Military Papers](#military-papers)
    - [Literary Papers](#literary-papers)
 - [Mechanics](#mechanics)
-- [XML to TXT script](#xml-to-txt-script)
-- [Excel formulas/tips](#excel-formulastips)
-- [Drop in numbering for digitization requests](#drop-in-numbering-for-digitization-requests)
+     - [XML to TXT script](#xml-to-txt-script)
+   - [Excel formulas/tips](#excel-formulastips)
+   - [Drop in numbering for digitization requests](#drop-in-numbering-for-digitization-requests)
 
 
 ***
