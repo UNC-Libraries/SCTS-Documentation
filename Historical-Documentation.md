@@ -1,14 +1,48 @@
 # Overview
 
+- [Style](#style)
+   - [Military Papers](#military-papers)
+   - [Literary Papers](#literary-papers)
+- [Mechanics](#mechanics)
 - [XML to TXT script](#xml-to-txt-script)
 - [Excel formulas/tips](#excel-formulastips)
 - [Drop in numbering for digitization requests](#drop-in-numbering-for-digitization-requests)
 
 
 ***
+# Style
+
+How we process archival collections has evolved over time. Since implementation of a local version of More Product, Less Process (MPLP), we have significantly curtailed the depth to which we describe collection materials. Included here is descriptive guidance that is not wrong, but it is generally not in active use because we are not doing in-depth processing. 
 
 
-# XML to TXT script
+
+
+## Military Papers
+
+When describing an oral history of or a letter written by a soldier, if possible, include the following in the biographical and scope and content notes:
+
+- the regiment in which the writer served
+
+- if the writer was a soldier or an officer
+
+- where the writer was writing from and where he was writing to (if this is a quick processing job, you can often tell by looking at the very top of the letter and seeing where the writer was positioned—which makes you able to say, for example, that he was writing from Virginia, without reading more in depth)
+
+- what places are referenced in the letters or oral history
+
+- what battles are being described
+
+If you are describing the letters in more depth, you can include information about camp life, sickness, death, and other cheerful wartime subjects.  
+
+## Literary papers
+
+**Life Cycle of a Publication**
+
+![idea to book figure](https://user-images.githubusercontent.com/58087302/80127592-8a315700-8562-11ea-98ab-fdd2623d2a27.jpeg)
+
+
+# Mechanics
+
+## XML to TXT script
 
 Use the Saxon script to convert finding aid XML files to TXT files. This is an easy way to get finding aid data into a spreadsheet friendly format. Please note this script only exports limited fields from the XML file. At this time, nothing below the item title (i.e. `<genreform>`, `<scopecontent>`) can be exported through this script). The Saxon script exports the following fields from the XML file: 
 
@@ -51,7 +85,7 @@ Voila!
 You can manipulate these fields to fit your needs. For example, use find and replace to change "hook_id" into item call numbers (ex: folder_1 to F-20367/1).  
 
 
-# Excel formulas/tips
+## Excel formulas/tips
 
 ### Deleting empty cells
 
@@ -84,7 +118,7 @@ To break apart by first space so you can have "T-40328/1" in one column and "Mix
 
 
 
-# Drop in Numbering for Digitization Requests
+## Drop in Numbering for Digitization Requests
 
 Use a combination collection number, box number, and folder numbering in this syntax: 
 
