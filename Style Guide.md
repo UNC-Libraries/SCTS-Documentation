@@ -114,7 +114,7 @@ It is important to note that our recommendations and practice of using conscious
 
 The remainder of this section will focus on two core descriptive elements of our department’s conscious description and editing practices in relation to the abstract. The first highlights our focus to de-center whiteness in our abstract description by identifying and characterizing individuals and groups, while the second discusses our recommendations and examples for reframing the abstract narrative away from a white and male centered narrative and towards a more inclusive description that gives voice and visibility to those documented in the collections at UNC. 
 
-### Identifying and characterizing: De-centering whiteness  
+### Identifying and characterizing: De-centering Whiteness  
 
 In the past, Special Collections Technical Services archivists included a substantial amount of biographical information on the creator or collector at the beginning of the abstract. This legacy description often valorized the creators and collectors and hid the voices and stories of those documented in the collection, including the names of enslaved individuals and families. In current practice, the creators and collectors are briefly identified with full names, life dates or operational dates, racial or ethnic identity, and a characterization of individuals’ occupations, communities’ connections, or organization’s purpose.  
 
@@ -423,19 +423,19 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 
 ## Capitalization
 
-**Capitalization of series titles:** Do capitalize all of the words in a series title.
-
-- Series 1. Correspondence and Related Material
-
-- Series 2.1. Other Writings
-
-## Capitalization of container lists
+**Capitalization of container lists**
 
 Unless they are proper nouns or formal titles, only capitalize the first word of a folder title. 
 
 - :smiley: _Folder 21 Annual reports_
 
 - :rage: _Folder 21 Annual Reports_
+
+**Capitalization of series titles:** Do capitalize all of the words in a series title.
+
+- Series 1. Correspondence and Related Material
+
+- Series 2.1. Other Writings
 
 **Capitalization of job titles:** Don't capitalize job titles unless they are used as an identifier before a name.
 
@@ -621,7 +621,7 @@ Abbreviate for lesser government bodies and for military units
 
 ### Racial and Ethnic Identities 
 
-In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the abstract section of [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Identifying and characterizing: Decentering whiteness in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md), we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the [abstract section of Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Identifying and characterizing: Decentering Whiteness](#identifying-and-characterizing-de-centering-whiteness), we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
 - African 
 
@@ -803,8 +803,7 @@ follow the first mention of the person's name.
 
 - Use d. (abbreviation for died) to indicate that only a death date is known.
 
-- Use fl. (abbreviation for flourished) when neither a birth or death date is known but evidence shows that a person "flourished" during
-those dates.
+- Use "active" when neither a birth or death date is known but evidence shows that a person was active (previously known as "flourished") during those dates.
 
 ## Numbers
 
@@ -831,7 +830,9 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 **Use abbreviations sparingly:** There are only a few cases in which the abbreviation is so well-known that it makes sense to use it.
 
-**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with `<corpname>` if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
+**University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. 
+
+- :rage: UNC-CH. 
 
 **Chair and chairman:** If we agree to use chair for both males and females, we cannot go wrong.
 
@@ -844,9 +845,9 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 **Copies:** Be precise and clear when referring to copies as opposed to original items. Acceptable terms include typed transcriptions, carbon copies, photocopies, photocopies of typed transcriptions, handwritten copies, and dubs (for audiovisual materials). Avoid vague terms (e.g., copies). 
 
 # Endnotes
-[^1]:
+[^1]: Luster, Dominique, Abdi Roble, Ellen Engseth, and Athena Jackson. “Culture, Competencies, and Colleagues:a Cafe on divers*” Paper presented at the Annual Meeting of the Society of American Archivists, Portland, OR, July 2017.
 
-[2^]: [Archives for Black Lives in Philadelphia (A4BLiP)](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf)
+[2^]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, pages 3-4, https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf
 
 [^3]: Laura Hart, “Abstracts for Collection Records” powerpoint.
 
