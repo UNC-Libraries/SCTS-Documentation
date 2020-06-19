@@ -1,8 +1,9 @@
 # Overview
 
-- [Saying it](#saying-it)
+- [General Rules](#general-rules)
 - [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
 - [Container Lists](#container-lists)
+- [Grammar](#grammar)
 - [Punctuation](#punctuation)
 - [Capitalization](#capitalization)
 - [PersNames, CorpNames, GeogNames](#persnames-corpnames-geognames)
@@ -11,9 +12,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Endnotes](#endnotes)
 
-# Saying it
-
-## General rules
+# General rules
 
 **Good writing and editing:** Deathless prose is not required; good concise standard English with a kind and respectful lens is required. In addition to writing new description, be prepared to edit the writing of archivists who have gone before you. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. 
 
@@ -42,20 +41,12 @@
 
 Also, strive for consistency in punctuation and capitalization. You can become an expert by following a few simple rules found in the [Punctuation](#punctuation) and [Capitalization](#capitalization) sections below.
 
-**Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
-
-- :smiley: _There are three letters from John to Mary._
-
-- :smiley: _In a letter of 3 June 1870, Amos described his trip to High Point, N.C._
-
 **Say it and say it again:** We don't expect people to read our finding aids from beginning to end. This is especially true of online finding aids, which are designed to help researchers navigate directly to descriptions of the materials of interest. Therefore, repeat important information (e.g., complete names, full titles of writings, when an event took place) in every intellectual component throughout the finding aid.
 
-**Use abbreviations sparingly:** There are only a few cases in which the abbreviation is so well-known that it makes sense to use it.
-
-**BUT verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
+**Verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
 
 
-## Finding Aid Phrases
+## Useful Finding Aid Phrases
 
 **Appears to have been:** William D. McDowall _appears to have been_ a partner with Charles J. Shannon in the firm of McDowall and
 Shannon of Charleston, S.C.
@@ -115,11 +106,13 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 # Abstracts, Collection Overview, Biog/Hist notes
 
-## Consciously edited abstracts 
+## Abstracts
+
+### Consciously edited abstracts 
 
 We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
 
-We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under **Ethical and inclusive description**) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstract [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract), and recommendations for describing racial and ethnic identities (found in the [Racial and ethnic identities](#racial-and-ethnic-identities) section below).  
+We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) (outlined above under **Ethical and inclusive description**) and consult our internal [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), recommendations for abstracts found in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract), and recommendations for describing [Racial and ethnic identities](#racial-and-ethnic-identities) below.  
 
 It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
 
@@ -143,7 +136,7 @@ In the past, Special Collections Technical Services archivists included a substa
 
 - The collection of organizational records, audiovisual materials, and photographs documents the Southern Folk Cultural Revival Project, an organization based in Nashville, Tenn., and founded in 1966 by Bernice Johnson Reagon, an African American folklorist, singer, and civil rights activist, and Anne Romaine, a white folklorist and folk musician. The Southern Folk Cultural Revival Project (SFCRP) worked to present traditional musicians from African American and white cultures in performance together at a time when this was considered controversial. The SFCRP continued presenting musical performances throughout the South until the late 1980s, keeping close ties with the civil rights movement. - 
 
-As seen in the examples above, we list ethnic and racial identities to describe creators and collectors in the abstract. Previously we only included ethnic and racial identities for underrepresented racial identities, such as African Americans or Indigenous people. Since August 2017, we have described the ethnic and racial identities of all creators and collectors so that whiteness is no longer the invisible norm. When applicable, we use “white” as an ethnic and racial identity in our abstract description so that whiteness is no longer the presumed default of the people represented in our collections. We also add ethnic and racial identities to groups and organizations if identity is relevant currently or historically to the group. [^3] Please consult the [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md) for a list of preferred terms of racial and ethnic identities.  
+As seen in the examples above, we list ethnic and racial identities to describe creators and collectors in the abstract. Previously we only included ethnic and racial identities for underrepresented racial identities, such as African Americans or Indigenous people. Since August 2017, we have described the ethnic and racial identities of all creators and collectors so that whiteness is no longer the invisible norm. When applicable, we use “white” as an ethnic and racial identity in our abstract description so that whiteness is no longer the presumed default of the people represented in our collections. We also add ethnic and racial identities to groups and organizations if identity is relevant currently or historically to the group. [^3] Please consult [Racial and Ethnic Identities](#racial-and-ethnic-identities) below for a list of preferred terms.  
 
 This descriptive element of identifying and characterizing creators and collectors focuses on race rather than any of the other aspects of identity such as gender, sexuality, religion, or physical ability. This focus was not meant to diminish any of these aspects of identity; rather, it is a recognition that racial identity is especially significant for the collections and context at UNC-Chapel Hill. [^4] To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Self-identification is favored above all else. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identity information to be excluded from description. We strongly encourage researchers, the general public, our colleagues, and those described or the descendants of those described to please let us know when we have misidentified individuals or groups.  
 
@@ -317,6 +310,13 @@ front steps (not noted in original descriptions provided by creator):
 
 `<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
 
+# Grammar
+
+**Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
+
+- :smiley: _There are three letters from John to Mary._
+
+- :smiley: _In a letter of 3 June 1870, Amos described his trip to High Point, N.C._
 
 # Punctuation
 
@@ -831,6 +831,8 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 
 # Miscellaneous
+
+**Use abbreviations sparingly:** There are only a few cases in which the abbreviation is so well-known that it makes sense to use it.
 
 **University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section (Collection Overview, series/subseries scope and content notes) so that it can be content tagged with `<corpname>` if needed. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. Do not use UNC-CH. 
 
