@@ -3,9 +3,7 @@
 - [General Rules](#general-rules)
 - [Abstracts, Collection Overview, Biog/Hist notes](#abstracts-collection-overview-bioghist-notes)
 - [Container Lists](#container-lists)
-- [Grammar](#grammar)
-- [Punctuation](#punctuation)
-- [Capitalization](#capitalization)
+- [Mechanics](#mechanics)
 - [PersNames, CorpNames, GeogNames](#persnames-corpnames-geognames)
   - [Racial and Ethnic Identities](#racial-and-ethnic-identities)
 - [Titles, Dates, Numbers](#titles-dates-numbers)
@@ -106,9 +104,7 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 # Abstracts, Collection Overview, Biog/Hist notes
 
-## Abstracts
-
-### Consciously edited abstracts 
+## Conscious editing 
 
 We strive to write ethical and inclusive abstracts that de-center whiteness and give voice to those historically left out of our description. In the context of antebellum collections held at UNC, this includes calling out the names of enslaved individuals whenever possible, refraining from valorizing biographical notes for collection creators, and clearly connecting family and plantation names with slavery. We do this to present history accurately, to add new access points for researchers, and to make our collection description more inclusive by emphasizing the lives and lived experiences of those documented in UNC’s collections.  
 
@@ -218,7 +214,7 @@ The collection is a letter dated 25 January 1850 about Betsy an enslaved African
 - You may include brief biographical/historical information to provide context for the collection but it is no longer required  
 (we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across this tag in an existing finding aid, you can remove it, with the option of adding a briefer version of the biographical information to the `<abstract encodinganalog="520">`)
 
-- Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it 
+- Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it.
 
 ## `<Bioghist>` versus `<Scopecontent>`
 
@@ -228,9 +224,9 @@ Here’s a short example:
 
 * :smiley: ```<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>```
 
-```<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>```
+  ```<p>Janet Anderson was born 12 January 1949, in Fayette County, Tenn., and attended Fayette County schools. After high school, she went to Lane College (1967-1968) but left to get married and start a family. After her children were older, she got involved in local politics. Starting in the late 1970's, she was a county commissioner, worked as the outreach coordinator for the Tennessee Hunger Coalition, and served alongside Sister Elaine Wicks with the Poor People's Health clinic in Fayette County, Tenn. Her platforms included improving the school system, increasing voter registration, and rural healthcare.</p>```
 
-```<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>```
+   ```<p>Eugene Anderson, born 3 June 1947 in Fayette County, Tenn., also attended Fayette County public schools. He joined the military and served in the Vietnam War. When he returned home, he worked in the steel industry and finished his career as a union representative for United Steelworkers.</p></bioghist>```
 
 - :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
 
@@ -239,7 +235,9 @@ Here’s a short example:
 Biographical notes are about individuals and families; historical notes are about organizations.
 
 
-# Arrangement 
+# Container Lists 
+
+## Arrangement
 
 We typically preserve the original order in which we received the materials, which often are in chronological or alphabetical order, but sometimes there is no discernible arrangement.
 
@@ -249,12 +247,8 @@ A good `<arrangement>` statement that covers almost all situations is this:
 
 If you think it will be helpful to point out to researchers, indicate that the arrangement is alphabetical, chronological, or by format. If the archivist has had a hand in imposing an arrangement, be sure to note the specifics in a `<processinfo>` statement. See [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) for example statements.
 
+## Creator-generated unittitles
 
-# Container Lists
-
-Ideally the creator will supply us with an electronic version of the container list, but even then there are some general rules to follow with regard to punctuation, capitalization, and transcription of titles and captions. See [Punctuation](#punctuation) and [Capitalization](#capitalization) for rules that are applied throughout the finding aid. 
-
-## Creator-generated unittitles 
 We privilege creator-generated unittitles. Add a processing note just before the container list begins when you are using unittitles as received (See Processing Information in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information)):
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
@@ -271,6 +265,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 - :smiley: _J. M. Dent and Sons_
 
+If the creator supplied an electronic version of the container list, tweaking is permissible for consistent application of our general rules for [Punctuation](#punctuation), [Capitalization](#capitalization), and transcription of titles and captions. 
 
 ## Transcribing titles and captions in container lists
 
@@ -310,7 +305,9 @@ front steps (not noted in original descriptions provided by creator):
 
 `<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
 
-# Grammar
+# Mechanics
+
+## Grammar
 
 **Verb tenses:** Use the present tense when referring to the papers themselves. Use the past tense when referring to actions of the creators or recipients of the papers.
 
@@ -318,9 +315,9 @@ front steps (not noted in original descriptions provided by creator):
 
 - :smiley: _In a letter of 3 June 1870, Amos described his trip to High Point, N.C._
 
-# Punctuation
+## Punctuation
 
-## For container lists
+### For container lists
 
 Do not end folder titles with a period.
 
@@ -360,7 +357,7 @@ Use the Last name, First name format:
 
 - :smiley: _Clark, Septima Poinsette_
 
-## Commas
+### Commas
 
 **Introductory phrases and clauses:** Use a comma to set off all introductory phrases and clauses.
 
@@ -392,7 +389,7 @@ doing EAD markup.
 
 - :smiley: _Included is the 1922 version of his unsold novel,_ `<title render="doublequote">When Bad Things Happen to Bad People</title>;` _his unsold short story,_ `<title render="doublequote">Worser and Worser</title>;` _and his unsold anthology,_ `<title render="doublequote">Major Works.</title>`  
 
-## Dashes
+### Dashes
 
 Dashes should not be surrounded by spaces:
 
@@ -424,7 +421,7 @@ Extra spaces in and around EAD tags: Extra spaces in and around tags are sometim
 
 - :smiley: `<c02><did><container type="folder">1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
-# Capitalization
+## Capitalization
 
 **Capitalization of series titles:** Do capitalize all of the words in a series title.
 
