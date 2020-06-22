@@ -429,18 +429,18 @@ Diacritics and other special characters have been omitted from this finding aid 
 [^4] Jarrett Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” Paper presented at Radcliffe Workshop on Technology & Archival Processing, Cambridge, MA, April 2016. Accessed December 5, 2019.
 https://medium.com/on-archivy/radtech-meetsradarch-towards-a-new-principle-for-archives-andarchival-description-568f133e4325.
 
-    Gloria Gonzalez and Jasmine Jones, "Access and Diversity: How to Create Practical and Ethical Minimal Archival Description," Presented at Intersections: Technology and Public Services in Special Collections Symposium, State College, PA, August 2017.
+Gloria Gonzalez and Jasmine Jones, "Access and Diversity: How to Create Practical and Ethical Minimal Archival Description," Presented at Intersections: Technology and Public Services in Special Collections Symposium, State College, PA, August 2017.
 
-    Michelle Caswell, "Teaching to Dismantle White Supremacy in Archives." The Library Quarterly 87, no. 3 (July 2017): 222-235. https://doi.org/10.1086/692299.
+Michelle Caswell, "Teaching to Dismantle White Supremacy in Archives." The Library Quarterly 87, no. 3 (July 2017): 222-235. https://doi.org/10.1086/692299.
 
-    Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Culturally Competent Archival (Re)description of Marginalized Histories.” Presented at Society of American Archivists Annual Meeting, Washington, D.C., August 2018.
+Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Culturally Competent Archival (Re)description of Marginalized Histories.” Presented at Society of American Archivists Annual Meeting, Washington, D.C., August 2018.
 
-    Nathan Sentence, “Maker unknown and the decentring First Nations People.” Archival Decolonist (blog). 2017. Accessed December 5, 2019. https://archivaldecolonist.com/2017/07/21/maker-unknown-and-the-decentring-first-nations-people/amp/?__twitter_impression=true.
+Nathan Sentence, “Maker unknown and the decentring First Nations People.” Archival Decolonist (blog). 2017. Accessed December 5, 2019. https://archivaldecolonist.com/2017/07/21/maker-unknown-and-the-decentring-first-nations-people/amp/?__twitter_impression=true.
 
-    Kelly Bolding, “Reparative Processing: A Case Study in Auditing Legacy Archival Description for 55 Racism” Presentation at Midwestern Archives Conference, Chicago, IL, March 2018. goo.gl/uwjQpg.
+Kelly Bolding, “Reparative Processing: A Case Study in Auditing Legacy Archival Description for 55 Racism” Presentation at Midwestern Archives Conference, Chicago, IL, March 2018. goo.gl/uwjQpg.
 
-    Bergis Jules, “Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives,” Keynote address presented at National Digital Stewardship Alliance, Pittsburg, PA October 2017. Accessed December 5, 2019. https://medium.com/on-archivy/confronting-our-failure-ofcare-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280.
+Bergis Jules, “Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives,” Keynote address presented at National Digital Stewardship Alliance, Pittsburg, PA October 2017. Accessed December 5, 2019. https://medium.com/on-archivy/confronting-our-failure-ofcare-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280.
 
-    P. Gabrielle Foreman, et al. “Writing about Slavery/Teaching About Slavery: This Might Help” community-sourced document, Accessed 18 June 2020, 5:55pm, https://naacpculpeper.org/resources/writing-about-slavery-this-might-help/.
+P. Gabrielle Foreman, et al. “Writing about Slavery/Teaching About Slavery: This Might Help” community-sourced document, Accessed 18 June 2020, 5:55pm, https://naacpculpeper.org/resources/writing-about-slavery-this-might-help/.
 
-    [Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group](https://archivesforblacklives.wordpress.com/)
+[Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group](https://archivesforblacklives.wordpress.com/)
