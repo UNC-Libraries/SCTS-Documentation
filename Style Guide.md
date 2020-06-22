@@ -12,9 +12,10 @@
 
 # General rules
 
-**Good writing and editing:** Deathless prose is not required; good concise standard English with a kind and respectful lens is required. In addition to writing new description, be prepared to edit the writing of archivists who have gone before you. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. 
+**Good writing and editing:** Concise standard English with a kind and respectful lens is the goal. In addition to writing new description, be prepared to edit the writing of archivists who have gone before you. Sometimes editing corrects errors; sometimes it clarifies description; other times it remediates offensive language or surfaces voices previously hidden in description. 
 
-**Ethical and inclusive description:** We strive to use conscious language that is kind, compassionate, mindful, empowering, respectful, and inclusive.[^1] In regards to voice and style, we lean heavily on the thoughtful work of our peers and colleagues, especially the [recommendations produced by the Archives for Black Lives in Philadelphia (A4BLiP)](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf): 
+**Ethical and inclusive description:** We strive to use conscious language that is kind, compassionate, mindful, empowering, respectful, and inclusive.[^1] In regards to voice and style, we lean heavily on the thoughtful work of our peers and colleagues, especially the recommendations produced by the Archives for Black Lives in Philadelphia (A4BLiP):
+
 - decenter “neutrality” and “objectivity” in favor of “respect” and “care”; 
 - avoid passive voice when describing oppressive relationships; 
 - use active voice in order to embed responsibility within description; 
@@ -23,13 +24,13 @@
 - use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate; 
 - describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2] 
 
-**Timeliness of description:** It’s tempting to say things like “Fluffy now lives in Cary, N.C., where she teaches obedience classes.” Although additions or other circumstances will cause some finding aids to be revised in future, many finding aids will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
+**Timeliness of description:** Though we always expect to iterate our finding aids, many of them will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
 
 - :smiley: In 2001, Fluffy moved to Cary, N.C., where she taught obedience classes.
 
 - :smiley: As of 1969, she had written 18 novels about cane toads in Australia.
 
-- :smiley: The Hamptons had 24 children, 16 dogs, and 44 goldfish in 2001.
+- :smiley: The Hamptons had 4 children, 4 dogs, 4 cats, and 4 goldfish in 2001.
 
 **Consistency:** Please try to be consistent in what you call people, places, things. If she's Mary Virginia del Rio, please don't call her Mary Va. del Rio. Ever. This is important for searchability. 
 
@@ -41,10 +42,12 @@ Also, strive for consistency in punctuation and capitalization. You can become a
 
 **Say it and say it again:** We don't expect people to read our finding aids from beginning to end. This is especially true of online finding aids, which are designed to help researchers navigate directly to descriptions of the materials of interest. Therefore, repeat important information (e.g., complete names, full titles of writings, when an event took place) in every intellectual component throughout the finding aid.
 
-**Verbosity is discouraged:** You’re writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
+**Verbosity is discouraged:** You are writing description, not deathless prose. Keep it simple both in sentence structure and vocabulary choice. Again, remember that researchers don't typically read through the whole finding aid beginning to end, but seek out the parts that hold particular interest for them.
 
 
 ## Useful Finding Aid Phrases
+
+Because archivists do not see or touch every individual item in an archival collection, let alone examine them all closely, we want to be careful not to over- or under-sell the facts and findings in the description we write. We use a number of different phrases in the finding aid to soften the certainty of our description.
 
 **Appears to have been:** William D. McDowall _appears to have been_ a partner with Charles J. Shannon in the firm of McDowall and
 Shannon of Charleston, S.C.
@@ -112,7 +115,7 @@ We follow the [A4BLiP voice and style guidelines](https://archivesforblacklives.
 
 It is important to note that our recommendations and practice of using conscious language and ethical description extends well beyond the abstract. We try to embed conscious language and ethical description into all facets of our finding aid, but we emphasize these practices in relation to the abstract since this is the primary and often the first point of entry for many researchers. 
 
-The remainder of this section will focus on two core descriptive elements of our department’s conscious description and editing practices in relation to the abstract. The first highlights our focus to de-center whiteness in our abstract description by identifying and characterizing individuals and groups, while the second discusses our recommendations and examples for reframing the abstract narrative away from a white and male centered narrative and towards a more inclusive description that gives voice and visibility to those documented in the collections at UNC. 
+The remainder of this section will focus on two core descriptive elements of our department’s conscious description and editing practices in relation to the abstract. The first highlights our focus to de-center whiteness in our abstract description by identifying and characterizing individuals and groups, while the second discusses our recommendations and examples for reframing the abstract narrative away from a white and male-centered narrative and towards a more inclusive description that gives voice and visibility to those documented in the collections at UNC. 
 
 ### Identifying and characterizing: De-centering Whiteness  
 
@@ -205,22 +208,20 @@ The collection is a letter dated 25 January 1850 about Betsy an enslaved African
 
 **A good way to write the abstract and collection overview:** 
 
-- Create a collection overview that concisely answers who, what, where, and when about the collection. If you have multiple series, you may be able to repurpose the series descriptions here with minor editing. The goal is a concise synthesis that makes the series arrangement clear but reduces the detail found at the series level description.
+- Create a collection overview that concisely answers who, what, where, and when about the collection. If you have multiple series, you may be able to repurpose the series descriptions here with minor editing. The goal is a concise synthesis that makes the series arrangement clear and gives an overview of the details to be found in the series level descriptions.
 
-- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`.
+- Copy the collection overview into the abstract area `(<abstract encodinganalog="520">)`. Edit the abstract down to the most concise form as possible. 
 
-- Edit the abstract so that it's as concise as possible.
-
-- You may include brief biographical/historical information to provide context for the collection but it is no longer required  
-(we no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across this tag in an existing finding aid, you can remove it, with the option of adding a briefer version of the biographical information to the `<abstract encodinganalog="520">`)
+- You may include brief biographical/historical information to provide context for the collection but it is no longer required. 
+(We no longer have this tag in the finding aid: `<abstract encodinganalog="545">`; if you come across this tag in an existing finding aid, you can remove it, with the option of adding a briefer version of the biographical information to the `<abstract encodinganalog="520">`)
 
 - Review the abstract to make sure that the necessary access points (online catalog headings) can be grounded in it.
 
 ## `<Bioghist>` versus `<Scopecontent>`
 
-`<bioghist>` is about the creator(s) of the materials. `<scopecontent>` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in `<bioghist>`. You can also mention that the creator undertook the project at hand. But save the details of the project for `<scopecontent>`. 
+`<bioghist>` is about the creator(s) of the materials. `<scopecontent>` is about the materials in the collection. It’s sometimes difficult to separate what goes in one from what goes in the other. Try for as little overlap as possible. For example, if you’re working on the papers of a creator who was involved in a particular project and the resulting materials are what’s in the collection, talk about the creator’s background in `<bioghist>`. You can also mention that the creator undertook the project at hand, but save the details of the project for `<scopecontent>`. 
 
-Here’s a short example:
+Here’s an example:
 
 * :smiley: ```<bioghist><head>Biographical Note</head><p>Janet and Eugene Anderson are a married African American couple who are health care and civil rights activists in Rossville, Fayette County, Tenn. During the 1970s they hosted Student Health Coalition members from Nashville, Tennessee, and participated in the Poor Peoples Campaign.</p>```
 
@@ -232,7 +233,15 @@ Here’s a short example:
 
 ## Biographical Note verses Historical Note
 
-Biographical notes are about individuals and families; historical notes are about organizations.
+- Biographical notes are about individuals and families; historical notes are about organizations.
+- If you are creating a new finding aid, the template will default to this:
+
+`<bioghist>
+<head>Biographical/Historical Note</head>
+<p></p>
+</bioghist>`
+
+  Be sure to delete biographical or historicial, whichever one is not appropriate for your collection.  
 
 
 # Container Lists 
@@ -243,31 +252,38 @@ We typically preserve the original order in which we received the materials, whi
 
 A good `<arrangement>` statement that covers almost all situations is this:
 
-`<arrangement><p>Arrangement: As received from donor.</p></arrangement>` 
+- :smiley: `<arrangement><p>Arrangement: As received from donor.</p></arrangement>` 
 
-If you think it will be helpful to point out to researchers, indicate that the arrangement is alphabetical, chronological, or by format. If the archivist has had a hand in imposing an arrangement, be sure to note the specifics in a `<processinfo>` statement. See [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) for example statements.
+If you think it will be helpful to point out to researchers, indicate that the arrangement is alphabetical, chronological, or by format.
 
-## Creator-generated unittitles
+- :smiley: `<arrangement><p>Arrangement: Alphabetical, as received from donor.</p></arrangement>` 
 
-We privilege creator-generated unittitles. Add a processing note just before the container list begins when you are using unittitles as received (See Processing Information in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information)):
+If the archivist has had a hand in imposing an arrangement, be sure to note the specifics in a `<processinfo>` statement. See [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) for example processing information statements.
+
+## Unittitles
+
+### Creator-generated unittitles
+
+We privilege creator-generated unittitles. Add a processing note just before the container list begins when you are using unittitles as received (See example processing information statements in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information)):
 
 - :smiley: _Note that original file folder titles have, for the most part, been retained._
 
 - :smiley: _The creator's/organization's original arrangement has been retained. Folder titles were derived from original folder names and from descriptive metadata found within the files by the processing archivist._
 
-HOWEVER, take that statement with a grain of salt: Make the list as intelligible as you can without fretting over the contents of each unittitle. You may have to spell out abbreviations or take a quick look to see what some weird combination of letters and numbers means.
+However, make the list as intelligible as you can without fretting over the contents of each unittitle. You may have to spell out abbreviations or add a clarifying last name to improve searchability. If the creator supplied an electronic version of the container list, tweaking is permissible for consistent application of our general rules for [Punctuation](#punctuation), [Capitalization](#capitalization).
 
-The creator may have been creative with names, punctuation, date style, etc., but you must strive for consistency. Making the creator's unittitles conform to our style is usually just a question of re-ordering the words. Do not hesitate to do this. It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
+### Personal and Company names
 
-- :smiley: _Bushyhead, Robert H._
+It's okay to list names in first name, last name order or last name, first name order, but you should pick one and do it consistently throughout the listing.
+
+- :smiley: _Robert H. Bushyhead_
+- :smiley: _Bushyhead, Robert H._ (Choose this format if the archivist is creating the container list.)
 
 Company names that include a person’s name are alphabetized by the first letter of the first word in the name.  
 
 - :smiley: _J. M. Dent and Sons_
 
-If the creator supplied an electronic version of the container list, tweaking is permissible for consistent application of our general rules for [Punctuation](#punctuation), [Capitalization](#capitalization), and transcription of titles and captions. 
-
-## Transcribing titles and captions in container lists
+### Transcribing titles and captions in container lists
 
 If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.  
 
@@ -275,35 +291,35 @@ Examples:
 
 **Creator-generated title**
 
-For example, a photograph with "Cullom Hall, 1926" written on the back:  
+For example, a photograph with "Dey Hall, 1926" written on the back:  
 
-`<unittitle><title render="doublequote">Cullom Hall, 1926</title></unittitle>` 
+`<unittitle><title render="doublequote">Dey Hall, 1926</title></unittitle>` 
 
 **Archivist-generated title**
 
-For example, a photograph that we identify as being Cullom Hall in 1926:  
+For example, a photograph that we identify as being Dey Hall in 1926:  
 
-`<unittitle>Cullom Hall, 1926</unittitle>`  
+`<unittitle>Dey Hall, 1926</unittitle>`  
 
 **Creator-generated title with archivist-generated clarification**
 
-For example, a photograph with "Dean Hall" written on the back but we know that building has been re-named Holdzkom Hall:  
+For example, a photograph with "Saunders Hall" written on the back but we know that building has been re-named Carolina Hall:  
 
-`<unittitle><title render="doublequote">Dean Hall</title> (now Holdzkom Hall)</unittitle>`  
+`<unittitle><title render="doublequote">Saunders Hall</title> (now Carolina Hall)</unittitle>`  
 
 **Creator-generated caption**
 
-For example, a photograph that we identify as being Cullom Hall in 1926 that has "Be sure to notice the elephant in the background"
+For example, a photograph that we identify as being Dey Hall in 1926 that has "Be sure to notice the giant oak in the background"
 written on the back:  
 
-`<unittitle>Cullom Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the elephant in the background.</emph></p></scopecontent>`  
+`<unittitle>Dey Hall, 1926</unittitle></did><scopecontent><p>Caption reads: <emph render="doublequote">Be sure to notice the giant oak in the background.</emph></p></scopecontent>`  
 
 **Archivist-generated caption**
 
-For example, a photograph that we identify as being Cullom Hall in 1926, includes a person we identify as Edward Cullom standing on 
+For example, a photograph that we identify as being Dey Hall in 1926, includes a person we identify as Frank Porter Graham standing on 
 front steps (not noted in original descriptions provided by creator):  
 
-`<unittitle>Cullom Hall, 1926</unittitle></did> <scopecontent><p>Image includes Edward Cullom.</p></scopecontent>`
+`<unittitle>Dey Hall, 1926</unittitle></did> <scopecontent><p>Image includes Frank Porter Graham.</p></scopecontent>`
 
 # Mechanics
 
@@ -321,7 +337,7 @@ front steps (not noted in original descriptions provided by creator):
 
 Do not end folder titles with a period.
 
-- :smiley: _Steele, Danielle_
+- :rage: _Steele, Danielle._
 
 Use colons to show subordination. Capitalize first word after colon.
 
@@ -343,19 +359,8 @@ Use colons in complex statements:
 
 - :smiley: `<title render="doublequote">How the West Was Won</title>:` _Missionary Society, Raleigh, 1966_
 
-You may want to use the subordination model cited above when you want to list genre and dates for some folders and genre with 
-modifying information for other folders. For example, a series may contain correspondence, 1901-1956; speeches for which you have both titles and dates; and miscellaneous other items. Remembering that you use a simple comma before locations and before dates, the folder list would look like this:  
-
-- :smiley: _Correspondence, 1903-1956_
-
-- :smiley: _Speech: `<title render="doublequote">How I Spent My Summer Vacation</title>,` Raleigh, 1922_
-
 - :smiley: _Speech: `<title render="doublequote">How the West Was Won</ title>:` Civitan Club, Chapel Hill, 1960_
 
-
-Use the Last name, First name format:
-
-- :smiley: _Clark, Septima Poinsette_
 
 ### Commas
 
@@ -382,8 +387,7 @@ of a name is used.
 
 - :smiley: _Ken Griffey Jr. never attended the University of North Carolina at Chapel Hill._
 
-**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. Check this carefully when
-doing EAD markup.
+**Quotation marks:** Commas and periods go inside quotes, while colons and semi-colons go outside quotes. 
 
 - :smiley: _She called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as Nancy._
 
@@ -403,17 +407,11 @@ Dashes should not be surrounded by spaces:
 
 - :rage: _Smith gave birth to sextuplets in 1983.••They were called:••Manny, Moe, Jack, Eloise, Heloise, and Fran.••In 1984, Smith joined the Foreign Legion._
 
-- :smiley: _Smith gave birth to sextuplets in 1983.•They were called:•Manny, Moe, Jack, Eloise, Heloise, and Fran.•In 1984, Smith joined the Foreign Legion._
-
 Extra spaces in and around EAD tags: Extra spaces in and around tags are sometimes hard to see, but you must train yourself to be vigilant. These extra spaces show up in the beginning or middle of statements when the document is displayed in xml or html, resulting in too much space between words or causing misalignment of lists (e.g., online catalog terms, folder number lists, folder titles). Extra spaces at the ends of statements do not show up, but are discouraged.  
 
 - :rage: `<bioghist><head>Biographical Note</head><p> Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer.••</p>`_
 
-- :smiley: `<bioghist><head>Biographical Note</head>`_Helen Maynor Scheirbeck (1935-2010), born in Lumberton, N.C., was a political scientist, educator, and community organizer._
-
 - :rage: `<unittitle>•<unitdate>1922</unitdate></unittitle>`
-
-- :smiley: `<unittitle><unitdate>1922</unitdate></unittitle>`
 
 - :rage: `<c02><did><container type="folder">•1</container><unittitle>Correspondence, <unitdate type="inclusive">1920-1939</unitdate></unittitle></did></c02>`
 
@@ -431,11 +429,9 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - :rage: _Folder 21 Annual Reports_
 
-**Capitalization of series titles:** Do capitalize all of the words in a series title.
+**Capitalization of series (and subseries) titles:** Do capitalize all of the words in a series title.
 
 - Series 1. Correspondence and Related Material
-
-- Series 2.1. Other Writings
 
 **Capitalization of job titles:** Don't capitalize job titles unless they are used as an identifier before a name.
 
@@ -447,8 +443,6 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 **Capitalizing official names of events:** If the event's official name is "Great Alaska Shootout," and the event happens to be a basketball tournament, "basketball tournament" should be lowercase. But if the event's official name is "Midnight Sun Basketball Championships," all words should be capitalized.
 
-- Carolina Invitational baseball tournament
-
 - Concert for Carolina benefit event
 
 - Atlantic Coast Conference Championships
@@ -458,8 +452,6 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 - Ehringhaus Dining Hall
 
 - Stone Center
-
-- Morehead Planetarium
 
 - South Building
 
@@ -483,8 +475,6 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - Carolina Latinx Center
 
-- Atlantic Coast Conference
-
 - Harmonyx A Cappella
 
 **Other capitalization examples:**
@@ -495,7 +485,7 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - American Indian (not hyphenated)
 
-- Annual reports (:rage: _Folder 21 Annual Reports_)
+- Annual reports (:rage: _Annual Reports_)
 
 - antebellum
 
@@ -509,7 +499,13 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - Black
 
-- board of directors
+- board of directors (for reasons no longer known, Board of Trustees is always capitalized but board of directors is situational)
+
+  - :smiley: _As part of a title:_ Fayetteville and Northern Plank Road Company, Board of Directors Record Book, 1851-1866
+  
+  - :smiley: _As an entity:_ The board of directors also included Henry Theodore Bahnson, a physician from Winston-Salem, N.C.
+  
+- civil rights
 
 - Civil War (capitalize when referring to the American Civil War, 1861-1865)
 
@@ -578,6 +574,8 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - white
 
+- World Wide Web
+
 - Yankee
 
 
@@ -585,15 +583,17 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 ## PersNames and CorpNames
 
-**Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each section of your EAD finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or _Hetty Betty Bodine_ or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
+**Consistency:** Try to be consistent in how you write names. It is often best to use the fullest version of the name first in each section of your finding aid (e.g., abstracts, biographical/historical note, collection overview, c01 series descriptions). In subsequent references within each section, you may use either the last name alone (unless this makes for unclear references) or the most-used combination of given and surname. If the appropriate name is _Hetty Betty Bodine_, you may refer to her as _Bodine_ or _Hetty Betty Bodine_ or perhaps _Hetty Bodine_ or _Hetty_. Do not, however, arbitrarily start calling her _Hetty B. Bodine_ or _H. Betty Bodine_ or _Betty_ (unless she went by _Betty_, in which case, use that name consistently).
 
 When an individual uses initials in a personal name, place a period followed by a space after each letter. 
 
 - J. G. de Roulhac Hamilton
 
-**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. For example, use "and" instead of "&" unless you know that the authority record specifies & (remember to code any &s in [EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/EAD.md)).  
+**Abbreviations:** Usually spell out names of corporate bodies. There can be exceptions, but this will be determined on a case-by-case basis, often according to whether or not there is an authority record for a name. 
 
 - :smiley: _University of North Carolina at Chapel Hill_
+
+Use "and" instead of "&" unless you know that the authority record specifies & (remember to code any &s in [EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/EAD.md)).
 
 - :smiley: _Smith and Company_
 
@@ -621,7 +621,7 @@ Abbreviate for lesser government bodies and for military units
 
 ### Racial and Ethnic Identities 
 
-In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the [abstract section of Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred terms to describe an individual or group of individuals racial and ethnic identity. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Identifying and characterizing: Decentering Whiteness](#identifying-and-characterizing-de-centering-whiteness), we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the [abstract section of Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md) for more on this established practice). Below is a list of preferred racial and ethnic identity terms to describe an individual or group of individuals. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide” [^3], when compiling these recommended racial and ethnic identities. Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in Identifying and characterizing: Decentering Whiteness](#identifying-and-characterizing-de-centering-whiteness), we encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
 - African 
 
@@ -731,9 +731,8 @@ Abbreviate a state name when it directly follows the name of a city or a county 
 
 - :smiley: _They came to the United States in 1856._
 
-#  Titles, Dates, Numbers
+#  Titles
 
-## Titles (published works)
 Use `<title>` tags to add italics or quotation marks to formal titles; use `<emph>` tags to add bold, italic, or quotation marks in all other cases.
 
 **Italics:** Use italics for published books, pamphlets; proceedings, collections of materials (e.g., short story collections, poetry collections), long poems, periodicals, and newspapers (including newspaper sections published separately). Also use italics for motion pictures; major musical works (e.g., operas, symphonies), paintings, drawings, statues, and other works of art. Make sure the `</title>` tag comes before any ending punctuation. 
@@ -741,10 +740,6 @@ Use `<title>` tags to add italics or quotation marks to formal titles; use `<emp
 - :smiley: _In his_ `<title render="italic">Dictionary of North Carolina Biography</title>,` _Powell ..._
 
 - :smiley: _Her column appeared in the_ `<title render="italic">Charlotte News</title>,` _1942-1953._
-
-- :smiley: _He wrote for the_ `<title render="italic">New York Times Book Review</title>` _regularly between 1966 and 1970._
-
-- :smiley: _His poetry collection,_ `<title render="italic">Call of the Wildest</title>` _(Oxford, 1951), won the North Carolina Weird Poetry Society award in 1952._
 
 - :smiley: _He wrote extensively about seeing a production of_ `<title render="italic">The Emperor Jones</title>` _in 1939._
 
@@ -760,15 +755,15 @@ Use `<title>` tags to add italics or quotation marks to formal titles; use `<emp
 
 `<title>` and `<emph>` result in the same outputs to the screen, but they're not the same intellectually. `<title>` is for titles, italic or quoted; `<emph>` supplies italic or quotation marks in all other cases. Most of the time, you'll have a title. Examples of correct `<emph>` usage include:  
 
-- :smiley: _The letter indicates that she was_ `<emph render="doublequote">goosed</emph>` _by the soldier._
-
 - :smiley: _In the letter from Gettysburg, Penn., dated 3 July 1863, he wrote,_ `<emph render="doublequote">What the <emph render="italic">HELL</emph> am I doing here?</emph>`
 
 - :smiley: _Her name was McGill, and she called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as_ `<emph render="doublequote">Nancy.</emph>` 
 
-## Dates
+# Dates
 
-**General:** Dates style is as follows. No commas, please.
+**General:** 
+
+Date Month Year, no commas, please.
 
 - :smiley: _23 April 1876_
 
@@ -779,8 +774,6 @@ Use `<title>` tags to add italics or quotation marks to formal titles; use `<emp
 - :smiley: _19th century_
 
 - :smiley: _20th century_
-
-- :smiley: _10th century_
 
 - :smiley: _18th-century politics_
 
@@ -805,7 +798,7 @@ follow the first mention of the person's name.
 
 - Use "active" when neither a birth or death date is known but evidence shows that a person was active (previously known as "flourished") during those dates.
 
-## Numbers
+# Numbers
 
 Use numerals for centuries.
 
@@ -827,8 +820,6 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 
 
 # Miscellaneous
-
-**Use abbreviations sparingly:** There are only a few cases in which the abbreviation is so well-known that it makes sense to use it.
 
 **University of North Carolina:** Our institution is currently the University of North Carolina at Chapel Hill. It has been so since 1963. Any materials relating to this institution through 1962 are from the University of North Carolina. For the earlier period, you can also say University of North Carolina, Chapel Hill or University of North Carolina in Chapel Hill if you like. Use the appropriate full form of the name the first time it is mentioned in each section. For subsequent mentions within sections, you can use UNC or UNC-Chapel Hill as appropriate. 
 
