@@ -2,12 +2,11 @@
 
 - [`<digfolder>` coding in the FAID](#digfolder-coding-in-the-faid)
 - [Legacy updates to finding aids](#legacy-updates-to-finding-aid)
-- [`<processinfo>` Example Statements](#processinfo-example-statements)
-- [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
-- [Processing](#processing)
-- [UARS/Wilson Born Digital Documentation](#uarswilson-born-digital-documentation)
-- [MODS requirements](#mods-requirements)
 - [Statements](#statements)
+- [Processing](#processing)
+- [MODS requirements](#mods-requirements)
+- [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
+- [UARS/Wilson Born Digital Documentation](#uarswilson-born-digital-documentation)
 
 ***
 
@@ -110,9 +109,27 @@ Be sure to check that your links are working from the finding aid.
 3. Publish items.
 
 
-# `<processinfo>`: Example Statements
+# Statements
 
-## At the collection level:
+## Access
+
+### Standard statement for how to get help with file formats that are difficult to access 
+
+Digital files in this collection may contain file formats that users might find difficult to access. For guidance on accessing these files, please email wilsonlibrary@unc.edu.  
+
+### ONYEN access only items
+
+Example: https://finding-aids.lib.unc.edu/40235/#d1e18341
+
+Immediate access to digital files is available for current University of North Carolina at Chapel Hill affiliates with an ONYEN. If you don’t have an ONYEN, contact wilsonlibrary@unc.edu to discuss access options. 
+
+### Metadata only items
+
+Library use only for digital files found in this collection. Contact wilsonlibrary@unc.edu to discuss access options. 
+
+## `<processinfo>`
+
+### At the collection level:
 
 ** Regarding processing of back-log born digital:**
 
@@ -124,30 +141,26 @@ Be sure to check that your links are working from the finding aid.
 **Regarding obsolete file formats:**
 
 ```
-<p>Digital files in this collection may contain file formats that 
-users might find difficult to access. For guidance on accessing these 
+<p>Digital files in this collection may contain file formats that users might find difficult to access. For guidance on accessing these 
 files, please email wilsonlibrary@unc.edu.</>
 ```
 
-**Regarding Items Separated:**
+**Items Separated:**
 
-- List the digital folder number range.
+- List the digital folder number range (DF-70000/1-12).
 
-## At the file level:
+### At the file level:
 
 **Regarding media that has been retained but not ingested into CDR because it was unreadable with current technology:**
 
 ```
-<p>Storage media was inaccessible in MONTH YEAR. 
-If you would like to inquire about this item, 
-please email wilsonlibrary@unc.edu</p> 
+<p>Storage media was inaccessible in MONTH YEAR. If you would like to inquire about this item, please email wilsonlibrary@unc.edu</p> 
 ```
 
 **Regarding media that has been retained per curator but not ingested into CDR:**
 
 ```
-<p>This file includes media that has been retained 
-for its visual artifactual value.</p> 
+<p>This file includes media that has been retained for its visual artifactual value.</p> 
 ```
 
 **Regarding the creation of access files:**
@@ -156,17 +169,9 @@ for its visual artifactual value.</p>
 <p>An access .mp4 file was made from the DVD files for viewing purposes.</p> 
 ```
 
-
-# CVS to MODS (the Patrick Cullom method)
-
-THIS MAY NEED UPDATE AS OF 1/2/2018
-
-This is an especially useful workflow if you are processing more than a handful of digital folders. You can export the folder titles, edit them as needed, and create the mods records for each folder all in one excel spreadsheet that you will re-upload back into the CDR. 
-
-[CDR CSV to Mods](https://adminliveunc.sharepoint.com/:p:/r/sites/lib/departments/wts/_layouts/15/WopiFrame.aspx?sourcedoc=%7B675ECBEB-1D39-428E-94A1-E2CF3D143A55%7D&file=CDR_CSV_to_MODS_REVISED.pptx&action=default)
-
-
 # Processing
+
+UARS Born Digital Lab does all of the processing. Their [workflow documentation](https://sites.google.com/site/wilsonborndigital/home) supports the procedures that UARS follows when ingesting born digital materials and preparing them for Acc2Proc or for TS Archival to describe. The focus is on activities largely outside TS purview, but section 4. Description explains where our work intersects. 
 
 ## Storage Media Description
 
@@ -243,14 +248,6 @@ Where does it go?
 
 - Include access restriction note
 
-
-# UARS/Wilson Born Digital Documentation 
-
-https://sites.google.com/site/wilsonborndigital/home 
-
-This documentation supports the procedures that UARS follows when ingesting born digital materials and preparing them for Acc2Proc or for TS Archival to describe. The focus is on activities largely outside our purview, but section 4. Description explains where our work intersects. 
-
-
 # MODS requirements
  
 We have a template built into the CDR. In admin view, you can get to it by clicking on the wheel to the right of a title at any level of a CDR collection:  
@@ -271,19 +268,13 @@ There is a field for another related item, the original storage media, but it is
 
 **Anything from the MODS template that isn’t needed should be removed. For example, if we are not recording the source media in the MODS record, we should delete that part of the template.**
 
+# CVS to MODS (the Patrick Cullom method)
 
-# Statements
+THIS MAY NEED UPDATE AS OF 1/2/2018
 
-### Standard statement for how to get help with file formats that are difficult to access 
+This is an especially useful workflow if you are processing more than a handful of digital folders. You can export the folder titles, edit them as needed, and create the mods records for each folder all in one excel spreadsheet that you will re-upload back into the CDR. 
 
-Digital files in this collection may contain file formats that users might find difficult to access. For guidance on accessing these files, please email wilsonlibrary@unc.edu.  
+[CDR CSV to Mods](https://adminliveunc.sharepoint.com/:p:/r/sites/lib/departments/wts/_layouts/15/WopiFrame.aspx?sourcedoc=%7B675ECBEB-1D39-428E-94A1-E2CF3D143A55%7D&file=CDR_CSV_to_MODS_REVISED.pptx&action=default)
 
-### ONYEN access only items
 
-Example: https://finding-aids.lib.unc.edu/40235/#d1e18341
 
-Immediate access to digital files is available for current University of North Carolina at Chapel Hill affiliates with an ONYEN. If you don’t have an ONYEN, contact wilsonlibrary@unc.edu to discuss access options. 
-
-### Metadata only items
-
-Library use only for digital files found in this collection. Contact wilsonlibrary@unc.edu to discuss access options. 
