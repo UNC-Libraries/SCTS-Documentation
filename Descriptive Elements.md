@@ -71,7 +71,7 @@ The creator element consists of the authorized form of the creator’s name. Thi
 
 Wilson Library uses both the scope and content note and the abstract. The abstract often duplicates the scope and content note, particularly for small and medium size collections.  For large and complex collections, the abstract will be a distilled version of the scope and content note, which may include more details and offer more specificity about the range of material types, individuals and groups documented, geographical and chronological scope, and topics. 
 
-The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking. [^1](##1) An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  
+The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking. [^1](#1) An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  
 
 An abstract (scope and content note) should identify, summarize, and contextualize the following elements of content in a collection: 
 
@@ -418,7 +418,7 @@ Diacritics and other special characters have been omitted from this finding aid 
 
 # Endnotes
 
-##[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
+#[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
 [^2]: Patrick Cullom and others, "Guidance for Creating AltText for Archival Images" project documentation, 2020.
 
