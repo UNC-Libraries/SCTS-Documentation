@@ -57,7 +57,7 @@ Michelle Caswell, "Teaching to Dismantle White Supremacy in Archives." The Libra
 
 Jarrett Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” Paper presented at Radcliffe Workshop on Technology & Archival Processing, Cambridge, MA, April 2016. Accessed December 5, 2019. https://medium.com/on-archivy/radtech-meetsradarch-towards-a-new-principle-for-archives-andarchival-description-568f133e4325.
 
-P. Gabrielle Foreman, et al. “Writing about Slavery/Teaching About Slavery: This Might Help” community-sourced document, Accessed 18 June 2020, 5:55pm, https://naacpculpeper.org/resources/writing-about-slavery-this-might-help/.
+P. Gabrielle Foreman, et al. “Writing about Slavery/Teaching About Slavery: This Might Help” community-sourced document, Accessed 18 June 2020. https://naacpculpeper.org/resources/writing-about-slavery-this-might-help/.
 
 Gloria Gonzalez and Jasmine Jones, "Access and Diversity: How to Create Practical and Ethical Minimal Archival Description," Presented at Intersections: Technology and Public Services in Special Collections Symposium, State College, PA, August 2017.
 
