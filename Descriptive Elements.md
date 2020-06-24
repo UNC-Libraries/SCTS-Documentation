@@ -85,7 +85,7 @@ An abstract (scope and content note) should identify, summarize, and contextuali
 
 - **Topics.** Subject matter addressed or documented in the collection materials. 
 
-We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description (“conscious editing”). As an embodiment of the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of white supremecist content that is deeply offensive and disturbing. [^2] Historically our finding aid description has centered on the creators and collectors, often white individuals or families who owned enslaved individuals. Conscious description and editing practices seek to acknowledge and present this reality clearly, to better enable researchers to engage with the detail and scope of historical evidence, and to surface voices and stories of enslaved individuals and those previously hidden in our legacy collection description. 
+We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description (“conscious editing”). As an embodiment of the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of white supremacist content that is deeply offensive and disturbing. [^2] Historically our finding aid description has centered on the creators and collectors, often white individuals or families who owned enslaved individuals. Conscious description and editing practices seek to acknowledge and present this reality clearly, to better enable researchers to engage with the detail and scope of historical evidence, and to surface voices and stories of enslaved individuals and those previously hidden in our legacy collection description. 
 
 We aspire to re-envision our descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible, and description does not obscure collection material that documents the lives of enslaved people. [^3] In general, we strive to surface the names and lived experiences of underrepresented and marginalized individuals and groups, in particular those in the Black community. This work is influenced and inspired by the conversation happening around ethical archival description in the profession. We have based our approach on writings and presentations by Jarrett Drake, P. Gabrielle Foreman, Gloria Gonzalez, Jasmine Jones, Michelle Caswell, Annie Tang, Dorothy Berry, Kelly Bolding, Rachel Winston, Nathan Sentence, and the Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, among others. [^4] 
 
@@ -420,11 +420,11 @@ Diacritics and other special characters have been omitted from this finding aid 
 
 # Endnotes
 
-[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint.
+[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
-[^2]: Patrick Cullom and others, Alt-text project documentation.
+[^2]: Patrick Cullom and others, "Guidance for Creating AltText for Archival Images" project documentation, 2020.
 
-[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 41. 
+[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill.” Journal for the Society of the North Carolina Archivists, vol. 16 (2019): 41. http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf
 
 [^4]: Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, "Anti-Racist Description Resources", October 2019. Accessed November 2019. https://archivesforblacklives.wordpress.com/
 
