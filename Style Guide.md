@@ -688,7 +688,7 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 We acknowledge that race and ethnic identity is only one facet of an individual’s or group of individuals’ identity and that above all else we must emphasize the humanity of those being described. We do this through voice and style. An example from the A4BLiP:  
 
-Consider the difference between “documents the business dealings of a Black woman named Maria in 18th century Mexico” and “documents the business dealings of Maria, a Black woman in 18th century Mexico. [^4]  
+Consider the difference between “documents the business dealings of a Black woman named Maria in 18th century Mexico” and “documents the business dealings of Maria, a Black woman in 18th century Mexico. [^6](#endnotes) (A4BLiP 4) 
 
 Additional examples from UNC finding aids below: 
 
@@ -839,10 +839,12 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 # Endnotes
 [^1]: Luster, Dominique, Abdi Roble, Ellen Engseth, and Athena Jackson. “Culture, Competencies, and Colleagues:a Cafe on divers*” Paper presented at the Annual Meeting of the Society of American Archivists, Portland, OR, July 2017.
 
-[^2^]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, October 2019. Accessed November 2019: 3-4. https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf.
+[^2]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, October 2019. Accessed November 2019: 3-4. https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf.
 
 [^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill.” Journal for the Society of the North Carolina Archivists, vol. 16 (2019): 49. http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf.
 
 [^4]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
 [^5]: "The Diversity Style Guide", 2020. Accessed April 2020. https://www.diversitystyleguide.com/.
+
+[^6]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, October 2019. Accessed November 2019: 4. https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf.
