@@ -839,7 +839,7 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 # Endnotes
 [^1]: Luster, Dominique, Abdi Roble, Ellen Engseth, and Athena Jackson. “Culture, Competencies, and Colleagues:a Cafe on divers*” Paper presented at the Annual Meeting of the Society of American Archivists, Portland, OR, July 2017.
 
-[2^]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, October 2019. Accessed November 2019: 3-4. https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf
+[^2^]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, October 2019. Accessed November 2019: 3-4. https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf
 
 [^3]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
