@@ -22,7 +22,7 @@
 - focus on the humanity of an individual before their identity/ies; 
 - refrain from writing flowery, valorizing biographical notes for collection creators; 
 - use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate; 
-- describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#endnotes) (A4BLiP. 3-4)
+- describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#endnotes) (A4BLiP 3-4)
 
 
 **Timeliness of description:** Though we always expect to iterate our finding aids, many of them will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
