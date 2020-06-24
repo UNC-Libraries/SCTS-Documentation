@@ -24,6 +24,7 @@
 - use accurate and strong language such as lynching, rape, murder, and hate mail when they are appropriate; 
 - describe relationships of power when they are important for understanding the context of records. Racism, slurs, white supremacy, colonialism, and histories of oppression are important context.”[^2](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#endnotes) 
 
+
 **Timeliness of description:** Though we always expect to iterate our finding aids, many of them will represent their collections for years and years. If your description includes statements that talk about what someone’s doing now or where that someone currently lives or how many books she’s written, you risk your description becoming quickly outdated. You can get around this by making the description more oblique and therefore more able to endure the test of time. Some examples are: 
 
 - :smiley: In 2001, Fluffy moved to Cary, N.C., where she taught obedience classes.
@@ -839,8 +840,6 @@ Spell out numbers when they appear at the beginning of sentences (or reconstruct
 [^1]: Luster, Dominique, Abdi Roble, Ellen Engseth, and Athena Jackson. “Culture, Competencies, and Colleagues:a Cafe on divers*” Paper presented at the Annual Meeting of the Society of American Archivists, Portland, OR, July 2017.
 
 [2^]: Archives for Black Lives in Philadelphia (A4BLiP), “Anti-Racist Description Resources”, October 2019. Accessed November 2019: 3-4. https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf
-
-Archives for Black Lives in Philadelphia’s (A4BLiP) Anti-Racist Description Working Group, "Anti-Racist Description Resources", October 2019. Accessed November 2019. https://archivesforblacklives.wordpress.com/
 
 [^3]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
