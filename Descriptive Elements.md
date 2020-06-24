@@ -426,9 +426,7 @@ Diacritics and other special characters have been omitted from this finding aid 
 
 [^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill”, page 41. 
 
-[^4] 
-
-[Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group](https://archivesforblacklives.wordpress.com/)
+[^4]: Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, "Anti-Racist Description Resources", October 2019. Accessed November 2019. https://archivesforblacklives.wordpress.com/
 
 Bergis Jules, “Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives,” Keynote address presented at National Digital Stewardship Alliance, Pittsburg, PA October 2017. Accessed December 5, 2019. https://medium.com/on-archivy/confronting-our-failure-ofcare-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280.
 
