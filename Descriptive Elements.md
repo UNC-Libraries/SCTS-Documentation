@@ -418,7 +418,7 @@ Diacritics and other special characters have been omitted from this finding aid 
 
 # Endnotes
 
-### [^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
+[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
 [^2]: Patrick Cullom and others, "Guidance for Creating AltText for Archival Images" project documentation, 2020.
 
