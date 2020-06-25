@@ -166,13 +166,23 @@ Below are examples of our efforts to remediate legacy description to reframe the
 
 *Legacy description:*
 
+Prudhomme family members were planters in Natchitoches Parish, La., with interests in slaves, cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). Among the important members of the Prudhomme family were Phanor Prudhomme (1807-1865); his son, J. Alphonse Prudhomme I (1838-1919); his grandson, P. Phanor Prudhomme II (1865-1948); and his great grandson, J. Alphonse Prudhomme II (1896-1991), who carried on the various agricultural operations and the general store until the early 1980s; and J. Alphonse II's wife, Lucile Keator Prudhomme (1906-1994). 
+
+*Edited description:*
+
+The Prudhomme family of Natchitoches Parish, La., were the French Creole owners of a plantation based on a workforce of enslaved people and later tenant farmers, sharecroppers, and day laborers, with interests in cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes and enslaved people and their descendants, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). 
+
+- **Example 2**  
+
+*Legacy description:*
+
 The F. W. Tuttle Collection of Papers documents financial transactions concerning enslaved people, land, and other goods of the Harper family and others. 
 
 *Edited description:* 
 
 The Frank W. Tuttle Collection of Papers documents enslaved people, land, and other goods as financial transactions of the Harper family and others. 
 
-- **Example 2** 
+- **Example 3** 
 
 *Legacy description:* 
 
@@ -181,16 +191,6 @@ Thomas Francis Price was a farmer from Rutherford County, N.C., serving in the 5
 *Edited description:* 
 
 Thomas Francis Price and Sarah Harrill Price were married white farmers from Rutherford County, N.C. Thomas Francis Price served in the 56th North Carolina Infantry. 
-
-- **Example 3**  
-
-*Legacy description:*
-
-Prudhomme family members were planters in Natchitoches Parish, La., with interests in slaves, cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). Among the important members of the Prudhomme family were Phanor Prudhomme (1807-1865); his son, J. Alphonse Prudhomme I (1838-1919); his grandson, P. Phanor Prudhomme II (1865-1948); and his great grandson, J. Alphonse Prudhomme II (1896-1991), who carried on the various agricultural operations and the general store until the early 1980s; and J. Alphonse II's wife, Lucile Keator Prudhomme (1906-1994). 
-
-*Edited description:*
-
-The Prudhomme family of Natchitoches Parish, La., were the French Creole owners of a plantation based on a workforce of enslaved people and later tenant farmers, sharecroppers, and day laborers, with interests in cotton, corn, hay, lumber, livestock, and a general store. Six generations of Prudhommes and enslaved people and their descendants, spanning the 19th and 20th centuries, lived at Bermuda plantation (later called Oakland). 
 
 - **Example 4** 
 
