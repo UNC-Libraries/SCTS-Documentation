@@ -197,11 +197,13 @@ Thomas Francis Price and Sarah Harrill Price were married white farmers from Rut
 *Legacy description:*
 
 Tunstall Family Letter, 1850 
+
 Whitmell P. (Pugh) Tunstall was born in Pittsylvania County, Virginia. He was educated at Danville Academy and the University of North Carolina. Tunstall served in the Virginia General Assembly in both houses. He was a delegate in the House of Delegates from 1836 to 1841, a senator in the State Senate in 1841 and 1842, and a delegate again from 1845 to 1848. Tunstall was a proponent of railroads and in 1838 introduced a bill to charter the Richmond and Danville (R&D) Railroad. A charter was granted for the R&D Railroad in 1847. He was married to Mary Tunstall and they had a daughter, Mary Ellen. Whitmell P. Tunstall died in 1854 of typhoid fever, two years prior to the railroad's completion. The collection is a letter from Mrs. Mary Tunstall in Danville, Va., to her husband, Whitmell P. Tunstall, in Richmond, Va., dated 25 January 1850 in which she acknowledges receipt of his gift of a female slave child and relates her satisfaction with the child in terms of skin color and sewing capabilities. 
 
 *Edited description:*
 
 Mary Tunstall Letter on Enslaved Child Betsy, 1850 
+
 The collection is a letter dated 25 January 1850 about Betsy an enslaved African American female child. Written by white Virginian Mary Tunstall from Danville, Va., to her husband white Virginia politician Whitmell P. Tunstall (1810-1854), in Richmond, Va., the letter describes the color of Betsy's skin, her sewing skills, and suitability for working in the home from the perspective of Betsy's enslaver. 
 
 
