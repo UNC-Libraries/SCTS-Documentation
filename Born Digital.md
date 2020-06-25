@@ -6,7 +6,6 @@
 - [Processing](#processing)
 - [MODS requirements](#mods-requirements)
 - [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
-- [UARS/Wilson Born Digital Documentation](#uarswilson-born-digital-documentation)
 
 ***
 
