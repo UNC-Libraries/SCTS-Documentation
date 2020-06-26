@@ -169,7 +169,7 @@ A statement indicating what materials in the accession have restrictions on acce
 
 ### Use Restrictions
 
-_Maps to: Use Restrictions? (Acknowledgements, Restrictions & Processing Tasks tab) _
+_Maps to: Use Restrictions? (Acknowledgements, Restrictions & Processing Tasks tab)_
 
 A selected check box indicates that there are use restrictions for materials in the accession. The restrictions can be explained using the Use Restrictions Note and/or Rights sub-records, described below. 
 
