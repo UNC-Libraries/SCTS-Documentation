@@ -319,8 +319,8 @@ For identifying the agent related to the material described in the record. Agent
 
 > Note that "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." 
 > - **Examples** 
-> -- Estate of Paul Green
-> -- Estate of Mangum P. Weeks and Josephine Weeks
+>  - Estate of Paul Green
+>  - Estate of Mangum P. Weeks and Josephine Weeks
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76900165-30f14c00-686f-11ea-8bc4-887de85d0a8f.png "screenshot agent dropdown 4")
 
