@@ -477,9 +477,9 @@ Used to record decisions or actions made by anyone, not just technical services 
 
 Used to record suggestions for future work to be done to the collection.
 
-> **Examples:**
-> Future digitization of scrapbook (SV-05003/3).
-> Materials documenting the Lumbee community should be described more thoroughly. 
+> - **Examples**
+>   - Future digitization of scrapbook (SV-05003/3).
+>   - Materials documenting the Lumbee community should be described more thoroughly. 
 
 ***
 
