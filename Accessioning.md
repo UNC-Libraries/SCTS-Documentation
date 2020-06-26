@@ -319,8 +319,8 @@ For identifying the agent related to the material described in the record. Agent
 
 > Note that "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." 
 > - **Examples** 
->  - Estate of Paul Green
->  - Estate of Mangum P. Weeks and Josephine Weeks
+>   - Estate of Paul Green
+>   - Estate of Mangum P. Weeks and Josephine Weeks
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76900165-30f14c00-686f-11ea-8bc4-887de85d0a8f.png "screenshot agent dropdown 4")
 
@@ -469,9 +469,9 @@ agents. In the future, we might record some of this information in the agent rec
 
 Used to record decisions or actions made by anyone, not just technical services staff. 
 
-> **Examples:** 
-> Collection arrived in chronological order. No archival intervention taken other than rehousing.
-> Photographs arranged by archivist; received as loose papers and arranged into format/subject groupings. Optical discs 003, 004, and 005 were deaccessioned by the curator. 
+> - **Examples** 
+>   - Collection arrived in chronological order. No archival intervention taken other than rehousing.
+>   - Photographs arranged by archivist; received as loose papers and arranged into format/subject groupings. Optical discs 003, 004, and 005 were deaccessioned by the curator. 
 
 ### Future Work
 
