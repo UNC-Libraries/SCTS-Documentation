@@ -317,7 +317,8 @@ For identifying the agent related to the material described in the record. Agent
 
 - To create a new agent record, click on the drop down arrow by the agent box, select **Create**, and then select the type of agent record you wish to create. A minimal agent record may be created by filling in only the required fields. The minimal record can be enhanced later by adding additional information in other fields and sub-records. 
 
-> Note that "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." Examples: Estate of Paul Green, Estate of Estate of Mangum P. Weeks and Josephine Weeks_ 
+> Note that "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." 
+> **Examples:** Estate of Paul Green, Estate of Mangum P. Weeks and Josephine Weeks
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76900165-30f14c00-686f-11ea-8bc4-887de85d0a8f.png "screenshot agent dropdown 4")
 
@@ -461,6 +462,15 @@ Used to record biographical and historical information related to an accession a
 agents. In the future, we might record some of this information in the agent records. 
 
 **Delete the boilerplate instructions!**
+
+### Processing Note
+
+Used to record decisions or actions made by anyone, not just technical services staff. 
+
+> **Examples:** 
+> Collection arrived in chronological order. No archival intervention taken other than rehousing.
+
+### Future Work
 
 ***
 
