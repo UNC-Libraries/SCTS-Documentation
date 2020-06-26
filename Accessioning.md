@@ -287,7 +287,7 @@ Choose from drop-down list. An indication of what function (creator, source, or 
 
 > Note that if you choose a Role=Creator, the screen will present a **Title** field. _You do not have to fill in the **Title** field._
 
-### Realator
+### Relator
 
 _Maps to: Role (Names & Subjects tab) Isn't that confusing?_
 
@@ -316,6 +316,8 @@ For identifying the agent related to the material described in the record. Agent
 ![screenshot](https://user-images.githubusercontent.com/58087302/76899447-ea4f2200-686d-11ea-89e9-136f785b74f8.png "screenshot agent dropdown 3")
 
 - To create a new agent record, click on the drop down arrow by the agent box, select **Create**, and then select the type of agent record you wish to create. A minimal agent record may be created by filling in only the required fields. The minimal record can be enhanced later by adding additional information in other fields and sub-records. 
+
+_Note: "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." Examples: Estate of Paul Green, Estate of Estate of Mangum P. Weeks and Josephine Weeks 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76900165-30f14c00-686f-11ea-8bc4-887de85d0a8f.png "screenshot agent dropdown 4")
 
@@ -372,9 +374,7 @@ Required by ArchivesSpace. Two selection options: 1) start typing to filter exis
 
 - If you cannot find the resource you need, click Cancel or the X at the upper right to exit the Browse Resources screen without selecting a resource. You will need to spawn a new resource record from the accession record. 
 
-- To spawn a resource record, click **Spawn**, and select **Resource**. The new editable resource record displays. 
-
-> REMINDER THAT IN ORDER TO SPAWN YOU HAVE TO HAVE SAVED YOUR ACCESSION RECORD ALREADY?
+- To spawn a resource record, save your accession record, then click **Spawn**, and select **Resource**. The new editable resource record displays. 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76984065-b8dd6180-6914-11ea-96d0-0f930db25a2b.png "screenshot related resources 2")
 
@@ -459,7 +459,8 @@ Used to record whether an accession is creating a new collection, or adding to a
 
 _Maps to: Biographical/historical information (User defined fields tab)_
 
-Used to record biographical and historical information related to an accession and its agents. In the future, we might record some of this information in the agent records. 
+Used to record biographical and historical information related to an accession and its 
+agents. In the future, we might record some of this information in the agent records. 
 
 **Delete the boilerplate instructions!**
 
