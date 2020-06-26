@@ -317,7 +317,7 @@ For identifying the agent related to the material described in the record. Agent
 
 - To create a new agent record, click on the drop down arrow by the agent box, select **Create**, and then select the type of agent record you wish to create. A minimal agent record may be created by filling in only the required fields. The minimal record can be enhanced later by adding additional information in other fields and sub-records. 
 
-_Note: "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." Examples: Estate of Paul Green, Estate of Estate of Mangum P. Weeks and Josephine Weeks_ 
+> Note that "Estate of" records should be created as Corporate Entities, formatted as "Estate of First Name Last Name." Examples: Estate of Paul Green, Estate of Estate of Mangum P. Weeks and Josephine Weeks_ 
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76900165-30f14c00-686f-11ea-8bc4-887de85d0a8f.png "screenshot agent dropdown 4")
 
@@ -382,9 +382,7 @@ Required by ArchivesSpace. Two selection options: 1) start typing to filter exis
 
 ![screenshot](https://user-images.githubusercontent.com/58087302/76985062-0dcda780-6916-11ea-95a7-f30277be3f63.png "screenshot related resources 3")
 
-- Add the additional required fields to the resource record, if they have not already carried over from the accession record. 
-
-> SOME CARRIED OVER, SOME DID NOT. IS THERE A RHYME OR REASON? 
+- Add additional required fields to the resource record.
 
 - The required fields are: 
 
