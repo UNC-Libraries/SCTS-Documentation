@@ -1,3 +1,5 @@
+Updated June 2020.
+
 # Overview
 
 - [Acquisition Information](#acquisition-information)
