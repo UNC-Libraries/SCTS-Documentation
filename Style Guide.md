@@ -1,3 +1,6 @@
+Updated by Anne Wells and Nancy Kaiser, June 2020. 
+
+
 # Overview
 
 - [General Rules](#general-rules)
