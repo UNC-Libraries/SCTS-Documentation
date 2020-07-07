@@ -1,3 +1,5 @@
+Updated June 2020 by Dawne Howard Lucas. 
+
 # Overview
 
 - [Before we begin](#before-we-begin)
