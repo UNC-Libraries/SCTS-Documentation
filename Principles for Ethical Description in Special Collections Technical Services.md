@@ -1,3 +1,5 @@
+Updated June 2020
+
 # Principles for Ethical Description in Special Collections Technical Services 
 
 We recognize the significance of the language we use and the ways we frame narratives in archival description, and we approach our descriptive work with compassion and care for the people documented in our collections and for the people who use our collections and our descriptive resources. 
