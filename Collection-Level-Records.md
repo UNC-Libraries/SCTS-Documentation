@@ -1,3 +1,5 @@
+Compiled Summer 2018 for the TS Archival backlog project work. 
+
 # Overview
 
 - [Collection Level Records](#collection-level-records)
@@ -8,7 +10,6 @@
 
 # Collection Level Records
 
-**Check with Laura Smith**
 
 Collection level records for unprocessed materials will contain the elements prescribed by DACS for a single-level minimum record. These elements are the following:  
 
