@@ -290,7 +290,7 @@ Company names that include a person’s name are alphabetized by the first lette
 
 If an unpublished item, such as a photograph or home movie, has a title or caption written on it, we will likely want to replicate that title in the finding aid. We will want to distinguish between titles and captions that come with items (creator-generated information) from the titles and explanations that we provide (archivist-generated information). To do this, we use quotations marks. See [Processing Information](https://github.com/UNC-Libries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information) in Descriptive Elements section for guidance on how to communicate transparently in the finding aid about creator-generated and archivist-generated folder titles.
 
-Note: We do not replicate racist or offensive creator-generated titles or captions in container lists. 
+Note: We do not replicate racist or offensive creator-generated titles or captions in container lists. For published titles with slurs, we replace the slur with [racist slur].
 
 Examples:
 
@@ -300,7 +300,8 @@ For example, a photograph with "Dey Hall, 1926" written on the back:
 
 `<unittitle><title render="doublequote">Dey Hall, 1926</title></unittitle>` 
 
-**Archivist-generated title**
+
+` **Archivist-generated title**
 
 For example, a photograph that we identify as being Dey Hall in 1926:  
 
@@ -325,6 +326,7 @@ For example, a photograph that we identify as being Dey Hall in 1926, includes a
 front steps (not noted in original descriptions provided by creator):  
 
 `<unittitle>Dey Hall, 1926</unittitle></did> <scopecontent><p>Image includes Frank Porter Graham.</p></scopecontent>`
+
 
 # Mechanics
 
