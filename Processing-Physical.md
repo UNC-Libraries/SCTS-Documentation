@@ -17,7 +17,7 @@
 
 ## Physical Processing: Making Collections Usable
 
-Amy Morgan, archival processing assistant 
+Compiled by Amy Morgan, archival processing assistant, in July 2019.
 
 Before I do any work on a collection, I confer with the archivist in charge of that collection.  They tell me how in depth the collection needs to be handled.  This is important, because not all collections need the same level of work.  For example, if a collection is already in folders that are in good shape, re-foldering may not be necessary.  If there is foldering to be done, some collections need the folders to be completely labeled, while others only require collection name/number, and still others are fine with blank folders.  I also make sure to ask the archivist any questions I have along the way, and inform them of anything strange or possibly noteworthy.  It is always wise to ask about something you are unsure about, and they appreciate you being conscientious and thoughtful about your work. 
 
