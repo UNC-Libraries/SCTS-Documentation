@@ -1,3 +1,6 @@
+Updated June 2020.
+
+
 # Overview
 
 - [`<digfolder>` coding in the FAID](#digfolder-coding-in-the-faid)
