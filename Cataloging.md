@@ -1,3 +1,5 @@
+Updated July 2020 by Jodi Berkowitz.
+
 # Overview
 
 - [Creating new MARC records](#creating-new-marc-records)
@@ -60,7 +62,7 @@ Copy and paste from finding aid
   - Person: 100 1 _ 
   - Family: 100 3 _
   - Corporate body: 110 1 _
-  - See Michelle's documentation for forming family and other headings
+  - See Michelle's documentation (below) for forming family and other headings
   
 ### 245 1 0 : Title
 
@@ -161,7 +163,7 @@ No period at end
    - Export using green arrow button (F5)
    - Open Sierra, search by title or local call number
    - Hit summary, confirm item record is there
-   - Add STATS note- "Cataloged FY 2019-20" using "j" or macro if set up (e.g. F7)
+   - Add STATS note- "Cataloged FY 2020-21" using "j" or macro if set up (e.g. F7)
    - For a collection with a collection-level record in Sierra, edit status in item record and edit initials and cat date
    - Save
    - Close pop up window in Connexion
