@@ -30,7 +30,7 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Data Digital Video Disc**                    | datadvd                 | DDVD-collection#/item#                |
 | **Digital Audio Tape**                         | dat                     | DAT-collection#/item#                 |
 | **Digital Item**                               | digitem                 | DI-collection#/item#                  |
-| **Digital Folder**                             | digifolder              | DF-collection#/item#                  |
+| **Digital Folder**                             | digifolder              | DF-collection#/folder#                  |
 | **Digital Video Disc**                         | dvd                     | DVD-collection#/item#                 |
 | **Envelope**                                   | envelope                | envelope#                             |
 | **Extra Oversize Image**                       | xoimage                 | XOP-P-collection#/item#               |
