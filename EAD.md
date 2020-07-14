@@ -1,4 +1,4 @@
-Updated June 2020.
+Updated July 2020.
 
 # Overview
 
@@ -41,7 +41,7 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Flat Box (NCC Photo Archives only**          | flatbox                 | box#                                  |
 | **Flat File Drawer (NCC Photo Archives only)** | flatfile                | drawer#                               |
 | **Flat Storage Image (8x10)**                  | o0810image              | PColl#/uniqueID                       |
-| **Floppy Disc**                                | fkd                     | FLD-collection#/item#                 |
+| **Floppy Disc**                                | fld                     | FLD-collection#/item#                 |
 | **Folder**                                     | folder                  | folder#                               |
 | **Framed Item**                                | fr                      | FR-collection#/item#  PColl#/uniqueID |
 | **Image**                                      | image                   | P-collection#/item#                   |
@@ -56,11 +56,11 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Music Compact Disc**                         | cd                      | CD-collection#/item#                  |
 | **NCC Reference Box**                          | pref                    | Box#                                  |
 | **Optical Disc Cartridge**                     | odc                     | ODC-collection#/item#                 |
-| **Oversize Box**                               | obox                    | OB-collection#/item#                  |
+| **Oversize Box**                               | obox                    | OB-collection#/box#                  |
 | **Oversize Image**                             | oimage                  | OP-P-collection#/item#                |
-| **Oversize Image Folder**                      | oimagefolder            | OP-PF-collection#/image#              |
+| **Oversize Image Folder**                      | oimagefolder            | OP-PF-collection#/folder#              |
 | **Oversize Paper**                             | opaper                  | OP-collection#/item#                  |
-| **Oversize Paper Folder**                      | opaperfolder            | OP-PF-collection#/image#              |
+| **Oversize Paper Folder**                      | opaperfolder            | OPF-collection#/folder#              |
 | **Oversize Volume**                            | ovolume                 | SV-collection#/item#                  |
 | **Photograph Album**                           | photoalbum              | PA-collection#/item#  PColl#/uniqueID |
 | **Reel**                                       | reel                    | reel#                                 |
