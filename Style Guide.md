@@ -493,7 +493,7 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - a.m.
 
-- American Indian (not hyphenated)
+- American Indian or North American Indian (not hyphenated)
 
 - Annual reports (:rage: _Annual Reports_)
 
@@ -535,7 +535,7 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
 
 - navy
 
-- Native American (not hyphenated)
+- North American Indian or American Indian (no longer using Native American)
 
 - Normandy invasion
 
@@ -639,7 +639,7 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 - Afro-Caribbean 
 
-- American Indian 
+- American Indian or North American Indian [no longer using Native American; preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] 
 
 - Asian American 
 
@@ -685,7 +685,7 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 - Multiracial American [preferably list out: European, African American, and Native American ancestry.] 
 
-- Native American [preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] 
+- North American Indian [no longer using Native American; preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] 
 
 - South Asian 
 
