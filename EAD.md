@@ -1,4 +1,4 @@
-Updated July 2020.
+Updated July 2020
 
 # Overview
 
