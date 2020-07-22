@@ -360,6 +360,9 @@ The preferred citation format is customized for each collection to suggest the s
 
 - [Identification of item], in the Colvin M. Edwards Photographic Collection #P0116, North Carolina Collection Photographic Archives, The Wilson Library, University of North Carolina at Chapel Hill. 
 
+If the title is revised at a later date, add a note after the citation information:
+
+[Identification of item], in the James Reeve Stuart Recollections of Christmas at Roupelmond Plantation #702-z, Southern Historical Collection, The Wilson Library, University of North Carolina at Chapel Hill. [Note: title revised from James R. Stuart's Cousin Jimmie Christmas on the Plantation in July 2020.]
 
 # Privacy Statement
 
