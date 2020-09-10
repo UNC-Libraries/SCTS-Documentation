@@ -3,6 +3,8 @@
 - [GIT Set-up Instructions](#git-setup-instructions)
   - [Finding Aids: Setting Up Your Development Space](#finding-aids-setting-up-your-development-space)
   - [Install Git for Windows](#install-git-for-windows)
+- [GIT/Sourcetree Troubleshooting](#git/sourcetree-troubleshooting)
+  - [Sourcetree: SSH Key Fail](#sourcetree-ssh-key-fail)
 - [Oxygen Install and Transformation Scenario](#oxygen-install-and-transformation-scenario)
   - [Install Oxygen XML Editor](#install-oxygen-xml-editor)
   - [Set up Transformation Scenario](#set-up-transformation-scenario)
@@ -145,8 +147,32 @@ If Putty doesn't work for you, follow these instructions:
 - https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html
 - https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html
 
+# GIT/Sourcetree Troubleshooting
+
+## Sourcetree: SSH Key Fail
+
+1. You have tried to pull or push to an existing branch in your Sourcetree repository and see the following notification:
+ 
+![SSH_Key_Fail_Screen_1](https://user-images.githubusercontent.com/62359394/92785825-bc0e5300-f375-11ea-898c-d2d89bbd8f93.JPG "SSH Key Fail")
+
+2. Open the "Pageant PuTTY authentication agent" (computer wearing hat icon) by first clicking on the "triangle" located on your Windows toolbar (bottom right corner), next to the wireless icon. You should see the the icon in this window.
+ 
+![Pageant_1_Toolbar](https://user-images.githubusercontent.com/62359394/92786222-10b1ce00-f376-11ea-8e23-279e8bc93820.jpg "PuTTY authentication agent")
+
+3. Click "Add Key" and navigate to the folder where GIT keeps your "finding-aids" folder (should be in "This PC>Documents"). Select "All Files" from drop-down to the right of "file name" field.You will want to select the "Microsoft Publisher" file that should be there named "id_rsa":
+
+![SSH_RSA_Key ](https://user-images.githubusercontent.com/62359394/92786654-6c7c5700-f376-11ea-870a-5391745655f3.JPG "SSH RSA Key")
+
+
+4. After clicking ok, the "Pageant Key List" should be populated and you can click "close." 
+
+![SSH_RSA_Key](https://user-images.githubusercontent.com/62359394/92786762-86b63500-f376-11ea-885e-18f83bf08392.JPG "SSH Key selected")
+
+5. Try your pull/push request again.
 
 # Oxygen Install and Transformation Scenario
+
+
 
 ## Install Oxygen XML Editor
 
