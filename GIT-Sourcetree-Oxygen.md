@@ -155,7 +155,7 @@ If Putty doesn't work for you, follow these instructions:
  
 ![SSH_Key_Fail_Screen_1](https://user-images.githubusercontent.com/62359394/92785825-bc0e5300-f375-11ea-898c-d2d89bbd8f93.JPG "SSH Key Fail")
 
-2. Open the "Pageant PuTTY authentication agent" (computer wearing hat icon) by first clicking on the "triangle" located on your Windows toolbar (bottom right corner), next to the wireless icon. You should see the the icon in this window.
+2. Click "no" and open the "Pageant PuTTY authentication agent" (computer wearing hat icon) by clicking on the "triangle" located on your Windows toolbar (bottom right corner), next to the wireless icon. You should see the the Pageant icon in this window.
  
 ![Pageant_1_Toolbar](https://user-images.githubusercontent.com/62359394/92786222-10b1ce00-f376-11ea-8e23-279e8bc93820.jpg "PuTTY authentication agent")
 
