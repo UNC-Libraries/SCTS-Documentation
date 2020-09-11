@@ -166,8 +166,6 @@ If Putty doesn't work for you, follow these instructions:
 
 4. After clicking ok, the "Pageant Key List" should be populated and you can click "close." 
 
-![SSH_RSA_Key](https://user-images.githubusercontent.com/62359394/92786762-86b63500-f376-11ea-885e-18f83bf08392.JPG "SSH Key selected")
-
 5. Try your pull/push request again.
 
 # Oxygen Install and Transformation Scenario
