@@ -78,7 +78,7 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | U-Matic (Audio Tape)           | 39                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | U-Matic [Audio]                                  |
 | Beta (PCM-F1)                  | 40                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | Beta (PCM-F1) [Audio]                            |
 | VHS (PCM-F1)                   | 41                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | VHS (PCM-F1) [Audio]                             |
-| Instantaneous Disc             | 45                  | FD                     | FD [?]                         | Fd                                      | Acetate disc / Lacquer disc / Instantaneous disc |
+| Instantaneous Disc             | 45                  | FD                     | FD [?]                         | fd                                      | Acetate disc / Lacquer disc / Instantaneous disc |
 | Transcription Disc             | 46                  | TR                     | TR [?]                         | trans                                   | Transcription disc                               |
 | Wire Recording                 | 47                  | WR                     | WR                             | wr                                      | Wire recording                                   |
 | 45                             | 48                  | 45                     | D [?]                          | audiodisc                               | 45-rpm record                                    |
