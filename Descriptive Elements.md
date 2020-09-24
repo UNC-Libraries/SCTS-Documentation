@@ -417,7 +417,7 @@ _Some of these original titles and descriptions contain harmful language. In [
 
 _Archivists have not removed racial terms "Negro" or "Colored" because we feel they provide important historical context about the materials and who created them and they facilitate the research process. We recognize that these terms also may cause harm and will periodically revisit our decision to include them. We recognize the complexity of this issue and welcome feedback on this decision at wilsonlibrary@unc.edu._
 
-#### We use this statement at the item level when we have removed harmful transcribed titles or cpations from the finding aid:
+#### We use this statement at the item level when we have removed harmful transcribed titles or captions from the finding aid:
 _Transcription of original title amended in the finding aid by archivists in [year] to remove harmful language. The original title remains on the physical documents and digitized access copies._
 
 #### For specific format-related statements, see
