@@ -590,4 +590,8 @@ This documentaiton did not emerge from a vacuum! I lean on and acknowledge the m
 - Megan McShea, Smithsonian Archives of American Art, "Guidelines for processing archival collections with audiovisual material"
 https://www.aaa.si.edu/tags/documentation
 
+- New York University Libraries, "Descriptive Policies on Audiovisual and Born-digital Materials", September 2019
+https://docs.google.com/document/d/1Zcvp57201jEgsGZgT8Up1c7nIWAwdtHHBMZn3NYogRs/edit
+
+
 
