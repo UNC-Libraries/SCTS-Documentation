@@ -2,7 +2,26 @@
 Compiled October 2020
 
 
-  
+
+## George Moses Horton remediations, October 2020
+These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Enslaved in Wilson Special Collections Library*.
+
+-	Revised [David L. Swain Papers](https://finding-aids.lib.unc.edu/00706/)
+
+    - Added content about George Moses Horton at abstract, subject headings, collection scope note, and container list.
+  
+    -	Remediated description of enslaved people at abstract, subject headings, collection scope note, and container list
+  
+   -	Added racial identities
+  
+    -	Added format description to unittitles
+
+-	Revised [William Bagley Letter Books](https://finding-aids.lib.unc.edu/00863/)
+
+    - Added content about George Moses Horton at abstract, subject headings, biographical note, collection scope note, and container list   
+    
+    - Added racial identities
+
 
 ## Antebellum finding aids: LibGuides project, summer and fall 2020 
 
