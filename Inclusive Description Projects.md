@@ -14,7 +14,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
   
    -	Added racial identities
   
-    -	Added format description to unittitles
+    -	Added format description to ```<unittitles>```
 
 -	Revised [William Bagley Letter Books](https://finding-aids.lib.unc.edu/00863/)
 
