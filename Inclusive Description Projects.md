@@ -9,12 +9,12 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 -	Revised [David L. Swain Papers](https://finding-aids.lib.unc.edu/00706/)
 
     - Added content about George Moses Horton at abstract, subject headings, collection scope note, and container list.
-  
+    
     -	Remediated description of enslaved people at abstract, subject headings, collection scope note, and container list
-  
-   -	Added racial identities
-  
-    -	Added format description to ```<unittitles>```
+
+    -	Added racial identities
+    
+    -	Added format descriptions to files in container list
 
 -	Revised [William Bagley Letter Books](https://finding-aids.lib.unc.edu/00863/)
 
