@@ -4,7 +4,7 @@ Updated July 2020
 
 - [Reference code](#reference-code)
 - [Title](#title)
-- [Date] (#date)
+- [Date](#date)
 - [Creator](#creator)
 - [Scope and Content Note and Abstract](#scope-and-content-note-and-abstract)
 - [Extent](#extent)
