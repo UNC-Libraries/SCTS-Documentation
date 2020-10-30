@@ -3,7 +3,8 @@ Updated July 2020
 # Overview
 
 - [Reference code](#reference-code)
-- [Title and date](#title-and-date)
+- [Title](#title)
+- [Date] (#date)
 - [Creator](#creator)
 - [Scope and Content Note and Abstract](#scope-and-content-note-and-abstract)
 - [Extent](#extent)
@@ -65,7 +66,7 @@ Sample collection titles include:
 
 
 # Date 
-####  [2.4](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
+####  [DACS 2.4](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
 
 - **Collection dates:** We most frequently use the collection’s inclusive dates, showing the earliest and latest dates of the materials.  In some collections, you will find material from a range of years, but a large majority from a smaller range of years. For example, the Cyrus Aydlett Papers (#4907) contain material dating from 1941 through 1994, but most of the collection concerns Aydlett’s experiences during World War II and dates from 1943 through 1945. Thus, the inclusive dates of this collection are 1941-1994 and the bulk dates are 1943-1945: Cyrus Aydlett Papers, 1941-1994 (bulk 1943-1945). Occasionally a collection has a few items with dates significantly outside the range of the majority of the items. In this case the outlying date(s) may be appended to the range. For example, a collection with materials dated 1793 through 1822, but with a few items from 1988, would be listed: 1723-1822, 1988. 
 
