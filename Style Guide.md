@@ -147,10 +147,6 @@ When appropriate, we also add racial and ethnic identities to key figures docume
 
 - A 1990 oral history interview conducted by Molly Conrecode, a white folklorist, with Bland Simpson, a white author, playwright, songwriter, and musician, who was a member of the North Carolina string band, the Red Clay Ramblers. 
 
-- The collection of journalist and author Paul Cuadros contains images of central North Carolina and Latinx immigrant communities in and around Siler City that were taken by Cuadros while he conducted research for his 2006 book A Home on the Field: How One Championship Team Inspires Hope for the Revival of Small Town America. 
-
-- The Eastern Kentucky African American Migration Project (EKAAMP) is a public humanities and archival collecting initiative directed by sociologist Karida Brown in partnership with the Southern Historical Collection (SHC) at the University of North Carolina at Chapel Hill. In 2013, the SHC joined Brown in her efforts to document a multi-generational African American community with familial ties to coal mining towns in Harlan County, Ky. 
-
 - A video recording of Piedmont blues guitarist, Etta Baker (1913-2006), created by white folklorists, Cecelia Conway and Elva Bishop. Etta Baker, born Etta Lucille Reid, claimed European, African American, and Native American ancestry. She grew up in Caldwell County, N.C., where she learned to play Piedmont blues, ragtime, and fiddle tunes from her father, Boone Reid. 
 
 - This collection contains four account books, 1873-1903, of A. G. Davison, a white physician of Luzerne County, Pa., in which he kept records on his patients. Entries record charges for visits, prescriptions, and details of other medical care. The first volume documents that Davison had an equal partnership with white physician and druggist E. F. Kamerly in 1873. In 1874, Kamerly had three-fifths of the partnership and Davison had two-fifths. The remaining volumes do not show an apparent partnership between Davison and Kamerly. Although the first page of the third volume contains information from 1903, the rest of the volume appears to pertain to 1880-1886. 
