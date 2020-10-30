@@ -28,20 +28,52 @@ For Southern Folklife Collection, Southern Historical Collection, and University
 North Carolina Collection codes will be alphanumeric and begin with ncc, and North Carolina Collection Photographic Archives collection codes will also be alphanumeric and begin with P, e.g., NCC0001 or P0081. 
 
 
-# Title and date 
-#### [DACS 2.3](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title), [2.4](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
+# Title 
+#### [DACS 2.3](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
 
-The collection title contains the name of the collection creator, a collection title, and the collection’s inclusive dates. 
+The collection title contains the name of the collection creator, the nature of the archival unit, and sometimes a third topical segment.  
 
 - **Name of collection creator:** The name of the collection creator may be a personal name, family name, organization name, or the name of a collector in the case of an intentionally assembled collection. Most often, you will use the authorized form of the name in the collection title, though there are occasional exceptions for certain personal names. The authorized form of a family name will appear in the creator entry but not in the title itself. 
 
-- **Collection title:** The collection title is almost always “papers” for a collection composed of the papers of an individual or family. Use “records” for the records of organizations, University departments, or other corporate entities. A descriptive title is often used for intentionally assembled collections or smaller collections consisting of only one or two forms. Southern Folklife Collection collections are often given the title of “collection” at the discretion of the curator. 
+- **Nature of the archival unit:** The collection title is almost always “papers” for a collection composed of the papers of an individual or family. Use “records” for the records of organizations, University departments, or other corporate entities. A descriptive title is often used for intentionally assembled collections or smaller collections consisting of only one or two forms. Southern Folklife Collection collections are often given the title of “collection” at the discretion of the curator. 
 
-- **Collection dates:** The collection’s inclusive dates, showing the earliest and latest dates of the materials, are included in the title. Dates do not have to be specific, especially at the collection level (e.g., 1940s-1970s). In some collections, you will find material from a range of years, but a large majority from a smaller range of years. For example, the Cyrus Aydlett Papers (#4907) contain material dating from 1941 through 1994, but most of the collection concerns Aydlett’s experiences during World War II and dates from 1943 through 1945. Thus, the inclusive dates of this collection are 1941-1994 and the bulk dates are 1943-1945: Cyrus Aydlett Papers, 1941-1994 (bulk 1943-1945). Occasionally a collection has a few items with dates significantly outside the range of the majority of the items. In this case the outlying date(s) may be appended to the range. For example, a collection with materials dated 1793 through 1822, but with a few items from 1988, would be listed: 1723-1822, 1988. The date of an alternate form of an item is the date the alternate form was created, not the date of the original item.  
+
+- **Topic of the archival unit:** Occasionally, we add a third segement to the title to more precisely characterize the materials being described. 
+
 
 Sample collection titles include: 
 
 - John Messina Collection on the Charles Evers Mississippi Gubernatorial Campaign of 1971 
+
+- Kemp Battle Nye Papers
+
+- Craig, Ferris, and Flowers Family Papers
+
+- Charles Maurice Redfern Papers 
+
+- Eastern Kentucky African American Migration Project Collection
+
+- Order of the Golden Fleece of the University of North Carolina at Chapel Hill Records
+
+- Phillip G. Collins Collection on Ruey “Curley” Collins 
+
+- Willa Cofield Brick School Collection 
+
+- Anderson Blanton Collection of Oral Roberts' Broadcast 
+
+- University of North Carolina at Chapel Hill American Studies 60/Folklore 195 Photographic Projects Collection 
+
+
+# Date 
+####  [2.4](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
+
+- **Collection dates:** We most frequently use the collection’s inclusive dates, showing the earliest and latest dates of the materials.  In some collections, you will find material from a range of years, but a large majority from a smaller range of years. For example, the Cyrus Aydlett Papers (#4907) contain material dating from 1941 through 1994, but most of the collection concerns Aydlett’s experiences during World War II and dates from 1943 through 1945. Thus, the inclusive dates of this collection are 1941-1994 and the bulk dates are 1943-1945: Cyrus Aydlett Papers, 1941-1994 (bulk 1943-1945). Occasionally a collection has a few items with dates significantly outside the range of the majority of the items. In this case the outlying date(s) may be appended to the range. For example, a collection with materials dated 1793 through 1822, but with a few items from 1988, would be listed: 1723-1822, 1988. 
+
+Often we estimate dates and use "circa."
+
+
+Sample collection titles and dates include: 
+
 
 - Kemp Battle Nye Papers, 1930s-2000s 
 
@@ -55,11 +87,12 @@ Sample collection titles include:
 
 - Phillip G. Collins Collection on Ruey “Curley” Collins, circa 1920s-2009 
 
-- Willa Cofield Brick School Collection (05745)
+- Willa Cofield Brick School Collection 
 
-- Anderson Blanton Collection of Oral Roberts' Broadcast (20494)
+- Anderson Blanton Collection of Oral Roberts' Broadcast 
 
-- University of North Carolina at Chapel Hill American Studies 60/Folklore 195 Photographic Projects Collection (P0053)
+- University of North Carolina at Chapel Hill American Studies 60/Folklore 195 Photographic Projects Collection 
+
 
 
 # Creator
