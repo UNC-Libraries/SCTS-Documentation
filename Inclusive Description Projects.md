@@ -140,7 +140,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 * [Updated entry for conjoined twins Mille and Christine McKoy to fully reflect their identities as individuals as well as using their chosen (shared) last name, instead of the last name of the former enslavers used as a stage name.](https://finding-aids.lib.unc.edu/P0002/#folder_3791#1) 
 
-* Deconstructing North Carolina Miscellaneous Papers, spring 2020 
+## Deconstructing North Carolina Miscellaneous Papers, spring 2020 
 
 * Created 9 individual collections from 1135-z 
 
@@ -198,11 +198,6 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
   
 
-## Description of [Colvin Edwards Photograph Collection](https://finding-aids.lib.unc.edu/P0116/) (P0116), October 2019 
-
-* First photographic collection accessioned by NCCPA comprised of materials created by a Black photographer depicting a historically Black community.  
-
-* Abstract includes references to historically black neighborhoods, schools, and churches found in the collection. 
 
 
   
