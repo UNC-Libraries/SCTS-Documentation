@@ -76,7 +76,6 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Transcription Volume**                       | transv                  | TV-collection#/item#                  |
 | **Unit**                                       | unit                    | unit#                                 |
 | **Use Copy**                                   | uc                      | UCyear_item#                          |
-| **Videodisc**                                  | videodisc               | VD-collection#/item#                  |
 | **Videotape**                                  | videotape               | VT-collection#/item#                  |
 | **Wire Recording**                             | wr                      | WR-collection#/item#                  |
 
