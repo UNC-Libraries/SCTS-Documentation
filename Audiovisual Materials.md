@@ -525,10 +525,13 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 
 - African American churches--North Carolina. 
 - African Methodist Episcopal Zion Church.  
+- Baptists--Hymns.
 - Church services--North Carolina. 
 - Church choirs--North Carolina. 
 - Church music--North Carolina. 
-- Divination--North Carolina. 
+- Divination--North Carolina.
+- Funeral rites and ceremonies--United States.
+- Funeral service.
 - Hymns, English--North Carolina. 
 - Gospel music--North Carolina.
 - Primitive Baptists--Clergy--North Carolina. 
@@ -538,6 +541,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Primitive Baptists--North Carolina. 
 - Primitive Baptists--Virginia.  
 - Proverbs--North Carolina.  
+- Regular Baptists--Kentucky.
 - Religious life and customs--North Carolina. 
 - Religious life and customs--Virginia. 
 - Religious practices—North Carolina.  
