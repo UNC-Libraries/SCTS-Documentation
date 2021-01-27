@@ -1,6 +1,6 @@
 Content owner: **Anne Wells**
 
-Updated October 2020 by Anne Wells.
+Updated January 2021 by Anne Wells.
 
 # Overview
 
@@ -549,9 +549,11 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Sermons, American--North Carolina. 
 - Spirituals (Songs)--North Carolina. 
 
-#### Oral History interviews:
+#### Oral History interviews and storytelling:
 
 - Oral histories.
+- Storytellers--South Carolina.
+- Storytelling--South Carolina.
 - Tales--Southern States.
 
 #### Folk art:
