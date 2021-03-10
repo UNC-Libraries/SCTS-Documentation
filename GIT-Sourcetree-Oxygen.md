@@ -212,7 +212,7 @@ SGN=MCwCFEf30fV8RourtRFEuBwgFMHqqXXJAhRY3L0F9IUSM/84znn302RyA4+bAA\=\=
 
 _In the XSLT tab:_
 
-5. XML URL should be "${currentFileURL}" (which it will be by default). 
+5. XML URL should be: ${currentFileURL} (which it will be by default). 
 
 6. XLS URL should point to our stylesheet: https://cdn.lib.unc.edu/faids/ead.xsl 
 
