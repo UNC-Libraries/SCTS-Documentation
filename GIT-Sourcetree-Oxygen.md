@@ -176,21 +176,27 @@ If Putty doesn't work for you, follow these instructions:
 
 1. Download the software at http://www.oxygenxml.com/xml_editor/software_archive_editor.html  
 
-2. Choose version 15.2.  
+2. Choose version 23.  
 
-3. Copy and paste information below into the license window:  
+3. Copy and paste information below into the license window (9 lines of text):
 
-   Registration_Name=Gregory Neville  
+Registration_Name=Jackie Dean
 
-   Company=University of North Carolina at Chapel Hill  
+Company=
 
-   Category=Academic-Site  
+Category=Academic
 
-   Component=XML-Editor, XSLT-Debugger, Saxon-SA Version=15  
+Component=XML-Editor, XSLT-Debugger, Saxon-SA
 
-   Number_of_Licenses=1 Date=06-13-2013  
+Version=23
 
-   Maintenance=374 SGN=MCwCFFnvMwFb46l7evGVjmLvrQHbLdc+AhR4SOcVT5QvkKKRj1EdgHZDzj/+mA\=\=      
+Number_of_Licenses=8
+
+Date=02-01-2021
+
+Maintenance=0
+
+SGN=MCwCFEf30fV8RourtRFEuBwgFMHqqXXJAhRY3L0F9IUSM/84znn302RyA4+bAA\=\=
    
 ## Set up Transformation Scenario
 
@@ -202,15 +208,15 @@ If Putty doesn't work for you, follow these instructions:
 
 3. In the pop-up box, select "New." 
 
-4. Name your scenario something simple like "transformation_2018" 
+4. Name your scenario something simple like "transformation_2021" 
 
 _In the XSLT tab:_
 
 5. XML URL should be "${currentFileURL}" (which it will be by default). 
 
-6. XLS URL should point to our stylesheet: http://cdn.lib.unc.edu/faids/ead.xsl 
+6. XLS URL should point to our stylesheet: https://cdn.lib.unc.edu/faids/ead.xsl 
 
-7. Select the transformer. Saxon EE 9.5.1.3. 
+7. Select the transformer. Saxon EE 9.9.1.7. (or whatever the most up-to-date Saxon EE is) 
 
 ![Edit scenario screenshot 1](https://user-images.githubusercontent.com/58087302/79362917-2f21b380-7f15-11ea-8399-1f86a66559ea.png "Edit scenario window screenshot 1")
 
@@ -218,7 +224,7 @@ We don't use the FO Processor tab
 
 _In the Output tab:_
 
-8. In the Output File menu, the "Save as" box should be selected, and the value should be: "${cfn}.html" 
+8. In the Output File menu, the "Save as" box should be selected, and the value should be: ${cfn}.html 
 
 9. If you would like for the resulting HTML file to automatically open in your Internet browser for preview, or in Oxygen for you to inspect, check the boxes for these options. 
 
