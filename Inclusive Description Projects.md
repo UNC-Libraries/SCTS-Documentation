@@ -40,7 +40,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 * A redescription project facilitated by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
 
-* Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records
+* Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records that did not have corresponding finding aids
 
 * Revised titles and language found in legacy MARC records, resulting in 60+ finding aids. Examples: [Alice D. Boyle Recordings of Demus Green](https://finding-aids.lib.unc.edu/20127/) and [Nancy Hamilton Collection on Mollie Sequoyah](https://finding-aids.lib.unc.edu/20125/)
 
