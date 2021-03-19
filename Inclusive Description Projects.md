@@ -21,6 +21,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
     - Added content about George Moses Horton at abstract, subject headings, biographical note, collection scope note, and container list   
     
     - Added racial identities
+    
 
 
 ## Antebellum finding aids: LibGuides project, summer and fall 2020 
@@ -32,6 +33,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 * Exploring approaches to remediation work on large and medium-sized collections of planation records and records about enslavement.  
 
 
+
 ## Legacy MARC project, summer and fall 2020, spring 2021
 
 * A redescription project lead by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
@@ -39,6 +41,8 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 * Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records
 
 * Revised titles and language found in legacy MARC records, resulting in 60+ finding aids. Examples: [Alice D. Boyle Recordings of Demus Green](https://finding-aids.lib.unc.edu/20127/) and [Nancy Hamilton Collection on Mollie Sequoyah](https://finding-aids.lib.unc.edu/20125/)
+
+
 
 
 ## Federal Writers Project collections, summer 2020 
