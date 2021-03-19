@@ -24,6 +24,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
     
 
 
+
 ## Antebellum finding aids: LibGuides project, summer and fall 2020 
 
 * Focusing on finding aids highlighted in UNC Libraries LibGuides *Using Records about Slavery in the Southern Historical Collection* and *Voices of the Enslaved in Wilson Special Collections Library*.  
@@ -34,9 +35,10 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 
 
-## Legacy MARC project, summer and fall 2020, spring 2021
 
-* A redescription project lead by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
+## Southern Folklife Collection: Legacy MARC project, summer and fall 2020, spring 2021
+
+* A redescription project facilitated by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
 
 * Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records
 
@@ -75,6 +77,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 * Examples: [Alfred Waddell](https://finding-aids.lib.unc.edu/00743/), [Thomas W. Clawson](https://finding-aids.lib.unc.edu/02792/),  [D.I. Craig](https://finding-aids.lib.unc.edu/05399/)
 
   
+  
 
 ## Removing racist slurs from finding aids, July 2020 
 
@@ -84,7 +87,8 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 * Example: [John T. Huddle Collection](https://finding-aids.lib.unc.edu/20280/) 
 
-  
+ 
+ 
 
 ## Revising NCCPA abstracts, spring 2020 
 
