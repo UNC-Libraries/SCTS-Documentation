@@ -34,7 +34,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 ## Legacy MARC project, summer and fall 2020, spring 2021
 
-* A redescription project lead by Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
+* A redescription project lead by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
 
 * Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records
 
