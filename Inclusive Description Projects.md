@@ -42,7 +42,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 * Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records that did not have corresponding finding aids
 
-* Revised titles and language found in legacy MARC records, resulting in 60+ finding aids. Examples: [Alice D. Boyle Recordings of Demus Green](https://finding-aids.lib.unc.edu/20127/), [Nancy Hamilton Collection on Mollie Sequoyah](https://finding-aids.lib.unc.edu/20125/), and Portia Crawford Collection of African American Folk Songs from North Carolina(https://finding-aids.lib.unc.edu/20154/)
+* Revised titles and language found in legacy MARC records, resulting in 60+ finding aids. Examples: [Alice D. Boyle Recordings of Demus Green](https://finding-aids.lib.unc.edu/20127/), [Nancy Hamilton Collection on Mollie Sequoyah](https://finding-aids.lib.unc.edu/20125/), and [Portia Crawford Collection of African American Folk Songs from North Carolina](https://finding-aids.lib.unc.edu/20154/)
 
 
 
