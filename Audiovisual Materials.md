@@ -467,6 +467,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Blues (Music)
 - Blues musicians.
 - Doo-wop (Music)
+- Harmonica music.
 - Piedmont blues.
 - Popular muisc--United States.
 - Rhythm and blues music.
