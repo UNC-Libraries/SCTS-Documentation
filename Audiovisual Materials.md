@@ -168,12 +168,18 @@ Small to medium-sized AV materials require additional housing into archival boxe
 
 Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
-#### Film:
+#### Motion Picutre Film:
 
 - 35mm 
 - 16mm 
 - Super 8mm 
 - 8mm 
+
+#### Videotape:
+
+- ½” Open Reel Video 
+- 1” Open Reel Video 
+- 2” Open Reel Video
 
 The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type: 
 
