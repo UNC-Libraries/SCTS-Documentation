@@ -131,9 +131,9 @@ _This section is a work in progress...stay tuned!_
 
 ## Rehousing Materials
 
-Apart from moving image film, it is preferable to leave audiovisual materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation concerns, such as mold or an inability to properly contain the item at hand.  
+Apart from moving image film, it is preferable to leave audiovisual materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
 
-Whenever an audiovisual material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or SFC’s Department Drive until proper procedures for documenting original containers are developed.  
+Whenever an audiovisual material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
 Unlike audio and video formats, all moving image film is hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
@@ -141,17 +141,17 @@ Unlike audio and video formats, all moving image film is hand inspected, placed 
 
 #### Create Small Item Labels
 
-Once you have retrieved the correct call numbers, see “How to Create Item level AV Labels.docx” (_Louis\Southern Folklife Collection\Departmental Documents\Documentation\Archival Processing \How to Create Item Level AV Labels.docx_) and create labels using foil-back spine labels supplied by Technical Services.  
+Once you have retrieved the correct call numbers, see “How to Create Item level AV Labels.docx” (_Louis\Southern Folklife Collection\Departmental Documents\Documentation\Archival Processing \How to Create Item Level AV Labels.docx_) and create labels using foil-back spine labels supplied by Technical Services. 
 
 #### Physically Label Items
 
-Labels for cartridge-based items, such as audiocassettes and videotape, are placed on the spine, while labels for open reel and audiodiscs, are placed on the top left front of the item. Labels for moving image film are created with the label maker located on level 10. More on label type and placement below.  
+Labels for cartridge-based items, such as audiocassettes and videotape, are placed on the spine, while labels for open reel and audiodiscs, are placed on the top left front of the item. Mail merge templates for both spine ("AV_spine_labels.docx") and front-facing ("AV_front_labels.docx") labels reside in the departments drive (G:\wilson\sfc\LABELS\Anne). Labels for moving image film are created with the label maker located on level 10. More on label type and placement below.  
 
 ADD PICTURES HERE
 
 #### Cartridge-based Item Labels
 
-When possible for cartridge-based items, place item labels on the spine of the container. Cut labels to size when appropriate.  
+When possible for cartridge-based items, place item labels on the spine of the container. 
 
 ADD PICTURES HERE
 
@@ -166,7 +166,7 @@ Small to medium-sized AV materials require additional housing into archival boxe
 - 1” Open Reel Audio 
 - 2” Open Reel Audio 
 
-Videotapes used as audio 
+Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
 #### Film:
 
@@ -192,9 +192,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 
 | Box Title         | Format(s)                                                                  | Box Type               |
 | ----------------- | -------------------------------------------------------------------------- | ---------------------- |
-| Videotape (large) | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format | Paige Box              |
-| Videotape (small) | VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8                        | Archival Audiocassette |
-
+| Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
 
 # XML/EAD
 
@@ -458,7 +456,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 # Subject Headings
 
-A great resource for SFC collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
+A great resource for folklore soud recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
 
 Listed below is a local controlled vocabulary for music-based and/or AV centric collections. Subject headings are arranged loosely by genre or subject. For more widely applicable subject terms (i.e.: Folk music., Folk songs., Dance music., etc), it may be useful to further specify the heading with a geographic location (i.e. Folk music--North Carolina.).  
 
