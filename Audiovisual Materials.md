@@ -174,6 +174,8 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 - 16mm 
 - Super 8mm 
 - 8mm 
+- 9.5mm
+- Filmstrips
 
 #### Videotape:
 
