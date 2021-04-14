@@ -16,7 +16,7 @@ Updated July 2020
 
 Here is the list of container types for the _type_ attribute in the `<container>` tag (note that this attribute is case sensitive). Anyone needing another type of container can ask Lynn to expand the list.   
 
-| **Display Names**                              | `<container type=>`     | Invidual Item/Folder/Box Style        |
+| **Display Names**                              | `<container type=>`     | Individual Item/Folder/Box Style        |
 | ---------------------------------------------- | ------------------------| ------------------------------------- | 
 | **8-Track Tape**                               | 8t                      | 8T-#                                  |
 | **Audiocassette**                              | audiocassette           | C-collection#/item#                   |
