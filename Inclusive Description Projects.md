@@ -1,6 +1,13 @@
 # Inclusive Description Projects
 Compiled October 2020
 
+## Southern Folklife Collection: Legacy MARC project, summer and fall 2020, spring 2021
+
+* A redescription project facilitated by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
+
+* Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records that did not have corresponding finding aids
+
+* Revised titles and language found in legacy MARC records, resulting in 60+ finding aids. Examples: [Alice D. Boyle Recordings of Demus Green](https://finding-aids.lib.unc.edu/20127/), [Nancy Hamilton Collection on Mollie Sequoyah](https://finding-aids.lib.unc.edu/20125/), and [Portia Crawford Collection of African American Folk Songs from North Carolina](https://finding-aids.lib.unc.edu/20154/)
 
 
 ## George Moses Horton remediations, October 2020
@@ -32,18 +39,6 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 * Revised language in 30 small finding aids. Examples: [Isabella C Sourtan Letter](https://finding-aids.lib.unc.edu/00719/) and [Ben Sparkman Plantation Journal](https://finding-aids.lib.unc.edu/03574/) 
 
 * Exploring approaches to remediation work on large and medium-sized collections of planation records and records about enslavement.  
-
-
-
-
-## Southern Folklife Collection: Legacy MARC project, summer and fall 2020, spring 2021
-
-* A redescription project facilitated by Special Collections Technical Services and the [grant-funded Audiovisual Perservation project team](https://library.unc.edu/wilson/sfc/audiovisual-preservation/project-team/)
-
-* Focused on creating finding aids and upating MARC records for Southern Folklife Collection audio recordings with legacy MARC records that did not have corresponding finding aids
-
-* Revised titles and language found in legacy MARC records, resulting in 60+ finding aids. Examples: [Alice D. Boyle Recordings of Demus Green](https://finding-aids.lib.unc.edu/20127/), [Nancy Hamilton Collection on Mollie Sequoyah](https://finding-aids.lib.unc.edu/20125/), and [Portia Crawford Collection of African American Folk Songs from North Carolina](https://finding-aids.lib.unc.edu/20154/)
-
 
 
 
