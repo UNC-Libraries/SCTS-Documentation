@@ -22,7 +22,6 @@ Many collections contain material in several different formats--folders of paper
 
 With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in ArchivesSpace! 
 
-> NOTE: For right now, you can use ArchivesSpace to look for locations for circulating materials ONLY, which is why you won't see location information in ArchivesSpace for materials such as audiotapes, floppy discs, or videotapes! Those materials have their own spreadsheet, which lives in G:\wilson\TS\non circulating locations\non_circulating_locations.xlsx. 
 
 
 
