@@ -373,8 +373,8 @@ Template for shared SFC audiocassette boxes: G:\wilson\ts\archival\labels\AV lab
 
 SFC audiocassettes also have a distinct call number pre-fix "FS", while cassettes from all other collecting units at Wilson have the call number pre-fix "C".
 
-  Audiocassette (C-collection number/item number) 
-  SFC Audiocassette (FS-collection number/item number) 
+Audiocassette (C-collection number/item number) 
+SFC Audiocassette (FS-collection number/item number) 
 
 When possible, create spine labels for audiocassette cases.
 [IMAGE]
@@ -394,8 +394,8 @@ Audiotapes are shelved as-is on level 10, Orange.
 
 Please note SFC audiotapes have a distinct call number pre-fix "FT", while audiotapes from all other collecting units at Wilson have the call number pre-fix "T".
 
-  Audiotape (T-collection number/item number) 
-  SFC Audiotape (FT-collection number/item number) 
+Audiotape (T-collection number/item number) 
+SFC Audiotape (FT-collection number/item number) 
 
 When possible, create front-facing labels for audiotapes and place them on the top left front of the item. 
 [IMAGE]
@@ -412,7 +412,7 @@ Please note that Southern Folklife Collection videotapes have a distinct shared 
 
 Videotape call number pre-fixes are the same across all collecting units at Wilson.
 
-  Videotape (VT-collection number/item number) 
+Videotape (VT-collection number/item number) 
 
 When possible, create spine labels for videotape cases.
 
