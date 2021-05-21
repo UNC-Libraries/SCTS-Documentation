@@ -164,7 +164,7 @@ Use the "Keyword" search box to enter the top container information, then scroll
 Now select the box and click "Link to Top Containers."
 ![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
 
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-containers type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
 ![os_with_subcontainer](https://user-images.githubusercontent.com/62356141/81601208-96a61400-9398-11ea-8d7b-8d2ead7a7fdc.png)
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
 
@@ -206,12 +206,11 @@ The location will now appear in the "Location" field. "Create and Link to Top Co
 
 ![location_linked](https://user-images.githubusercontent.com/62356141/81603213-ffdb5680-939b-11ea-9265-33f1bfe1e43a.png)
 
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-containers type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
 ![with_folders](https://user-images.githubusercontent.com/62356141/81601250-9c9bf500-9398-11ea-888d-1209650021b4.png)
 
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
 
-Again, for those entering top containers and sub-containers for audiovisual materials, please note that there are distinct box types and sub-container types for select Southern Folklife Collection audiovisual materials. Shared SFC AV boxes include: SFC Audiocassette box, SFC videotape box, SFC Digital Audiotape box, SFC Transcription disc box, FC Instantaneous disc box, SFC LP disc box, SFC 45-rpm disc box, SFC 78-rpm disc box, SFC 8-Track box, and SFC Minidisc box. Distinct SFC child or sub-container types include: SFC Audio Open Reel, SFC Audio Cassette. For a full list of audiovisual formats and container types, visit the [Audiovisual Materials](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#formatscontainer-types) page.
 
 <!-- ## ID number -->
 
