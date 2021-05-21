@@ -364,48 +364,79 @@ We don't regularly do individually numbered OPs and XOPs anymore.  It is similar
 
 #### Audiocassette
 
-Audiocassettes reside in shared audiocassette boxes. 
+Audiocassettes are shelved in shared archival audiocassette boxes on level 10, Orange. 
 
-Please note that Southern Folklife Collection audiocassettes have a distinct shared box system, "SFC Audiocassette box", while cassettes for all other collecting units at Wilson are stored in the shared box, "Audiocassette box".
+Please note that Southern Folklife Collection audiocassettes have a distinct shared box system, "SFC Audiocassette box", while cassettes from all other collecting units at Wilson are stored in the shared box, "Audiocassette box".
 
 Template for shared audiocassette boxes: G:\wilson\ts\archival\labels\AV labels\non SFC\Box Labels audiocassettes
 Template for shared SFC audiocassette boxes: G:\wilson\ts\archival\labels\AV labels\SFC\Box Labels SFC Audiocassettes
 
-SFC audiocassettes also have a distinct call number pre-fix "FS", while all other cassettes have the call number pre-fix "C".
+SFC audiocassettes also have a distinct call number pre-fix "FS", while cassettes from all other collecting units at Wilson have the call number pre-fix "C".
 
-Audiocassette (C-collection number/item number) 
-SFC Audiocassette (FS-collection number/item number) 
+  Audiocassette (C-collection number/item number) 
+  SFC Audiocassette (FS-collection number/item number) 
 
 When possible, create spine labels for audiocassette cases.
+[IMAGE]
 
-![Audiocassette labels](https://user-images.githubusercontent.com/Audiocassettes_1.jpg)
+Template for spine labels: G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
+Documentation on how to create AV item labels using mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-When pertinent information or existing labels are found externally on the container’s spine, place the audiocassette label on the top left front of the item. 
+When pertinent information or existing labels are found externally on the container’s spine, place the label on the top left front of the item. 
+[IMAGE]
 
-Documentation on how to create spine labels using mail berge can be found in the G drive: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
-
-When possible, also notate call number on the physical audiocassette.
+When possible, also notate call number on the physical videotape in pencil.
 
 
 #### Audiotape
 
-Audiotape (T-collection number/item number) 
+Audiotapes are shelved as-is on level 10, Orange. 
 
-On the item and/or its container. 
-![Audiotape](https://user-images.githubusercontent.com/58087302/79392873-18de1c80-7f42-11ea-8267-140a73ffbc61.png "Audiotape")
+Please note SFC audiotapes have a distinct call number pre-fix "FT", while audiotapes from all other collecting units at Wilson have the call number pre-fix "T".
+
+  Audiotape (T-collection number/item number) 
+  SFC Audiotape (FT-collection number/item number) 
+
+When possible, create front-facing labels for audiotapes and place them on the top left front of the item. 
+[IMAGE]
+
+Template for front-facing labels: G:\wilson\ts\archival\labels\AV labels\AV_front_labels
+Documentation on how to create AV item labels using mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
+
 
 #### Videotape
 
-Videotape (VT-collection number/item number) 
+Videotapes are shelved in shared paige boxes on level 10, Orange. 
 
-On the item and its container. 
+Please note that Southern Folklife Collection videotapes have a distinct shared box system, "SFC Videotape box", while cassettes from all other collecting units at Wilson are stored in the shared box, "Videotape box".
+
+Videotape call number pre-fixes are the same across all collecting units at Wilson.
+
+  Videotape (VT-collection number/item number) 
+
+When possible, create spine labels for videotape cases.
+
 ![Videotape](https://user-images.githubusercontent.com/58087302/79392933-390ddb80-7f42-11ea-9650-146caf1e8dfd.png "Videotape")
+
+Template for spine labels: G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
+Documentation on how to create AV item labels using mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
+
+When pertinent information or existing labels are found externally on the container’s spine, place the label on the top left front of the item. 
+
+When possible, also notate call number on the physical videotape in pencil.
+
+
 
 #### Film
 
-Film (F-collection number/item number) 
+Films are shelved as-is on level 10, Orange. 
 
-On its container. 
+Film call number pre-fixes are the same across all collecting units at Wilson.
+
+  Film (F-collection number/item number) 
+  
+If possible, use the use the Brother P-touch label maker to create a call number label and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label. 
+
 ![Film](https://user-images.githubusercontent.com/58087302/79392982-5478e680-7f42-11ea-9b99-dc6fa86cced3.png "Film")
 
 #### Photograph album (PA-)
