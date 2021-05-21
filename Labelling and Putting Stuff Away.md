@@ -149,22 +149,24 @@ There's a lot of options to choose from, but for right now, always select the fi
 
 ### Top Container
 
-Top containers typically refer to pageable units, such as record cartons or document cases. 
+Top containers typically refer to pageable units, such as record cartons or document cases. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotape, SFC Audio Open Reel, and film.
 
-#### To select an existing top container (such as a shared oversize box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
+#### To select an existing top container (such as a shared oversize box or videotape box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
 
 ![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
 
-Use the "Keyword" search box to enter the top container information, then scroll down and click the "Search" button (not pictured here). 
+Use the "Keyword" search box to enter the top container information, then scroll down and click the "Search" button (not pictured here).
 
 ![browse_top_containers](https://user-images.githubusercontent.com/62356141/81593400-660cad00-938d-11ea-90df-2ad36f40ecbb.png)
 
 Now select the box and click "Link to Top Containers."
 ![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
 
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below.
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. 
 ![os_with_subcontainer](https://user-images.githubusercontent.com/62356141/81601208-96a61400-9398-11ea-8d7b-8d2ead7a7fdc.png)
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
+
+TIP!: For those entering top containers and sub-containers for audiovisual materials, please note that there are distinct box types and child types for select Southern Folklife Collection audiovisual materials. Shared SFC AV boxes include: SFC Audiocassette box, SFC videotape box, SFC Digital Audiotape box, SFC Transcription disc box, FC Instantaneous disc box, SFC LP disc box, SFC 45-rpm disc box, SFC 78-rpm disc box, SFC 8-Track box, and SFC Minidisc box. Disntict SFC child or sub-container types include: SFC Audio Open Reel, SFC Audio Cassette.
 
 
 
@@ -177,7 +179,7 @@ You will now see the "Create Top Container" screen.
 
 ![create_top_container](https://user-images.githubusercontent.com/62356141/81596233-b980fa00-9391-11ea-898c-2ca8e10b6fc3.png)
 
-Select the correct container type from the container type drop menu. The most commonly used container types appear at the top of the menu.
+Select the correct container type from the container type drop menu. The most commonly used container types appear at the top of the menu. 
 
 ![create_top_container_record_carton](https://user-images.githubusercontent.com/62356141/81598696-b7b93580-9395-11ea-9b69-80f8a200f2c1.png)
 
@@ -204,7 +206,7 @@ The location will now appear in the "Location" field. "Create and Link to Top Co
 
 ![location_linked](https://user-images.githubusercontent.com/62356141/81603213-ffdb5680-939b-11ea-9265-33f1bfe1e43a.png)
 
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below.
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. 
 ![with_folders](https://user-images.githubusercontent.com/62356141/81601250-9c9bf500-9398-11ea-888d-1209650021b4.png)
 
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
