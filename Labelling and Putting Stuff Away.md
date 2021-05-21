@@ -374,15 +374,13 @@ SFC audiocassettes also have a distinct call number pre-fix "FS", while all othe
 Audiocassette (C-collection number/item number) 
 SFC Audiocassette (FS-collection number/item number) 
 
-When possible, create spine labels for audiocassette cases, and notate call number on the physical audiocassette, as seen below.
-
-![Audiocassette](https://user-images.githubusercontent.com/58087302/79392790-f6e49a00-7f41-11ea-92b5-563a4cf09e4f.png "Audiocassette")
+When possible, create spine labels for audiocassette cases.
 
 When pertinent information or existing labels are found externally on the container’s spine, place the audiocassette label on the top left front of the item. 
 
 Documentation on how to create spine labels using mail berge can be found in the G drive: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-
+When possible, also notate call number on the physical audiocassette.
 
 
 #### Audiotape
