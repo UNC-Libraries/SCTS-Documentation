@@ -364,7 +364,7 @@ We don't regularly do individually numbered OPs and XOPs anymore.  It is similar
 
 Audiocassettes reside in shared audiocassette boxes. 
 
-Please note that Southern Folklife Collection audiocassettes have a distinct shared box system ("SFC Audiocassette box"), while cassettes for all other collecting units at Wilson are stored in the shared box, "Audiocassette box"
+Please note that Southern Folklife Collection audiocassettes have a distinct shared box system, "SFC Audiocassette box", while cassettes for all other collecting units at Wilson are stored in the shared box, "Audiocassette box".
 
 Template for shared audiocassette boxes: G:\wilson\ts\archival\labels\AV labels\non SFC\Box Labels audiocassettes
 Template for shared SFC audiocassette boxes: G:\wilson\ts\archival\labels\AV labels\SFC\Box Labels SFC Audiocassettes
