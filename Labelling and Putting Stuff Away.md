@@ -10,7 +10,7 @@ Updated July 2019
 
 # Creating locations in ArchivesSpace
 
-_Updated by Dawne Howard Lucas, May 2020_
+_Updated by Dawne Howard Lucas, May 2020; updated by Anne Wells, May 2021_
 
 ## Why keep track of locations?
 
@@ -260,7 +260,7 @@ Some format types still have unusual exceptions to the above instructions, such 
 
 # Labels
 
-_Updated July 2019_
+_Updated May 2021_
 
 ### Box labels include: 
 
@@ -362,12 +362,28 @@ We don't regularly do individually numbered OPs and XOPs anymore.  It is similar
 
 #### Audiocassette
 
-Audiocassette (C-collection number/item number) 
+Audiocassettes reside in shared audiocassette boxes. 
 
-On the item and its container. 
+Please note that Southern Folklife Collection audiocassettes have a distinct shared box system ("SFC Audiocassette box"), while cassettes for all other collecting units at Wilson are stored in the shared box, "Audiocassette box"
+
+Template for shared audiocassette boxes: G:\wilson\ts\archival\labels\AV labels\non SFC\Box Labels audiocassettes
+Template for shared SFC audiocassette boxes: G:\wilson\ts\archival\labels\AV labels\SFC\Box Labels SFC Audiocassettes
+
+SFC audiocassettes also have a distinct call number pre-fix "FS", while all other cassettes have the call number pre-fix "C".
+
+Audiocassette (C-collection number/item number) 
+SFC Audiocassette (FS-collection number/item number) 
+
+When possible, create spine labels for audiocassette cases, and notate call number on the physical audiocassette, as seen below.
+
 ![Audiocassette](https://user-images.githubusercontent.com/58087302/79392790-f6e49a00-7f41-11ea-92b5-563a4cf09e4f.png "Audiocassette")
 
-Template for shared audiocassette boxes: G:\wilson\ts\archival\labels\Box Labels OneLibrary audiocassettes newtemp 
+When pertinent information or existing labels are found externally on the container’s spine, place the audiocassette label on the top left front of the item. 
+
+Documentation on how to create spine labels using mail berge can be found in the G drive: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
+
+
+
 
 #### Audiotape
 
