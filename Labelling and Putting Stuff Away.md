@@ -264,7 +264,7 @@ Some format types still have unusual exceptions to the above instructions, such 
 
 _Updated May 2021_
 
-### Box labels include: 
+## Box labels include: 
 
 - "One Library" heading with UNC-CH logo 
 
@@ -311,9 +311,9 @@ Before the cut, lining up the ruler:
 After the cut:
 ![After the cut](https://user-images.githubusercontent.com/58087302/79390558-ea5e4280-7f3d-11ea-86b9-5b07a20c3611.jpeg "After the cut")
 
-### The following are some examples of labels on other formats. 
+## The following are some examples of labels on other formats. 
 
-#### Oversize volume (SV-collection number/item number) 
+### Oversize volume (SV-collection number/item number) 
 
 On the box.  We like to do two sides, one on the short side and one on the long side, so the volume can be identified from multiple angles and give us more flexibility when shelving. 
 
@@ -325,13 +325,13 @@ Long side:
 
 Please note that these are "condensed" labels as discussed above.
 
-#### Wrapped volume
+### Wrapped volume
 
 Here is a wrapped volume (doesn't need a label, just needs unique ID written on it as described in the Physical Processing section). 
 
 ![Wrapped volume](https://user-images.githubusercontent.com/58087302/79392102-cb14e480-7f40-11ea-9451-e10f9f268100.jpeg "Wrapped volume")
 
-#### Oversized papers, oversize paper folders (see Physical Processing section for more details) 
+### Oversized papers, oversize paper folders (see Physical Processing section for more details) 
 
 (OPF-collection number/folder number-) oversize paper folder, items not individually numbered 
 
@@ -362,7 +362,7 @@ And here is the label on the mapcase drawer:
 
 We don't regularly do individually numbered OPs and XOPs anymore.  It is similar to OPFs and XOPFs.  You write the X/OP number on the back of each X/OP, and you write the range of X/OPs in the X/OPF in the lower right corner of the folder.  Depending on the collection, you might also include the X/OPF number.  Please refer to the "Items Separated" section, which was written in the era of X/OPs, and feel free to ask questions. 
 
-#### Audiocassette
+### Audiocassette
 
 Audiocassettes are shelved in shared archival audiocassette boxes on level 10, Orange. 
 
@@ -388,7 +388,7 @@ When pertinent information or existing labels are found externally on the contai
 When possible, also notate call number on the physical videotape in pencil.
 
 
-#### Audiotape
+### Audiotape
 
 Audiotapes are shelved as-is on level 10, Orange. 
 
@@ -404,7 +404,7 @@ Template for front-facing labels: G:\wilson\ts\archival\labels\AV labels\AV_fron
 Documentation on how to create AV item labels using mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
 
-#### Videotape
+### Videotape
 
 Videotapes are shelved in shared paige boxes on level 10, Orange. 
 
@@ -427,7 +427,7 @@ When possible, also notate call number on the physical videotape in pencil.
 
 
 
-#### Film
+### Film
 
 Films are shelved as-is on level 10, Orange. 
 
@@ -439,7 +439,7 @@ If possible, use the use the Brother P-touch label maker to create a call number
 
 ![Film](https://user-images.githubusercontent.com/58087302/79392982-5478e680-7f42-11ea-9b99-dc6fa86cced3.png "Film")
 
-#### Photograph album (PA-)
+### Photograph album (PA-)
 
 Two options:
 
