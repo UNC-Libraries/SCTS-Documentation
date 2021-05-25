@@ -266,24 +266,23 @@ _Updated May 2021_
 
 Below is information on box and item labels used at Wilson Library. Label types covered include:
 
--[Box labels](##box-labels-include)
+-Box labels  
+-Oversize volume (SV-)  
+-Wrapped volume  
+-Oversized papers (OP-), oversize paper folders (OPF-)  
+-Photograph album (PA-)  
 
--Oversize volume (SV-)
--Wrapped volume
--Oversized papers (OP-), oversize paper folders (OPF-)
--Photograph album (PA-)
+Labels for audiovisual materials  
 
-Labels for audiovisual materials
-
--Audiovisual box
--Audiocassette (C-; FS-)
--Audiotape (T-; FT-)
--Audiodisc (FD-; TR-; FC-, etc)
--Digital audiotape (DAT-)
--MiniDisc (MD-)
--8-track (8T-)
--Videotape (VT-)
--Film (F-)
+-Audiovisual box  
+-Audiocassette (C-; FS-)  
+-Audiotape (T-; FT-)  
+-Audiodisc (FD-; TR-; FC-, etc)  
+-Digital audiotape (DAT-)  
+-MiniDisc (MD-)  
+-8-track (8T-)  
+-Videotape (VT-)  
+-Film (F-)  
 
 ## Box labels: 
 
