@@ -264,7 +264,30 @@ Some format types still have unusual exceptions to the above instructions, such 
 
 _Updated May 2021_
 
-## Box labels include: 
+Below is information on box and item labels used at Wilson Library. Label types covered include:
+
+-[Box labels](##box-labels-include)
+
+-Oversize volume (SV-)
+-Wrapped volume
+-Oversized papers (OP-), oversize paper folders (OPF-)
+-Photograph album (PA-)
+
+Labels for audiovisual materials
+
+-Audiovisual box
+-Audiocassette (C-; FS-)
+-Audiotape (T-; FT-)
+-Audiodisc (FD-; TR-; FC-, etc)
+-Digital audiotape (DAT-)
+-MiniDisc (MD-)
+-8-track (8T-)
+-Videotape (VT-)
+-Film (F-)
+
+## Box labels: 
+
+Manuscript box labels include: 
 
 - "One Library" heading with UNC-CH logo 
 
@@ -331,9 +354,9 @@ Here is a wrapped volume (doesn't need a label, just needs unique ID written on 
 
 ![Wrapped volume](https://user-images.githubusercontent.com/58087302/79392102-cb14e480-7f40-11ea-9451-e10f9f268100.jpeg "Wrapped volume")
 
-### Oversized papers, oversize paper folders (see Physical Processing section for more details) 
+### Oversized papers, oversize paper folders (OPF-collection number/item number) 
 
-(OPF-collection number/folder number-) oversize paper folder, items not individually numbered 
+(OPF-collection number/folder number-) oversize paper folder, items not individually numbered. see [Physical Processing section](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Processing-Physical.md#oversize-papers-and-photographs) for more details.
 
 Goes in shared boxes, labeled like so:
 ![Shared boxes](https://user-images.githubusercontent.com/58087302/79392231-0c0cf900-7f41-11ea-8e35-56f4d80c9d1c.jpeg "Shared boxes")
@@ -362,7 +385,7 @@ And here is the label on the mapcase drawer:
 
 We don't regularly do individually numbered OPs and XOPs anymore.  It is similar to OPFs and XOPFs.  You write the X/OP number on the back of each X/OP, and you write the range of X/OPs in the X/OPF in the lower right corner of the folder.  Depending on the collection, you might also include the X/OPF number.  Please refer to the "Items Separated" section, which was written in the era of X/OPs, and feel free to ask questions. 
 
-### Photograph album (PA-)
+### Photograph album (PA-collection number/item number)
 
 Two options:
 
@@ -393,7 +416,7 @@ AV box labels include:
 
 - AV Box number 
 
-#### Audiocassette
+#### Audiocassette (C- OR FS-collection number/item number)
 
 Audiocassettes consist of [compact cassettes](https://psap.library.illinois.edu/collection-id-guide/audiotape#compactcassette) and [micorcassettes](https://psap.library.illinois.edu/collection-id-guide/audiotape#microcassette). Audiocassettes must have cases before they can be shelved. Audiocassettes frequently arrive in their own containers and, typically, it is fine to use these. New audiocassette cases can be found on level 10, Orange.
 
@@ -421,7 +444,7 @@ When pertinent information or existing labels are found externally on the contai
 When possible, also notate call number on the physical videotape in pencil.
 
 
-#### Audiotape
+#### Audiotape (T- OR FT-collection number/item number)
 
 Audiotapes consist primarily of [open reel](https://psap.library.illinois.edu/collection-id-guide/audiotape#audioquarterinOR) or reel to reel audiotapes, but may also include outlier audiotape formats or videotape formats used to record audio. Audiotapes must have boxes before they can be shelved. Audiotapes frequently arrive in their own containers and typically, it is fine to use these. Select new audiotape cases can be found on level 10, Orange.
 
@@ -466,7 +489,7 @@ Documentation on how to create AV item labels using mail merge: G:\wilson\ts\arc
 
 When possible, also notate call number on the physical audiodisc in pencil.
 
-#### Digital audiotape (DAT)
+#### Digital audiotape (DAT-collection number/item number)
 
 Ideally [Digital audiotapes (DAT)](https://psap.library.illinois.edu/collection-id-guide/audiotape#dat) have cases before they can be shelved. DATs typically arrive in their own cases and it is typically fine to use these. 
 
@@ -487,7 +510,7 @@ When pertinent information or existing labels are found externally on the contai
 
 When possible, also notate call number on the physical DAT in pencil.
 
-#### MiniDisc
+#### MiniDisc (MD-collection number/item number)
 
 Ideally [MiniDiscs](https://psap.library.illinois.edu/collection-id-guide/opticalmedia#minidisc) have cases before they can be shelved. MiniDiscs typically arrive in their own cases and it is typically fine to use these. 
 
@@ -505,7 +528,7 @@ When possible, create front-facing labels for MiniDiscs and place them on the to
 Template for front-facing labels: G:\wilson\ts\archival\labels\AV labels\AV_front_labels
 Documentation on how to create AV item labels using mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-#### 8-track
+#### 8-track (8T-collection number/item number)
 
 [8-tracks](https://psap.library.illinois.edu/collection-id-guide/audiotape#8track) do not require cases before they can be shelved. 
 
@@ -523,7 +546,7 @@ When possible, create front-facing labels for 8-tracks and place them on the top
 Template for front-facing labels: G:\wilson\ts\archival\labels\AV labels\AV_front_labels
 Documentation on how to create AV item labels using mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-#### Videotape
+#### Videotape (VT-collection number/item number)
 
 Ideally [videotapes](https://psap.library.illinois.edu/collection-id-guide/videotape) have cases before they can be shelved. Videotapes typically arrive in their own cases and it is typically fine to use these. Select new videotape cases can be found on level 10, Orange.
 
@@ -547,7 +570,7 @@ When pertinent information or existing labels are found externally on the contai
 When possible, also notate call number on the physical videotape in pencil.
 
 
-#### Film
+#### Film (F-collection number/item number)
 
 [Film](https://psap.library.illinois.edu/collection-id-guide/film) consists of 35mm, 16mm, 8mm, and Super 8mm motion picture film.
 
