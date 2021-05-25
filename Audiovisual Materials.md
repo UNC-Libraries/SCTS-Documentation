@@ -1,9 +1,9 @@
 Content owner: **Anne Wells**
 
-Updated April 2021 by Anne Wells.
+Updated May 2021 by Anne Wells.
 
 # Overview
-
+- [Introduction](#introduction)
 - [Arrangement](#arrangement)
 - [Formats/Container Types](#formatscontainer-types)
 - [Labeling and Putting Stuff Away (Work in Progress)](#labeling-and-putting-stuff-away-work-in-progress)
@@ -12,6 +12,14 @@ Updated April 2021 by Anne Wells.
 - [Resources (Work in Progress)](#resources-work-in-progress)
 
 ***
+
+# Introduction
+
+Below is documentation related to the arrangement, description, and the physical processing of archival audiovisual materials. For the most part, audiovisual materials are physically processed and described at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
+
+In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jittberug, an internal online content management system for Wilson's audiovisual holdings. This documentation page will (eventually!) dive into some Jitterbug specifics, including required metadata fields, field definitions and style guide, and data entry and import methods. 
+
+Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
 
 # Arrangement
 
@@ -201,6 +209,8 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | Box Title         | Format(s)                                                                  | Box Type               |
 | ----------------- | -------------------------------------------------------------------------- | ---------------------- |
 | Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
+
+Please note existing labels for shared audiovisual boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
 
 # XML/EAD
 
