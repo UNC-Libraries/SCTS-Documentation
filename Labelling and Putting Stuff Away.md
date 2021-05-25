@@ -266,23 +266,23 @@ _Updated May 2021_
 
 Below is information on box and item labels used at Wilson Library. Label types covered include:
 
--[Manuscript box labels  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#box-labels-include)  
--[Oversize volume (SV-)  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversize-volume-sv-collection-numberitem-number)  
--[Wrapped volume  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#wrapped-volume)  
--[Oversized papers (OP-), oversize paper folders (OPF-)  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversized-papers-oversize-paper-folders-see-physical-processing-section-for-more-details)  
--[Photograph album (PA-)  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#photograph-album-pa-)  
+-[Manuscript box labels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#box-labels-include)  
+-[Oversize volume (SV-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversize-volume-sv-collection-numberitem-number)  
+-[Wrapped volume](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#wrapped-volume)  
+-[Oversized papers (OP-), oversize paper folders (OPF-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversized-papers-oversize-paper-folders-see-physical-processing-section-for-more-details)  
+-[Photograph album (PA-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#photograph-album-pa-)  
 
 Labels for audiovisual materials:  
 
--Audiovisual box  
--Audiocassette (C-; FS-)  
--Audiotape (T-; FT-)  
--Audiodisc (FD-; TR-; FC-, etc)  
--Digital audiotape (DAT-)  
--MiniDisc (MD-)  
--8-track (8T-)  
--Videotape (VT-)  
--Film (F-)  
+-[Audiovisual box](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#audiovisual-box)  
+-[Audiocassette (C-; FS-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#audiocassette)  
+-[Audiotape (T-; FT-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#audiotape)  
+-[Audiodisc (FD-; TR-; FC-, etc)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#audiodisc)  
+-[Digital audiotape (DAT-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#digital-audiotape-dat)  
+-[MiniDisc (MD-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#minidisc)  
+-[8-track (8T-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#8-track)  
+-[Videotape (VT-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#videotape)  
+-[Film (F-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#film)  
 
 ## Box labels: 
 
