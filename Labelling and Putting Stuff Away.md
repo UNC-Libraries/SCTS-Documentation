@@ -266,13 +266,13 @@ _Updated May 2021_
 
 Below is information on box and item labels used at Wilson Library. Label types covered include:
 
--Box labels  
--Oversize volume (SV-)  
--Wrapped volume  
--Oversized papers (OP-), oversize paper folders (OPF-)  
--Photograph album (PA-)  
+-[Manuscript box labels  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#box-labels-include)
+-[Oversize volume (SV-)  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversize-volume-sv-collection-numberitem-number)
+-[Wrapped volume  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#wrapped-volume)
+-[Oversized papers (OP-), oversize paper folders (OPF-)  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversized-papers-oversize-paper-folders-see-physical-processing-section-for-more-details)
+-[Photograph album (PA-)  ](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#photograph-album-pa-)
 
-Labels for audiovisual materials  
+Labels for audiovisual materials:  
 
 -Audiovisual box  
 -Audiocassette (C-; FS-)  
