@@ -266,6 +266,8 @@ _Updated May 2021_
 
 Below is information on box and item labels used at Wilson Library. Label types covered include:
 
+Labels for manuscripts and photographic materials:  
+
 -[Manuscript box labels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#box-labels-include)  
 -[Oversize volume (SV-)](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#oversize-volume-sv-collection-numberitem-number)  
 -[Wrapped volume](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#wrapped-volume)  
