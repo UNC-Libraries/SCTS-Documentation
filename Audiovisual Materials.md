@@ -5,7 +5,10 @@ Updated May 2021 by Anne Wells.
 # Overview
 - [Introduction](#introduction)
 - [Arrangement](#arrangement)
-- [Formats/Container Types](#formatscontainer-types)
+- [Description](#description)  
+    -[Formats/Container Types](#formatscontainer-types)  
+    -[XML/EAD](#xmlead)  
+    -[LC Subject Headings](#subject-headings)  
 - [Labeling and Putting Stuff Away (Work in Progress)](#labeling-and-putting-stuff-away-work-in-progress)
 - [XML/EAD](#xmlead)
 - [LC Subject Headings](#subject-headings)
@@ -59,8 +62,9 @@ Use alphabetical order when original order or chronological order are not immedi
 
 Greenhill Family/FLi Artists/Folklore Productions Collection [series 3 arranged alphabetically by artist or event], http://finding-aids.lib.unc.edu/20542/ 
 
+# Description
 
-# Formats/Container Types
+## Formats/Container Types
 
 If you need assistance identifying AV formats, consult the Audiovisual Archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
 
@@ -68,7 +72,7 @@ https://psap.library.illinois.edu/collection-id-guide
 
 Below is a guide for AV format description for the Jitterbug database (green), as well as for finding aids (orange). 
 
-## Audio
+### Audio
 
 | Jitterbug Format Display Names | Jitterbug Format ID | SFC Call Number Prefix | SHC / UARMS Call Number Prefix | EAD Container Type(s)                   | Finding Aid < genreform > text                   |
 | ------------------------------ | -------------------:| ---------------------- | ------------------------------ | --------------------------------------- | ------------------------------------------------ | 
@@ -98,7 +102,7 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | Analog Disc                    | 54                  | D                      | D [?]                          | audiodisc                               | Metal stamper                                    |
 | NAB Catridge                   | 56                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | NAB cartridge                                    |
 
-## Video
+### Video
 
 | Jitterbug Format Display Names | Jitterbug Format ID | SFC Call Number Prefix | SHC / UARMS Call Number Prefix | EAD Container Type(s) | Finding Aid < genreform > text |
 | ------------------------------ | -------------------:| ---------------------- | ------------------------------ | --------------------- | ------------------------------ | 
@@ -121,7 +125,7 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | 1" Open Reel Video             | 23                  | VT                     | VT                             | videotape             | 1" open reel video             |
 | 1/2" Open Reel Video           | 24                  | VT                     | VT                             | videotape             | 1/2" open reel video           |
 
-## Film
+### Film
 
 | Jitterbug Format Display Names | Jitterbug Format ID | SFC Call Number Prefix | SHC / UARMS Call Number Prefix | EAD Container Type(s) | Finding Aid < genreform > text |
 | ------------------------------ | -------------------:| ---------------------- | ------------------------------ | --------------------- | ------------------------------ | 
@@ -133,92 +137,13 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | Filmstrip                      | 6                   | F                      | F                              | film                  | Filmstrip                      |
 
 
-# Labeling and Putting Stuff Away (Work in Progress!)
-
-_This section is a work in progress...stay tuned!_
-
-## Rehousing Materials
-
-Apart from moving image film, it is preferable to leave audiovisual materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
-
-Whenever an audiovisual material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
-
-Unlike audio and video formats, all moving image film is hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
-
-## Labeling
-
-#### Create Small Item Labels
-
-Once you have retrieved the correct call numbers, see “How to Create Item level AV Labels.docx” (_Louis\Southern Folklife Collection\Departmental Documents\Documentation\Archival Processing \How to Create Item Level AV Labels.docx_) and create labels using foil-back spine labels supplied by Technical Services. 
-
-#### Physically Label Items
-
-Labels for cartridge-based items, such as audiocassettes and videotape, are placed on the spine, while labels for open reel and audiodiscs, are placed on the top left front of the item. Mail merge templates for both spine ("AV_spine_labels.docx") and front-facing ("AV_front_labels.docx") labels reside in the departments drive (G:\wilson\sfc\LABELS\Anne). Labels for moving image film are created with the label maker located on level 10. More on label type and placement below.  
-
-ADD PICTURES HERE
-
-#### Cartridge-based Item Labels
-
-When possible for cartridge-based items, place item labels on the spine of the container. 
-
-ADD PICTURES HERE
-
-## Boxing AV
-
-Small to medium-sized AV materials require additional housing into archival boxes. Larger formats that do not require additional housing include: 
-
-#### Audio:
-
-- ¼” Open Reel Audio 
-- ½” Open Reel Audio 
-- 1” Open Reel Audio 
-- 2” Open Reel Audio 
-
-Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
-
-#### Motion Picutre Film:
-
-- 35mm 
-- 16mm 
-- Super 8mm 
-- 8mm 
-- 9.5mm
-- Filmstrips
-
-#### Videotape:
-
-- ½” Open Reel Video 
-- 1” Open Reel Video 
-- 2” Open Reel Video
-
-The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type: 
-
-#### Audio:
-
-| Box Title                 | Format(s)                     | Box Type               |
-| ------------------------- | ----------------------------- | ---------------------- |
-| 8-Track Tapes             | 8-Track tape                  | Archival CD            |
-| Audiocassettes            | Audiocassette; Microcassettes | Archival Audiocassette |
-| Digital Audio Tapes (DAT) | DAT                           | Archival Audiocassette |
-| MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
-| Transcription Discs       | Transcription Discs           | Transcription Disc     |
-| Instantaneous Discs       | Instantaneous Discs           | Instantaneous Disc     |
-
-#### Video:
-
-| Box Title         | Format(s)                                                                  | Box Type               |
-| ----------------- | -------------------------------------------------------------------------- | ---------------------- |
-| Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
-
-Please note existing labels for shared audiovisual boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
-
-# XML/EAD
+## XML/EAD
 
 All AV materials are coded at the item-level - even materials that span multiple tapes or reels.  
 
 Below is information on how to code an AV item at a minimum and moderate level. 
 
-## Minimum (Required):
+### Minimum (Required):
 
 ```
 <did> 
@@ -236,7 +161,7 @@ Below is information on how to code an AV item at a minimum and moderate level.
 </did> 
 ```
 
-## Moderate:
+### Moderate:
 
 ```
 <did> 
@@ -258,7 +183,7 @@ Below is information on how to code an AV item at a minimum and moderate level.
 
 Below are examples of how to code an audio, video, and film item when additional information is available. In general, try to keep description at a minimum. 
 
-### Audio
+#### Audio
 
 ```
 <did> 
@@ -286,7 +211,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - previous numbering schemes, pointing to field notes or related items, playback issues, etc.</p></processinfo> 
 ```
 
-#### Audio Example:
+##### Audio Example:
 
 ```
 <did> 
@@ -312,7 +237,7 @@ Below are examples of how to code an audio, video, and film item when additional
 </scopecontent> 
 ```
 
-### Video
+#### Video
 
 ```
 <did> 
@@ -340,7 +265,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - previous numbering schemes, pointing to field notes or related items, playback issues, etc.</p></processinfo> 
 ```
 
-#### Video Example:
+##### Video Example:
 
 ```
 <did> 
@@ -368,7 +293,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Memo found with original container resides in Folder 3</p></processinfo> 
 ```
 
-### Film
+#### Film
 
 ```
 <did> 
@@ -396,7 +321,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - previous numbering schemes, pointing to field notes or related items, playback issues, etc.</p></processinfo> 
 ```
 
-#### Film Example:
+##### Film Example:
 
 ```
 <did> 
@@ -422,7 +347,7 @@ Below are examples of how to code an audio, video, and film item when additional
 </scopecontent> 
 ```
 
-### Born-Digital AV
+#### Born-Digital AV
 
 ```
 <did> 
@@ -448,7 +373,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - source media, date of original files, note regarding access copies, etc</p></processinfo> 
 ```
 
-#### Born-Digital Example:
+##### Born-Digital Example:
 
 ```
 <did> 
@@ -472,7 +397,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing information: The digital files were extracted from DVD. Original DVD files are dated 6 July 2005. An access .mp4 file was made from the DVD files for viewing purposes.</p></processinfo> 
 ```
 
-# Subject Headings
+## Subject Headings
 
 A great resource for folklore soud recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
 
@@ -605,6 +530,86 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Protest marches--North Carolina. 
 - Protest songs--Southern States. 
 - Work songs--Southern States. 
+
+# Labeling and Putting Stuff Away (Work in Progress!)
+
+_This section is a work in progress...stay tuned!_
+
+## Rehousing Materials
+
+Apart from moving image film, it is preferable to leave audiovisual materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
+
+Whenever an audiovisual material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
+
+Unlike audio and video formats, all moving image film is hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
+
+## Labeling
+
+#### Create Small Item Labels
+
+Once you have retrieved the correct call numbers, see “How to Create Item level AV Labels.docx” (_Louis\Southern Folklife Collection\Departmental Documents\Documentation\Archival Processing \How to Create Item Level AV Labels.docx_) and create labels using foil-back spine labels supplied by Technical Services. 
+
+#### Physically Label Items
+
+Labels for cartridge-based items, such as audiocassettes and videotape, are placed on the spine, while labels for open reel and audiodiscs, are placed on the top left front of the item. Mail merge templates for both spine ("AV_spine_labels.docx") and front-facing ("AV_front_labels.docx") labels reside in the departments drive (G:\wilson\sfc\LABELS\Anne). Labels for moving image film are created with the label maker located on level 10. More on label type and placement below.  
+
+ADD PICTURES HERE
+
+#### Cartridge-based Item Labels
+
+When possible for cartridge-based items, place item labels on the spine of the container. 
+
+ADD PICTURES HERE
+
+## Boxing AV
+
+Small to medium-sized AV materials require additional housing into archival boxes. Larger formats that do not require additional housing include: 
+
+#### Audio:
+
+- ¼” Open Reel Audio 
+- ½” Open Reel Audio 
+- 1” Open Reel Audio 
+- 2” Open Reel Audio 
+
+Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
+
+#### Motion Picutre Film:
+
+- 35mm 
+- 16mm 
+- Super 8mm 
+- 8mm 
+- 9.5mm
+- Filmstrips
+
+#### Videotape:
+
+- ½” Open Reel Video 
+- 1” Open Reel Video 
+- 2” Open Reel Video
+
+The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type: 
+
+#### Audio:
+
+| Box Title                 | Format(s)                     | Box Type               |
+| ------------------------- | ----------------------------- | ---------------------- |
+| 8-Track Tapes             | 8-Track tape                  | Archival CD            |
+| Audiocassettes            | Audiocassette; Microcassettes | Archival Audiocassette |
+| Digital Audio Tapes (DAT) | DAT                           | Archival Audiocassette |
+| MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
+| Transcription Discs       | Transcription Discs           | Transcription Disc     |
+| Instantaneous Discs       | Instantaneous Discs           | Instantaneous Disc     |
+
+#### Video:
+
+| Box Title         | Format(s)                                                                  | Box Type               |
+| ----------------- | -------------------------------------------------------------------------- | ---------------------- |
+| Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
+
+Please note existing labels for shared audiovisual boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
+
 
 # Resources (work in progress)
 
