@@ -611,7 +611,7 @@ Please note existing labels for shared audiovisual boxes, such as "Videotape box
 
 # Resources (work in progress)
 
-This documentaiton did not emerge from a vacuum! I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival audiovisual materials. Below are some recommended (& helpful!) resources to review if you haven't already:
+This documentaiton did not emerge from a vacuum! As the Audiovisual Archivist at Wilson Library, I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival audiovisual materials. Below is an always evolving list of some recommended (& helpful!) resources to check out if you haven't already:
 
 - University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
