@@ -615,9 +615,15 @@ This documentaiton did not emerge from a vacuum! As the Audiovisual Archivist at
 
 - University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
+a great resource (with lots of photographs) for identifying audiovisual formats and preservation and playback concerns. 
+
 - Megan McShea, Smithsonian Archives of American Art, ["Guidelines for processing archival collections with audiovisual material"](https://www.aaa.si.edu/tags/documentation)
 
+a thorough and thoughtful approach to processing archival audiovisual materials in a finding aid context.
+
 - New York University Libraries, ["Descriptive Policies on Audiovisual and Born-digital Materials"](https://docs.google.com/document/d/1Zcvp57201jEgsGZgT8Up1c7nIWAwdtHHBMZn3NYogRs/edit)
+
+a peek at another academic instutition's documentation on descriptive policies for audiovisual and born-digital materials (thank you NYU folks!).
 
 
 
