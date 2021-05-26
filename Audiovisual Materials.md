@@ -611,13 +611,14 @@ Please note existing labels for shared audiovisual boxes, such as "Videotape box
 
 # Resources (work in progress)
 
-This documentaiton did not emerge from a vacuum! I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival audiovisual materials. Below are some recommended resources to check out if you haven't already:
+This documentaiton did not emerge from a vacuum! I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival audiovisual materials. Below are some recommended resources to review if you haven't already:
 
-- Megan McShea, Smithsonian Archives of American Art, "Guidelines for processing archival collections with audiovisual material"
-https://www.aaa.si.edu/tags/documentation
+-University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
-- New York University Libraries, "Descriptive Policies on Audiovisual and Born-digital Materials", September 2019
-https://docs.google.com/document/d/1Zcvp57201jEgsGZgT8Up1c7nIWAwdtHHBMZn3NYogRs/edit
+- Megan McShea, Smithsonian Archives of American Art, ["Guidelines for processing archival collections with audiovisual material"](https://www.aaa.si.edu/tags/documentation)
+
+- New York University Libraries, ["Descriptive Policies on Audiovisual and Born-digital Materials"](https://docs.google.com/document/d/1Zcvp57201jEgsGZgT8Up1c7nIWAwdtHHBMZn3NYogRs/edit), September 2019
+
 
 
 
