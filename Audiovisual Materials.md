@@ -18,7 +18,7 @@ Updated May 2021 by Anne Wells.
 
 Below is documentation related to the arrangement, description, and the physical processing of archival audiovisual materials. For the most part, audiovisual materials are physically processed and described at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
 
-In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jittberug, an internal online content management system for Wilson's audiovisual holdings. This documentation page will (eventually!) dive into some Jitterbug specifics, including required metadata fields, field definitions and style guide, and data entry and import methods. 
+In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jittberug, an internal online content management system for Wilson's audiovisual holdings. This documentation page will (eventually!) dive into some Jitterbug specifics, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
 
 Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
 
