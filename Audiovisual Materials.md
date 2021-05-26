@@ -10,8 +10,6 @@ Updated May 2021 by Anne Wells.
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
 - [Labeling and Putting Stuff Away (Work in Progress)](#labeling-and-putting-stuff-away-work-in-progress)
-- [XML/EAD](#xmlead)
-- [LC Subject Headings](#subject-headings)
 - [Resources (Work in Progress)](#resources-work-in-progress)
 
 ***
