@@ -615,7 +615,7 @@ This documentaiton did not emerge from a vacuum! As the Audiovisual Archivist at
 
 - University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
-a great resource (with lots of photographs) for identifying audiovisual formats and preservation and playback concerns. 
+a great resource (with lots of photographs) for identifying analog audiovisual formats. 
 
 - Megan McShea, Smithsonian Archives of American Art, ["Guidelines for processing archival collections with audiovisual material"](https://www.aaa.si.edu/tags/documentation)
 
