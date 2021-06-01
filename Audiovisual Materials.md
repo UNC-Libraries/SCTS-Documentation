@@ -133,6 +133,7 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | 8mm                            | 4                   | F                      | F                              | film                  | 8mm motion picture film        |
 | 9.5mm                          | 5                   | F                      | F                              | film                  | 9.5mm motion picture film      |
 | Filmstrip                      | 6                   | F                      | F                              | film                  | Filmstrip                      |
+| Film preservation instance     | 6                   | FPI                    | F                              | fpi                   | 16mm motion picture film preservation instance         | 
 
 
 ## XML/EAD
