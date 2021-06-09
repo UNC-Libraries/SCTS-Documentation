@@ -72,7 +72,7 @@ Once arrangement is determined, consult with the Audiovisual Archivist to decide
 
 https://jitterbug.lib.unc.edu/
 
-As mentioned earlier, Jitterbug holds metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). We'll be hanging out in the "Audiovisual Items" table during the physical pre-processing of AV materials - this section contains metadata related to the physical item, including format and size, as well as transcribed titles, dates, and locations of production, when known. AV Items consists of three distinct record types: Audio, Film, and Video. Each record type contains fields specific to that format. It is important to gather all required metadata fields and as many suggested metadata fields as possible during pre-processing work (more on these fields below under "Required Metadata Fields" and "Suggested Metadata Fields").
+As mentioned earlier, Jitterbug holds metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This section will cover only the use of the "Audiovisual Items" table - this section contains metadata related to the physical item, including format and size, as well as transcribed titles, dates, and locations of production, when known. Audiovisual Items consists of three distinct record types: Audio, Film, and Video. Each record type contains fields specific to that format. It is important to gather all required metadata fields and as many suggested metadata fields as possible during pre-processing work (more on these fields below under [Required fields](###required-fields) and [Suggested fields](###suggested-fields)).
 
 There are 2 options for entering item metadata into Jitterbug – either by creating a new Audio, Film, or Video in the Audiovisual Items table or by creating a CSV file which can then be imported into AV Items. Often the size, or scope, of the collection will determine which data entry method is used. If you just have a handful of items, entering metadata directly into Jitterbug may work best. If you have 50+ items, creating a CSV file for your metadata may be the best method. More on data entry and import below (under "Data Entry and Import"). 
 
@@ -84,7 +84,7 @@ Jitterbug documentation is located in the departments or G drive: G:\wilson\ts\a
 
 ### Auto-generated call numbers
 
-Call numbers are unique IDs assigned to AV items. They consist of a format prefix followed by collection number and item number ("FT-20511/1" for example). Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. Call numbers should not be manually entered into Jitterbug. If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
+Call numbers are unique IDs assigned to AV items. They consist of a format specific prefix followed by collection number and item number ("FT-20511/1" for example). Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. Call numbers should not be manually entered into Jitterbug. If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
@@ -96,34 +96,34 @@ Audiovisual Items records for Audio, Film, and Video items contain required meta
  
 AUDIO: 
 •	Title: Follow title guidelines found below under "Creating Titles." 
-•	Collection: Dropdown list of SFC Collection Names. 
-•	Accession Number: A 6-digit number assigned to an item or group of materials at accession by the curator. 
-•	Format: Dropdown list of standard audio, video, and film formats. 
+•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.
+•	Accession Number: A unique number assigned to an item or group of materials during intake or accession. 
+•	Format: Dropdown list of standard audio formats. 
 •	Size: Size of audio reel or disc measured in inches. 
  
 FILM: 
 •	Title: Follow title guidelines found below under "Creating Titles." 
-•	Collection: Dropdown list of SFC Collection Names. 
-•	Accession Number: A 6-digit number assigned to an item or group of materials at accession by the curator. 
-•	Format: Dropdown list of standard audio, video, and film formats. 
+•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.
+•	Accession Number: A unique number assigned to an item or group of materials during intake or accession. 
+•	Format: Dropdown list of standard film formats. 
 
 VIDEO: 
 •	Title: Follow title guidelines found below under "Creating Titles." 
-•	Collection: Dropdown list of SFC Collection Names. 
-•	Accession Number: A 6-digit number assigned to an item or group of materials at accession by the curator. 
-•	Format: Dropdown list of standard audio, video, and film formats. 
+•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list. 
+•	Accession Number: A unique number assigned to an item or group of materials during intake or accession. 
+•	Format: Dropdown list of standard video formats. 
 
 
 ### Suggested fields 
 
-Suggested Fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by record type.  
+Suggested fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by record type.  
  
 AUDIO: 
 •	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
 •	Legacy ID: Any number formerly associated with an AV item in this field. 
 •	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
 •	Recording Location: Location, or place, of recording. 
-•	Access Restrictions: Streaming access restriction determined by curatorial unit. 
+•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)  
 •	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
 •	Item Date: Singular date field formatted as YYYY-MM-DD. 
 •	Base: Material that the audio or film item is made of. 
@@ -133,7 +133,7 @@ FILM:
 •	Legacy ID: Any number formerly associated with an AV item in this field. 
 •	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
 •	Recording Location: Location, or place, of recording. 
-•	Access Restrictions: Streaming access restriction determined by curatorial unit. 
+•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)   
 •	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
 •	Item Date: Singular date field formatted as YYYY-MM-DD. 
 •	Element: A designation of the film formats generation. 
@@ -147,13 +147,9 @@ VIDEO:
 •	Legacy ID: Any number formerly associated with an AV item in this field. 
 •	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
 •	Recording Location: Location, or place, of recording. 
-•	Access Restrictions: Streaming access restriction determined by curatorial unit. 
+•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)  
 •	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
 •	Item Date: Singular date field formatted as YYYY-MM-DD. 
-
-### Access restrictions 
-
-Item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
 
 ### Field definitions & style guide
 
@@ -853,6 +849,8 @@ a thorough and thoughtful approach to processing archival audiovisual materials 
 
 a peek at another academic instutition's documentation on descriptive policies for audiovisual and born-digital materials (thank you NYU folks!).
 
+# Endnotes
 
+^1 item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
 
 
