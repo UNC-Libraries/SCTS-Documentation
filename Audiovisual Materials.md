@@ -6,7 +6,7 @@ Updated June 2021 by Anne Wells.
 - [Introduction](#introduction)
 - [Arrangement](#arrangement)
 - [Jitterbug](#jitterbug)  
-    -[Metadata](#metadata)  (call numbers, required & suggested fields, access restrictions, field definitions & style guide, creating titles)  
+    -[Metadata](#metadata)  (call numbers, required & suggested fields, field definitions & style guide, creating titles)  
     -[Data entry and import](#data-entry-and-import)  
     -[Data export (work in progress)](#data-export-work-in-progress) 
 - [Finding aid description](#finding-aid-description)  
