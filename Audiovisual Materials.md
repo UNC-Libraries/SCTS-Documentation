@@ -6,15 +6,15 @@ Updated June 2021 by Anne Wells.
 - [Introduction](#introduction)
 - [Arrangement](#arrangement)
 - [Jitterbug](#jitterbug)  
-    -[Metadata](#metadata)  
+    -[Metadata](#metadata)  (call numbers, required & suggested fields, access restrictions, field definitions & style guide, creating titles)  
     -[Data entry and import](#data-entry-and-import)  
-    -[Data export](#data-export)  
-- [Finding Aid Description](#finding-aid-description)  
+    -[Data export (work in progress)](#data-export-work-in-progress) 
+- [Finding aid description](#finding-aid-description)  
     -[Formats/Container Types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
-- [Labeling and Putting Stuff Away (Work in Progress)](#labeling-and-putting-stuff-away-work-in-progress)
-- [Resources (Work in Progress)](#resources-work-in-progress)
+- [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)
+- [Resources (work in progress)](#resources-work-in-progress)
 
 ***
 
@@ -36,7 +36,7 @@ It's also helpful to remember that archival AV items are non-circulating materia
 
 Below are examples of arrangement methods of AV materials and when to use them: 
 
-## Original Order:
+## Original order:
 
 When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project based collections, and more generally, collections compiled and organized by the creators themselves. 
 
@@ -90,7 +90,7 @@ PLEASE NOTE that Jitterbug only generates a unique call number once. In other wo
 
 It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist, who will advise on how to proceed. DO NOT delete records unless instructed to. 
 
-### Required Fields 
+### Required fields 
 
 Audiovisual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type.  
  
@@ -114,7 +114,7 @@ VIDEO:
 •	Format: Dropdown list of standard audio, video, and film formats. 
 
 
-### Suggested Fields 
+### Suggested fields 
 
 Suggested Fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by record type.  
  
@@ -151,7 +151,7 @@ VIDEO:
 •	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
 •	Item Date: Singular date field formatted as YYYY-MM-DD. 
 
-### Access Restrictions 
+### Access restrictions 
 
 Item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
 
@@ -284,13 +284,12 @@ Jitterbug will alert you of a successful import (illustrated below)
 Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to # Labeling and Putting Stuff Away (Work in Progress!) below.
 
 
-## Data export 
+## Data export (work in progress)
 
-(work in progress!)
 
-# Finding Aid Description
+# Finding aid description
 
-## Formats/Container Types
+## Formats/Container types
 
 If you need assistance identifying AV formats, consult the Audiovisual Archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
 
@@ -370,7 +369,7 @@ All AV materials are coded at the item-level - even materials that span multiple
 
 Below is information on how to code an AV item at a minimum and moderate level. 
 
-### Minimum (Required):
+### Minimum (required):
 
 ```
 <did> 
@@ -624,7 +623,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing information: The digital files were extracted from DVD. Original DVD files are dated 6 July 2005. An access .mp4 file was made from the DVD files for viewing purposes.</p></processinfo> 
 ```
 
-## Subject Headings
+## Subject headings
 
 A great resource for folklore soud recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
 
@@ -758,7 +757,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Protest songs--Southern States. 
 - Work songs--Southern States. 
 
-# Labeling and Putting Stuff Away (Work in Progress!)
+# Labeling and putting stuff away (work in progress!)
 
 _This section is a work in progress...stay tuned!_
 
@@ -772,17 +771,17 @@ Unlike audio and video formats, all moving image film is hand inspected, placed 
 
 ## Labeling
 
-#### Create Small Item Labels
+#### Create small item labels
 
 Once you have retrieved the correct call numbers, see “How to Create Item level AV Labels.docx” (_Louis\Southern Folklife Collection\Departmental Documents\Documentation\Archival Processing \How to Create Item Level AV Labels.docx_) and create labels using foil-back spine labels supplied by Technical Services. 
 
-#### Physically Label Items
+#### Physically label items
 
 Labels for cartridge-based items, such as audiocassettes and videotape, are placed on the spine, while labels for open reel and audiodiscs, are placed on the top left front of the item. Mail merge templates for both spine ("AV_spine_labels.docx") and front-facing ("AV_front_labels.docx") labels reside in the departments drive (G:\wilson\sfc\LABELS\Anne). Labels for moving image film are created with the label maker located on level 10. More on label type and placement below.  
 
 ADD PICTURES HERE
 
-#### Cartridge-based Item Labels
+#### Cartridge-based item labels
 
 When possible for cartridge-based items, place item labels on the spine of the container. 
 
