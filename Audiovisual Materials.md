@@ -34,7 +34,7 @@ Below are examples of arrangement methods of AV materials and when to use them:
 
 ### Orignial Order:
 
-When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project based collections, and more generally, collections compiled by the creators themselves. 
+When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project based collections, and more generally, collections compiled and organized by the creators themselves. 
 
 **Examples:**
 
