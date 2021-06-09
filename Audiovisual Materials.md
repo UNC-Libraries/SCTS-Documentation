@@ -5,7 +5,11 @@ Updated May 2021 by Anne Wells.
 # Overview
 - [Introduction](#introduction)
 - [Arrangement](#arrangement)
-- [Description](#description)  
+- [Jitterbug](#jitterbug)
+    -[Metadata](#metadata)  
+    -[Data entry and import](#data-entry-and-import)  
+    -[Data export](#data-export)  
+- [Finding Aid Description](#description)  
     -[Formats/Container Types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
@@ -16,15 +20,15 @@ Updated May 2021 by Anne Wells.
 
 # Introduction
 
-Below is documentation related to the arrangement, description, and the physical processing of archival audiovisual materials. For the most part, audiovisual materials are physically processed and described at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
+Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual materials. For the most part, audiovisual materials are physically processed and described at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
 
-In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jittberug, an internal online content management system for Wilson's audiovisual holdings. This documentation page will (eventually!) dive into some Jitterbug specifics, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
+In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jitterbug, an internal online content management system for Wilson's analog audiovisual holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
 
 Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
 
 # Arrangement
 
-When assigned an accession containing archival audiovisual materials, consult with the AV Archivist about how to best arrange the materials. It is crucial to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of making an arrangment plan for archival AV doesn't vary much from the processes of our manuscript and visual processing collegaues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangment are the same accross formats - or rather, how can we best present these materials so people can find what they need. 
+When assigned an accession containing archival audiovisual materials, consult with the AV Archivist about how to best arrange the materials. It is crucial to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of making an arrangement plan for archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats - or rather, how can we best present these materials so people can find what they need. 
 
 Generally, try to arrange AV materials by content, rather than by format. Exceptions to this may include production-heavy collections with defined works, or titles, that may benefit from having sub-groupings of like-format items in order to gain a sense of the creator's production process. An example of this includes the Tom Davenport Papers, http://finding-aids.lib.unc.edu/20025   
 
@@ -32,7 +36,7 @@ It's also helpful to remember that archival AV items are non-circulating materia
 
 Below are examples of arrangement methods of AV materials and when to use them: 
 
-### Orignial Order:
+## Original Order:
 
 When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project based collections, and more generally, collections compiled and organized by the creators themselves. 
 
@@ -42,7 +46,7 @@ Apollo Records Collection [arranged by record label issue #], http://finding-aid
 
 Peter Lowry Collection [subseries 2.1.1 arranged by the creator's numbering system], http://finding-aids.lib.unc.edu/20017/ 
 
-### Chronological:
+## Chronological:
 
 If you are dealing primarily with an event or program-based collection, including live performances and radio programs, or a collection that only has materials produced by a single creator, consider using chronological order. Chronological order only works as an arrangement method if most of the items have a date associated with them. If most of the materials in an event/program based or single-creator collection do not have any apparent dates, consider using alphabetical order to group like-events or programs by title.  
 
@@ -52,7 +56,7 @@ McCabe's Guitar Shop Collection [live shows arranged chronologically by format],
 
 FolkScene Collection [series 1 consists of radio programs arranged chronologically by production date], http://finding-aids.lib.unc.edu/20517/ 
 
-### Alphabetical:
+## Alphabetical:
 
 Use alphabetical order when original order or chronological order are not immediately apparent, or used consistently across the collection. If you are dealing primarily with performer-based recordings, alphabetize by performer’s last name. If you are dealing with event or program-based recordings, alphabetize by program or event titles, when apparent (ex1. Newport Folk Festival, Odetta ; ex2. Newport Folk Festival, Pete Seeger). 
 
@@ -60,7 +64,230 @@ Use alphabetical order when original order or chronological order are not immedi
 
 Greenhill Family/FLi Artists/Folklore Productions Collection [series 3 arranged alphabetically by artist or event], http://finding-aids.lib.unc.edu/20542/ 
 
-# Description
+# Jitterbug
+
+## Introduction
+
+Once arrangement is determined, consult with the Audiovisual Archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
+
+https://jitterbug.lib.unc.edu/
+
+As mentioned earlier, Jitterbug holds metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). We'll be hanging out in the "Audiovisual Items" table during the physical pre-processing of AV materials - this section contains metadata related to the physical item, including format and size, as well as transcribed titles, dates, and locations of production, when known. AV Items consists of three distinct record types: Audio, Film, and Video. Each record type contains fields specific to that format. It is important to gather all required metadata fields and as many suggested metadata fields as possible during pre-processing work (more on these fields below under "Required Metadata Fields" and "Suggested Metadata Fields").
+
+There are 2 options for entering item metadata into Jitterbug – either by creating a new Audio, Film, or Video in the Audiovisual Items table or by creating a CSV file which can then be imported into AV Items. Often the size, or scope, of the collection will determine which data entry method is used. If you just have a handful of items, entering metadata directly into Jitterbug may work best. If you have 50+ items, creating a CSV file for your metadata may be the best method. More on data entry and import below (under "Data Entry and Import"). 
+
+Before proceeding, it is also a good idea to familiarize yourself with Jitterbug – its fields, search options, and capabilities, such as its auto-generated call numbers, required metadata fields, and suggested metadata fields.  
+
+Jitterbug documentation is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug. Documentation includes field definitions and style guide ("Jitterbug Field Definitions and Style Guide.xlsx"), as well as a documentation and template related to Jitterbug CSV Items Import (more on that below under "Data Entry and Import": "CSV Import"). 
+
+## Metadata
+
+### Auto-generated call numbers
+
+Jitterbug’s backend manages the call number sequences for each collection and its formats. Call numbers should not be manually entered. If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
+ 
+PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
+
+It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist, who will advise on how to proceed. DO NOT delete records unless instructed to. 
+
+### Required Fields 
+
+Audiovisual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type.  
+ 
+AUDIO: 
+•	Title: Follow title guidelines found below under "Creating Titles." 
+•	Collection: Dropdown list of SFC Collection Names. 
+•	Accession Number: A 6-digit number assigned to an item or group of materials at accession by the curator. 
+•	Format: Dropdown list of standard audio, video, and film formats. 
+•	Size: Size of audio reel or disc measured in inches. 
+ 
+FILM: 
+•	Title: Follow title guidelines found below under "Creating Titles." 
+•	Collection: Dropdown list of SFC Collection Names. 
+•	Accession Number: A 6-digit number assigned to an item or group of materials at accession by the curator. 
+•	Format: Dropdown list of standard audio, video, and film formats. 
+
+VIDEO: 
+•	Title: Follow title guidelines found below under "Creating Titles." 
+•	Collection: Dropdown list of SFC Collection Names. 
+•	Accession Number: A 6-digit number assigned to an item or group of materials at accession by the curator. 
+•	Format: Dropdown list of standard audio, video, and film formats. 
+
+
+### Suggested Fields 
+
+Suggested Fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by record type.  
+ 
+AUDIO: 
+•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
+•	Legacy ID: Any number formerly associated with an AV item in this field. 
+•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
+•	Recording Location: Location, or place, of recording. 
+•	Access Restrictions: Streaming access restriction determined by curatorial unit. 
+•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
+•	Item Date: Singular date field formatted as YYYY-MM-DD. 
+•	Base: Material that the audio or film item is made of. 
+
+FILM: 
+•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
+•	Legacy ID: Any number formerly associated with an AV item in this field. 
+•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
+•	Recording Location: Location, or place, of recording. 
+•	Access Restrictions: Streaming access restriction determined by curatorial unit. 
+•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
+•	Item Date: Singular date field formatted as YYYY-MM-DD. 
+•	Element: A designation of the film formats generation. 
+•	Base: Material that the audio or film item is made of. 
+•	Color: This field indicates whether a film is color, B/W, or both.  
+•	Sound Type: Sound type of film (ex. Optical, Magnetic) with option for "Silent".  
+•	Length in Feet: Estimate of the length (in feet) of the film itself. 
+ 
+VIDEO: 
+•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
+•	Legacy ID: Any number formerly associated with an AV item in this field. 
+•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
+•	Recording Location: Location, or place, of recording. 
+•	Access Restrictions: Streaming access restriction determined by curatorial unit. 
+•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
+•	Item Date: Singular date field formatted as YYYY-MM-DD. 
+
+### Access Restrictions 
+
+Item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
+
+### Field definitions & style guide
+
+No matter which data entry method you choose, how you enter that metadata into Jitterbug’s individual fields remains the same. Please follow the guidelines outlined in the Jitterbug Stylesheet found in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"Jitterbug Field Definitions and Style Guide.xlsx".
+
+Additional guidance on creating item titles can be found below. 
+
+**Creating titles**
+Transcribe annotations written on original container into the "Container Note" field in Jitterbug. This field preserves how the title is originally presented on the container. 
+
+Construct titles from these annotations based on the following criteria: 
+ 
+**Who/What**
+
+•	Performer, 'Album Title' [single straight quotes '] 
+example: Bert Jansch, 'Birthday Blues' 
+ 
+•	Performer, "Song Title" [double straight quotes "] 
+example: Bert Jansch, "Tree Song" 
+ 
+•	Performer, 'Album Title' or "Song Title", Additional Description 
+example: Bert Jansch, 'Birthday Blues', demo 
+
+•	unidentified performer, "Song Title" 
+example: [unidentified artist], "Frosty the Snowman" 
+
+**Only capitalize proper names and titles** (i.e. works, album titles, song titles).  Do not capitalize descriptive words, like "reel", "tape", "demo", "practice", etc.
+
+If a first name is abbreviated (i.e. J. E. Mainer), leave a space between the capitalized letters
+
+If there are multiple items from the same festival/event, place the festival/event name before the performer in the title: 
+
+•	Festival/Event Name, Performer 
+Newport Folk Festival, Bert Jansch 
+
+For studio-based music collection (i.e. Chris Stamey #20562, Duck Kee Studio #20553, Goldband Recording Studio #20245), it is helpful to also add more specific recording details about the recording to the title. Try to stick to the terminology listed on the original container:
+
+•	dB's, 4-track demos: "Bad Reputation"
+•	Diesel, practice tape
+•	Sneakers, rehearsal tape: "Combustion", "Twilight", and "Stimulation"
+
+For oral histories, list the subject or interviewee name's first followed by "interview". Also list the interviewer's name if the interviewer is different from the collection’s creator:
+
+•	Lauchlin Shaw interview
+•	Tommy Jarrell interview by Alice Gerrard 
+
+If a recording or event spans multiple tapes, add the tape number to the title:
+
+•	Highlander summer camp, tape 1
+•	Highlander summer camp, tape 2
+•	Highlander summer camp, tape 3
+
+Also list the range, if you are certain of the exact range of the materials:
+
+•	Highlander summer camp, tape 1 of 2
+•	Highlander summer camp, tape 2 of 2
+
+If an item contains multiple events or recordings, list each event and use a semi-colon to separate events. If multiple dates are listed on a multi-event item, list dates in the title using the style guide for finding aid dates:
+
+•	Beggars, practice tape; Ruby, practice tape 
+•	Peter Holsapple, "Holy Night", September 1985; dB's, "Feliz Navidad", "Holiday Spirit" and "Never Say When"
+•	Dolly Parton, 3 March 1973; Linda Rondstadt, 17 April 1979
+
+If there is no performer or title listed, title the item as an unidentified recording based on the item type: 
+
+•[unidentified sound recording] 
+•[unidentified video recording] 
+•[unidentified motion picture film] 
+
+If possible, qualify the unidentified recording with the genre/form, and/or a brief description of the contents of the recording. This may only be possible once the recording has been digitized:
+
+•[unidentified live performance]
+•[unidentified home movie]
+•[unidentified Zydeco music]
+•[unidentified oral history]
+•[unidentified studio recording]
+•[unidentified television program]
+ 
+Place your constructed title into the "Title" field in Jitterbug. Place other pertinent information (Where, When) from container annotations in relevant Jitterbug fields (Recording Location, Item Year, Item Date). 
+
+## Data entry and import
+
+As mentioned above, there are two methods for entering metadata into Jitterbug – either directly into Jitterbug or via csv file import. This section covers steps for both methods.  
+
+**Directly into Jitterbug** 
+
+1.	After logging in, select "Audio Visual Items" followed by "+ New" 
+2.	Select the appropriate record type (Audio, Film, or Video)
+3.	Follow the Style Guide and enter required metadata fields and as many suggested metadata fields as possible.  
+4.	Select "Save", located on the bottom left.   
+
+**CSV import **
+
+Documentation related to Jitterbug CSV import is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate". Documentation includes a master spreadsheet of audiovisual format identification numbers, a template for CSV import, and sample CSV import data. 
+
+Below are the steps for creating and importing a CSV import into Jitterbug. 
+
+1.	Open the CSV import template in Open Office and enter required metadata fields and as many suggested metadata fields as possible. Sample CSV import data from across collections and accessions illustrated below.  
+
+For larger collections, it may be helpful to inventory the materials upfront. This technique includes assigning temporary IDs with archival paper tape to each item (as seen below) and then arranging the collection after metadata has been gathered on each item. Create a temporary column in your CSV import template to store each item’s temporary IDs.  
+
+2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and Audiovisual Archivist.  
+ 
+If you assigned temporary IDs to your items, create and save a separate spreadsheet, or labeling guide, with your temporary ID column. Below is an example of a labeling guide with inventory numbers highlighted in yellow and item call numbers highlighted in green. In this example, call numbers were added to the labeling guide after arrangement and Jitterbug import to assist with labeling of the materials. 
+
+3.	Once items are in the correct row order and the temporary ID column has been deleted, select "Save As". Name the file (CollectionNumber_AccessionNumber_import; EX: 20427_107500_import), save the file as a Text CSV (.csv), and select "Edit filter settings" (circled below). Hit Save. 
+
+4.	A prompt (illustrated below) may emerge after hitting save. Select "Keep Current Format". 
+
+5.	Save the file with the following specifications: 
+
+Character set: Unicode (UTF-8)
+Field delimiter (or Separated by): , (comma)
+Text delimiter: "
+select Quote all text cells (or Quoted field as text)
+select Save cell content as shown
+
+6.	Open Jitterbug and on the Audiovisual Items table, select "Batch" --> "Items Import" 
+
+7.	Browse for your csv file and select "Upload and Continue" 
+
+8.	Review Items Import and select "Proceed with Import" 
+
+9.	 Jitterbug will alert you of any errors with your data (illustrated below in red). If this occurs, fix errors and re-import your csv.  
+
+Jitterbug will alert you of a successful import (illustrated below) 
+
+Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to # Labeling and Putting Stuff Away (Work in Progress!) below.
+
+
+## Data export (work in progress!)
+
+
+# Finding Aid Description
 
 ## Formats/Container Types
 
