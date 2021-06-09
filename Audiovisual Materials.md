@@ -5,11 +5,11 @@ Updated June 2021 by Anne Wells.
 # Overview
 - [Introduction](#introduction)
 - [Arrangement](#arrangement)
-- [Jitterbug](#jitterbug)
+- [Jitterbug](#jitterbug)  
     -[Metadata](#metadata)  
     -[Data entry and import](#data-entry-and-import)  
     -[Data export](#data-export)  
-- [Finding Aid Description](#description)  
+- [Finding Aid Description](#finding-aid-description)  
     -[Formats/Container Types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
@@ -284,8 +284,9 @@ Jitterbug will alert you of a successful import (illustrated below)
 Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to # Labeling and Putting Stuff Away (Work in Progress!) below.
 
 
-## Data export (work in progress!)
+## Data export 
 
+(work in progress!)
 
 # Finding Aid Description
 
