@@ -311,16 +311,16 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | U-Matic (Audio Tape)           | 39                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | U-Matic [Audio]                                  |
 | Beta (PCM-F1)                  | 40                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | Beta (PCM-F1) [Audio]                            |
 | VHS (PCM-F1)                   | 41                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | VHS (PCM-F1) [Audio]                             |
-| Instantaneous Disc             | 45                  | FD                     | FD [?]                         | fd                                      | Acetate disc / Lacquer disc / Instantaneous disc |
-| Transcription Disc             | 46                  | TR                     | TR [?]                         | trans                                   | Transcription disc                               |
+| Instantaneous Disc             | 45                  | FD                     | FD (legacy: D)                          | fd                                      | Acetate disc / Lacquer disc / Instantaneous disc |
+| Transcription Disc             | 46                  | TR                     | TR (legacy: D)                          | trans                                   | Transcription disc                               |
 | Wire Recording                 | 47                  | WR                     | WR                             | wr                                      | Wire recording                                   |
-| 45                             | 48                  | 45                     | D [?]                          | audiodisc                               | 45-rpm record                                    |
-| 78                             | 49                  | 78                     | D [?]                          | audiodisc                               | 78-rpm record                                    |
+| 45                             | 48                  | 45                     | 45 (legacy: D)                           | audiodisc                               | 45-rpm record                                    |
+| 78                             | 49                  | 78                     | 78 (legacy: D)                           | audiodisc                               | 78-rpm record                                    |
 | Cylinder                       | 50                  | CY                     | CY                             | ?                                       | Cylinder                                         |
 | MiniDisc                       | 51                  | MD                     | MD                             | md                                      | MiniDisc                                         |
-| LP                             | 52                  | FC                     | D [?]                          | audiodisc                               | LP record                                        |
-| Flexi Disc                     | 53                  | FC                     | D [?]                          | audiodisc                               | Flexi disc                                       |
-| Analog Disc                    | 54                  | D                      | D [?]                          | audiodisc                               | Metal stamper                                    |
+| LP                             | 52                  | FC                     | FC (legacy: D)                          | audiodisc                               | LP record                                        |
+| Flexi Disc                     | 53                  | FC                     | FC (legacy: D)                        | audiodisc                               | Flexi disc                                       |
+| Analog Disc                    | 54                  | D                      | D                        | audiodisc                               | Metal stamper                                    |
 | NAB Catridge                   | 56                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | NAB cartridge                                    |
 
 ### Video
