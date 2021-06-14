@@ -215,18 +215,18 @@ If an item contains multiple events or recordings, list each event and use a sem
 
 If there is no performer or title listed, title the item as an unidentified recording based on the item type: 
 
-    •   [unidentified sound recording] 
-    •   [unidentified video recording] 
-    •   [unidentified motion picture film] 
+    •   [unidentified sound recording]  
+    •   [unidentified video recording]  
+    •   [unidentified motion picture film]  
 
 If possible, qualify the unidentified recording with the genre/form, and/or a brief description of the contents of the recording. This may only be possible once the recording has been digitized:
 
-    •   [unidentified live performance]
-    •   [unidentified home movie]
-    •   [unidentified Zydeco music]
-    •   [unidentified oral history]
-    •   [unidentified studio recording]
-    •   [unidentified television program]
+    •   [unidentified live performance]  
+    •   [unidentified home movie]  
+    •   [unidentified Zydeco music]  
+    •   [unidentified oral history]  
+    •   [unidentified studio recording]  
+    •   [unidentified television program]  
  
 Place your constructed title into the "Title" field in Jitterbug. Place other pertinent information (Where, When) from container annotations in relevant Jitterbug fields (Recording Location, Item Year, Item Date). 
 
