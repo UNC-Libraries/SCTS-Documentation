@@ -98,20 +98,20 @@ AUDIO:
 •	Title: Follow title guidelines found below under "Creating Titles."   
 •	Collection: Unique collection ID or number (CSV import) or dropdown list of collection names (Jitterbug interface). Contact the Audiovisual Conservator to add new collection names to the list.  
 •	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
-•	Format: Unique format ID (CSV import) or dropdown list of standard audio formats (Jitterbug interface).   
+•	Format: Unique format ID (CSV import) or dropdown list of standard audio formats (Jitterbug interface). Consult [Formats/Container types](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#formatscontainer-types) section of this documentation for more on formats.   
 •	Size: Size of audio reel or disc measured in inches.   
  
 FILM:   
 •	Title: Follow title guidelines found below under "Creating Titles."   
 •	Collection: Unique collection ID or number (CSV import) or dropdown list of collection names (Jitterbug interface). Contact the Audiovisual Conservator to add new collection names to the list.  
 •	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
-•	Format: Unique format ID (CSV import) or dropdown list of standard film formats (Jitterbug interface).   
+•	Format: Unique format ID (CSV import) or dropdown list of standard film formats (Jitterbug interface). Consult [Formats/Container types](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#formatscontainer-types) section of this documentation for more on formats.      
 
 VIDEO:   
 •	Title: Follow title guidelines found below under "Creating Titles."   
 •	Collection: Unique collection ID or number (CSV import) or dropdown list of collection names (Jitterbug interface). Contact the Audiovisual Conservator to add new collection names to the list.  
 •	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
-•	Format: Unique format ID (CSV import) or dropdown list of standard video formats (Jitterbug interface).   
+•	Format: Unique format ID (CSV import) or dropdown list of standard video formats (Jitterbug interface). Consult [Formats/Container types](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#formatscontainer-types) section of this documentation for more on formats.      
 
 
 ### Suggested fields 
@@ -282,7 +282,9 @@ Once all the item-level metadata is entered or imported into Jitterbug (YAY!), p
 
 ## Data export (work in progress)
 
-_This section is a work in progress...stay tuned!_
+Ideally processing archivists create finding aid description for AV materials using an Audiovisual Items export of metadata from Jitterbug. To export a collection
+
+
 
 # Finding aid description
 
