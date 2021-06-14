@@ -24,6 +24,8 @@ Below is documentation related to the arrangement, physical processing, and desc
 
 In addition to creating finding aid description for AV access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jitterbug, an internal online content management system for Wilson Library's analog AV holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
 
+The outline of this documentation reflects the suggested order of operations for processing analog AV materials: 1. create an arrangmet plan, 2. inventory materials and import or add item-level metadata into Jitterbug, 3. construct finding aid description using metadata imported or found in Jitterbug, 4. label and shelve materials. 
+
 Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
 
 # Arrangement
