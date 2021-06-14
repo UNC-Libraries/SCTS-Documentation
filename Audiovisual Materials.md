@@ -282,6 +282,7 @@ Once all the item-level metadata is entered or imported into Jitterbug (YAY!), p
 
 ## Data export (work in progress)
 
+_This section is a work in progress...stay tuned!_
 
 # Finding aid description
 
