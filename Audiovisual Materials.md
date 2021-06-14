@@ -20,7 +20,7 @@ Updated June 2021 by Anne Wells.
 
 # Introduction
 
-Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual materials. For the most part, audiovisual materials are physically processed and described at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
+Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual materials. Or rather, this documentation covers audiovisual processing after the point of accession to access. For the most part, archivists physically process and describe audiovisual materials at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
 
 In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jitterbug, an internal online content management system for Wilson Library's analog audiovisual holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
 
