@@ -92,26 +92,26 @@ It is possible to manually change a call number in Jitterbug if a mistake happen
 
 ### Required fields 
 
-Audiovisual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type.  
+Audiovisual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type. (Spoiler: there are two methods for importing AV Items into Jitterbug, either directly or via CSV import. Please note these differences between these methods in the descriptions below).  
  
 AUDIO:   
 •	Title: Follow title guidelines found below under "Creating Titles."   
-•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.  
+•	Collection: Unique collection ID or number (CSV import) or dropdown list of collection names (Jitterbug interface). Contact the Audiovisual Conservator to add new collection names to the list.  
 •	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
-•	Format: Dropdown list of standard audio formats.   
+•	Format: Unique format ID (CSV import) or dropdown list of standard audio formats (Jitterbug interface).   
 •	Size: Size of audio reel or disc measured in inches.   
  
 FILM:   
 •	Title: Follow title guidelines found below under "Creating Titles."   
-•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.  
+•	Collection: Unique collection ID or number (CSV import) or dropdown list of collection names (Jitterbug interface). Contact the Audiovisual Conservator to add new collection names to the list.  
 •	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
-•	Format: Dropdown list of standard film formats.   
+•	Format: Unique format ID (CSV import) or dropdown list of standard film formats (Jitterbug interface).   
 
 VIDEO:   
 •	Title: Follow title guidelines found below under "Creating Titles."   
-•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.   
+•	Collection: Unique collection ID or number (CSV import) or dropdown list of collection names (Jitterbug interface). Contact the Audiovisual Conservator to add new collection names to the list.  
 •	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
-•	Format: Dropdown list of standard video formats.   
+•	Format: Unique format ID (CSV import) or dropdown list of standard video formats (Jitterbug interface).   
 
 
 ### Suggested fields 
@@ -234,14 +234,14 @@ Place your constructed title into the "Title" field in Jitterbug. Place other pe
 
 As mentioned above, there are two methods for entering metadata into Jitterbug – either directly into Jitterbug or via csv file import. This section covers steps for both methods.  
 
-**Directly into Jitterbug** 
+### Directly into Jitterbug
 
 1.	After logging in, select "Audio Visual Items" followed by "+ New" 
 2.	Select the appropriate record type (Audio, Film, or Video)
 3.	Follow the Style Guide and enter required metadata fields and as many suggested metadata fields as possible.  
 4.	Select "Save", located on the bottom left.   
 
-**CSV import **
+### CSV import
 
 Documentation related to Jitterbug CSV import is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate". Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
 
