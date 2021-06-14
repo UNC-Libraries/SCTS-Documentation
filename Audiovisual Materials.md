@@ -20,6 +20,9 @@ Updated June 2021 by Anne Wells.
 
 # Introduction
 
+![open reel audio in Wilson Library's stacks](https://github.com/annewell/images/blob/main/Stacks_OpenReel.png)
+*Open reel audio shelved in Wilson Library's closed stacks.*
+
 Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual (AV) materials. Or rather, this documentation covers AV processing after the point of accession all the way up to access, or finding aid description. For the most part, archivists physically process and describe AV materials at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging AV materials at the collection and box-level!...more on that soon).
 
 In addition to creating finding aid description for AV access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jitterbug, an internal online content management system for Wilson Library's analog AV holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
