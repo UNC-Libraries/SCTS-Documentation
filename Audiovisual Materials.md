@@ -20,19 +20,19 @@ Updated June 2021 by Anne Wells.
 
 # Introduction
 
-Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual materials. Or rather, this documentation covers audiovisual processing after the point of accession to access. For the most part, archivists physically process and describe audiovisual materials at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging audiovisual materials at the collection and box-level!...more on that soon).
+Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual (AV) materials. Or rather, this documentation covers AV processing after the point of accession all the way up to access, or finding aid description. For the most part, archivists physically process and describe AV materials at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging AV materials at the collection and box-level!...more on that soon).
 
-In addition to creating finding aid description for access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jitterbug, an internal online content management system for Wilson Library's analog audiovisual holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
+In addition to creating finding aid description for AV access, when possible, processing archivists and assistants also create additional item-level descriptive metadata of AV items that is stored in Jitterbug, an internal online content management system for Wilson Library's analog AV holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items, including required metadata fields, field definitions (& style guide), and data entry and import methods. 
 
 Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
 
 # Arrangement
 
-When assigned an accession containing archival audiovisual materials, consult with the AV Archivist about how to best arrange the materials. It is crucial to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of making an arrangement plan for archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats - or rather, how can we best present these materials so people can find what they need. 
+When assigned an accession containing archival AV materials, consult with a Technical Services archivist about how to best arrange the materials. It is helpful to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of arranging archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats. The question - how can we best present these materials so people can find what they need? - should guide your approach to arrangment. 
 
 Generally, try to arrange AV materials by content, rather than by format. Exceptions to this may include production-heavy collections with defined works, or titles, that may benefit from having sub-groupings of like-format items in order to gain a sense of the creator's production process. An example of this includes the Tom Davenport Papers, http://finding-aids.lib.unc.edu/20025   
 
-It's also helpful to remember that archival AV items are non-circulating materials. Or rather, access to all archival AV materials requires an intervention of sorts - in-house or external digitization and the production of a viewing or listening copy that is either delivered on physical media to a patron, or more ideally, is streamed via the online finding aid. This distance grants us some freedom to present archival AV materials in a meaningful or helpful way on our online finding aids that is not inhibited by the physical materials, which are often stored by like formats across collections and collecting units. In other words, we can present materials intellectually by original order or mixed-format groupings and also store the materials in preservation friendly groupings and conditions.
+It's also helpful to remember that archival AV items are non-circulating materials. Or rather, access to all archival AV materials requires an intervention of sorts - in-house or external digitization and the production of a viewing or listening copy that is either delivered on physical media to a patron, or more conveniently, is streamed via the online finding aid. This distance grants processing archivists some freedom to present archival AV materials in a meaningful or helpful way in Wilson Library's online finding aids that is not inhibited by the physical materials, which are often stored by like formats across collections and collecting units. In other words, we can present materials intellectually by original order or mixed-format groupings while also storing the materials in preservation friendly groupings and conditions.
 
 Below are examples of arrangement methods of AV materials and when to use them: 
 
@@ -68,7 +68,7 @@ Greenhill Family/FLi Artists/Folklore Productions Collection [series 3 arranged 
 
 ## Introduction
 
-Once arrangement is determined, consult with the Audiovisual Archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
+Once arrangement is determined, consult with the Audiovisual Archivist or Technical Services archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
 
 https://jitterbug.lib.unc.edu/
 
@@ -88,7 +88,7 @@ Call numbers are unique IDs assigned to AV items. They consist of a format speci
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
-It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist, who will advise on how to proceed. DO NOT delete records unless instructed to. 
+It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist or Technical Services archivist, who will advise on how to proceed. DO NOT delete records unless instructed to. 
 
 ### Required fields 
 
@@ -243,7 +243,7 @@ As mentioned above, there are two methods for entering metadata into Jitterbug �
 
 **CSV import **
 
-Documentation related to Jitterbug CSV import is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate". Documentation includes a master spreadsheet of audiovisual format identification numbers, a template for CSV import, and sample CSV import data. 
+Documentation related to Jitterbug CSV import is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate". Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
 
 Below are the steps for creating and importing a CSV import into Jitterbug. 
 
@@ -251,7 +251,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug.
 
 For larger collections, it may be helpful to inventory the materials upfront. This technique includes assigning temporary IDs with archival paper tape to each item (as seen below) and then arranging the collection after metadata has been gathered on each item. Create a temporary column in your CSV import template to store each item’s temporary IDs.  
 
-2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and Audiovisual Archivist.  
+2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and Audiovisual Archivist or Technical Services archivist.  
  
 If you assigned temporary IDs to your items, create and save a separate spreadsheet, or labeling guide, with your temporary ID column. Below is an example of a labeling guide with inventory numbers highlighted in yellow and item call numbers highlighted in green. In this example, call numbers were added to the labeling guide after arrangement and Jitterbug import to assist with labeling of the materials. 
 
@@ -287,7 +287,7 @@ Once all the item-level metadata is entered or imported into Jitterbug (YAY!), p
 
 ## Formats/Container types
 
-If you need assistance identifying AV formats, consult the Audiovisual Archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
+If you need assistance identifying AV formats, consult the Audiovisual Archivist or Technical Services archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
 
 https://psap.library.illinois.edu/collection-id-guide 
 
@@ -356,7 +356,7 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 | 8mm                            | 4                   | F                      | F                              | film                  | 8mm motion picture film        |
 | 9.5mm                          | 5                   | F                      | F                              | film                  | 9.5mm motion picture film      |
 | Filmstrip                      | 6                   | F                      | F                              | film                  | Filmstrip                      |
-| Film preservation instance     | 6                   | FPI                    | F                              | fpi                   | 16mm motion picture film preservation instance         | 
+| Film preservation instance     | 6                   | FPI                    | FPI                              | fpi                   | 16mm motion picture film preservation instance         | 
 
 
 ## XML/EAD
@@ -759,9 +759,9 @@ _This section is a work in progress...stay tuned!_
 
 ## Rehousing Materials
 
-Apart from moving image film, it is preferable to leave audiovisual materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
+Apart from moving image film, it is preferable to leave AV materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
 
-Whenever an audiovisual material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
+Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
 Unlike audio and video formats, all moving image film is hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
@@ -830,12 +830,12 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | ----------------- | -------------------------------------------------------------------------- | ---------------------- |
 | Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
 
-Please note existing labels for shared audiovisual boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
+Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
 
 
 # Resources (work in progress)
 
-This documentaiton did not emerge from a vacuum! As the Audiovisual Archivist at Wilson Library, I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival audiovisual materials. Below is a growing & evolving list of some recommended resources to check out if you haven't already:
+This documentaiton did not emerge from a vacuum! As the Audiovisual Archivist at Wilson Library, I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival AV materials. Below is a growing & evolving list of some recommended resources to check out if you haven't already:
 
 - University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
