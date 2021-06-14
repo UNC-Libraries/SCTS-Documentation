@@ -75,7 +75,7 @@ Once arrangement is determined, consult with the Audiovisual Archivist or Techni
 https://jitterbug.lib.unc.edu/
 
 ![Jitterbug's Audiovisual Items homepage](https://raw.githubusercontent.com/annewell/images/main/Jitterbug_AV_items.PNG)
-*Jitterbug’s Audiovisual Items webpage, where metadata relating to the physical audiovisual materials is stored*
+*Jitterbug’s Audiovisual Items webpage, where metadata relating to the physical AV materials is stored.*
 
 As mentioned earlier, Jitterbug holds metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This section will cover only the use of the "Audiovisual Items" table - this section contains metadata related to the physical item, including format and size, as well as transcribed titles, dates, and locations of production, when known. Audiovisual Items consists of three distinct record types: Audio, Film, and Video. Each record type contains fields specific to that format. It is important to gather all required metadata fields and as many suggested metadata fields as possible during pre-processing work (more on these fields below under [Required fields](###required-fields) and [Suggested fields](###suggested-fields)).
 
