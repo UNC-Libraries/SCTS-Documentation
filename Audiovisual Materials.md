@@ -10,7 +10,7 @@ Updated June 2021 by Anne Wells.
     -[Data entry and import](#data-entry-and-import)  
     -[Data export (work in progress)](#data-export-work-in-progress) 
 - [Finding aid description](#finding-aid-description)  
-    -[Formats/Container Types](#formatscontainer-types)  
+    -[Formats/container types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
 - [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)
