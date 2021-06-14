@@ -94,62 +94,62 @@ It is possible to manually change a call number in Jitterbug if a mistake happen
 
 Audiovisual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type.  
  
-AUDIO: 
-•	Title: Follow title guidelines found below under "Creating Titles." 
-•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.
-•	Accession Number: A unique number assigned to an item or group of materials during intake or accession. 
-•	Format: Dropdown list of standard audio formats. 
-•	Size: Size of audio reel or disc measured in inches. 
+AUDIO:   
+•	Title: Follow title guidelines found below under "Creating Titles."   
+•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.  
+•	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
+•	Format: Dropdown list of standard audio formats.   
+•	Size: Size of audio reel or disc measured in inches.   
  
-FILM: 
-•	Title: Follow title guidelines found below under "Creating Titles." 
-•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.
-•	Accession Number: A unique number assigned to an item or group of materials during intake or accession. 
-•	Format: Dropdown list of standard film formats. 
+FILM:   
+•	Title: Follow title guidelines found below under "Creating Titles."   
+•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.  
+•	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
+•	Format: Dropdown list of standard film formats.   
 
-VIDEO: 
-•	Title: Follow title guidelines found below under "Creating Titles." 
-•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list. 
-•	Accession Number: A unique number assigned to an item or group of materials during intake or accession. 
-•	Format: Dropdown list of standard video formats. 
+VIDEO:   
+•	Title: Follow title guidelines found below under "Creating Titles."   
+•	Collection: Dropdown list of collection names. Contact the Audiovisual Conservator to add new collection names to the list.   
+•	Accession Number: A unique number assigned to an item or group of materials during intake or accession.   
+•	Format: Dropdown list of standard video formats.   
 
 
 ### Suggested fields 
 
 Suggested fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by record type.  
  
-AUDIO: 
-•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
-•	Legacy ID: Any number formerly associated with an AV item in this field. 
-•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
-•	Recording Location: Location, or place, of recording. 
-•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)  
-•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
-•	Item Date: Singular date field formatted as YYYY-MM-DD. 
-•	Base: Material that the audio or film item is made of. 
+AUDIO:   
+•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item.  
+•	Legacy ID: Any number formerly associated with an AV item in this field.   
+•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3)   
+•	Recording Location: Location, or place, of recording.   
+•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)    
+•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates.   
+•	Item Date: Singular date field formatted as YYYY-MM-DD.   
+•	Base: Material that the audio or film item is made of.   
 
-FILM: 
-•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
-•	Legacy ID: Any number formerly associated with an AV item in this field. 
-•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
-•	Recording Location: Location, or place, of recording. 
-•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)   
-•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
-•	Item Date: Singular date field formatted as YYYY-MM-DD. 
-•	Element: A designation of the film formats generation. 
-•	Base: Material that the audio or film item is made of. 
-•	Color: This field indicates whether a film is color, B/W, or both.  
-•	Sound Type: Sound type of film (ex. Optical, Magnetic) with option for "Silent".  
-•	Length in Feet: Estimate of the length (in feet) of the film itself. 
+FILM:   
+•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item.   
+•	Legacy ID: Any number formerly associated with an AV item in this field.   
+•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3)   
+•	Recording Location: Location, or place, of recording.   
+•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)     
+•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates.   
+•	Item Date: Singular date field formatted as YYYY-MM-DD.   
+•	Element: A designation of the film formats generation.   
+•	Base: Material that the audio or film item is made of.   
+•	Color: This field indicates whether a film is color, B/W, or both.    
+•	Sound Type: Sound type of film (ex. Optical, Magnetic) with option for "Silent".    
+•	Length in Feet: Estimate of the length (in feet) of the film itself.   
  
-VIDEO: 
-•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item. 
-•	Legacy ID: Any number formerly associated with an AV item in this field. 
-•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3) 
-•	Recording Location: Location, or place, of recording. 
-•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)  
-•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates. 
-•	Item Date: Singular date field formatted as YYYY-MM-DD. 
+VIDEO:   
+•	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item.   
+•	Legacy ID: Any number formerly associated with an AV item in this field.   
+•	Reel/Tape Number: Extent, or tape number, of recording. (EX: 1/3 ; 2/3 ; 3/3)   
+•	Recording Location: Location, or place, of recording.   
+•	Access Restrictions: Streaming access restriction determined by curatorial unit.[^1](#endnotes)    
+•	Item Year: Catch-all date field that excludes singular full (YYYY-MM-DD) dates.   
+•	Item Date: Singular date field formatted as YYYY-MM-DD.    
 
 ### Field definitions & style guide
 
