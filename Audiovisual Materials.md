@@ -164,17 +164,17 @@ Construct titles from these annotations based on the following criteria:
  
 **Who/What**
 
-•	Performer, 'Album Title' [single straight quotes '] 
-example: Bert Jansch, 'Birthday Blues' 
+    •	Performer, 'Album Title' [single straight quotes ']   
+        example: Bert Jansch, 'Birthday Blues' 
  
-•	Performer, "Song Title" [double straight quotes "] 
-example: Bert Jansch, "Tree Song" 
+    •	Performer, "Song Title" [double straight quotes "]   
+        example: Bert Jansch, "Tree Song" 
  
-•	Performer, 'Album Title' or "Song Title", Additional Description 
-example: Bert Jansch, 'Birthday Blues', demo 
+    •	Performer, 'Album Title' or "Song Title", Additional Description   
+        example: Bert Jansch, 'Birthday Blues', demo 
 
-•	unidentified performer, "Song Title" 
-example: [unidentified artist], "Frosty the Snowman" 
+    •	unidentified performer, "Song Title"   
+        example: [unidentified artist], "Frosty the Snowman" 
 
 **Only capitalize proper names and titles** (i.e. works, album titles, song titles).  Do not capitalize descriptive words, like "reel", "tape", "demo", "practice", etc.
 
@@ -182,51 +182,51 @@ If a first name is abbreviated (i.e. J. E. Mainer), leave a space between the ca
 
 If there are multiple items from the same festival/event, place the festival/event name before the performer in the title: 
 
-•	Festival/Event Name, Performer 
-Newport Folk Festival, Bert Jansch 
+    •	Festival/Event Name, Performer   
+        example: Newport Folk Festival, Bert Jansch 
 
 For studio-based music collection (i.e. Chris Stamey #20562, Duck Kee Studio #20553, Goldband Recording Studio #20245), it is helpful to also add more specific recording details about the recording to the title. Try to stick to the terminology listed on the original container:
 
-•	dB's, 4-track demos: "Bad Reputation"
-•	Diesel, practice tape
-•	Sneakers, rehearsal tape: "Combustion", "Twilight", and "Stimulation"
+    •	dB's, 4-track demos: "Bad Reputation"  
+    •	Diesel, practice tape  
+    •	Sneakers, rehearsal tape: "Combustion", "Twilight", and "Stimulation"  
 
 For oral histories, list the subject or interviewee name's first followed by "interview". Also list the interviewer's name if the interviewer is different from the collection’s creator:
 
-•	Lauchlin Shaw interview
-•	Tommy Jarrell interview by Alice Gerrard 
+    •	Lauchlin Shaw interview  
+    •	Tommy Jarrell interview by Alice Gerrard   
 
 If a recording or event spans multiple tapes, add the tape number to the title:
 
-•	Highlander summer camp, tape 1
-•	Highlander summer camp, tape 2
-•	Highlander summer camp, tape 3
+    •	Highlander summer camp, tape 1
+    •	Highlander summer camp, tape 2
+    •	Highlander summer camp, tape 3
 
 Also list the range, if you are certain of the exact range of the materials:
-
-•	Highlander summer camp, tape 1 of 2
-•	Highlander summer camp, tape 2 of 2
+ 
+    •	Highlander summer camp, tape 1 of 2
+    •	Highlander summer camp, tape 2 of 2
 
 If an item contains multiple events or recordings, list each event and use a semi-colon to separate events. If multiple dates are listed on a multi-event item, list dates in the title using the style guide for finding aid dates:
 
-•	Beggars, practice tape; Ruby, practice tape 
-•	Peter Holsapple, "Holy Night", September 1985; dB's, "Feliz Navidad", "Holiday Spirit" and "Never Say When"
-•	Dolly Parton, 3 March 1973; Linda Rondstadt, 17 April 1979
+    •	Beggars, practice tape; Ruby, practice tape 
+    •	Peter Holsapple, "Holy Night", September 1985; dB's, "Feliz Navidad", "Holiday Spirit" and "Never Say When"
+    •	Dolly Parton, 3 March 1973; Linda Rondstadt, 17 April 1979
 
 If there is no performer or title listed, title the item as an unidentified recording based on the item type: 
 
-•[unidentified sound recording] 
-•[unidentified video recording] 
-•[unidentified motion picture film] 
+    •   [unidentified sound recording] 
+    •   [unidentified video recording] 
+    •   [unidentified motion picture film] 
 
 If possible, qualify the unidentified recording with the genre/form, and/or a brief description of the contents of the recording. This may only be possible once the recording has been digitized:
 
-•[unidentified live performance]
-•[unidentified home movie]
-•[unidentified Zydeco music]
-•[unidentified oral history]
-•[unidentified studio recording]
-•[unidentified television program]
+    •   [unidentified live performance]
+    •   [unidentified home movie]
+    •   [unidentified Zydeco music]
+    •   [unidentified oral history]
+    •   [unidentified studio recording]
+    •   [unidentified television program]
  
 Place your constructed title into the "Title" field in Jitterbug. Place other pertinent information (Where, When) from container annotations in relevant Jitterbug fields (Recording Location, Item Year, Item Date). 
 
