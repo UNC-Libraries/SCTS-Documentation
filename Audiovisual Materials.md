@@ -287,7 +287,7 @@ Once all the item-level metadata is entered or imported into Jitterbug (YAY!), p
 
 ## Formats/Container types
 
-If you need assistance identifying AV formats, consult the Audiovisual Archivist or Technical Services archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
+If you need assistance identifying AV formats, consult the Audiovisual Archivist or a Technical Services archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
 
 https://psap.library.illinois.edu/collection-id-guide 
 
