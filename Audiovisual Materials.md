@@ -116,7 +116,7 @@ VIDEO:
 
 ### Suggested fields 
 
-Suggested fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by record type.  
+Suggested fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by Audiovisual Items record type.  
  
 AUDIO:   
 •	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item.  
@@ -160,21 +160,21 @@ Additional guidance on creating item titles can be found below.
 **Creating titles**
 Transcribe annotations written on original container into the "Container Note" field in Jitterbug. This field preserves how the title is originally presented on the container. 
 
-Construct titles from these annotations based on the following criteria: 
+If possible, titles include who (performer or event title), what (album or song title), where (recording location using style guide for finding aid [GeogNames](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#geognames)), & when (item year or date using the style guide for finding aid [dates](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#dates)). Below is further guidance on constructing titles: 
  
 **Who/What**
 
-    •	Performer, 'Album Title' [single straight quotes ']   
-        example: Bert Jansch, 'Birthday Blues' 
+    •	Performer, 'Album Title' [single straight quotes '], Date   
+        example: Bert Jansch, 'Birthday Blues', 1969 
  
-    •	Performer, "Song Title" [double straight quotes "]   
-        example: Bert Jansch, "Tree Song" 
+    •	Performer, "Song Title" [double straight quotes "], Date   
+        example: Bert Jansch, "Tree Song", 1969 
  
-    •	Performer, 'Album Title' or "Song Title", Additional Description   
-        example: Bert Jansch, 'Birthday Blues', demo 
+    •	Performer, 'Album Title' or "Song Title", Additional description, Date   
+        example: Bert Jansch, 'Birthday Blues', demo, 1968
 
-    •	unidentified performer, "Song Title"   
-        example: [unidentified artist], "Frosty the Snowman" 
+    •	unidentified performer, "Song Title", Date   
+        example: [unidentified artist], "Frosty the Snowman", 12 December 1979
 
 **Only capitalize proper names and titles** (i.e. works, album titles, song titles).  Do not capitalize descriptive words, like "reel", "tape", "demo", "practice", etc.
 
@@ -182,32 +182,32 @@ If a first name is abbreviated (i.e. J. E. Mainer), leave a space between the ca
 
 If there are multiple items from the same festival/event, place the festival/event name before the performer in the title: 
 
-    •	Festival/Event Name, Performer   
-        example: Newport Folk Festival, Bert Jansch 
+    •	Festival/Event Name, Performer, Date   
+        example: Newport Folk Festival, Muddy Waters, 1967
 
 For studio-based music collection (i.e. Chris Stamey #20562, Duck Kee Studio #20553, Goldband Recording Studio #20245), it is helpful to also add more specific recording details about the recording to the title. Try to stick to the terminology listed on the original container:
 
-    •	dB's, 4-track demos: "Bad Reputation"  
-    •	Diesel, practice tape  
-    •	Sneakers, rehearsal tape: "Combustion", "Twilight", and "Stimulation"  
+    •	dB's, 4-track demos: "Bad Reputation", 1980  
+    •	Diesel, practice tape, summer 1975  
+    •	Sneakers, rehearsal tape: "Combustion", "Twilight", and "Stimulation", 1 November 1976 
 
 For oral histories, list the subject or interviewee name's first followed by "interview". Also list the interviewer's name if the interviewer is different from the collection’s creator:
 
-    •	Lauchlin Shaw interview  
-    •	Tommy Jarrell interview by Alice Gerrard   
+    •	Hun Som interview, Greensboro, N.C., 8 June 2003 
+    •	Tommy Jarrell interview by Alice Gerrard, Mt. Airy, N.C., 1979   
 
 If a recording or event spans multiple tapes, add the tape number to the title:
 
-    •	Highlander summer camp, tape 1
-    •	Highlander summer camp, tape 2
-    •	Highlander summer camp, tape 3
+    •	Highlander summer camp, 1987, tape 1
+    •	Highlander summer camp, 1987, tape 2
+    •	Highlander summer camp, 1987, tape 3
 
 Also list the range, if you are certain of the exact range of the materials:
  
-    •	Highlander summer camp, tape 1 of 2
-    •	Highlander summer camp, tape 2 of 2
+    •	Highlander summer camp, 1989, tape 1 of 2
+    •	Highlander summer camp, 1989, tape 2 of 2
 
-If an item contains multiple events or recordings, list each event and use a semi-colon to separate events. If multiple dates are listed on a multi-event item, list dates in the title using the style guide for finding aid dates:
+If an item contains multiple events or recordings, list each event and use a semi-colon to separate events. If multiple locations or dates are listed on a multi-event item, list locations dates in the title using the style guide for finding aid dates:
 
     •	Beggars, practice tape; Ruby, practice tape 
     •	Peter Holsapple, "Holy Night", September 1985; dB's, "Feliz Navidad", "Holiday Spirit" and "Never Say When"
