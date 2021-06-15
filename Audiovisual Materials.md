@@ -326,11 +326,11 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
 Ideally processing archivists create finding aid description for AV materials using an Audio Visual Items metadata export from Jitterbug. 
 
-**To export metadata for an entire collection**, open Audio Visual Items and select the collection name from "Collection Filters" on the left-hand side of the screen, illustrated below. When using filters, make sure you have de-selected other filters, such as "Type Filters" and "Format Filters" - you want to make sure you're getting the entire collection when you import.
+**To export metadata for an entire collection**, open Audio Visual Items and select the collection name from "Collection Filters" on the left-hand side of the screen, illustrated below. When using filters, make sure you have de-selected other filters, such as "Type Filters" and "Format Filters" - you want to make sure you're getting the entire collection for your export.
 
 ![Jitterbug collection filter selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export1.PNG)
 
-**To export a particular accession** from Jitterbug, search the accession number (remember to use quotes!) via the Audio Visual Items search box, illustrated below. As noted before, please be sure to de-select any filters to make sure you are exporting all AV items from an accession.
+**To export a particular accession** from Jitterbug, search the accession number (remember to use quotes!) via the Audio Visual Items search box, illustrated below. As noted above, please be sure to de-select any filters to make sure you are exporting all AV items from an accession.
 
 ![Using Jitterbug search function to search accession](https://github.com/annewell/images/blob/main/Jitterbug_export4.PNG)
 
@@ -342,9 +342,9 @@ When you select "Export" a pop-up window will appear. You can select any appropr
 
 ![Jitterbug batch export field options](https://github.com/annewell/images/blob/main/Jitterbug_export3.PNG)
 
-Select the green "Build and Download" button on the bottom of the batch export option and voila!, a csv export should now be in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
+Select the green "Build and Download" button on the bottom of the batch export option and voila!, a csv export, illustrated below, should now be located in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
 
-
+![sample Jitterbug export CSV file](https://github.com/annewell/images/blob/main/Jitterbug_export5.PNG)
 
 # Finding aid description
 
