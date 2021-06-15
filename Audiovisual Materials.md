@@ -279,17 +279,25 @@ If you assigned temporary IDs to your items, create and save a separate spreadsh
 
 3.	Once items are in the correct row order and the temporary ID column has been deleted, select "Save As". Name the file (CollectionNumber_AccessionNumber_import; EX: 20427_107500_import), save the file as a Text CSV (.csv), and select "Edit filter settings" (circled below). Hit Save. 
 
-![edit filter settings highlighted](https://github.com/annewell/images/blob/main/Jitterbug_import_settings1.png)
+    ![edit filter settings highlighted](https://github.com/annewell/images/blob/main/Jitterbug_import_settings1.png)
 
 4.	A prompt (illustrated below) may emerge after hitting save. Select "Keep Current Format". 
 
-5.	Save the file with the following specifications: 
+    ![save settings prompt](https://github.com/annewell/images/blob/main/Jitterbug_import_settings2.png)
 
-Character set: Unicode (UTF-8)
-Field delimiter (or Separated by): , (comma)
-Text delimiter: "
-select Quote all text cells (or Quoted field as text)
-select Save cell content as shown
+5.	Save the file with the following specifications:
+
+    Character set: Unicode (UTF-8)
+    Field delimiter (or Separated by): , (comma)
+    Text delimiter: "
+    select Quote all text cells (or Quoted field as text)
+    select Save cell content as shown
+
+    ![PC import settings](https://github.com/annewell/images/blob/main/Jitterbug_import_settings3.png)  
+    *File specifications from PC version of OpenOffice*  
+    
+    ![MAC import settings](https://github.com/annewell/images/blob/main/Jitterbug_import_settings4.png)  
+    *File specifications from MAC version of OpenOffice*  
 
 6.	Open Jitterbug and on the Audiovisual Items table, select "Batch" --> "Items Import" 
 
