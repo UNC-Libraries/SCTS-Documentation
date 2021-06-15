@@ -247,9 +247,15 @@ As mentioned above, there are two methods for entering metadata into Jitterbug â
 ### Directly into Jitterbug
 
 1.	After logging in, select "Audio Visual Items" followed by "+ New" 
+![Jitterbug webpage with select fields highlighted](https://github.com/annewell/images/blob/main/Jitterbug_dataentry1.PNG)
+
 2.	Select the appropriate record type (Audio, Film, or Video)
-3.	Follow the Style Guide and enter required metadata fields and as many suggested metadata fields as possible.  
+![Jitterbug webpage with record type fields highlighted](https://github.com/annewell/images/blob/main/Jitterbug_dataentry2.PNG)
+
+3.	Follow the Style Guide and enter required metadata fields and as many suggested metadata fields as possible. The Style Guide can be found in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"Jitterbug Field Definitions and Style Guide.xlsx".
+
 4.	Select "Save", located on the bottom left.   
+![Jitterbug webpage with save field highlighted](https://github.com/annewell/images/blob/main/Jitterbug_dataentry3.PNG)
 
 ### CSV import
 
