@@ -8,7 +8,7 @@ Updated June 2021 by Anne Wells.
 - [Jitterbug](#jitterbug)  
     -[Metadata](#metadata)  (call numbers, required & suggested fields, field definitions & style guide, creating titles)  
     -[Data entry and import](#data-entry-and-import)  
-    -[Data export (work in progress)](#data-export-work-in-progress) 
+    -[Data export](#data-export) 
 - [Finding aid description](#finding-aid-description)  
     -[Formats/container types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
@@ -322,7 +322,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
     Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to # Labeling and Putting Stuff Away (Work in Progress!) below.
 
 
-## Data export (work in progress)
+## Data export  
 
 Ideally processing archivists create finding aid description for AV materials using an Audio Visual Items metadata export from Jitterbug. 
 
