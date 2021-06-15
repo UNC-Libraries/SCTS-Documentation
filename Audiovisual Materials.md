@@ -261,7 +261,7 @@ As mentioned above, there are two methods for entering metadata into Jitterbug â
 
 Documentation related to Jitterbug CSV import is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate". Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
 
-Below are the steps for creating and importing a CSV import into Jitterbug. 
+Below are the steps for creating and importing a CSV import into Jitterbug. The import process can be tedious (hang in there, you got this!).
 
 1.	Open the CSV import template in Open Office and enter required metadata fields and as many suggested metadata fields as possible. We use Open Office since it is opensource and compatible on both Mac and PC, but mostly because it allows us to save the file with the correct encoding (more on that soon). Sample Open Office CSV import data from across collections and accessions illustrated below.  
 
@@ -330,20 +330,20 @@ Ideally processing archivists create finding aid description for AV materials us
 
 ![Jitterbug collection filter selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export1.PNG)
 
-Once the collection filter is checked, "Select All" the AV items using the "Ctrl+A" shortcut, and select "Export" via the "Batch" dropdown, illustrated below.
-
-![Jitterbug batch export selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export2.PNG)
-
-When you select "Export" a pop-up window will appear. You can select all the appropriate fields you would like to export, or use the "Select All" option, illustrated below, as a quick and easy way to export.
-
-![Jitterbug batch export field options](https://github.com/annewell/images/blob/main/Jitterbug_export3.PNG)
-
-
 **To export a particular accession** from Jitterbug, search the accession number (remember to use quotes!) via the Audio Visual Items search box, illustrated below. As noted before, please be sure to de-select any filters to make sure you are exporting all AV items from an accession.
 
 ![Using Jitterbug search function to search accession](https://github.com/annewell/images/blob/main/Jitterbug_export4.PNG)
 
-Once your desired search results appear, follow the same batch export methods highlighted above.
+Once you have the correct collection filter selected or desired accession search results, "Select All" the AV items using the "Ctrl+A" shortcut, and select "Export" via the "Batch" dropdown, illustrated below.
+
+![Jitterbug batch export selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export2.PNG)
+
+When you select "Export" a pop-up window will appear. You can select any appropriate fields you would like to export, or use the "Select All" option, illustrated below, as a quick and easy way to export a collection or accession.
+
+![Jitterbug batch export field options](https://github.com/annewell/images/blob/main/Jitterbug_export3.PNG)
+
+Select the green "Build and Download" button on the bottom of the batch export option and voila!, a csv export should now be in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
+
 
 
 # Finding aid description
