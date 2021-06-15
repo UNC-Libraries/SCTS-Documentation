@@ -14,7 +14,7 @@ Updated June 2021 by Anne Wells.
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
 - [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)
-- [Resources (work in progress)](#resources-work-in-progress)
+- [Resources](#resources)
 
 ***
 
@@ -852,7 +852,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
 
 
-# Resources (work in progress)
+# Resources  
 
 This documentaiton did not emerge from a vacuum! As the Audiovisual Archivist at Wilson Library, I lean on and acknowledge the many smart and thoughtful people who have presented and published widely on the subject of processing archival AV materials. Below is a growing & evolving list of some recommended resources to check out if you haven't already:
 
