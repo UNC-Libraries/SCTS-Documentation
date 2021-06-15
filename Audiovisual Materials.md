@@ -324,8 +324,26 @@ Below are the steps for creating and importing a CSV import into Jitterbug.
 
 ## Data export (work in progress)
 
-Ideally processing archivists create finding aid description for AV materials using an Audiovisual Items export of metadata from Jitterbug. To export a collection
+Ideally processing archivists create finding aid description for AV materials using an Audio Visual Items metadata export from Jitterbug. 
 
+**To export metadata for an entire collection**, open Audio Visual Items and select the collection name from "Collection Filters" on the left-hand side of the screen, illustrated below. When using filters, make sure you have de-selected other filters, such as "Type Filters" and "Format Filters" - you want to make sure you're getting the entire collection when you import.
+
+![Jitterbug collection filter selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export1.PNG)
+
+Once the collection filter is checked, "Select All" the AV items using the "Ctrl+A" shortcut, and select "Export" via the "Batch" dropdown, illustrated below.
+
+![Jitterbug batch export selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export2.PNG)
+
+When you select "Export" a pop-up window will appear. You can select all the appropriate fields you would like to export, or use the "Select All" option, illustrated below, as a quick and easy way to export.
+
+![Jitterbug batch export field options](https://github.com/annewell/images/blob/main/Jitterbug_export3.PNG)
+
+
+**To export a particular accession** from Jitterbug, search the accession number (remember to use quotes!) via the Audio Visual Items search box, illustrated below. As noted before, please be sure to de-select any filters to make sure you are exporting all AV items from an accession.
+
+![Using Jitterbug search function to search accession](https://github.com/annewell/images/blob/main/Jitterbug_export4.PNG)
+
+Once your desired search results appear, follow the same batch export methods highlighted above.
 
 
 # Finding aid description
