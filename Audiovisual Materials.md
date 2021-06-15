@@ -263,15 +263,23 @@ Documentation related to Jitterbug CSV import is located in the departments or G
 
 Below are the steps for creating and importing a CSV import into Jitterbug. 
 
-1.	Open the CSV import template in Open Office and enter required metadata fields and as many suggested metadata fields as possible. Sample CSV import data from across collections and accessions illustrated below.  
+1.	Open the CSV import template in Open Office and enter required metadata fields and as many suggested metadata fields as possible. We use Open Office since it is opensource and compatible on both Mac and PC, but mostly because it allows us to save the file with the correct encoding (more on that soon). Sample Open Office CSV import data from across collections and accessions illustrated below.  
 
-For larger collections, it may be helpful to inventory the materials upfront. This technique includes assigning temporary IDs with archival paper tape to each item (as seen below) and then arranging the collection after metadata has been gathered on each item. Create a temporary column in your CSV import template to store each item’s temporary IDs.  
+![csv import sample](https://github.com/annewell/images/blob/main/Jitterbug_import_csv.png)
+
+For larger collections, it may be helpful to inventory the materials upfront. This technique may include assigning temporary IDs with archival paper tape to each item (as seen below) and then arranging the collection after metadata has been gathered on each item, or simply just keeping materials shelved in the order you inventoried them. If you choose to add temporary IDs, create a temporary column in your CSV import template to store each item's temporary IDs so you can match them up with their assigned call number after import.  
+
+![temporary IDs on videotapes](https://github.com/annewell/images/blob/main/Jitterbug_tempIDs.png)
 
 2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and Audiovisual Archivist or Technical Services archivist.  
  
 If you assigned temporary IDs to your items, create and save a separate spreadsheet, or labeling guide, with your temporary ID column. Below is an example of a labeling guide with inventory numbers highlighted in yellow and item call numbers highlighted in green. In this example, call numbers were added to the labeling guide after arrangement and Jitterbug import to assist with labeling of the materials. 
 
+![temporary ID tracking csv](https://github.com/annewell/images/blob/main/Jitterbug_tempIDscsv.png)
+
 3.	Once items are in the correct row order and the temporary ID column has been deleted, select "Save As". Name the file (CollectionNumber_AccessionNumber_import; EX: 20427_107500_import), save the file as a Text CSV (.csv), and select "Edit filter settings" (circled below). Hit Save. 
+
+![edit filter settings highlighted](https://github.com/annewell/images/blob/main/Jitterbug_import_settings1.png)
 
 4.	A prompt (illustrated below) may emerge after hitting save. Select "Keep Current Format". 
 
