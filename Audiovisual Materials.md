@@ -873,7 +873,6 @@ _Front facing label on an open reel audiotape box_
 ![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_CassetteLabels.png)    
 _Spine label on audiocassette cases_
 
-Spine label on videotape cases:  
 ![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_VideoLabels.png)    
 _Spine label on videotape cases_
 
@@ -904,15 +903,17 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 - 9.5mm
 - Filmstrips
 
-#### Videotape:
+#### Open Reel Videotape:
 
 - ½” Open Reel Video 
 - 1” Open Reel Video 
 - 2” Open Reel Video
 
-The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type: 
+The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. The Southern Folklife Collection has a distinct boxing system for its AV materials, which is listed separately: 
 
 #### Audio:
+
+**Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection**  
 
 | Box Title                 | Format(s)                     | Box Type               |
 | ------------------------- | ----------------------------- | ---------------------- |
@@ -920,8 +921,25 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | Audiocassettes            | Audiocassette; Microcassettes | Archival Audiocassette |
 | Digital Audio Tapes (DAT) | DAT                           | Archival Audiocassette |
 | MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
-| Transcription Discs       | Transcription Discs           | Transcription Disc     |
-| Instantaneous Discs       | Instantaneous Discs           | Instantaneous Disc     |
+| Audiodiscs (small)      | 45s, 7" LPs & Flexidiscs           | Archival 45     |
+| Audiodiscs (medium)      | 10 and 12" LPs, 78s, and Instantaneous discs            | Archival LP     |
+| Audiodiscs (large)      | Transcription Discs            | Archival Transcription Disc     |
+
+**Collecting unit: Southern Folklife Collection**  
+
+| Box Title                 | Format(s)                     | Box Type               |
+| ------------------------- | ----------------------------- | ---------------------- |
+| SFC 8-Track Tapes             | 8-Track tape                  | Archival CD            |
+| SFC Audiocassettes            | Audiocassette; Microcassettes | Archival Audiocassette |
+| SFC Digital Audio Tapes (DAT) | DAT                           | Archival Audiocassette |
+| SFC MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
+| SFC Audiodisc       | Audiodisc stampers           | Archival LP (blue)     |
+| SFC Transcription Discs       | Transcription Discs           | Archival Transcription Disc     |
+| SFC Instantaneous Discs       | Instantaneous Discs           | Archival Instantaneous Disc (off-white)     |
+| SFC LPs       | 7, 10, and 12" LPs, Flexidiscs           | Archival LP (blue)    |
+| SFC 45s       | 45s           | Archival 45     |
+| SFC 78s       | 78s           | Archival 78     |
+
 
 #### Video:
 
@@ -929,7 +947,18 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | ----------------- | -------------------------------------------------------------------------- | ---------------------- |
 | Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
 
-Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
+All of the AV materials that require boxes are stored in shared boxes that may span collections and collecting units. The Southern Folklife Collection has a distinct boxing system for its materials. The current box or container types at Wilson (arranged by format) include:
+
+Audiocassette Box
+SFC Audiocassette Box
+
+
+
+
+
+## AV box labels
+
+Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room. Another important things to note is that the Southern Folklife Collection has a distinct shared box systems based 
 
 
 # Resources  
