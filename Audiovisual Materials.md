@@ -857,11 +857,17 @@ Unlike audio and video formats, all moving image film is ideally hand inspected,
 
 ## Labeling
 
-#### Create small item labels
+#### Create and apply item labels
 
 Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-There are two options for AV item labels - front facing labels and spine foil-backed labels. Use whichever label makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes.  
+There are two label templates for AV item labels - front facing labels and spine foil-backed labels. Use whichever label makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes.  
+
+Templates for both label types can be found in the Departments drive:  
+G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
+G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
+
+Labels for moving image film are created with the label maker located on level 10.   
 
 Front facing label on an open reel audiotape:  
 ![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabels1.png)
@@ -869,21 +875,8 @@ Front facing label on an open reel audiotape:
 Spine label on audiocassettes:  
 ![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_CassetteLabels.png)
 
-Templates for both label types can be found in the Departments drive:  
-G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
-G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
-
-#### Physically label items
-
-Labels for cartridge-based items, such as audiocassettes and videotape, are placed on the spine, while labels for open reel and audiodiscs, are placed on the top left front of the item. Mail merge templates for both spine ("AV_spine_labels.docx") and front-facing ("AV_front_labels.docx") labels reside in the departments drive (G:\wilson\sfc\LABELS\Anne). Labels for moving image film are created with the label maker located on level 10. More on label type and placement below.  
-
-ADD PICTURES HERE
-
-#### Cartridge-based item labels
-
-When possible for cartridge-based items, place item labels on the spine of the container. 
-
-ADD PICTURES HERE
+Labels on motion picture film:  
+![a stack of motion picture film cans with labels written on each can](https://github.com/annewell/images/blob/main/Processing_FilmLabel.png)
 
 ## Boxing AV
 
