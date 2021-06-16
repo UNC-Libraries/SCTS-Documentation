@@ -360,9 +360,21 @@ All AV materials are coded at the item-level in finding aids, even materials tha
 
 ## XML/EAD
 
-To create item-level XML for AV materials, open your CSV export from Jitterbug and isolate fields you would like to call out in description (Call Number, Title, and Format, for example. Some other fields that might be helpful include LegacyID, Reel/TapeNumber, RecordingLocation, ItemYear, ItemDate, and ContentDescription). Create collumns for your XML, illustrated below in green, to properly code your desired metadata.
+To create item-level XML for AV materials, open your CSV export from Jitterbug and isolate fields you would like to call out in description (Call Number, Title, and Format, for example. Some other fields that might be helpful include LegacyID, Reel/TapeNumber, RecordingLocation, ItemYear, ItemDate, and ContentDescription). 
+
+Create collumns for your XML, illustrated below in green, to properly code your desired metadata:
 
 ![sample XML spreadsheet with Jitterbug metadata](https://github.com/annewell/images/blob/main/Description_XMLspreadsheet.PNG)
+
+Some examples of spreadsheet coding below:
+
+```
+<c03><did><container type="videotape">VT-5773/104</container><unittitle>Enduring Voices Project, Interview of Mr. Robert Bushyhead, copy, 2 November 1997</unittitle><physdesc><genreform>VHS</genreform></physdesc></did></c03>
+
+<c02><did><container type="audiotape">T-70092/5</container><unittitle>WAFR: Black Seeds: Angela Davis and Helen Othow Interview, 1974</unittitle><physdesc><genreform>1/4" Open Reel Audio</genreform></physdesc></did><processinfo><p>Original number: SOHP0257</p></processinfo><scopecontent><p>Description from inventory: Host - Julius Blakely, Guests - Angela Davis and Helen Othow; Julius Blakely interviews Angela Davis and Helen Othow.</p></scopecontent></c02>
+
+<c02><did><container type="sfcaudioopenreel">FT-20027/16006</container><unittitle>Jarrell and Cockerham #3, Lowgap, N.C., 8 July 1971</unittitle><physdesc><genreform>1/4" Open Reel Audio</genreform></physdesc></did><scopecontent><p>Audio recording featuring Tommy Jarrell and Fred Cockerham; Recorded by Blanton Owen at the former home of Fred Cockerham in Lowgap, N.C.</p></scopecontent></c02>
+```
 
 Once your spreadsheet is complete, you can copy and paste the necessary lines or cells into the collection's XML finding aid.
 
@@ -415,7 +427,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="sfcaudioopenreel">Call Number</container> 
 
-<unittitle>Title, <geogname>Place</geogname>, <unitdate>Date</unitdate>: tape number</unittitle>     
+<unittitle>Title, Place, Date: tape number</unittitle>     
 
 <physdesc> 
 
@@ -443,7 +455,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="sfcaudioopenreel">FT-20009/1</container> 
 
-<unittitle>Mike and Alice, <geogname>Atlanta, Ga.</geogname>, <unitdate>Date</unitdate>: tape 1 of 2</unittitle>     
+<unittitle>Mike and Alice, Atlanta, Ga., 1977: tape 1 of 2</unittitle>     
 
 <physdesc> 
 
@@ -469,7 +481,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="videotape">Call Number</container> 
 
-<unittitle>Title, <geogname>Place</geogname>, <unitdate>Date</unitdate>: tape number</unittitle>   
+<unittitle>Title, Place, Date: tape number</unittitle>   
 
 <physdesc> 
 
@@ -497,7 +509,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="videotape">VT-20009/1</container> 
 
-<unittitle>Elizabeth Cotton, <geogname>Chapel Hill, N.C.</geogname>, <unitdate>1983</unitdate>: tape 1 of 2</unittitle>   
+<unittitle>Elizabeth Cotton, Chapel Hill, N.C., 1983: tape 1 of 2</unittitle>   
 
 <physdesc> 
 
@@ -515,7 +527,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 </scopecontent> 
 
-<processinfo><p>Memo found with original container resides in Folder 3</p></processinfo> 
+<processinfo><p>Processing information: Memo found with original container resides in Folder 3</p></processinfo> 
 ```
 
 #### Film
@@ -525,7 +537,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="film">Call Number</container> 
 
-<unittitle>Title, <geogname>Place</geogname>, <unitdate>Date</unitdate>: reel number</unittitle> 
+<unittitle>Title, Place, Date: tape number</unittitle> 
 
 <physdesc> 
 
@@ -553,7 +565,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="film">F-20009/1</container> 
 
-<unittitle>Alice and Hazel, <geogname>Chapel Hill, N.C.</geogname>, <unitdate>1973</unitdate>: reel 1 of 2</unittitle> 
+<unittitle>Alice and Hazel, Chapel Hill, N.C., 1973: reel 1 of 2</unittitle> 
 
 <physdesc> 
 
@@ -581,7 +593,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <extref href="[insert cdr link]"Call Number</extref></container> 
 
-<unittitle>Title, <geogname>Place</geogname>, <unitdate>Date</unitdate></unittitle> 
+<unittitle>Title, Place, Date</unittitle> 
 
 <physdesc> 
 
@@ -605,7 +617,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="digfolder"><extref href="https://cdr.lib.unc.edu/list/uuid:b699afe5-17e3-4020-a55b-a4746c0353f7">DF-20469/1</container> 
 
-<unittitle>Fiddler's Grove Bluegrass Festival, <unitdate>1973</unitdate></unittitle> 
+<unittitle>Fiddler's Grove Bluegrass Festival, 1973</unittitle> 
 
 <physdesc> 
 
