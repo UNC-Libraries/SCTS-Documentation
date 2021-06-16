@@ -859,12 +859,16 @@ Unlike audio and video formats, moving image film is ideally hand inspected, pla
 
 Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-There are two label templates for AV item labels - front facing foil-backed labels and spine foil-backed labels. Pages of both label types are located in Technical Services' main processing room. Use whichever label and placement makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes. No matter which label you choose, be sure to place it on the AV item's box or case, rather than on the physical media.  
+There are two label templates for AV item labels - front facing foil-backed labels and spine foil-backed labels. Pages of both label types are located in Technical Services' main processing room.
 
-Templates for both label types can be found in the Departments drive:  
+**Templates for both label types can be found in the Departments drive:**  
 G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
 G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
 
+Use whichever label and placement makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes. No matter which label you choose, be sure to place it on the AV item's box or case, rather than on the physical media.  
+
+Moving image films are a bit of an outlier when it comes to labels. If possible, use the Brother P-touch label maker located on level 10 to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.       
+ 
 Sample images of formats and label placement below:    
  
 ![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabelssmall.png)    
@@ -875,11 +879,21 @@ _Spine label on audiocassette cases_
 
 ![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_VideoLabels.png)    
 _Spine label on videotape cases_
-
-Moving image films are a bit of an outlier when it comes to labels. If possible, use the Brother P-touch label maker located on level 10 to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.       
- 
+  
 ![a stack of motion picture film cans with labels written on each can](https://github.com/annewell/images/blob/main/Processing_FilmLabelsmall.png)  
 _Labels on motion picture film can_
+
+### Exceptions to the rule
+
+Do not place labels on the spine when pertinent information or existing labels are found externally on the container’s spine or if the label does not properly fit on the spine. If either of these instances occur, place label on the top left front of the item. Sample image below:
+
+![audiocassette with front facing label](https://github.com/annewell/images/blob/main/Processing_CassetteLabels2.png)  
+_Front facing label on audiocassette_
+
+Consult SFC staff when there are questions of preservation when labeling items. For extremely rare or unique items, it is possible to place a label on a custom-made Mylar sleeve that is placed over the item. Sample image below: 
+
+![LP with mylar sleeve that lists call number](https://github.com/annewell/images/blob/main/Processing_LPSleeveLabel.png)  
+_LP with front facing label placed on custom-made Mylar sleeve_
 
 ## Boxing AV
 
@@ -920,7 +934,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | Digital Audio Tapes (DAT) | DAT                           | Archival Audiocassette |
 | MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
 | Audiodiscs (small)      | 45s, 7" LPs & Flexidiscs           | Archival 45     |
-| Audiodiscs (medium)      | 10 and 12" LPs, 78s, and Instantaneous discs            | Archival LP     |
+| Audiodiscs (medium)      | 10 and 12" LPs, 78s, and Instantaneous discs            | Archival LP (blue)     |
 | Audiodiscs (large)      | Transcription Discs            | Archival Transcription Disc     |
 | Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
@@ -942,7 +956,15 @@ The small to medium-sized AV materials AV formats that do require additional hou
 
 ## AV box labels
 
-Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
+Label templates for each shared box title resides in the Departments drive: G:\wilson\ts\archival\labels\AV labels
+
+Before boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "room available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before using or creating new AV boxes and box labels.
+
+Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the template above to create additional box title labels.
+
+Sample images of box labels below:
+
+
 
 
 # Resources  
