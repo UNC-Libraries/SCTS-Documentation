@@ -845,19 +845,33 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 
 _This section is a work in progress...stay tuned!_
 
+This section discusses rehousing, labeling, box types, and shelving locations AV materials. Plan to cross-reference this section with Technical Services general documentation on [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md), which includes crucial information on recording locations in ArchivesSpace.
+
 ## Rehousing Materials
 
 Apart from moving image film, it is preferable to leave AV materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
 
 Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
-Unlike audio and video formats, all moving image film is hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
+Unlike audio and video formats, all moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
 ## Labeling
 
 #### Create small item labels
 
-Once you have retrieved the correct call numbers, see “How to Create Item level AV Labels.docx” (_Louis\Southern Folklife Collection\Departmental Documents\Documentation\Archival Processing \How to Create Item Level AV Labels.docx_) and create labels using foil-back spine labels supplied by Technical Services. 
+Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
+
+There are two options for AV item labels - front facing labels and spine foil-backed labels. Use whichever label makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes.  
+
+Front facing label on an open reel audiotape:  
+![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabels1.png)
+
+Spine label on audiocassettes:  
+![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_CassetteLabels.png)
+
+Templates for both label types can be found in the Departments drive:  
+G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
+G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
 
 #### Physically label items
 
