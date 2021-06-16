@@ -88,7 +88,7 @@ There are 2 options for entering item metadata into Jitterbug – either by crea
 
 Before proceeding, it is also a good idea to familiarize yourself with Jitterbug – its fields, search options, and capabilities, such as its auto-generated call numbers, required metadata fields, and suggested metadata fields.  
 
-Jitterbug documentation is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug. Documentation includes field definitions and style guide ("Jitterbug Field Definitions and Style Guide.xlsx"), as well as a documentation and template related to Jitterbug CSV Items Import (more on that below under "Data Entry and Import": "CSV Import"). 
+**Additional jitterbug documentation is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug.** Documentation includes field definitions and style guide ("Jitterbug Field Definitions and Style Guide.xlsx"), as well as a documentation and template related to Jitterbug CSV Items Import (more on that below under Data Entry and Import: [CSV Import](CSV import)). 
 
 ## Metadata
 
