@@ -94,7 +94,7 @@ Before proceeding, it is also a good idea to familiarize yourself with Jitterbug
 
 ### Auto-generated call numbers
 
-Call numbers are unique IDs assigned to AV items. They consist of a format specific prefix followed by collection number and item number, "T-4849/1" for example (lease note Southern Folklife Collection AV materials have format prefix variations for audiotape and audiocassette - more on format prefixes under [Formats/Container types](#formatscontainer-types)).
+Call numbers are unique IDs assigned to AV items. They consist of a format specific prefix followed by collection number and item number, "T-4849/1" for example (please note that select Southern Folklife Collection AV materials, like audiotape and audiocassette, have format prefix variations from other collecting units at Wilson - more on format prefixes under [Formats/Container types](#formatscontainer-types)).
 
 Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. Call numbers should not be manually entered into Jitterbug. If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
  
