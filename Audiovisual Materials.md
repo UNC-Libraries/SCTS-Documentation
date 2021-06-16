@@ -857,8 +857,6 @@ Unlike audio and video formats, moving image film is ideally hand inspected, pla
 
 ## Labeling
 
-#### Create and apply item labels
-
 Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
 There are two label templates for AV item labels - front facing foil-backed labels and spine foil-backed labels. Pages of both label types are located in Technical Services' main processing room. Use whichever label and placement makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes. No matter which label you choose, be sure to place it on the AV item's box or case, rather than on the physical media.  
