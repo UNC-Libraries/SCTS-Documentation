@@ -911,8 +911,6 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
 The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. The Southern Folklife Collection has a distinct boxing system for its AV materials, which is listed separately: 
 
-#### Audio:
-
 **Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection**  
 
 | Box Title                 | Format(s)                     | Box Type               |
@@ -924,6 +922,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | Audiodiscs (small)      | 45s, 7" LPs & Flexidiscs           | Archival 45     |
 | Audiodiscs (medium)      | 10 and 12" LPs, 78s, and Instantaneous discs            | Archival LP     |
 | Audiodiscs (large)      | Transcription Discs            | Archival Transcription Disc     |
+| Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
 **Collecting unit: Southern Folklife Collection**  
 
@@ -939,26 +938,11 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC LPs       | 7, 10, and 12" LPs, Flexidiscs           | Archival LP (blue)    |
 | SFC 45s       | 45s           | Archival 45     |
 | SFC 78s       | 78s           | Archival 78     |
-
-
-#### Video:
-
-| Box Title         | Format(s)                                                                  | Box Type               |
-| ----------------- | -------------------------------------------------------------------------- | ---------------------- |
-| Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box              |
-
-All of the AV materials that require boxes are stored in shared boxes that may span collections and collecting units. The Southern Folklife Collection has a distinct boxing system for its materials. The current box or container types at Wilson (arranged by format) include:
-
-Audiocassette Box
-SFC Audiocassette Box
-
-
-
-
+| SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
 ## AV box labels
 
-Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room. Another important things to note is that the Southern Folklife Collection has a distinct shared box systems based 
+Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in the file folder located in TS archival's processing room.
 
 
 # Resources  
