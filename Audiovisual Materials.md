@@ -853,7 +853,7 @@ Apart from moving image film, it is preferable to leave AV materials in their or
 
 Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
-Unlike audio and video formats, all moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
+Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services descided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
 ## Labeling
 
@@ -861,22 +861,26 @@ Unlike audio and video formats, all moving image film is ideally hand inspected,
 
 Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
-There are two label templates for AV item labels - front facing labels and spine foil-backed labels. Use whichever label makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes.  
+There are two label templates for AV item labels - front facing foil-backed labels and spine foil-backed labels. Pages of both label types are located in Technical Services' main processing room. Use whichever label and placement makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes. No matter which label you choose, be sure to place it on the AV item's box or case, rather than on the physical media.  
 
 Templates for both label types can be found in the Departments drive:  
 G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
 G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
 
-Labels for moving image film are created with the label maker located on level 10.   
+Moving image films are a bit of an outlier. These labels are created with the label maker located on level 10. If possible, use the use the Brother P-touch label maker to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.     
+Sample images of formats and label placement below:  
 
-Front facing label on an open reel audiotape:  
-![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabels1.png)
+Front facing label on an open reel audiotape box:  
+![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabelssmall.png)
 
-Spine label on audiocassettes:  
+Spine label on audiocassette cases:  
 ![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_CassetteLabels.png)
 
-Labels on motion picture film:  
-![a stack of motion picture film cans with labels written on each can](https://github.com/annewell/images/blob/main/Processing_FilmLabel.png)
+Spine label on videotape cases:  
+![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_VideoLabels.png)
+
+Labels on motion picture film can:  
+![a stack of motion picture film cans with labels written on each can](https://github.com/annewell/images/blob/main/Processing_FilmLabelsmall.png)
 
 ## Boxing AV
 
