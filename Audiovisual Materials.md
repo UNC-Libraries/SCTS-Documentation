@@ -321,7 +321,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     Jitterbug will alert you of a successful import.
 
-    Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to # Labeling and Putting Stuff Away (Work in Progress!) below.
+    Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to [Labeling and Putting Stuff Away (Work in Progress!)](#labeling-and-putting-stuff-away-work-in-progress).
 
 
 ## Data export  
