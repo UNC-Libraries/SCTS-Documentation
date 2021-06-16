@@ -865,20 +865,22 @@ Templates for both label types can be found in the Departments drive:
 G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
 G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
 
-Moving image films are a bit of an outlier. These labels are created with the label maker located on level 10. If possible, use the use the Brother P-touch label maker to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.     
-Sample images of formats and label placement below:  
+Sample images of formats and label placement below:    
+ 
+![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabelssmall.png)    
+_Front facing label on an open reel audiotape box_
 
-Front facing label on an open reel audiotape box:  
-![open reel audiotape with front facing label](https://github.com/annewell/images/blob/main/Processing_OpenReelLabelssmall.png)
-
-Spine label on audiocassette cases:  
-![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_CassetteLabels.png)
+![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_CassetteLabels.png)    
+_Spine label on audiocassette cases_
 
 Spine label on videotape cases:  
-![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_VideoLabels.png)
+![audiocassettes with spine labels](https://github.com/annewell/images/blob/main/Processing_VideoLabels.png)    
+_Spine label on videotape cases_
 
-Labels on motion picture film can:  
-![a stack of motion picture film cans with labels written on each can](https://github.com/annewell/images/blob/main/Processing_FilmLabelsmall.png)
+Moving image films are a bit of an outlier when it comes to labels. If possible, use the Brother P-touch label maker located on level 10 to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.       
+ 
+![a stack of motion picture film cans with labels written on each can](https://github.com/annewell/images/blob/main/Processing_FilmLabelsmall.png)  
+_Labels on motion picture film can_
 
 ## Boxing AV
 
