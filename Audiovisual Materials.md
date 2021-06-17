@@ -933,7 +933,7 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
 Proceed to Shelving Materials if you have any of the materials listed above.  
 
-### AV items that do require boxing
+### AV items that require boxing
 
 The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. The Southern Folklife Collection has a distinct boxing system for its AV materials, which is listed separately: 
 
@@ -954,10 +954,10 @@ The small to medium-sized AV materials AV formats that do require additional hou
 
 | Box Title                 | Format(s)                     | Box Type               |
 | ------------------------- | ----------------------------- | ---------------------- |
-| SFC 8-Track Tapes             | 8-Track tape                  | Archival CD            |
-| SFC Audiocassettes            | Audiocassette; Microcassettes | Archival Audiocassette |
-| SFC Digital Audio Tapes (DAT) | DAT                           | Archival Audiocassette |
-| SFC MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
+| SFC 8-Track Tapes*             | 8-Track tape                  | Archival CD            |
+| SFC Audiocassettes*            | Audiocassette; Microcassettes | Archival Audiocassette |
+| SFC Digital Audio Tapes (DAT)* | DAT                           | Archival Audiocassette |
+| SFC MiniDiscs*                 | MiniDisc                      | Archival Audiocassette |
 | SFC Audiodisc       | Audiodisc stampers           | Archival LP (blue)     |
 | SFC Transcription Discs       | Transcription Discs           | Archival Transcription Disc     |
 | SFC Instantaneous Discs       | Instantaneous Discs           | Archival Instantaneous Disc (off-white)     |
@@ -966,8 +966,8 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC 78s       | 78s           | Archival 78     |
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
+*As hinted at in the [Call numbers](#call-numbers) section, SFC also has an additional boxing system for AV Items (Audiocassettes, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes) with legacy call number type, or materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). These boxes have their own label type and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
 
-As hinted at in the [Call numbers](#call-numbers) section, SFC also has an additional boxing system for AV Items with legacy call number type, or materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). These boxes have their own label type and are shelved in a separate location. More on that below under 
 
 ## AV box labels
 
@@ -975,9 +975,11 @@ Label templates for each shared box title resides in the Departments drive: G:\w
 
 Before boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before using or creating new AV boxes and box labels.
 
-Please note existing labels for shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the template above to create additional box title labels.
+Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the template above to create additional box title labels.
 
 Sample images of box labels below:
+
+## Shelving
 
 
 # Resources  
