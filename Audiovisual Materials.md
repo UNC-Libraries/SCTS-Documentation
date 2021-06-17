@@ -92,15 +92,19 @@ Before proceeding, it is also a good idea to familiarize yourself with Jitterbug
 
 ## Metadata
 
-### Auto-generated call numbers
+### Call numbers
 
-Call numbers are unique IDs assigned to AV items. They consist of a format specific prefix followed by collection number and item number, "T-4849/1" for example (please note that select Southern Folklife Collection AV materials, like audiotape and audiocassette, have format prefix variations from other collecting units at Wilson - more on format prefixes under [Formats/Container types](#formatscontainer-types)).
+Call numbers are unique IDs assigned to AV items. They consist of a format specific prefix followed by collection number and item number ("T-4849/1" for example). Please note that select Southern Folklife Collection AV items, like audiotape and audiocassette, have different format prefixes from other collecting units at Wilson - more on format prefixes under [Formats/Container types](#formatscontainer-types)). 
 
-Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. Call numbers should not be manually entered into Jitterbug. If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
+To make things even more fun, Southern Folklife Collection AV items may have either one of two call number types - a. the one mentioned above, a format specific prefix followed by collection number and item number ("FS-20511/1" for example), or a legacy numbering system that consists of consecutively numbered items that span across SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). For the most part, with new accessions you will proabably be encountering the "collection slash" call number type, as I like to call it. The good news, is that you don't need to know which style of call numbers to assign to SFC AV items (collection slash or legacy style), because Jitterbug does this work for you - more on that below under Auto-generated call numbers. The kind of bad news, is that these two call number types have their own unique boxing and shelving workflows - more on that in Labeling and putting stuff away section of this documentation.
+
+**Auto-generated call numbers**:
+
+Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
-It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist or Technical Services archivist, who will advise on how to proceed. DO NOT delete records unless instructed to. 
+It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist or Technical Services archivist, who will advise on how to proceed. **DO NOT delete records unless instructed to.** 
 
 ### Required fields 
 
@@ -897,6 +901,8 @@ _LP with front facing label placed on custom-made Mylar sleeve_
 
 ## Boxing AV
 
+### AV items that do not require boxing
+
 Small to medium-sized AV materials require additional housing into archival boxes. Larger formats that do not require additional housing include: 
 
 #### Audio:
@@ -922,6 +928,10 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 - ½” Open Reel Video 
 - 1” Open Reel Video 
 - 2” Open Reel Video
+
+Proceed to Shelving Materials if you have any of the materials listed above.  
+
+### AV items that do require boxing
 
 The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. The Southern Folklife Collection has a distinct boxing system for its AV materials, which is listed separately: 
 
@@ -953,6 +963,8 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC 45s       | 45s           | Archival 45     |
 | SFC 78s       | 78s           | Archival 78     |
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
+
+
 
 ## AV box labels
 
