@@ -859,7 +859,7 @@ Whenever an AV material is rehoused, transcribe all titles and container notes f
 
 Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services descided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
-## Labeling
+## AV labels
 
 Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
@@ -899,7 +899,9 @@ Consult SFC staff when there are questions of preservation when labeling items. 
 ![LP with mylar sleeve that lists call number](https://github.com/annewell/images/blob/main/Processing_LPSleeveLabel.png)  
 _LP with front facing label placed on custom-made Mylar sleeve_
 
-## Boxing AV
+## AV boxes
+
+Small to medium-sized AV materials require additional housing into archival boxes, while larger formats do not require additional housing.
 
 ### AV items that do not require boxing
 
@@ -965,6 +967,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
 
+As hinted at in the [Call numbers](#call-numbers) section, SFC also has an additional boxing system for AV Items with legacy call number type, or materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). These boxes have their own label type and are shelved in a separate location. More on that below under 
 
 ## AV box labels
 
