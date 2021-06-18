@@ -14,12 +14,12 @@ Updated June 2021 by Anne Wells.
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
 - [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)
-    -[Rehousing]
-    -[AV item labels]
-    -[AV box types]
-    -[AV box labels]
-    -[Shelving]
-    -[Creating locations in ASpace]
+    -[Rehousing](#rehousing-materials)    
+    -[AV item labels](#av-item-labels)    
+    -[AV box types](#av-box-types)    
+    -[AV box labels](#av-box-labels)    
+    -[Shelving](#shelving)    
+    -[Creating locations in ASpace](#creating-locations-in-archivesspace)    
 - [Resources](#resources)
 
 ***
@@ -1009,7 +1009,7 @@ AV items are stored by format on level 10 in the 1952, or "orange", section of W
 
 Below are current shelving locations for AV items arranged by format.
 
-###Open reel audio
+**Open reel audio**
 
 Includes 1/4" Open Reel Audio, 1/2" Open Reel Audio, 1" Open Reel Audio, 2" Open Reel Audio, ADAT, Hi8 (Audio Tape), Data8, U-Matic (Audio Tape), Beta (PCM-F1), VHS (PCM-F1), NAB Cartridge. Shelve as-is. Does not require boxing. 
 
@@ -1021,7 +1021,7 @@ Includes 1/4" Open Reel Audio, 1/2" Open Reel Audio, 1" Open Reel Audio, 2" Open
 
     UARMS (“T”): N.2 a through N.1 b (currently: N.1 b.13) 
 
-###Audiocassette 
+**Audiocassette** 
 
 Includes audiocassettes and microcassettes. Formats require box storage. 
 
@@ -1031,7 +1031,7 @@ Includes audiocassettes and microcassettes. Formats require box storage.
 
     SHC/UARMS/RBC (“C”): K.26 b (currently: K.26 b.27) 
 
-###Audiodiscs 
+**Audiodiscs** 
 
 Includes Instantaneous disc, Transcription discs, 45s, 78s, LP, Flexi disc, Analog discs. Formats require box storage. 
 
@@ -1053,7 +1053,7 @@ Includes Instantaneous disc, Transcription discs, 45s, 78s, LP, Flexi disc, Anal
 
     SHC/UARMS/RBC large audiodiscs (Transcription discs, large-sized Instantaneous discs): N.1 b [bottom row] (currently: N.a b.63) 
 
-###Digital Audio Tape (DAT) 
+**Digital Audio Tape (DAT)** 
 
 Includes Digital Audio Tapes (DATs) 
 
@@ -1063,7 +1063,7 @@ Includes Digital Audio Tapes (DATs)
 
     SHC/UARMS/RBC (“DAT-“): N.1 b (currently: N.1 b.57) 
 
-###MiniDisc 
+**MiniDisc** 
 
 Includes MiniDisc 
 
@@ -1073,7 +1073,7 @@ Includes MiniDisc
 
     SHC/UARMS/RBC (“MD-“): TBD! 
 
-###8-Track Tape 
+**8-Track Tape** 
 
 Includes 8-track tapes 
 
@@ -1081,20 +1081,20 @@ Includes 8-track tapes
     
     SHC/UARMS/RBC (“8T”): TBD!
 
-###Cylinder 
+**Cylinder** 
 
 Includes cylinders 
 
     SFC/ SHC/UARMS/RBC (“CY”): K.3 b (currently: K.3 b.32) 
     SHC/UARMS/RBC: 
 
-###Wire Recording 
+**Wire Recording** 
 
 Includes wire recordings 
 
     SFC/SHC/UARMS/RBC (“WR-“): K.3 b (currently K.3 b.22) 
 
-###Videotapes (boxable videotapes) 
+**Videotape (boxable videotapes)**
 
 Includes Betacam, Betacam SP, Betamax, Digital Betacam, U-Matic, VHS, HDCAM, DVCAM, MiniDV, Hi*, Video8, Digital 8, D-2, M-Format 
 
@@ -1102,7 +1102,7 @@ Includes Betacam, Betacam SP, Betamax, Digital Betacam, U-Matic, VHS, HDCAM, DVC
 
     SHC/UARMS/RBC ( “VT-“): K.5 b through K.7 b (currently: K.7 b.26) 
 
-###Videotapes (large open reel) 
+**Videotape (large open reel)**
 
 Includes 2" Open Reel Video, 1" Open Reel Video, 1/2" Open Reel Video 
 
@@ -1110,7 +1110,7 @@ Includes 2" Open Reel Video, 1" Open Reel Video, 1/2" Open Reel Video
 
     SHC/UARMS/RBC ( “VT-“): K.5 a through K.5 b [bottom row] (currently: K.5 b.47) 
 
-###Film 
+**Film**
 
 Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips 
 
