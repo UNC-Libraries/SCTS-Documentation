@@ -331,12 +331,12 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     Jitterbug will alert you of a successful import.
 
-    Once all the item-level metadata is entered or imported into Jitterbug (YAY!), proceed to [Labeling and Putting Stuff Away (Work in Progress!)](#labeling-and-putting-stuff-away-work-in-progress).
+    If you are pre-processing materials and NOT working on finding aid description, proceed to [Labeling and Putting Stuff Away (Work in Progress!)](#labeling-and-putting-stuff-away-work-in-progress) once all the item-level metadata is entered or imported into Jitterbug (YAY!).
 
 
 ## Data export  
 
-Ideally processing archivists create finding aid description for AV materials using an Audio Visual Items metadata export from Jitterbug. 
+Ideally Technical Services archivists create finding aid description for AV materials using an Audio Visual Items metadata export from Jitterbug. 
 
 **To export metadata for an entire collection**, open Audio Visual Items and select the collection name from "Collection Filters" on the left-hand side of the screen, illustrated below. When using filters, make sure you have de-selected other filters, such as "Type Filters" and "Format Filters" - you want to make sure you're getting the entire collection for your export.
 
@@ -364,7 +364,7 @@ Select the green "Build and Download" button on the bottom of the batch export o
 
 This section will cover specifics related to finding aid description, including sample XML, container types related to AV items, and a reference section of Library of Congress subject headings that might come in handy when describing AV collections. 
 
-As of June 2021, Technical Services archivists use a Notetab template and hand code XML in Oxygen to create collection finding aids, which are stored in a Github repository (not this one!, a different one :). Archivists follow [DACS descriptive elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Descriptive%20Elements.md) and a local [style guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md), which includes information on inclusive description of materials.  
+As of June 2021, Technical Services archivists are the only folks creating and publishing finding aid description. TS archivists use a Notetab template and hand code XML in Oxygen to create collection finding aids, which are stored in a Github repository (not this one!, a different one :). Archivists follow [DACS descriptive elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Descriptive%20Elements.md) and a local [style guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md), which includes information on inclusive description of materials.  
 
 All AV materials are coded at the item-level in finding aids, even materials that span multiple tapes or reels, to facilitate AV digitization and streaming. As mentioned in the introduction on this documentation page, Technical Services archivists are currently exploring other ways to describe AV materials, such as at the collection, series, or box-level. This documentation will be updated as those workflows solidify, but in the meantime this section will stick to workflows related to item-level AV description. This section will not cover broader discussions of finding aid description, such as abstracts, collection titles & dates, etc, which are discussed in both [DACS descriptive elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Descriptive%20Elements.md) and [style guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md).
 
@@ -650,7 +650,7 @@ If you need assistance identifying AV formats, consult the Audiovisual Archivist
 
 https://psap.library.illinois.edu/collection-id-guide 
 
-Below is a guide for AV format description for the Jitterbug database (green), as well as for finding aids (orange). 
+Below is a guide for AV format description for Jitterbug AND finding aids. 
 
 ### Audio
 
@@ -855,7 +855,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 
 _This section is a work in progress...stay tuned!_
 
-This section discusses rehousing, labeling, box types, and shelving locations AV materials. Plan to cross-reference this section with Technical Services general documentation on [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md), which includes crucial information on recording locations in ArchivesSpace.
+This section discusses rehousing, labeling, box types, and shelving locations of AV items. Plan to cross-reference this section with Technical Services general documentation on [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md), which includes crucial information on recording locations in ArchivesSpace.
 
 ## Rehousing Materials
 
@@ -867,9 +867,9 @@ Unlike audio and video formats, moving image film is ideally hand inspected, pla
 
 ## AV item labels
 
-Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
+Once you have retrieved the correct AV item call numbers from Jitterbug (either via the Jitterbug interface or via Jitterbug [data export](#data-export)), see “How to Create Item level AV Labels” document, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels.docx
 
-There are two label templates for AV item labels - front facing foil-backed labels and spine foil-backed labels. Pages of both label types are located in Technical Services' main processing room.
+There are two label templates for AV item labels - front facing foil-backed labels and spine foil-backed labels. Blank pages of both label types are located in Technical Services' main processing room.
 
 **Templates for both label types can be found in the Departments drive:**  
 G:\wilson\ts\archival\labels\AV labels\AV_front_labels  
@@ -972,9 +972,9 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC 78s       | 78s           | Archival 78     |
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
-*As hinted at in the [Call numbers](#call-numbers) section above, SFC also has an additional boxing system for AV Items, which include all the box titles with an asterisk - Audiocassettes, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes) with legacy call number type, or materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). These boxes have their own label type and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
+*As hinted at in the [Call numbers](#call-numbers) section above, SFC also has an additional boxing system for AV Items with legacy style call numbers, which include all the box titles with an asterisk - Audiocassettes, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes - listed above. These AV items have consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). AV items with legacy style call numbers have separate boxes and label types, and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
 
-Before you begin boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before using or creating new AV boxes and box labels.
+Before you begin boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before creating new AV boxes and box labels.
 
 When boxing, try to organize items by call number in the box. Place items in a top-down order starting on the top left of the box. Be consistent as to how you place items in the box(es). Place call numbers facing out when possible. Try not to place items on top of each other. The goal is easy access for patron requests and digitization. Annotated (and perhaps overkill) examples below: 
 
@@ -1005,7 +1005,7 @@ _Southern Folklife Collection audiocassette box type_
 
 ## Shelving
 
-AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson's closed stacks, except for several hundred motion picture films stored remotely at the Library Service Center (LSC). As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. Additionally, select formats, like open reel audio and moving image film, are also shelved by collecting unit, but for the part AV items are co-mingling among units.
+AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson Library's closed stacks (except for several hundred motion picture films stored remotely at the Library Service Center (LSC), but let's not get into that now). As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. Additionally, select formats, like open reel audio and moving image film, are also shelved by collecting unit, but for the part AV items are co-mingling among units.
 
 Below are current shelving locations for AV items arranged by format.
 
