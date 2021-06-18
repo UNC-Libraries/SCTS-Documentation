@@ -14,6 +14,12 @@ Updated June 2021 by Anne Wells.
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
 - [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)
+    -[Rehousing]
+    -[AV item labels]
+    -[AV box types]
+    -[AV box labels]
+    -[Shelving]
+    -[Creating locations in ASpace]
 - [Resources](#resources)
 
 ***
@@ -859,7 +865,7 @@ Whenever an AV material is rehoused, transcribe all titles and container notes f
 
 Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services descided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
-## AV labels
+## AV item labels
 
 Once you have retrieved the correct AV item call numbers from Jitterbug, see “How to Create Item level AV Labels.docx”, which covers how to create AV item labels using Microsoft Word's mail merge: G:\wilson\ts\archival\labels\AV labels\How to Create Item AV Labels
 
@@ -899,7 +905,7 @@ Consult SFC staff when there are questions of preservation when labeling items. 
 ![LP with mylar sleeve that lists call number](https://github.com/annewell/images/blob/main/Processing_LPSleeveLabel.png)  
 _LP with front facing label placed on custom-made Mylar sleeve_
 
-## AV boxes
+## AV box types
 
 Small to medium-sized AV materials require additional housing into archival boxes, while larger formats do not require additional housing.
 
@@ -1113,6 +1119,10 @@ Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips
     SHC (“F-“): K.8 b through K.11 a (currently: K.11 a.10) 
 
     UARMS (“F-“): K.10 b through K.11 a (currently: K.11 a.10) 
+    
+## Creating locations in ArchivesSpace
+
+Once AV items are shelved in their appropriate location, record the location in ArchivesSpace. Visit Technical Services' [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#creating-locations-in-archivesspace) for helpful instructions on how to record locations in ASpace.
 
 # Resources  
 
