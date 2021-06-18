@@ -985,9 +985,7 @@ When boxing, try to organize items by call number in the box. Place items in a t
 
 Label templates for each shared box title resides in the Departments drive: G:\wilson\ts\archival\labels\AV labels
 
-These templates include labels for all box types mentioned above, including both Southern Folklife Colleciton label types. They are arranged by collecting unit (sort of): "SFC" and "non SFC".
-
-Before boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before using or creating new AV boxes and box labels.
+These templates include labels for all box types mentioned above, including both Southern Folklife Colleciton label types. Templates are arranged by collecting unit (sort of): "SFC" and "non SFC".
 
 Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the templates above to create additional box title labels.
 
