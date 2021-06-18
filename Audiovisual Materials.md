@@ -937,7 +937,7 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 - 1” Open Reel Video 
 - 2” Open Reel Video
 
-Proceed to Shelving Materials if you have any of the materials listed above.  
+Proceed to [Shelving](#shelving) if you have any of the materials listed above.  
 
 ### AV items that require boxing
 
