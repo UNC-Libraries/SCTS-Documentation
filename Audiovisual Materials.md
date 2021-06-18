@@ -966,20 +966,42 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC 78s       | 78s           | Archival 78     |
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
-*As hinted at in the [Call numbers](#call-numbers) section, SFC also has an additional boxing system for AV Items (Audiocassettes, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes) with legacy call number type, or materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). These boxes have their own label type and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
+*As hinted at in the [Call numbers](#call-numbers) section above, SFC also has an additional boxing system for AV Items, which include all the box titles with an asterisk - Audiocassettes, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes) with legacy call number type, or materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). These boxes have their own label type and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
 
+Before you begin boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before using or creating new AV boxes and box labels.
+
+When boxing, try to organize items by call number in the box. Place items in a top-down order starting on the top left of the box. Be consistent as to how you place items in the box(es). Place call numbers facing out when possible. Try not to place items on top of each other. The goal is easy access for patron requests and digitization. Annotated (and perhaps overkill) examples below: 
+
+**Ideal arrangment of audiocassettes in archival audiocassette box:**   
+![cassettes arranged in audiocassette box with arrows illustrating ideal box arrangment](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement1.png)
+
+**Ideal arrangment of DATS in archival audiocassette box:**  
+![DATS  arranged in audiocassette box with arrows illustrating ideal box arrangment](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement2.png)
+
+**Ideal arrangment of videotapes in paige box:**  
+![videotapes arranged in paige box](https://github.com/annewell/images/blob/main/Shelving_VideoBoxArrangement.png)
 
 ## AV box labels
 
 Label templates for each shared box title resides in the Departments drive: G:\wilson\ts\archival\labels\AV labels
 
+These templates include labels for all box types mentioned above, including both Southern Folklife Colleciton label types. They are arranged by collecting unit (sort of): "SFC" and "non SFC".
+
 Before boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before using or creating new AV boxes and box labels.
 
-Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the template above to create additional box title labels.
+Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the templates above to create additional box title labels.
 
-Sample images of box labels below:
+Sample images of SFC box labels below (more images coming soon!):
+
+![Southern Folklife Colleciton legacy audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_LegacyCassetteBox.png)  
+_Southern Folklife Collection legacy audiocassette box type_
+
+![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCCassetteBox.png)  
+_Southern Folklife Collection audiocassette box type_
 
 ## Shelving
+
+With the ex
 
 
 # Resources  
