@@ -106,7 +106,7 @@ To make things even more fun, Southern Folklife Collection AV items may have eit
 
 **Auto-generated call numbers**:
 
-Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
+Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore super important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
@@ -114,7 +114,7 @@ It is possible to manually change a call number in Jitterbug if a mistake happen
 
 ### Required fields 
 
-Audiovisual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type. (Spoiler: there are two methods for importing AV Items into Jitterbug, either directly or via CSV import. Please note these differences between these methods in the descriptions below).  
+Audio Visual Items records for Audio, Film, and Video items contain required metadata fields, which are listed below by record type.  
  
 AUDIO:   
 •	Title: Follow title guidelines found below under "Creating Titles."   
@@ -179,7 +179,7 @@ No matter which data entry method you choose, how you enter that metadata into J
 
 Additional guidance on creating item titles can be found below. 
 
-**Creating titles**
+### Creating titles  
 Transcribe annotations written on original container into the "Container Note" field in Jitterbug. This field preserves how the title is originally presented on the container. 
 
 If possible, titles include who (performer or event title), what (album or song title), where (recording location using style guide for finding aid [GeogNames](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#geognames)), & when (item year or date using the style guide for finding aid [dates](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#dates)). Below is further guidance on constructing titles: 
