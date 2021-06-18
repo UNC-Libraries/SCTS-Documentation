@@ -29,21 +29,21 @@ Updated June 2021 by Anne Wells.
 ![open reel audio in Wilson Library's stacks](https://github.com/annewell/images/blob/main/Stacks_OpenReel.png)
 *Open reel audio shelved in Wilson Library's closed stacks.*
 
-Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual (AV) materials. Or rather, this documentation covers AV processing after the point of accession all the way up to access, or finding aid description, and shelving materials in Wilson Library's closed stacks. At this point, this documentaiton page does not cover policies or workflows related to AV conservation, digitization, post-digitization, or quality control (maybe one day?). 
+Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual (AV) materials. Or rather, this documentation covers AV processing after the point of accession all the way up to access, or finding aid description, and shelving materials in Wilson Library's closed stacks. At this point, this documentation page does not cover policies or workflows related to AV conservation, digitization, post-digitization, or quality control (maybe one day?). 
 
 For the most part, archivists physically process and describe AV materials at the item-level to help facilitate preservation via digitization (we're currently developing processes for describing & arranging AV materials at the collection and box-level!...stay tuned.).
 
 In addition to creating finding aid description for AV access, when possible, processing archivists and assistants also enter item-level descriptive metadata of AV items into Jitterbug, an internal online content management system for Wilson Library's analog AV holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items ("Audiovisual Items"), including required metadata fields, field definitions (& style guide), and data entry and import/export methods. 
 
-The outline of this documentation reflects the suggested order of operations for processing analog AV materials: 1. create an arrangmet plan, 2. inventory materials and import or enter item-level metadata into Jitterbug, 3. construct finding aid description using metadata imported or found in Jitterbug, 4. label and shelve materials. 
+The outline of this documentation reflects the suggested order of operations for processing analog AV materials: 1. create an arrangement plan, 2. inventory materials and import or enter item-level metadata into Jitterbug, 3. construct finding aid description using metadata imported or found in Jitterbug, 4. label and shelve materials. 
 
 Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
 
 # Arrangement
 
-When assigned an accession containing archival AV materials, consult with a Technical Services archivist about how to best arrange the materials. It is helpful to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of arranging archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats. The question - how can we best present these materials so people can find what they need? - should guide your approach to arrangment. 
+When assigned an accession containing archival AV materials, consult with a Technical Services archivist about how to best arrange the materials. It is helpful to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, it's helpful to remember that the process of arranging archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats. The question - how can we best present these materials so people can find what they need? - should guide your approach to arrangement. 
 
-Generally, try to arrange AV materials by content, rather than by format. Exceptions to this may include production-heavy collections with defined works, or titles, that may benefit from having sub-groupings of like-format items in order to gain a sense of the creator's production process. An example of this includes the Tom Davenport Papers, http://finding-aids.lib.unc.edu/20025   
+Generally, try to arrange AV materials by content, rather than by format. Exceptions to this may include production-heavy collections with defined works, or titles, that may benefit from having sub-groupings of like-format items to gain a sense of the creator's production process. An example of this includes the Tom Davenport Papers, http://finding-aids.lib.unc.edu/20025   
 
 It's also helpful to remember that archival AV items are non-circulating materials. Or rather, access to all archival AV materials requires an intervention of sorts - in-house or external digitization and the production of a viewing or listening copy that is either delivered on physical media to a patron, or more conveniently, is streamed via the online finding aid. This distance grants processing archivists some freedom to present archival AV materials in a meaningful or helpful way in Wilson Library's online finding aids that is not inhibited by the physical materials, which are often stored by like formats across collections and collecting units. In other words, we can present materials intellectually by original order or mixed-format groupings while also storing the materials in preservation friendly groupings and conditions.
 
@@ -51,7 +51,7 @@ Below are examples of arrangement methods of AV materials and when to use them:
 
 ## Original order:
 
-When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project based collections, and more generally, collections compiled and organized by the creators themselves. 
+When most of the materials have an existing original order, try to preserve this order. Original order can be identified with curatorial guidance, by obvious or visible original numbering schemes, published discographies, or from supplementary documentation provided by the creator and/or donor. Collections with original order often include record label collections, production-heavy collections with various formats and elements, project-based collections, and more generally, collections compiled and organized by the creators themselves. 
 
 **Examples:**
 
@@ -71,7 +71,7 @@ FolkScene Collection [series 1 consists of radio programs arranged chronological
 
 ## Alphabetical:
 
-Use alphabetical order when original order or chronological order are not immediately apparent, or used consistently across the collection. If you are dealing primarily with performer-based recordings, alphabetize by performer’s last name. If you are dealing with event or program-based recordings, alphabetize by program or event titles, when apparent (ex1. Newport Folk Festival, Odetta ; ex2. Newport Folk Festival, Pete Seeger). 
+Use alphabetical order when original order or chronological order are not immediately apparent or used consistently across the collection. If you are dealing primarily with performer-based recordings, alphabetize by performer’s last name. If you are dealing with event or program-based recordings, alphabetize by program or event titles, when apparent (ex1. Newport Folk Festival, Odetta ; ex2. Newport Folk Festival, Pete Seeger). 
 
 **Examples:**
 
@@ -102,7 +102,7 @@ Before proceeding, it is also a good idea to familiarize yourself with Jitterbug
 
 Call numbers are unique IDs assigned to AV items. They consist of a format specific prefix followed by collection number and item number ("T-4849/1" for example). Please note that select Southern Folklife Collection AV items, like audiotape and audiocassette, have different format prefixes from other collecting units at Wilson - more on format prefixes under [Formats/Container types](#formatscontainer-types)). 
 
-To make things even more fun, Southern Folklife Collection AV items may have either one of two call number types - a. the one mentioned above, a format specific prefix followed by collection number and item number ("FS-20511/1" for example), or a legacy numbering system that consists of consecutively numbered items that span across SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). For the most part, with new accessions you will proabably be encountering the "collection slash" call number type, as I like to call it. The good news, is that you don't need to know which style of call numbers to assign to SFC AV items (collection slash or legacy style), because Jitterbug does this work for you - more on that below under Auto-generated call numbers. The kind of bad news, is that these two call number types have their own unique boxing and shelving workflows - more on that in Labeling and putting stuff away section of this documentation.
+To make things even more fun, Southern Folklife Collection AV items may have either one of two call number types - a. the one mentioned above, a format specific prefix followed by collection number and item number ("FS-20511/1" for example), or a legacy numbering system that consists of consecutively numbered items that span across SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). For the most part, with new accessions you will probably be encountering the "collection slash" call number type, as I like to call it. The good news, is that you don't need to know which style of call numbers to assign to SFC AV items (collection slash or legacy style), because Jitterbug does this work for you - more on that below under Auto-generated call numbers. The kind of bad news is that these two call number types have their own unique boxing and shelving workflows - more on that in Labeling and putting stuff away section of this documentation.
 
 **Auto-generated call numbers**:
 
@@ -138,7 +138,7 @@ VIDEO:
 
 ### Suggested fields 
 
-Suggested fields are not required, but contain super useful metadata worth gathering when possible. Suggested fields are listed below by Audiovisual Items record type.  
+Suggested fields are not required but contain super useful metadata worth gathering when possible. Suggested fields are listed below by Audiovisual Items record type.  
  
 AUDIO:   
 •	Container Note: Transcription of titles, notes, or memos (such as song titles and performer names) found on or with the item.  
@@ -224,12 +224,12 @@ If a recording or event spans multiple tapes, add the tape number to the title:
     •	Highlander summer camp, 1987, tape 2
     •	Highlander summer camp, 1987, tape 3
 
-Also list the range, if you are certain of the exact range of the materials:
+Also list the range if you are certain of the exact range of the materials:
  
     •	Highlander summer camp, 1989, tape 1 of 2
     •	Highlander summer camp, 1989, tape 2 of 2
 
-If an item contains multiple events or recordings, list each event and use a semi-colon to separate events. If multiple locations or dates are listed on a multi-event item, list locations dates in the title using the style guide for finding aid dates:
+If an item contains multiple events or recordings, list each event and use a semi-colon to separate events. If multiple locations or dates are listed on a multi-event item list locations dates in the title using the style guide for finding aid dates:
 
     •	Beggars, practice tape; Ruby, practice tape 
     •	Peter Holsapple, "Holy Night", September 1985; dB's, "Feliz Navidad", "Holiday Spirit" and "Never Say When"
@@ -285,7 +285,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
 2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and Audiovisual Archivist or Technical Services archivist.  
  
-    If you assigned temporary IDs to your items, create and save a separate spreadsheet, or labeling guide, with your temporary ID column. Below is an example of     a labeling guide with inventory numbers highlighted in yellow and item call numbers highlighted in green. In this example, call numbers were added to the         labeling guide after arrangement and Jitterbug import to assist with labeling of the materials. 
+    If you assigned temporary IDs to your items create and save a separate spreadsheet, or labeling guide, with your temporary ID column. Below is an example of     a labeling guide with inventory numbers highlighted in yellow and item call numbers highlighted in green. In this example, call numbers were added to the         labeling guide after arrangement and Jitterbug import to assist with labeling of the materials. 
 
     ![temporary ID tracking csv](https://github.com/annewell/images/blob/main/Jitterbug_tempIDscsv.png)
 
@@ -346,7 +346,7 @@ Ideally processing archivists create finding aid description for AV materials us
 
 ![Using Jitterbug search function to search accession](https://github.com/annewell/images/blob/main/Jitterbug_export4.PNG)
 
-Once you have the correct collection filter selected or desired accession search results, "Select All" the AV items using the "Ctrl+A" shortcut, and select "Export" via the "Batch" dropdown, illustrated below.
+Once you have the correct collection filter selected or desired accession search results "Select All" the AV items using the "Ctrl+A" shortcut and select "Export" via the "Batch" dropdown, illustrated below.
 
 ![Jitterbug batch export selected for export](https://github.com/annewell/images/blob/main/Jitterbug_export2.PNG)
 
@@ -354,7 +354,7 @@ When you select "Export" a pop-up window will appear. You can select any appropr
 
 ![Jitterbug batch export field options](https://github.com/annewell/images/blob/main/Jitterbug_export3.PNG)
 
-Select the green "Build and Download" button on the bottom of the batch export option and voila!, a csv export, illustrated below, should now be located in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
+Select the green "Build and Download" button on the bottom of the batch export option and voila!, a csv export, illustrated below, should now be in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
 
 ![sample Jitterbug export CSV file](https://github.com/annewell/images/blob/main/Jitterbug_export5.PNG)
 
@@ -372,7 +372,7 @@ All AV materials are coded at the item-level in finding aids, even materials tha
 
 To create item-level XML for AV materials, open your CSV export from Jitterbug and isolate fields you would like to call out in description (Call Number, Title, and Format, for example. Some other fields that might be helpful include LegacyID, Reel/TapeNumber, RecordingLocation, ItemYear, ItemDate, and ContentDescription). 
 
-Create collumns for your XML, illustrated below in green, to properly code your desired metadata:
+Create columns for your XML, illustrated below in green, to properly code your desired metadata:
 
 ![sample XML spreadsheet with Jitterbug metadata](https://github.com/annewell/images/blob/main/Description_XMLspreadsheet.PNG)
 
@@ -719,7 +719,7 @@ Below is a guide for AV format description for the Jitterbug database (green), a
 
 ## Subject headings
 
-A great resource for folklore soud recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
+A great resource for folklore sound recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
 
 Listed below is a local controlled vocabulary for music-based and/or AV centric collections. Subject headings are arranged loosely by genre or subject. For more widely applicable subject terms (i.e.: Folk music., Folk songs., Dance music., etc), it may be useful to further specify the heading with a geographic location (i.e. Folk music--North Carolina.).  
 
@@ -730,7 +730,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Doo-wop (Music)
 - Harmonica music.
 - Piedmont blues.
-- Popular muisc--United States.
+- Popular music--United States.
 - Rhythm and blues music.
 
 #### Country western:
@@ -863,7 +863,7 @@ Apart from moving image film, it is preferable to leave AV materials in their or
 
 Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
-Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services descided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
+Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services decided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
 ## AV item labels
 
@@ -922,7 +922,7 @@ Small to medium-sized AV materials require additional housing into archival boxe
 
 Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
-#### Motion Picutre Film:
+#### Motion Picture Film:
 
 - 35mm 
 - 16mm 
@@ -978,22 +978,22 @@ Before you begin boxing and shelving AV materials, check on level 10 to see if t
 
 When boxing, try to organize items by call number in the box. Place items in a top-down order starting on the top left of the box. Be consistent as to how you place items in the box(es). Place call numbers facing out when possible. Try not to place items on top of each other. The goal is easy access for patron requests and digitization. Annotated (and perhaps overkill) examples below: 
 
-**Ideal arrangment of audiocassettes in archival audiocassette box:**   
-![cassettes arranged in audiocassette box with arrows illustrating ideal box arrangment](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement1.png)
+**Ideal arrangement of audiocassettes in archival audiocassette box:**   
+![cassettes arranged in audiocassette box with arrows illustrating ideal box arrangement](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement1.png)
 
 **Ideal arrangment of DATS in archival audiocassette box:**  
-![DATS  arranged in audiocassette box with arrows illustrating ideal box arrangment](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement2.png)
+![DATS arranged in audiocassette box with arrows illustrating ideal box arrangement](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement2.png)
 
-**Ideal arrangment of videotapes in paige box:**  
+**Ideal arrangement of videotapes in paige box:**  
 ![videotapes arranged in paige box](https://github.com/annewell/images/blob/main/Shelving_VideoBoxArrangement.png)
 
 ## AV box labels
 
 Label templates for each shared box title resides in the Departments drive: G:\wilson\ts\archival\labels\AV labels
 
-These templates include labels for all box types mentioned above, including both Southern Folklife Colleciton label types. Templates are arranged by collecting unit (sort of): "SFC" and "non SFC".
+These templates include labels for all box types mentioned above, including both Southern Folklife Collection label types. Templates are arranged by collecting unit (sort of): "SFC" and "non SFC".
 
-Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in TS archival's processing room. Utilize the templates above to create additional box title labels.
+Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in Technical Services' main processing room. Utilize the templates above to create additional box title labels.
 
 Sample images of SFC box labels below (more images coming soon!):
 
@@ -1005,7 +1005,7 @@ _Southern Folklife Collection audiocassette box type_
 
 ## Shelving
 
-AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson's closed stacks, with the exception of several hundred motion picture films stored remotely at the Library Service Center (LSC). As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilon. Additionally, select formats, like open reel audio and moving image film, are also shelved by collecting unit, but for the part AV items are co-mingling among units.
+AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson's closed stacks, except for several hundred motion picture films stored remotely at the Library Service Center (LSC). As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. Additionally, select formats, like open reel audio and moving image film, are also shelved by collecting unit, but for the part AV items are co-mingling among units.
 
 Below are current shelving locations for AV items arranged by format.
 
@@ -1126,7 +1126,7 @@ Once AV items are shelved in their appropriate location, record the location in 
 
 # Resources  
 
-This documentaiton page did not emerge from a vacuum! As the Audiovisual Archivist at Wilson Library, I lean on and acknowledge the many smart & thoughtful people who have presented and published widely on the subject of processing archival AV materials. Below is a growing & ever-evolving list of some recommended resources to check out if you haven't already:
+This documentation page did not emerge from a vacuum! As the Audiovisual Archivist at Wilson Library, I lean on and acknowledge the many smart & thoughtful people who have presented and published widely about processing archival AV materials. Below is a growing & ever-evolving list of some recommended resources to check out if you haven't already:
 
 - University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
