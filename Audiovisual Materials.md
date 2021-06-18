@@ -999,8 +999,120 @@ _Southern Folklife Collection audiocassette box type_
 
 ## Shelving
 
-With the ex
+AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson's closed stacks, with the exception of several hundred motion picture films stored remotely at the Library Service Center (LSC). As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilon. Additionally, select formats, like open reel audio and moving image film, are also shelved by collecting unit, but for the part AV items are co-mingling among units.
 
+Below are current shelving locations for AV items arranged by format.
+
+###Open reel audio
+
+Includes 1/4" Open Reel Audio, 1/2" Open Reel Audio, 1" Open Reel Audio, 2" Open Reel Audio, ADAT, Hi8 (Audio Tape), Data8, U-Matic (Audio Tape), Beta (PCM-F1), VHS (PCM-F1), NAB Cartridge. Shelve as-is. Does not require boxing. 
+
+    SFC (FT-100 through FT-18000s): N.5 a through N.3 a (currently: N.3 a.66) 
+    
+    SFC (“FT-_ _ _ _ _/_”): K.18 b through K.20 b (currently: K.20 b.8) 
+
+    SHC (“T”): K.27 a through K.27 b (currently: K.27 b.14) 
+
+    UARMS (“T”): N.2 a through N.1 b (currently: N.1 b.13) 
+
+###Audiocassette 
+
+Includes audiocassettes and microcassettes. Formats require box storage. 
+
+    SFC (FS-100 through FS-18000s): K.24 a through K.23 b (currently: K.23 b.6) 
+
+    SFC (“FS-_ _ _ _ _/_): K.23 b (currently: K.23 b.46) 
+
+    SHC/UARMS/RBC (“C”): K.26 b (currently: K.26 b.27) 
+
+###Audiodiscs 
+
+Includes Instantaneous disc, Transcription discs, 45s, 78s, LP, Flexi disc, Analog discs. Formats require box storage. 
+
+    SFC Instantaneous discs (“FD-“): K.3 b (currently K.3 b.14) 
+
+    SFC Transcription discs (“TR-“): K.3 b through K.4 a [bottom row] (currently: K.4 a.30) 
+
+    SFC 45 (“45-“): K.3 b (currently: K.3 b.11) 
+
+    SFC 78 (“78-“): K.3 b (currently: K.3 b.11) 
+
+    SFC LP and Flexi disc (“FC-“): K.3 b (currently: K.3 b.12) 
+
+    SFC Analog disc (“D-“): K.3 b (currently: K.3 b.12) 
+
+    SHC/UARMS/RBC small audiodiscs (45s, Flexi discs, small-sized Instantaneous discs): N.1 b (currently: N.1 b.42) 
+
+    SHC/UARMS/RBC medium audiodiscs (LPs, 78s, medium-sized Instantaneous discs): N.1 b (currently: N.1 b.51) 
+
+    SHC/UARMS/RBC large audiodiscs (Transcription discs, large-sized Instantaneous discs): N.1 b [bottom row] (currently: N.a b.63) 
+
+###Digital Audio Tape (DAT) 
+
+Includes Digital Audio Tapes (DATs) 
+
+    SFC (DAT-100s through DAT-600s): KK.11 a. 1 (currently: KK.11 a. 1) 
+
+    SFC (“DAT-_ _ _ _ _/_“): KK.11 a through KK.12 a (currently: KK.12 a. 3) 
+
+    SHC/UARMS/RBC (“DAT-“): N.1 b (currently: N.1 b.57) 
+
+###MiniDisc 
+
+Includes MiniDisc 
+
+    SFC (MD-100s): KK13 a (currently: KK13 a.1) 
+
+    SFC (“MD-_ _ _ _ _/_“): KK13 a (currently: KK13 a.1) 
+
+    SHC/UARMS/RBC (“MD-“): TBD! 
+
+###8-Track Tape 
+
+Includes 8-track tapes 
+
+    SFC (“8T”): K.3 b (currently K.3 b.21) 
+    
+    SHC/UARMS/RBC (“8T”): TBD!
+
+###Cylinder 
+
+Includes cylinders 
+
+    SFC/ SHC/UARMS/RBC (“CY”): K.3 b (currently: K.3 b.32) 
+    SHC/UARMS/RBC: 
+
+###Wire Recording 
+
+Includes wire recordings 
+
+    SFC/SHC/UARMS/RBC (“WR-“): K.3 b (currently K.3 b.22) 
+
+###Videotapes (boxable videotapes) 
+
+Includes Betacam, Betacam SP, Betamax, Digital Betacam, U-Matic, VHS, HDCAM, DVCAM, MiniDV, Hi*, Video8, Digital 8, D-2, M-Format 
+
+    SFC (“VT-“): M.2 a; M.2 b; K.1 b; K.2 a (currently: K.2 a.27) 
+
+    SHC/UARMS/RBC ( “VT-“): K.5 b through K.7 b (currently: K.7 b.26) 
+
+###Videotapes (large open reel) 
+
+Includes 2" Open Reel Video, 1" Open Reel Video, 1/2" Open Reel Video 
+
+    SFC (“VT-“): K.2 a [bottom row] (currently: K.2 a.36) 
+
+    SHC/UARMS/RBC ( “VT-“): K.5 a through K.5 b [bottom row] (currently: K.5 b.47) 
+
+###Film 
+
+Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips 
+
+    SFC (“F-“): K.10 a through K.11 a (currently: K.11 a.10) 
+
+    SHC (“F-“): K.8 b through K.11 a (currently: K.11 a.10) 
+
+    UARMS (“F-“): K.10 b through K.11 a (currently: K.11 a.10) 
 
 # Resources  
 
