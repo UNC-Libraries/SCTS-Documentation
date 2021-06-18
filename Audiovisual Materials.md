@@ -13,7 +13,7 @@ Updated June 2021 by Anne Wells.
     -[Formats/container types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
-- [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)
+- [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)  
     -[Rehousing](#rehousing-materials)      
     -[AV item labels](#av-item-labels)    
     -[AV box types](#av-box-types)    
