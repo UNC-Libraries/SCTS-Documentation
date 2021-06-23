@@ -965,14 +965,14 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | SFC Digital Audio Tapes (DAT)* | DAT                           | Archival Audiocassette |
 | SFC MiniDiscs*                 | MiniDisc                      | Archival Audiocassette |
 | SFC Audiodisc       | Audiodisc stampers           | Archival LP (blue)     |
-| SFC Transcription Discs       | Transcription Discs           | Archival Transcription Disc     |
-| SFC Instantaneous Discs       | Instantaneous Discs           | Archival Instantaneous Disc (off-white)     |
+| SFC Transcription Discs*       | Transcription Discs           | Archival Transcription Disc     |
+| SFC Instantaneous Discs*       | Instantaneous Discs           | Archival Instantaneous Disc (off-white)     |
 | SFC LPs       | 7, 10, and 12" LPs, Flexidiscs           | Archival LP (blue)    |
 | SFC 45s       | 45s           | Archival 45     |
 | SFC 78s       | 78s           | Archival 78     |
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
-*As hinted at in the [Call numbers](#call-numbers) section above, SFC also has an additional boxing system for AV Items with legacy style call numbers, which include all the box titles with an asterisk - Audiocassettes, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes - listed above. These AV items have consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). AV items with legacy style call numbers have separate boxes and label types, and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
+*As hinted at in the [Call numbers](#call-numbers) section above, SFC also has an additional boxing system for AV Items with legacy style call numbers, which include all the box titles with an asterisk - Audiocassettes, Transcription Discs, Instantaneous Discs, Digital Audiotapes (DAT), MiniDiscs, and 8-track tapes - listed above. These AV items may have consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). AV items with legacy style call numbers have separate boxes and label types, and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
 
 Before you begin boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before creating new AV boxes and box labels.
 
