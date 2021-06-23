@@ -1155,8 +1155,7 @@ Includes 8-track tapes
 
 Includes cylinders 
 
-    SFC/ SHC/UARMS/RBC (“CY”): K.3 b (currently: K.3 b.32) 
-    SHC/UARMS/RBC: 
+    SFC/SHC/UARMS/RBC (“CY”): K.3 b (currently: K.3 b.32) 
 
 ### Wire Recording
 
