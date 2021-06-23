@@ -920,8 +920,7 @@ Small to medium-sized AV materials require additional housing into archival boxe
 - ½” Open Reel Audio 
 - 1” Open Reel Audio 
 - 2” Open Reel Audio 
-
-Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
+- Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
 **Motion Picture Film:**
 
@@ -942,7 +941,7 @@ Proceed to [Shelving](#shelving) if you have any of the materials listed above.
 
 #### AV items that require boxing
 
-The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. There are three distinct box types, including one for all collecting units besides the Southern Folklife Collection, ("Wilson AV Box") and two distinct box types for the Southern Folklife Collection (SFC AV Box and Legacy SFC AV Box). These three box types are listed below with their associated formats and archival box type.
+The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. There are three distinct box types, including one for all collecting units besides the Southern Folklife Collection, ("Wilson AV Box") and two distinct box types for the Southern Folklife Collection ("SFC AV Box" and "Legacy SFC AV Box"). These three box types are listed below with their associated formats and archival box type.
 
 **Wilson AV Box**  
 Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection
@@ -1036,7 +1035,6 @@ _Audiodiscs (medium) box title on archival LP disc box type._
 
 ![large audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsLarge.JPEG)  
 _Audiodiscs (large) box title on archival transcription discs box type._
-
 
 **Images of select Southern Folklife Collection AV box titles and types below, including legacy box types:**
 
