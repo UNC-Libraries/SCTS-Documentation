@@ -999,7 +999,7 @@ Please note that existing labels for select shared AV boxes, such as "Videotape 
 
 ## Images of box labels and types  
 
-**Images of select Wilson AV box titles and types:  **
+**Images of select Wilson AV box titles and types:**
 
 ![Audiocassettes stored on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Audiocassettes.JPEG)  
 _Audiocassettes box title on archival audiocassette box type. Note the "space available" flag in the most recent box._
