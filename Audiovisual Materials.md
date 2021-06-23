@@ -941,7 +941,7 @@ Proceed to [Shelving](#shelving) if you have any of the materials listed above.
 
 The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. 
 
-Please note that there are three distinct box types, including one for all collecting units besides the Southern Folklife Collection ("Wilson AV Box") and two distinct box types for the Southern Folklife Collection ("SFC AV Box" and "Legacy SFC AV Box"). These three box types are listed below with their associated formats and archival box type. (It can be tricky at first to get a hang of all of these different boxing systems - if you ever have a question, please feel free to consult the Audiovisual Archivist or a Technical Services processing archivist. We're here for you!)
+Please note that there are three distinct boxing systems for AV items, including one for all collecting units besides the Southern Folklife Collection ("Wilson AV Box") and two distinct boxing systems for the Southern Folklife Collection ("SFC AV Box" and "Legacy SFC AV Box"). These three box systems are listed below with their associated formats and archival box type. (It can be tricky at first to get a hang of all of these different boxing systems - if you ever have a question, please feel free to consult the Audiovisual Archivist or a Technical Services processing archivist. We're here for you!)
 
 **Wilson AV Box**  
 Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection
@@ -1073,9 +1073,11 @@ _Legacy SFC 8-track box title on archival CD box type._
 
 ## Shelving
 
-AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson Library's closed stacks (except for several hundred motion picture films stored remotely at the Library Service Center (LSC), but let's not get into that now). As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. Additionally, select formats, like open reel audio and moving image film, are also shelved by collecting unit, but for the part AV items are co-mingling among units.
+AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson Library's closed stacks (except for several hundred motion picture films stored remotely at the Library Service Center (LSC), but let's not get into that now). Select AV formats, like open reel audio and moving image film, are also shelved by collecting unit.
 
-Below are current shelving locations for AV items arranged by format.
+As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. SFC also has two distinct call number systems for select formats that are shelved independently from one another. 
+
+Below are the current shelving locations for AV items arranged by format, collecting unit, and SFC call number type (when appropriate).
 
 ### Open reel audio
 
@@ -1190,7 +1192,7 @@ Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips
     
 ## Creating locations in ArchivesSpace
 
-Once AV items are shelved in their appropriate location, record the location in ArchivesSpace. Visit Technical Services' [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#creating-locations-in-archivesspace) for helpful instructions on how to record locations in ASpace.
+Once AV items are shelved in their appropriate location, record the location in ArchivesSpace. Visit Technical Services' [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#creating-locations-in-archivesspace) for helpful instructions on how to record AV item locations in ASpace.
 
 # Resources  
 
