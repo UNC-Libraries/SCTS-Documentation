@@ -914,7 +914,7 @@ Small to medium-sized AV materials require additional housing into archival boxe
 
 Small to medium-sized AV materials require additional housing into archival boxes. Larger formats that do not require additional housing include: 
 
-##### Audio:
+**Audio:**
 
 - ¼” Open Reel Audio 
 - ½” Open Reel Audio 
@@ -923,7 +923,7 @@ Small to medium-sized AV materials require additional housing into archival boxe
 
 Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
-##### Motion Picture Film:
+**Motion Picture Film:**
 
 - 35mm 
 - 16mm 
@@ -932,7 +932,7 @@ Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 - 9.5mm
 - Filmstrips
 
-##### Open Reel Videotape:
+**Open Reel Videotape:**
 
 - ½” Open Reel Video 
 - 1” Open Reel Video 
@@ -942,7 +942,7 @@ Proceed to [Shelving](#shelving) if you have any of the materials listed above.
 
 #### AV items that require boxing
 
-The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. The Southern Folklife Collection has two distinct boxing systems for its AV materials, which are listed separately: 
+The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. There are three distinct box types, including one for all collecting units besides the Southern Folklife Collection, ("Wilson AV Box") and two distinct box types for the Southern Folklife Collection (SFC AV Box and Legacy SFC AV Box). These three box types are listed below with their associated formats and archival box type.
 
 **Wilson AV Box**
 Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection
@@ -986,12 +986,12 @@ Use this boxing system for legacy SFC materials with consecutive call numbers th
 
 | Box Title                 | Format(s)                     | Box Type               |
 | ------------------------- | ----------------------------- | ---------------------- |
-| SFC 8-Track Tapes*             | 8-Track tape                  | Archival CD            |
-| SFC Audiocassettes*            | Audiocassette; Microcassettes | Archival Audiocassette |
-| SFC Digital Audiotapes (DAT)* | DAT                           | Archival Audiocassette |
-| SFC MiniDiscs*                 | MiniDisc                      | Archival Audiocassette |
-| SFC Transcription Discs*       | Transcription Discs           | Archival Transcription Disc     |
-| SFC Instantaneous Discs*       | Instantaneous Discs           | Archival Instantaneous Disc (off-white)     |
+| SFC 8-Track Tapes             | 8-Track tape                  | Archival CD            |
+| SFC Audiocassettes            | Audiocassette; Microcassettes | Archival Audiocassette |
+| SFC Digital Audiotapes (DAT) | DAT                           | Archival Audiocassette |
+| SFC MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
+| SFC Transcription Discs       | Transcription Discs           | Archival Transcription Disc     |
+| SFC Instantaneous Discs       | Instantaneous Discs           | Archival Instantaneous Disc (off-white)     |
 
 Before you begin boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before creating new AV boxes and box labels.
 
@@ -1022,6 +1022,9 @@ Below are images of select AV boxes for all three boxing methods for AV: Wilson 
 
 **Images of select Wilson AV box titles and types:**
 
+![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)  
+_Videotape box title on paige box with "space available" flag in the most recent box._
+
 ![Audiocassettes stored on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Audiocassettes.JPEG)  
 _Audiocassettes box title on archival audiocassette box type. Note the "space available" flag in the most recent box._
 
@@ -1034,28 +1037,32 @@ _Audiodiscs (medium) box title on archival LP disc box type._
 ![large audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsLarge.JPEG)  
 _Audiodiscs (large) box title on archival transcription discs box type._
 
-![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)  
-_Videotape box title on paige box with "space available" flag in the most recent box._
 
 **Images of select Southern Folklife Collection AV box titles and types below, including legacy box types:**
 
-![Southern Folklife Colleciton audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCCassetteBox.png)    
+![Southern Folklife videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCVideotape.JPEG)  
+_SFC videotape box title on paige box._
+
+![Southern Folklife Colleciton audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCAudiocassetteBox.JPEG)    
 _SFC audiocassettes box title on archival audiocassette box.._
 
-![Southern Folklife Colleciton legacy audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_LegacyCassetteBox.png)    
+![Southern Folklife Colleciton legacy audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCLegacyAudiocassetteBox.JPEG)    
 _Legacy SFC audiocassettes box title on archival audiocassette box type, with handwritten call numbers._
 
-![Southern Folklife Colleciton audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscs.JPEG)  
+![Southern Folklife Colleciton Instantaneous Discs box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscs.JPEG)  
 _SFC Instantaneous Discs box title on archival instantaneous disc box type._
 
-![Southern Folklife Colleciton audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscsLegacy.JPEG)  
+![Southern Folklife Colleciton Instantaneous Discs box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscsLegacy.JPEG)  
 _Legacy SFC Instantaneous Discs box title on archival instantaneous disc box type, with handwritten call numbers._
+
+![Southern Folklife Colleciton Instantaneous Discs box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCTranscriptionDiscs.JPEG)    
+_SFC Transcription Discs box title on archival transcription discs box type._
+
+![Southern Folklife Colleciton Instantaneous Discs box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_LegacySFCTranscriptionDiscs.JPEG)    
+_Legacy SFC Transcription Discs box title on archival transcription discs box type._
 
 ![Southern Folklife Colleciton LP box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCLPs.JPEG)  
 _SFC LP box title on archival LP box type._
-
-![Southern Folklife videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCVideotape.JPEG)  
-_SFC videotape box title on paige box._
 
 ![Southern Folklife Colleciton 8-track box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFC8track.jpeg)  
 _SFC 8-track box title on archival CD box type._
