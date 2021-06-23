@@ -997,7 +997,9 @@ These templates include labels for all 3 box types mentioned above, including bo
 
 Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in Technical Services' sweatbox space (that transitional space between the main processing room and the stacks), illustrated above. Utilize the templates above to create additional box title labels.
 
-**Images of select Wilson AV box types below:**
+## Images of box labels and types  
+
+**Images of select Wilson AV box titles and types:  **
 
 ![Audiocassettes stored on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Audiocassettes.JPEG)  
 _Audiocassettes box title on archival audiocassette box type. Note the "space available" flag in the most recent box._
@@ -1014,7 +1016,7 @@ _Audiodiscs (large) box title on archival transcription discs box type._
 ![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)  
 _Videotape box title on paige box with "space available" flag in the most recent box._
 
-**Images of select Southern Folklife Collection AV box types below, including legacy box types:**
+**Images of select Southern Folklife Collection AV box titles and types below, including legacy box types:**
 
 ![Southern Folklife Colleciton audiocassette box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_SFCCassetteBox.png)    
 _SFC audiocassettes box title on archival audiocassette box.._
