@@ -1000,39 +1000,39 @@ Please note that existing labels for select shared AV boxes, such as "Videotape 
 Sample images of select Wilson AV box types below:
 
 
-![Audiocassettes stored on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Audiocassettes.JPEG)
+![Audiocassettes stored on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Audiocassettes.JPEG)  
 _Audiocassettes box with "space available" flag in the most recent box._
 
-![small audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsSmall.jpeg)
+![small audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsSmall.jpeg)  
 _Audiodiscs (small) box for 45s, 7" LPs & Flexidiscs._
 
-![medium audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsMedium.JPEG)
+![medium audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsMedium.JPEG)  
 _Audiodiscs (medium) box for 10 and 12" LPs, 78s, and Instantaneous discs._
 
-![large audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsLarge.JPEG)
+![large audiodisc box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_AudiodiscsLarge.JPEG)  
 _Audiodiscs (large) box for large transcription discs._
 
-![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)
+![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)  
 _Videotape box with "space available" flag in the most recent box.
 
 Sample images of select Southern Folklife Collection AV box types below, including legacy box types:
 
-![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCCassetteBox.png)  
+![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCCassetteBox.png)    
 _SFC audiocassettes box._
 
-![Southern Folklife Colleciton legacy audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_LegacyCassetteBox.png)  
+![Southern Folklife Colleciton legacy audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_LegacyCassetteBox.png)    
 _Legacy SFC audiocassettes box with handwritten call numbers._
 
-![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscs.JPEG)
+![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscs.JPEG)  
 _SFC Instantaneous Discs box._
 
-![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscsLegacy.JPEG)
+![Southern Folklife Colleciton audiocassette box type](https://github.com/annewell/images/blob/main/Shelving_SFCInstantaneousDiscsLegacy.JPEG)  
 _Legacy SFC Instantaneous Discs box with handwritten call numbers._
 
-![Southern Folklife Colleciton LP box type](https://github.com/annewell/images/blob/main/Shelving_SFCLPs.JPEG)
+![Southern Folklife Colleciton LP box type](https://github.com/annewell/images/blob/main/Shelving_SFCLPs.JPEG)  
 _SFC LP box._
 
-![Southern Folklife videotape box type](https://github.com/annewell/images/blob/main/Shelving_SFCVideotape.JPEG)
+![Southern Folklife videotape box type](https://github.com/annewell/images/blob/main/Shelving_SFCVideotape.JPEG)  
 _SFC videotape box._
 
 ## Shelving
