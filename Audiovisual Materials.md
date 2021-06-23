@@ -944,7 +944,7 @@ Proceed to [Shelving](#shelving) if you have any of the materials listed above.
 
 The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. There are three distinct box types, including one for all collecting units besides the Southern Folklife Collection, ("Wilson AV Box") and two distinct box types for the Southern Folklife Collection (SFC AV Box and Legacy SFC AV Box). These three box types are listed below with their associated formats and archival box type.
 
-**Wilson AV Box**
+**Wilson AV Box**  
 Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection
 
 Use this boxing system for all collecting units besides the Southern Folklife Collection.
@@ -960,7 +960,7 @@ Use this boxing system for all collecting units besides the Southern Folklife Co
 | Audiodiscs (large)      | Transcription Discs             | Archival Transcription Disc     |
 | Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
-**SFC AV Box**
+**SFC AV Box**  
 Collecting unit: Southern Folklife Collection
 
 Use this boxing system for SFC AV materials with "collection slash" call numbers, like "FS-20511/1" for example.
@@ -979,7 +979,7 @@ Use this boxing system for SFC AV materials with "collection slash" call numbers
 | SFC 78s       | 78s           | Archival 78     |
 | SFC Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
-**Legacy SFC AV Box**
+**Legacy SFC AV Box**  
 Collecting unit: Southern Folklife Collection
 
 Use this boxing system for legacy SFC materials with consecutive call numbers that span SFC collections (FS-16012, FS-16013, FS-16014, and so on, for example). AV items with legacy style call numbers have separate boxes and label types, and are shelved in a separate location. More on that below under [AV box labels](#av-box-labels) and [Shelving](#shelving).
