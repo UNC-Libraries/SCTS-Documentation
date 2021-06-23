@@ -910,32 +910,30 @@ _LP with front facing label placed on custom-made Mylar sleeve_
 
 Small to medium-sized AV materials require additional housing into archival boxes, while larger formats do not require additional housing.
 
-#### AV items that do not require boxing
-
-Small to medium-sized AV materials require additional housing into archival boxes. Larger formats that do not require additional housing include: 
+#### AV items that do not require boxing:
 
 **Audio:**
 
-- ¼” Open Reel Audio 
-- ½” Open Reel Audio 
-- 1” Open Reel Audio 
-- 2” Open Reel Audio 
-- Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
+    - ¼” Open Reel Audio 
+    - ½” Open Reel Audio 
+    - 1” Open Reel Audio 
+    - 2” Open Reel Audio 
+    - Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
 **Motion Picture Film:**
 
-- 35mm 
-- 16mm 
-- Super 8mm 
-- 8mm 
-- 9.5mm
-- Filmstrips
+    - 35mm 
+    - 16mm 
+    - Super 8mm 
+    - 8mm 
+    - 9.5mm
+    - Filmstrips
 
 **Open Reel Videotape:**
 
-- ½” Open Reel Video 
-- 1” Open Reel Video 
-- 2” Open Reel Video
+    - ½” Open Reel Video 
+    - 1” Open Reel Video 
+    - 2” Open Reel Video
 
 Proceed to [Shelving](#shelving) if you have any of the materials listed above.  
 
