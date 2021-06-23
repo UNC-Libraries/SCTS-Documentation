@@ -953,7 +953,7 @@ The small to medium-sized AV materials AV formats that do require additional hou
 | MiniDiscs                 | MiniDisc                      | Archival Audiocassette |
 | Audiodiscs (small)      | 45s, 7" LPs & Flexidiscs           | Archival 45     |
 | Audiodiscs (medium)      | 10 and 12" LPs, 78s, and Instantaneous discs            | Archival LP (blue)     |
-| Audiodiscs (large)      | Transcription Discs            | Archival Transcription Disc     |
+| Audiodiscs (large)      | Transcription Discs             | Archival Transcription Disc     |
 | Videotape | Betacam; Betacam SP; Betamax; Digital Betacam; U-Matic; VHS; D-2; M-Format; VHS-C; HDCAM; DVCAM; MiniDV; Hi8; Video8; Digital 8 | Paige Box   
 
 **Collecting unit: Southern Folklife Collection**  
@@ -991,9 +991,11 @@ When boxing, try to organize items by call number in the box. Place items in a t
 
 Label templates for each shared box title resides in the Departments drive: G:\wilson\ts\archival\labels\AV labels
 
-These templates include labels for all box types mentioned above, including both Southern Folklife Collection label types. Templates are arranged by collecting unit (sort of): "SFC" and "non SFC".
+These templates include labels for all 3 box types mentioned above, including both Southern Folklife Collection label types. Templates are arranged by collecting unit (sort of): "SFC" and "non SFC".
 
-Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in Technical Services' main processing room. Utilize the templates above to create additional box title labels.
+![box labels in folders on metal shelving](https://github.com/annewell/images/blob/main/Shelving_BoxLabelsresize.jpeg)
+
+Please note that existing labels for select shared AV boxes, such as "Videotape box", "Audiocassette box", etc, are stored in a file folder located in Technical Services' sweatbox space (that transitional space between the main processing room and the stacks), illustrated above. Utilize the templates above to create additional box title labels.
 
 Sample images of SFC box labels below (more images coming soon!):
 
