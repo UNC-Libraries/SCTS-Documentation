@@ -992,7 +992,7 @@ Use this boxing system for legacy SFC materials with consecutive call numbers th
 
 Before you begin boxing and shelving AV materials, check on level 10 to see if there is space in the last box located in the box title sequence - a flag stating "space available" should be visible. If there is indeed room in the last box of a sequence, box as many items that will fit before creating new AV boxes and box labels.
 
-When boxing, try to organize items by call number in the box. Place items in a top-down order starting on the top left of the box. Be consistent as to how you place items in the box(es). Place call numbers facing out when possible. Try not to place items on top of each other. The goal is easy access for patron requests and digitization. Annotated (and perhaps overkill) examples below: 
+When boxing, try to organize items by call number in the box. Place items in a top-down order starting on the top left of the box. Be consistent as to how you place items in the box(es). Place call numbers facing out when possible. Try not to place items on top of each other. There are no strict rules for boxing materials - use your best judgement. The goal is easy access for patron requests and digitization. Annotated (and perhaps overkill) examples below: 
 
 **Ideal arrangement of audiocassettes in archival audiocassette box:**   
 ![cassettes arranged in audiocassette box with arrows illustrating ideal box arrangement](https://github.com/annewell/images/blob/main/Shelving_BoxArrangement1.png)
