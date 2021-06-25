@@ -23,6 +23,7 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Audiodisc**                                  | audiodisc               | D-collection#/item#                   |
 | **Audiotape**                                  | audiotape               | T-collection#/item#                   |
 | **Audio Box**                                  | audiobox                | AB-collection#/item#                  |
+| **Audiovisual Box**                                  | avbox             | box#                  |
 | **Box**                                        | box                     | box#                                  |
 | **Card File**                                  | cardfile                | CF-collection#/item#                  |
 | **CD Listening Copy**                          | cdlc                    | Unique ID keyed to original format    |
