@@ -1193,6 +1193,8 @@ Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips
 
 Once AV items are shelved in their appropriate location, record the location in ArchivesSpace. Visit Technical Services' [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#creating-locations-in-archivesspace) for helpful instructions on how to record AV item locations in ASpace.
 
+An important distinction to note is that you can add AV locations either in a Resource record or an Accession record in ArchivesSpace. Add locations to the Resource record when AV items are described or listed out in the collection finding aid (or are planning to be described by Technical Services). When AV materials are not described in a collection finding aid, such as a collection-level finding aid, add AV item locations to the appropriate Accession record.
+
 # Resources  
 
 This documentation page is not the result of a single individual! As the Audiovisual Archivist at Wilson Library, I lean on my Wilson Library colleagues (endless thanks to them!) and acknowledge the many smart & thoughtful people in the larger archives field who have presented and published widely about processing archival AV materials. Below is a growing & ever-evolving list of some recommended resources to check out if you haven't already. Solidarity to the AV people out there - wishing you all the best (& permanent funding for all your endeavors).:
