@@ -1,5 +1,10 @@
 # Inclusive Description Projects
-Compiled October 2020
+Compiled October 2020, updated June 2021
+
+## Language review and update for DocSouth North American Slave Narratives site, spring 2021
+
+* In consultation with the Conscious Editing Steering Committee, updated language on the [site's landing page](https://docsouth.unc.edu/neh/), [About page](https://docsouth.unc.edu/neh/about.html), and [Guide to Religious Content in Slave Narratives](https://docsouth.unc.edu/neh/religiouscontent.html) 
+
 
 ## Southern Folklife Collection: Legacy MARC project, summer and fall 2020, spring 2021
 
