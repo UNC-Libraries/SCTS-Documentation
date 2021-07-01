@@ -13,7 +13,7 @@ Updated June 2021 by Anne Wells.
     -[Formats/container types](#formatscontainer-types)  
     -[XML/EAD](#xmlead)  
     -[LC Subject Headings](#subject-headings)  
-- [Labeling and putting stuff away (work in progress)](#labeling-and-putting-stuff-away-work-in-progress)  
+- [Labeling and putting stuff away](#labeling-and-putting-stuff-away)  
     -[Rehousing](#rehousing-materials)      
     -[AV item labels](#av-item-labels)    
     -[AV box types and labels](#av-box-types-and-labels)      
@@ -330,7 +330,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     Jitterbug will alert you of a successful import.
 
-    If you are pre-processing materials and NOT working on finding aid description, proceed to [Labeling and Putting Stuff Away (Work in Progress!)](#labeling-and-putting-stuff-away-work-in-progress) once all the item-level metadata is entered or imported into Jitterbug (YAY!).
+    If you are pre-processing materials and NOT working on finding aid description, proceed to [Labeling and Putting Stuff Away](#labeling-and-putting-stuff-away) once all the item-level metadata is entered or imported into Jitterbug (YAY!).
 
 
 ## Data export  
@@ -850,9 +850,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Protest songs--Southern States. 
 - Work songs--Southern States. 
 
-# Labeling and putting stuff away (work in progress!)
-
-_This section is a work in progress...stay tuned!_
+# Labeling and putting stuff away
 
 This section discusses rehousing, labeling, box types, and shelving locations of AV items. Plan to cross-reference this section with Technical Services general documentation on [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md), which includes crucial information on recording locations in ArchivesSpace.
 
