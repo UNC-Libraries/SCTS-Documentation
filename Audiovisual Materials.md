@@ -704,7 +704,7 @@ Below is a guide for AV format description for Jitterbug AND finding aids.
 | 1" Open Reel Video             | 23                  | VT                     | VT                             | videotape             | 1" open reel video             |
 | 1/2" Open Reel Video           | 24                  | VT                     | VT                             | videotape             | 1/2" open reel video           |
 
-It's worth noting that there are also a handful of legacy SFC Call number prefixes for video formats, including **VOR** (video open reel), **VUT** (video U-Matic), **VBC** (video Betacam) and **VHS** (VHS). You may run accross these pre-fixes when working with legacy collections, such as Southern Folklife Collection Moving Image Materials #30002.
+It's worth noting that there are also a handful of legacy SFC Call number prefixes for video formats that are no longer in use, including **VOR** (video open reel), **VUT** (video U-Matic), **VBC** (video Betacam) and **VHS** (VHS). You may run accross these pre-fixes when working with legacy collections, such as Southern Folklife Collection Moving Image Materials #30002. 
 
 ### Film
 
