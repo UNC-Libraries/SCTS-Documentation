@@ -1169,7 +1169,7 @@ Includes Betacam, Betacam SP, Betamax, Digital Betacam, U-Matic, VHS, HDCAM, DVC
 
     SFC (“VT-“): M.2 a; M.2 b; K.1 b; K.2 a (currently: K.2 a.27) 
 
-    SHC/UARMS/RBC ( “VT-“): K.5 b through K.7 b (currently: K.7 b.26) 
+    SHC/UARMS/RBC (“VT-“): K.5 b through K.7 b (currently: K.7 b.26) 
 
 ### Videotape (large open reel)
 
@@ -1177,7 +1177,7 @@ Includes 2" Open Reel Video, 1" Open Reel Video, 1/2" Open Reel Video
 
     SFC (“VT-“): K.2 a [bottom row] (currently: K.2 a.36) 
 
-    SHC/UARMS/RBC ( “VT-“): K.5 a through K.5 b [bottom row] (currently: K.5 b.47) 
+    SHC/UARMS/RBC (“VT-“): K.5 a through K.5 b [bottom row] (currently: K.5 b.47) 
 
 ### Film
 
@@ -1191,7 +1191,7 @@ Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips
     
 Full-coat magnetic soundtracks
 
-    SFC, SHC, UARMS (“F-“): KK. 15 a. 1
+    SFC, SHC, UARMS (“F-“): KK. 15 a (currently: KK.15 a.2)
     
 ## Creating locations in ArchivesSpace
 
