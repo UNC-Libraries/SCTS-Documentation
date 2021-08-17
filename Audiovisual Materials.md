@@ -1,6 +1,6 @@
 Content owner: **Anne Wells**
 
-Updated June 2021 by Anne Wells.
+Updated August 2021 by Anne Wells.
 
 # Overview
 - [Introduction](#introduction)
@@ -1188,6 +1188,10 @@ Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips
     SHC (“F-“): K.8 b through K.11 a (currently: K.11 a.10) 
 
     UARMS (“F-“): K.10 b through K.11 a (currently: K.11 a.10) 
+    
+Full-coat magnetic soundtracks
+
+    SFC, SHC, UARMS (“F-“): KK. 15 a. 1
     
 ## Creating locations in ArchivesSpace
 
