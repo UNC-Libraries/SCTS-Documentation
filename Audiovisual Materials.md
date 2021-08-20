@@ -716,7 +716,7 @@ It's worth noting that there are also a handful of legacy SFC Call number prefix
 | 8mm                            | 4                   | F                      | F                              | film                  | 8mm motion picture film        |
 | 9.5mm                          | 5                   | F                      | F                              | film                  | 9.5mm motion picture film      |
 | Filmstrip                      | 6                   | F                      | F                              | film                  | Filmstrip                      |
-| Film preservation instance     | 6                   | FPI                    | FPI                              | fpi                   | 16mm motion picture film preservation instance         | 
+| Film preservation instance     | TBD                   | FPI                    | FPI                              | fpi                   | 16mm motion picture film preservation instance         | 
 
 ## Subject headings
 
