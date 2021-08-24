@@ -270,7 +270,11 @@ As mentioned above, there are two methods for entering metadata into Jitterbug â
 
 ### CSV import
 
-Documentation related to Jitterbug CSV import is located in the departments or **G drive: G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate"**. Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
+Documentation related to Jitterbug CSV import is located in the departments or G drive: 
+
+**G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate"**
+
+Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
 
 Below are the steps for creating and importing a CSV import into Jitterbug. The import process can be tedious (hang in there, you got this!).
 
