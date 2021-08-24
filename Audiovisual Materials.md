@@ -864,7 +864,7 @@ This section discusses rehousing, labeling, box types, and shelving locations of
 
 Apart from moving image film, it is preferable to leave AV materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
 
-Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into Jitterbug and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
+Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into the item's Jitterbug "Container note" field and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
 Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services decided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
 
