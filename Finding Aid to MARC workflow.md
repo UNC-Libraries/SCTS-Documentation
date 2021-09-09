@@ -8,4 +8,8 @@
 
 •	LS updates MARC records for additions in OCLC and Sierra  
 
-•	Jodi creates the new MARC records  
+•	Jodi shares new collection level records with Barbara
+
+• Barbara creates new MARC collection level records
+
+•	Jodi creates new MARC records for processed collections  
