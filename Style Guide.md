@@ -526,13 +526,15 @@ Unless they are proper nouns or formal titles, only capitalize the first word of
   
 - General Assembly
 
+- Indigenous (see also North American Indian or American Indian)
+
 - Internet
 
 - Latinx
 
 - navy
 
-- North American Indian or American Indian (no longer using Native American)
+- North American Indian or American Indian (no longer using Native American) (see also Indigenous)
 
 - Normandy invasion
 
@@ -666,6 +668,8 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 - Hispanic [stick to Latinx?] 
 
+- Indigenous (see also American Indian and North American Indian)
+
 - Japanese American 
 
 - Jewish 
@@ -682,7 +686,7 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 - Multiracial American [preferably list out: European, African American, and Native American ancestry.] 
 
-- North American Indian [no longer using Native American; preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] 
+- North American Indian or American Indian [no longer using Native American; preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] (see also Indigenous)
 
 - South Asian 
 
