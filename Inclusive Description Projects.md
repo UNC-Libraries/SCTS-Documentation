@@ -4,7 +4,7 @@ Compiled October 2020, updated June 2021
 
 ## "Negro" in University Archives Finding Aids, September 2021
 
-* Removed "Negro" from folder titles in [Office of the President: Bill Friday records] (https://finding-aids.lib.unc.edu/40009/)
+* Removed "Negro" from folder titles in [Office of the President: Bill Friday records](https://finding-aids.lib.unc.edu/40009/)
 
  -	Original folder titles:
  
