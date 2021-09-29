@@ -1,6 +1,29 @@
 # Inclusive Description Projects
 Compiled October 2020, updated June 2021
 
+
+## "Negro" in University Archives Finding Aids, September 2021
+
+* Removed "Negro" from folder titles in [Office of the President: Bill Friday records] (https://finding-aids.lib.unc.edu/40009/)
+
+ -	Original folder titles:
+ 
+    -	 Enrollment: Negroes, 1957-1958
+     -	 Extension Division: Cooperative Programs: NCSU/Negro Colleges and Universities, 1967
+    -	Medicine, School of: Medical Foundation of North Carolina: Negro Membership: Medical Society of North Carolina, 1963
+
+-	Revised folder titles:
+ 
+    -	 Enrollment: Black students, 1957-1958
+     -	 Extension Division: Cooperative Programs: NCSU/Historically Black Colleges and Universities, 1967
+    -	Medicine, School of: Medical Foundation of North Carolina: Black members: Medical Society of North Carolina, 1963
+
+-	Processing note:
+ 
+    -	 In 2021, archivists replaced the term "Negro(es)" in folder titles in this description with the terms "Black students" or "Black members" and revised "Negro Colleges and Universities" to "Historically Black Colleges and Universities." The original terms remain on the physical items.
+
+
+
 ## Language review and update for DocSouth North American Slave Narratives site, spring 2021
 
 * In consultation with the Conscious Editing Steering Committee, updated language on the [site's landing page](https://docsouth.unc.edu/neh/), [About page](https://docsouth.unc.edu/neh/about.html), and [Guide to Religious Content in Slave Narratives](https://docsouth.unc.edu/neh/religiouscontent.html) 
