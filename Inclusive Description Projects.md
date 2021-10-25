@@ -209,9 +209,6 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 * Headings created for approximately three hundred families 
 
 
-  
-
-
 ## Terms around intellectual disability, February 2020 
 
 * In response to a remediation request from Research and Instructional Services, we removed the terms “feeble minded” and “mentally retarded” from the [Cameron finding aid](https://finding-aids.lib.unc.edu/00133) and replaced it with “intellectual disability.” 
@@ -226,7 +223,9 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 * The term “feeble-minded” can be found in the Miscellaneous Papers (00517), and the term “idiot” is found in the Wyche and Otey Family Papers (01608). These finding aids have not yet been remediated. 
 
+## [Stephen Beauregard Weeks Papers](https://finding-aids.lib.unc.edu/00762/), February 2020 
 
+* Contextual information about the history of boarding schools for Indigenous people and the coding system used in the identification of students and their families was added to the scope content note for Series 1A. Papers, 1820-1920 (Addition of 1982). Also included are links to related collections from the National Archives and Records Administration which provide avenues to supplementary research, as well as resources for more contextual information about the Bureau of Indian Affairs' boarding schools.
   
 
 ## [Louise Davis Photographs](https://finding-aids.lib.unc.edu/40500/) (40500-z), January 2020 
