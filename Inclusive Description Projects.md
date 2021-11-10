@@ -14,7 +14,7 @@ Compiled October 2020, updated June 2021
    
 * [Clegg Family Papers](https://finding-aids.lib.unc.edu/05503/)
  
- -  Added names to the description of volumes and correspondence:
+ - Added names to the description of volumes and correspondence:
 
    -  Rock Springs Steam Saw Mill, circa 1866-1868
    -  Mill account book, circa 1866-1868
