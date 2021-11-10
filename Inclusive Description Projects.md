@@ -1,30 +1,30 @@
 # Inclusive Description Projects
 Compiled October 2020, updated June 2021
 
-## Adding names of enslaved people to finding aids
+## Adding names of enslaved people to finding aids, November 2021
 
 * [Hentz Family Papers](https://finding-aids.lib.unc.edu/00332/)
 
-- Added names to the description for these volumes:
+- Added names of enslaved people to the description for these volumes:
    
-    - Autobiography Parts I and II
-    - Obstetrical Record
-    - Medical Journal
+    -  Autobiography Parts I and II
+    -  Obstetrical Record
+    -  Medical Journal
    
    
 * [Clegg Family Papers](https://finding-aids.lib.unc.edu/05503/)
  
-  - Added names to the description of volumes and correspondence:
+ -  Added names to the description of volumes and correspondence:
 
-   - Rock Springs Steam Saw Mill, circa 1866-1868
-   - Mill account book, circa 1866-1868
-   - Soapstone Mills merchandise account book, 1870
-   - Rock Spring Steam Saw Mill, circa 1866-1867
-   - Farm time book, circa 1865-1868
-   - Rocky River Mill time book, 1865, 1875-1876
-   - Time book, circa 1872-1873
-   - Farm time book, circa 24 August 1873-1874
-   - Correspondence, 1865
+   -  Rock Springs Steam Saw Mill, circa 1866-1868
+   -  Mill account book, circa 1866-1868
+   -  Soapstone Mills merchandise account book, 1870
+   -  Rock Spring Steam Saw Mill, circa 1866-1867
+   -  Farm time book, circa 1865-1868
+   -  Rocky River Mill time book, 1865, 1875-1876
+   -  Time book, circa 1872-1873
+   -  Farm time book, circa 24 August 1873-1874
+   -  Correspondence, 1865
 
 ## "Negro" in University Archives Finding Aids, September 2021
 
