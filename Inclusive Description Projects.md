@@ -3,19 +3,18 @@ Compiled October 2020, updated June 2021
 
 ## Adding names of enslaved people to finding aids, November 2021
 
-* [Hentz Family Papers](https://finding-aids.lib.unc.edu/00332/)
+* Added names of enslaved people to the description for these volumes in [Hentz Family Papers](https://finding-aids.lib.unc.edu/00332/):
 
-- Added names of enslaved people to the description for these volumes:
-   
     -  Autobiography Parts I and II
-    -  Obstetrical Record
-    -  Medical Journal
-   
-   
-* [Clegg Family Papers](https://finding-aids.lib.unc.edu/05503/)
- 
- - Added names to the description of volumes and correspondence:
+    -  Obstetrical Record 
 
+         Includes this explanatory note: patients who were enslaved typically are listed by first name only, followed by the name of the enslaver in the case list. In the index, the patients who were enslaved are typically listed with the last name of the enslaver. Processing archivists have employed the index version of the name to potentially enhance discovery. When we have misidentified a person's last name, please let us know at wilsonlibrary@unc.edu.
+
+   -  Medical Journal
+   
+   
+* Added names of enslaved people to the description of volumes and correspondence in [Clegg Family Papers](https://finding-aids.lib.unc.edu/05503/):
+ 
    -  Rock Springs Steam Saw Mill, circa 1866-1868
    -  Mill account book, circa 1866-1868
    -  Soapstone Mills merchandise account book, 1870
