@@ -212,11 +212,11 @@ No period at end
 
   - Export (F5)
   - Open the record in Sierra
+      - When you export the record, it will automatically put the cat date as the current date. Then you have to change it back to what it was (if you're not sure, you can use the "created" date that appears at the top of the record) and add a 599 field with LTIEX
     - Add 599 LTIEXP if 1xx, 240, 4xx, 6xx, 7xx, 8xx edited (NOT 2xx, 3xx, 5xx)
   - Open the summary
     - Update the cat date in the internal note (“lls cat date 16 Feb, 2018”) - "x" for internal note
     - If there are older codes from a previous ILS, they can be deleted (the bottom of the summary should only include the collection call number and the cat date info) 
-    - Add "Cataloged FY 2019-20" - "j" for stats field, or macro shortcut if set up (F7 for Jodi) 
     - Save 
     
 ### 7. Enter in stat sheet under OCLC enhance and Millennium edits sections
