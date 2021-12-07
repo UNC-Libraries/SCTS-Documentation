@@ -1173,7 +1173,7 @@ Includes Betacam, Betacam SP, Betamax, Digital Betacam, U-Matic, VHS, HDCAM, DVC
 
     SFC (“VT-“): M.2 a; M.2 b; K.1 b; K.2 a (currently: K.2 a.27) 
 
-    SHC/UARMS/RBC (“VT-“): K.5 b through K.7 b (currently: K.7 b.26) 
+    SHC/UARMS/RBC (“VT-“): K.5 b through K.9 b (currently: K.9 b.26) 
 
 ### Videotape (large open reel)
 
