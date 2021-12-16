@@ -45,7 +45,7 @@ Compiled October 2020, updated June 2021
  
     -	 In 2021, archivists replaced the term "Negro(es)" in folder titles in this description with the terms "Black students" or "Black members" and revised "Negro Colleges and Universities" to "Historically Black Colleges and Universities." The original terms remain on the physical items.
 
-* Removed from folder titles in [Office of the President: Gordon Gray records] (https://finding-aids.lib.unc.edu/40008/)
+* Removed from folder titles in [Office of the President: Gordon Gray records](https://finding-aids.lib.unc.edu/40008/)
 
 ## Language review and update for DocSouth North American Slave Narratives site, spring 2021
 
