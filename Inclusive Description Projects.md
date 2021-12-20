@@ -7,7 +7,7 @@ Compiled October 2020, updated June, 2021, November 2021, December 2021
     - Biographical note
     - Folders 5, 6, 19, 22, 25, 29, 30, 39
 
-The biographical note and folder 19 include this note to acknowledge archivist intervention: NOTE: parenthetical information is derived from original document; the archivist has used more modern terms to describe the physical condition of Jordan, the age of Patience, and the occupations of Dick, Charity, Charlotte, Eily, and William.
+        The biographical note and folder 19 include this note to acknowledge archivist intervention: NOTE: parenthetical information is derived from original document; the archivist has used more modern terms to describe the physical condition of Jordan, the age of Patience, and the occupations of Dick, Charity, Charlotte, Eily, and William.
 
 * Added names of enslaved people to the description for these volumes in [Hentz Family Papers](https://finding-aids.lib.unc.edu/00332/):
 
