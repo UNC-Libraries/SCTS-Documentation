@@ -38,7 +38,7 @@ In addition to creating finding aid description for AV access, when possible, pr
 
 The outline of this documentation reflects the suggested order of operations for processing analog AV materials: 1. create an arrangement plan, 2. inventory materials and import or enter item-level metadata into Jitterbug, 3. construct finding aid description using metadata imported or found in Jitterbug, 4. label and shelve materials. 
 
-Please note that this documentation page is a work in progress and will be updated frequently in the summer and fall 2021.
+Please note that this documentation page is a work in progress and will be updated frequently in 2022.
 
 # Arrangement
 
