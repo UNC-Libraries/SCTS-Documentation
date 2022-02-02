@@ -1,8 +1,12 @@
 # Inclusive Description Projects
 Compiled October 2020, updated June, 2021, November 2021, December 2021
 
-## Adding names of enslaved people to finding aids, November 2021
+## Adding names of enslaved people to finding aids, November 2021-February 2022
 
+* Added names of enslaved people to the description of [Arnold and Screven Family Papers](https://finding-aids.lib.unc.edu/03419/):
+    - Biographical note
+    - XOPF-3419/1
+    
 * Added names of enslaved and free people of color to the description for [Bullock and Hamilton Family Papers](https://finding-aids.lib.unc.edu/00101/):
     - Biographical note
     - Folders 5, 6, 19, 22, 25, 29, 30, 39
