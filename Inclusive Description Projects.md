@@ -1,5 +1,5 @@
 # Inclusive Description Projects
-Compiled October 2020, updated June, 2021, November 2021, December 2021
+Compiled October 2020, updated June, 2021, November 2021, December 2021, February 2022
 
 ## Adding names of enslaved people to finding aids, November 2021-February 2022
 
@@ -34,6 +34,11 @@ Compiled October 2020, updated June, 2021, November 2021, December 2021
    -  Time book, circa 1872-1873
    -  Farm time book, circa 24 August 1873-1874
    -  Correspondence, 1865
+
+## Enhanced description for videotapes in the WTVD Moving Image Collection, January 2022-February 2022
+
+* Audiovisual Archivist added descriptions to 534 videotapes found in the [WTVD Moving Image Collection (04929)](https://finding-aids.lib.unc.edu/04929/). The finding aid previously listed only videotape titles and formats. The finding aid now includes detailed item descriptions and subjects or topics that the AV Archivist compiled and consciously edited from a tape inventory found in the collection control file. It is unclear who wrote these original descriptions at this time. 
+
 
 ## "Negro" in University Archives Finding Aids, September 2021 and December 2021
 
