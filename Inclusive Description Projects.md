@@ -37,7 +37,7 @@ Compiled October 2020, updated June, 2021, November 2021, December 2021, Februar
 
 ## Enhanced description for videotapes in the WTVD Moving Image Collection, January 2022-February 2022
 
-* Audiovisual Archivist added descriptions to 534 videotapes found in the [WTVD Moving Image Collection (04929)](https://finding-aids.lib.unc.edu/04929/). The finding aid previously listed only videotape titles and formats. The finding aid now includes detailed item descriptions and topics that the AV Archivist compiled and consciously edited from a tape inventory found in the collection control file.
+* Audiovisual Archivist added descriptions to 534 videotapes found in the [WTVD Moving Image Collection (04929)](https://finding-aids.lib.unc.edu/04929/). The finding aid previously listed only videotape titles and formats. The finding aid now includes detailed item descriptions and topics that the AV Archivist consciously edited from a tape inventory found in the collection control file. 
 
 
 ## "Negro" in University Archives Finding Aids, September 2021 and December 2021
