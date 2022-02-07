@@ -4,6 +4,7 @@ Updated January 2022 by Anne Wells.
 
 # Overview
 - [Introduction](#introduction)
+- [Processing levels](#processing-levels)
 - [Arrangement](#arrangement)
 - [Jitterbug](#jitterbug)  
     -[Metadata](#metadata)  (call numbers, required & suggested fields, field definitions & style guide, creating titles)  
@@ -36,9 +37,75 @@ For the most part, Technical Services processing archivists physically process a
 
 In addition to creating finding aid description for AV access, when possible, processing archivists and assistants also enter item-level descriptive metadata of AV items into Jitterbug, an internal online content management system for Wilson Library's analog AV holdings. Jitterbug holds and tracks metadata related to the analog AV format or item ("Audiovisual Items"), as well as metadata related to digitization, including information on the transfer ("Transfers") and the preservation instance or file ("Preservation Instance"). This documentation dives into some Jitterbug specifics related to analog AV items ("Audiovisual Items"), including required metadata fields, field definitions (& style guide), and data entry and import/export methods. 
 
-The outline of this documentation reflects the suggested order of operations for processing analog AV materials: 1. create an arrangement plan, 2. inventory materials and import or enter item-level metadata into Jitterbug, 3. construct finding aid description using metadata imported or found in Jitterbug, 4. label and shelve materials. 
+The outline of this documentation reflects the suggested order of operations for processing analog AV materials: 1. create an arrangement plan, 2. inventory materials and import or enter item-level metadata into Jitterbug, 3. construct finding aid description using metadata imported or found in Jitterbug, 4. label and shelve materials. But before we get to all that, let's talk processing levels (continue below).
 
 Please note that this documentation page is a work in progress and will be updated frequently in 2022.
+
+# Processing Levels
+
+Like manuscript or paper materials, archival AV items can be processed at various states or levels that are informed by available resources and shared library-wide priorities and values: Intensive (item-level processing); Moderate (box-level processing); and Minimum (collection-level processing)
+
+During the multi-phase [Andrew W. Mellon funded grant project](https://library.unc.edu/wilson/sfc/audiovisual-preservation/), grant-funded staff focused primarily on super intensive item-level processing of AV materials to help facilitate digitization for preservation and access purposes...hence most of this documentation being **VERY** item-level focused. The grant-funded team did such intensive processing of AV items because there was funding and staff (shout out to the amazing AV conservator, audio engineers, AV Assistants, Graduate Assistants, Grant PIs, and me, the AV Archivist!), but this project is coming to a close, and reality is setting in – how can this intensive and highly specialized work continue at Wilson Library? Below is some guidance on how to handle archival AV items based on resources, priorities, and values.  
+
+## Intensive (item-level processing)
+
+As mentioned, this documentation site primarily covers item-level processing of AV materials, which includes creating an arrangement plan, entering, or importing item-level metadata into Jitterbug, and adding item-level to description to finding aids based on Technical Services' style guide. 
+
+I think a simple way to think of when such intensive work is necessary is based on whether an AV item requires a call number after accessioning – either for digitization or finding aid access. What would trigger this? Great question 😊 : perhaps materials or collections that align with [The Reckoning Initiative at the University Libraries](https://library.unc.edu/reckoning/); to facilitate access for research-driven requests; or maybe work related to special projects based on other library-wide priorities and values.
+
+Below is a brief overview of what is required at the intensive processing level. 
+
+### Pre-Processing
+
+Processing Archivists and/or Graduate Assistants conceptualize an arrangement plan for materials (see [Arrangement](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#arrangement)) and create item-level metadata for each AV item based on this plan. This AV item metadata is entered or imported into Jitterbug (see [Jitterbug](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#jitterbug)). Each AV item is labeled and shelved on level 10 in the appropriate location (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)).
+
+### Description
+
+Processing Archivists export item-level metadata from Jitterbug (see [Data export](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#data-export)) and create item-level description of materials based on Technical Services' [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md) and the [XML/EAD section](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) found on this documentation page. 
+
+### Locations
+
+When AV items are described at the item-level in the finding aid, Processing Archivists assign locations for each item or range of items to the appropriate Resource record in ArchivesSpace (see [Creating locations in ASpace](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#creating-locations-in-archivesspace)).
+
+If the AV materials you have require a call number or intensive item-level work, proceed to the next section, [Arrangement](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#arrangement). If you’re curious about other processing levels, please keep reading.
+
+## Moderate (box-level processing)
+
+If a large AV collection comes in and has clear or obvious groupings, such as AV items by different creators (artist, performer, or musical group) and/or AV items related to multiple projects, works, or labels, it may be helpful to both researchers and front-facing library staff for Technical Services' archivists to conduct a rough arrangement and description of materials to help facilitate mediated access to the collection. 
+
+Below is a brief overview of what is required at this moderate processing level. 
+
+### Pre-Processing
+
+Place like AV items or groupings in archival boxes or paige boxes, and number or label these boxes, using the standard document cartons/document case label but with the added “AV prefix: AV Box 1, AV Box 2, AV Box 3, etc. (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)).
+
+### Description
+
+Describe AV items at the box-level in the finding aid with the EAD container type "avbox" and appropriate box number and unit title description. Boxes can be listed or described individually or in ranges – whatever is appropriate for the materials. It may also be helpful to roughly describe the materials in the scope and content note (see [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) for examples). 
+
+### Locations
+
+If boxes are described in the finding aid, assign box location(s) to the appropriate collection Resource record in ArchivesSpace. Select "AV Box" as the child type and the appropriate box number as the child indicator (see [Creating locations in ASpace](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#creating-locations-in-archivesspace)).
+
+## Minimum (collection-level processing)
+
+Collection level records for unprocessed materials contain the elements prescribed by DACS for a single-level minimum record (see Technical Services' [Collection Level Records](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Collection-Level-Records.md) page for more). The majority of new accessions at Wilson Library will receive this treatment to facilitate quick medicated access to collection materials. If a researcher is interested in using materials described in a collection-level collection, further processing, such as box or item-level, may take place.
+
+Below is a brief overview of what is required at this minimum processing level: 
+
+### Pre-Processing
+
+Place AV items in archival boxes or paige boxes, and number or label these boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc. (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)). It's not required or necessary to arrange AV items at this time, but if easy categories or groupings emerge, why not 😊? You'll be helping your colleague who picks up this collection next.
+
+### Description
+
+Describe AV items in the collection abstract when appropriate. (Yep, that's it! Easy.)
+
+### Locations
+
+Assign box location(s) to the appropriate Accession record in ArchivesSpace. Select "AV Box" as the child type and the appropriate box number as the child indicator (see [Creating locations in ASpace](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#creating-locations-in-archivesspace)).
+
+Now onto arrangement.
 
 # Arrangement
 
