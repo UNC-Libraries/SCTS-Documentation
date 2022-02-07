@@ -651,11 +651,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 ## Formats/Container types
 
-If you need assistance identifying AV formats, consult the Audiovisual Archivist or a Technical Services archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
-
-https://psap.library.illinois.edu/collection-id-guide 
-
-Below is a guide for AV format description for finding aids AND Jitterbug. 
+The following section includes information on AV formats in Jitterbug metadata and finding aid description. 
 
 ### Audiovisual Box
 
@@ -665,15 +661,30 @@ When materials are being described at the box-level in finding aids, use the Aud
 | ---------------------------------------------- | ------------------------| ------------------------------------- | 
 | **Audiovisual Box**                               | avbox                      | box#                                 |
 
-For intensive item-level description related to Jitterbug and finding aids, proceed to the Audio, Video, and Film Sections below:
+For intensive item-level description related to Jitterbug data entry and finding aid description, proceed to the Audio, Video, and Film sections below. These sections include information on:
+
+- **Jitterbug Format**: format display name in [Jitterbug](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#jitterbug)   
+- **Jitterbug Format ID**: unique ID given to each Jitterbug AV format type that is used primarily during [CSV import](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#csv-import)
+- **SFC Item**: call number pre-fix assigned to AV items in the Southern Folklife Collection
+- **SHC/UARMS/etc Item**: call number pre-fix assigned to AV items in the Southern Historical Collection, University Archives, North Carolina Collection, and Rare Book collecting units
+- **Finding Aid `<container type=>`**: Finding Aid container types for the _type_ attribute in the [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) `<container>` tag. EAD container types across all formats can be found in Technical Services' [EAD] page(https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). 
+- **Finding Aid Display Name**: AV format name displayed in finding aids
+- **Finding Aid `<genreform=>` text**: Format name listed in the `<genreform=>` tag found in the [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) `<physdesc>` tag. This metadata is usually more descriptive than the Finding Aid Display Name.
+
+If you need assistance identifying AV formats, consult the Audiovisual Archivist or a Technical Services Processing Archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
+
+https://psap.library.illinois.edu/collection-id-guide 
+
+EAD container types across all formats can be found in Technical Services' [EAD] page(https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md).
+
 
 ### Audio
 
 | **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
 | ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
-| Audiocassette  | 28          | FS-      | C-    | sfcaudiocassette [FS-]; audiocassette [C-] | SFC Audio Cassette [FS-]; Audiocassette [C-] | Audiocassette |                
-| Microcassette                  | 29                  | FS-                     | C-                              | sfcaudiocassette [FS-]; audiocassette [C-] | SFC Audio Cassette [FS-]; Audiocassette [C-] | Microcassette |                                     |
-| 8-Track Tape                   | 30                  | 8T-                     | 8T-                              | 8T                                      | 8-Track Tape | 8-Track Tape                                     |                                   
+| Audiocassette  | 28          | FS      | C    | sfcaudiocassette [FS]; audiocassette [C] | SFC Audio Cassette [FS]; Audiocassette [C] | Audiocassette |                
+| Microcassette                  | 29                  | FS                     | C                              | sfcaudiocassette [FS]; audiocassette [C] | SFC Audio Cassette [FS-]; Audiocassette [C-] | Microcassette |                                     |
+| 8-Track Tape                   | 30                  | 8T                     | 8T                              | 8T                                      | 8-Track Tape | 8-Track Tape                                     |                                   
 | 1/4" Open Reel Audio           | 31                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     |1/4" open reel audio                             |
 | 1/2" Open Reel Audio           | 32                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | 1/2" open reel audio                             |
 | 1" Open Reel Audio             | 33                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | 1" open reel audio                               |
@@ -699,40 +710,40 @@ For intensive item-level description related to Jitterbug and finding aids, proc
 
 ### Video
 
-| Jitterbug Format Display Names | Jitterbug Format ID | SFC Call Number Prefix | SHC / UARMS Call Number Prefix | EAD Container Type(s) | Finding Aid < genreform > text |
-| ------------------------------ | -------------------:| ---------------------- | ------------------------------ | --------------------- | ------------------------------ | 
-| Betacam                        | 7                   | VT                     | VT                             | videotape             | Betacam                        | 
-| Betacam SP                     | 8                   | VT                     | VT                             | videotape             | Betacam SP                     |
-| Betamax                        | 9                   | VT                     | VT                             | videotape             | Betamax                        |
-| U-Matic                        | 10                  | VT                     | VT                             | videotape             | U-Matic                        |
-| U-Matic SP                     | 11                  | VT                     | VT                             | videotape             | U-Matic SP                     |
-| VHS                            | 12                  | VT                     | VT                             | videotape             | VHS / VHS-C / S-VHS            |
-| HDCAM                          | 13                  | VT                     | VT                             | videotape             | HDCAM                          |
-| DVCAM                          | 14                  | VT                     | VT                             | videotape             | DVCAM                          |
-| MiniDV                         | 15                  | VT                     | VT                             | videotape             | MiniDV                         |
-| Digital Betacam                | 16                  | VT                     | VT                             | videotape             | Digital Betacam                |
-| Hi8                            | 17                  | VT                     | VT                             | videotape             | Hi-8                           |
-| Video8                         | 18                  | VT                     | VT                             | videotape             | Video8                         |
-| Digital 8                      | 19                  | VT                     | VT                             | videotape             | Digital 8                      |
-| D-2                            | 20                  | VT                     | VT                             | videotape             | D-2                            |
-| M-Format                       | 21                  | VT                     | VT                             | videotape             | M-Format                       |
-| 2" Open Reel Video             | 22                  | VT                     | VT                             | videotape             | 2" open reel video             |
-| 1" Open Reel Video             | 23                  | VT                     | VT                             | videotape             | 1" open reel video             |
-| 1/2" Open Reel Video           | 24                  | VT                     | VT                             | videotape             | 1/2" open reel video           |
+| **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
+| ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
+| Betacam  | 7          | VT      | VT    | videotape | Videotape | Betacam    |     
+| Betacam SP                     | 8                   | VT                     | VT                             | videotape | Videotape             | Betacam SP                     |
+| Betamax                        | 9                   | VT                     | VT                             | videotape | Videotape             | Betamax                        |
+| U-Matic                        | 10                  | VT                     | VT                             | videotape | Videotape             | U-Matic                        |
+| U-Matic SP                     | 11                  | VT                     | VT                             | videotape | Videotape             | U-Matic SP                     |
+| VHS                            | 12                  | VT                     | VT                             | videotape | Videotape             | VHS / VHS-C / S-VHS            |
+| HDCAM                          | 13                  | VT                     | VT                             | videotape | Videotape             | HDCAM                          |
+| DVCAM                          | 14                  | VT                     | VT                             | videotape | Videotape             | DVCAM                          |
+| MiniDV                         | 15                  | VT                     | VT                             | videotape | Videotape             | MiniDV                         |
+| Digital Betacam                | 16                  | VT                     | VT                             | videotape| Videotape             | Digital Betacam                |
+| Hi8                            | 17                  | VT                     | VT                             | videotape| Videotape             | Hi-8                           |
+| Video8                         | 18                  | VT                     | VT                             | videotape| Videotape             | Video8                         |
+| Digital 8                      | 19                  | VT                     | VT                             | videotape| Videotape             | Digital 8                      |
+| D-2                            | 20                  | VT                     | VT                             | videotape| Videotape             | D-2                            |
+| M-Format                       | 21                  | VT                     | VT                             | videotape| Videotape             | M-Format                       |
+| 2" Open Reel Video             | 22                  | VT                     | VT                             | videotape| Videotape             | 2" open reel video             |
+| 1" Open Reel Video             | 23                  | VT                     | VT                             | videotape| Videotape             | 1" open reel video             |
+| 1/2" Open Reel Video           | 24                  | VT                     | VT                             | videotape| Videotape             | 1/2" open reel video           |
 
 It's worth noting that there are also a handful of legacy SFC Call number prefixes for video formats that are no longer in use, including **VOR** (video open reel), **VUT** (video U-Matic), **VBC** (video Betacam) and **VHS** (VHS). You may run accross these pre-fixes when working with legacy collections, such as Southern Folklife Collection Moving Image Materials #30002. 
 
 ### Film
 
-| Jitterbug Format Display Names | Jitterbug Format ID | SFC Call Number Prefix | SHC / UARMS Call Number Prefix | EAD Container Type(s) | Finding Aid < genreform > text |
-| ------------------------------ | -------------------:| ---------------------- | ------------------------------ | --------------------- | ------------------------------ | 
-| 35mm                           | 1                   | F                      | F                              | film                  | 35mm motion picture film       | 
-| 16mm                           | 2                   | F                      | F                              | film                  | 16mm motion picture film       |
-| Super 8mm                      | 3                   | F                      | F                              | film                  | Super 8mm motion picture film  |
-| 8mm                            | 4                   | F                      | F                              | film                  | 8mm motion picture film        |
-| 9.5mm                          | 5                   | F                      | F                              | film                  | 9.5mm motion picture film      |
-| Filmstrip                      | 6                   | F                      | F                              | film                  | Filmstrip                      |
-| Film preservation instance     | TBD                   | FPI                    | FPI                              | fpi                   | 16mm motion picture film preservation instance         | 
+| **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
+| ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
+| 35mm                           | 1                   | F                      | F                              | film | Film                  | 35mm motion picture film       | 
+| 16mm                           | 2                   | F                      | F                              | film | Film                  | 16mm motion picture film       |
+| Super 8mm                      | 3                   | F                      | F                              | film | Film                  | Super 8mm motion picture film  |
+| 8mm                            | 4                   | F                      | F                              | film | Film                  | 8mm motion picture film        |
+| 9.5mm                          | 5                   | F                      | F                              | film | Film                  | 9.5mm motion picture film      |
+| Filmstrip                      | 6                   | F                      | F                              | film | Film                  | Filmstrip                      |
+| Film preservation instance     | TBD                   | FPI                    | FPI                              | fpi | Film                   | 16mm motion picture film preservation instance         | 
 
 
 
