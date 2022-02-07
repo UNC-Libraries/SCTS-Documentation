@@ -1356,6 +1356,12 @@ a thorough and thoughtful approach to processing archival audiovisual materials 
 
 a peek at another academic instutition's documentation on descriptive policies for audiovisual and born-digital materials (thank you NYU folks!).
 
+- [Association of Moving Image Archivists (AMIA)](https://amianet.org/); [Association for Recorded Sound Collections (ARSC)](http://www.arsc-audio.org/index.php); [International Association of Sound and Audiovisual Archives (IASA)](https://www.iasa-web.org/); [International Federation of Film Archives (FIAF)](https://www.fiafnet.org/)
+
+professional organizations dedicated to the preservation and access to our collective AV heritage.
+
+- mentors past and present! Andy Uhrich, Michelle Puetz, Nancy Watrous, Carolyn Faber, Andrew Lampert, Rick Prelinger <3
+
 # Endnotes
 
 ^1 item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
