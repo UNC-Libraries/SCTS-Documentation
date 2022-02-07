@@ -62,7 +62,6 @@ Processing Archivists and/or Graduate Assistants conceptualize an arrangement pl
 ### Description
 
 Processing Archivists export item-level metadata from Jitterbug (see [Data export](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#data-export)) and create item-level description of materials based on Technical Services' [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md) and the [XML/EAD section](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) found on this documentation page. 
-
 ### Locations
 
 When AV items are described at the item-level in the finding aid, Processing Archivists assign locations for each item or range of items to the appropriate Resource record in ArchivesSpace (see [Creating locations in ASpace](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#creating-locations-in-archivesspace)).
@@ -81,7 +80,7 @@ Place like AV items or groupings in archival boxes or paige boxes, and number or
 
 ### Description
 
-Describe AV items at the box-level in the finding aid with the EAD container type "avbox" and appropriate box number and unit title description. Boxes can be listed or described individually or in ranges – whatever is appropriate for the materials. It may also be helpful to roughly describe the materials in the scope and content note (see [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) for examples). 
+Describe AV items at the box-level in the finding aid with the EAD container type "avbox" and appropriate box number and unit title description. Boxes can be listed or described individually or in ranges – whatever is appropriate for the materials. It may also be helpful to roughly describe the materials in the scope and content note (see [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#av-box) for examples). 
 
 Assign the appropriate access restriction at the series and collection levels so that researchers understand AV items may require further processing to be accessed and/or digitized. 
 
