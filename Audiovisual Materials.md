@@ -469,7 +469,7 @@ Below are further suggestions on how to code an AV items at a minimum and modera
 ```
 <did> 
 
-<container type="container type">Call Number</container> 
+<container type="container type">AV item call number</container> 
 
 <unittitle>Title</unittitle> 
 
@@ -487,7 +487,7 @@ Below are further suggestions on how to code an AV items at a minimum and modera
 ```
 <did> 
 
-<container type="container type">Call Number</container> 
+<container type="container type">AV item call number</container> 
 
 <unittitle>Title</unittitle> 
 
@@ -509,7 +509,7 @@ Below are examples of how to code an audio, video, and film item when additional
 ```
 <did> 
 
-<container type="sfcaudioopenreel">Call Number</container> 
+<container type="sfcaudioopenreel">Audio item call number</container> 
 
 <unittitle>Title, Place, Date: tape number</unittitle>     
 
@@ -532,7 +532,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - previous numbering schemes, pointing to field notes or related items, playback issues, etc.</p></processinfo> 
 ```
 
-##### Audio Example:
+##### Audio example:
 
 ```
 <did> 
@@ -563,7 +563,7 @@ Below are examples of how to code an audio, video, and film item when additional
 ```
 <did> 
 
-<container type="videotape">Call Number</container> 
+<container type="videotape">Video item call number</container> 
 
 <unittitle>Title, Place, Date: tape number</unittitle>   
 
@@ -586,7 +586,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - previous numbering schemes, pointing to field notes or related items, playback issues, etc.</p></processinfo> 
 ```
 
-##### Video Example:
+##### Video example:
 
 ```
 <did> 
@@ -619,7 +619,7 @@ Below are examples of how to code an audio, video, and film item when additional
 ```
 <did> 
 
-<container type="film">Call Number</container> 
+<container type="film">Film item call number</container> 
 
 <unittitle>Title, Place, Date: tape number</unittitle> 
 
@@ -642,7 +642,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - previous numbering schemes, pointing to field notes or related items, playback issues, etc.</p></processinfo> 
 ```
 
-##### Film Example:
+##### Film example:
 
 ```
 <did> 
@@ -675,7 +675,7 @@ Below are examples of how to code an audio, video, and film item when additional
 
 <container type="digfolder"> 
 
-<extref href="[insert cdr link]"Call Number</extref></container> 
+<extref href="[insert cdr link]"Digtial folder number</extref></container> 
 
 <unittitle>Title, Place, Date</unittitle> 
 
@@ -694,7 +694,7 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing info - source media, date of original files, note regarding access copies, etc</p></processinfo> 
 ```
 
-##### Born-Digital Example:
+##### Born-Digital example:
 
 ```
 <did> 
@@ -718,9 +718,25 @@ Below are examples of how to code an audio, video, and film item when additional
 <processinfo><p>Processing information: The digital files were extracted from DVD. Original DVD files are dated 6 July 2005. An access .mp4 file was made from the DVD files for viewing purposes.</p></processinfo> 
 ```
 
-##### AV Box Example:
+#### AV Box:
 
-As mentioned in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section, sometimes you may need to describe AV items at the box level. Below are examples of this, including a single box and range of boxes:
+As mentioned in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section, sometimes you may need to describe AV items at the box level. 
+
+
+```
+<did> 
+
+<container type="avbox">AV box number</container> 
+
+<unittitle>Title, Place, Date</unittitle> 
+
+</did> 
+<scopecontent><p>Brief description of contents.</p></scopecontent>
+
+```
+
+
+Below are examples of AV Box description, including a single box and range of boxes:
 
 ```
 <did> 
