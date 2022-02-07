@@ -655,37 +655,47 @@ If you need assistance identifying AV formats, consult the Audiovisual Archivist
 
 https://psap.library.illinois.edu/collection-id-guide 
 
-Below is a guide for AV format description for Jitterbug AND finding aids. 
+Below is a guide for AV format description for finding aids AND Jitterbug. 
+
+### Audiovisual Box
+
+When materials are being described at the box-level in finding aids, use the Audiovisual Box container type below. 
+
+| **Finding Aid Display Name**                              | `<container type=>`     | Individual Item/Folder/Box Style        |
+| ---------------------------------------------- | ------------------------| ------------------------------------- | 
+| **Audiovisual Box**                               | avbox                      | box#                                 |
+
+For intensive item-level description related to Jitterbug and finding aids, proceed to the Audio, Video, and Film Sections below:
 
 ### Audio
 
-| Jitterbug Format Display Names | Jitterbug Format ID | SFC Call Number Prefix | SHC / UARMS Call Number Prefix | EAD Container Type(s)                   | Finding Aid < genreform > text                   |
-| ------------------------------ | -------------------:| ---------------------- | ------------------------------ | --------------------------------------- | ------------------------------------------------ | 
-| Audiocassette                  | 28                  | FS                     | C                              | sfcaudiocassette [FS] audiocassette [C] | Audiocassette                                    | 
-| Microcassette                  | 29                  | FS                     | C                              | sfcaudiocassette [FS] audiocassette [C] | Microcassette                                    |
-| 8-Track Tape                   | 30                  | 8T                     | ?                              | 8T                                      | 8-Track, tape                                    |
-| 1/4" Open Reel Audio           | 31                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | 1/4" open reel audio                             |
-| 1/2" Open Reel Audio           | 32                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | 1/2" open reel audio                             |
-| 1" Open Reel Audio             | 33                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | 1" open reel audio                               |
-| 2" Open Reel Audio             | 34                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | 2" open reel audio                               |
-| ADAT                           | 35                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | Alesis Digital Audio Tape (ADAT)                 |
-| Digital Audio Tape (DAT)       | 36                  | DAT                    | DAT                            | dat                                     | Digital Audio Tape (DAT)                         |
-| Hi8 (Audio Tape)               | 37                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | Hi8 [Audio]                                      |
-| Data8                          | 38                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | Data8                                            |
-| U-Matic (Audio Tape)           | 39                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | U-Matic [Audio]                                  |
-| Beta (PCM-F1)                  | 40                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | Beta (PCM-F1) [Audio]                            |
-| VHS (PCM-F1)                   | 41                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | VHS (PCM-F1) [Audio]                             |
-| Instantaneous Disc             | 45                  | FD                     | FD (legacy: D)                          | fd                                      | Acetate disc / Lacquer disc / Instantaneous disc |
-| Transcription Disc             | 46                  | TR                     | TR (legacy: D)                          | trans                                   | Transcription disc                               |
-| Wire Recording                 | 47                  | WR                     | WR                             | wr                                      | Wire recording                                   |
-| 45                             | 48                  | 45rpm                     | 45rpm (legacy: D)                           | 45                               | 45-rpm record                                    |
-| 78                             | 49                  | 78rpm                     | 78rpm (legacy: D)                           | 78                               | 78-rpm record                                    |
-| Cylinder                       | 50                  | CY                     | CY                             | ?                                       | Cylinder                                         |
-| MiniDisc                       | 51                  | MD                     | MD                             | md                                      | MiniDisc                                         |
-| LP                             | 52                  | FC                     | FC (legacy: D)                          | audiodisc                               | LP record                                        |
-| Flexi Disc                     | 53                  | FC                     | FC (legacy: D)                        | audiodisc                               | Flexi disc                                       |
-| Analog Disc                    | 54                  | D                      | D                        | audiodisc                               | Metal stamper                                    |
-| NAB Catridge                   | 56                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | NAB cartridge                                    |
+| **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
+| ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
+| Audiocassette  | 28          | FS-      | C-    | sfcaudiocassette [FS-]; audiocassette [C-] | SFC Audio Cassette [FS-]; Audiocassette [C-] | Audiocassette |                
+| Microcassette                  | 29                  | FS-                     | C-                              | sfcaudiocassette [FS-]; audiocassette [C-] | SFC Audio Cassette [FS-]; Audiocassette [C-] | Microcassette |                                     |
+| 8-Track Tape                   | 30                  | 8T-                     | 8T-                              | 8T                                      | 8-Track Tape | 8-Track Tape                                     |                                   
+| 1/4" Open Reel Audio           | 31                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     |1/4" open reel audio                             |
+| 1/2" Open Reel Audio           | 32                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | 1/2" open reel audio                             |
+| 1" Open Reel Audio             | 33                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | 1" open reel audio                               |
+| 2" Open Reel Audio             | 34                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | 2" open reel audio                               |
+| ADAT                           | 35                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | Alesis Digital Audio Tape (ADAT)                 |
+| Digital Audio Tape (DAT)       | 36                  | DAT                    | DAT                            | dat                                     | Digital Audiotape     | Digital Audio Tape (DAT)                         |
+| Hi8 (Audio Tape)               | 37                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | Hi8 [Audio]                                      |
+| Data8                          | 38                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | Data8                                            |
+| U-Matic (Audio Tape)           | 39                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | U-Matic [Audio]                                  |
+| Beta (PCM-F1)                  | 40                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | Beta (PCM-F1) [Audio]                            |
+| VHS (PCM-F1)                   | 41                  | FT                     | T                              | sfcaudioopenreel [FT]; audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | VHS (PCM-F1) [Audio]                             |
+| Instantaneous Disc             | 45                  | FD                     | FD (legacy: D)                          | fd                                      | Instantaneous Disc     | Acetate disc / Lacquer disc / Instantaneous disc |
+| Transcription Disc             | 46                  | TR                     | TR (legacy: D)                          | trans                                   | Transcription disc  | Transcription Disc             |                             |
+| Wire Recording                 | 47                  | WR                     | WR                             | wr                                      | Wire recording                                   | Wire recording                                   |
+| 45                             | 48                  | 45rpm                     | 45rpm (legacy: D)                           | 45                               | 45-rpm Disc | 45-rpm record                                    |
+| 78                             | 49                  | 78rpm                     | 78rpm (legacy: D)                           | 78                               |  78-rpm Disc | 78-rpm record                                    |
+| Cylinder                       | 50                  | CY                     | CY                             | cylinder                                       | Cylinder                                         | Cylinder                                         |
+| MiniDisc                       | 51                  | MD                     | MD                             | md                                      | Mini-Disc | MiniDisc                                         |
+| LP                             | 52                  | FC                     | FC (legacy: D)                          | audiodisc                               | Audiodisc | LP record                                        |
+| Flexi Disc                     | 53                  | FC                     | FC (legacy: D)                        | audiodisc                               | Audiodisc | Flexi disc                                       |
+| Analog Disc                    | 54                  | D                      | D                        | audiodisc                               | Audiodisc | Metal stamper                                    |
+| NAB Catridge                   | 56                  | FT                     | T                              | sfcaudioopenreel [FT] audiotape [T]     | SFC Audio Open Reel [FT]; Audiotape [T]     | NAB cartridge                                    |
 
 ### Video
 
@@ -723,6 +733,8 @@ It's worth noting that there are also a handful of legacy SFC Call number prefix
 | 9.5mm                          | 5                   | F                      | F                              | film                  | 9.5mm motion picture film      |
 | Filmstrip                      | 6                   | F                      | F                              | film                  | Filmstrip                      |
 | Film preservation instance     | TBD                   | FPI                    | FPI                              | fpi                   | 16mm motion picture film preservation instance         | 
+
+
 
 ## Subject headings
 
