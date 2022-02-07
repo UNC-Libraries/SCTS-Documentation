@@ -83,6 +83,8 @@ Place like AV items or groupings in archival boxes or paige boxes, and number or
 
 Describe AV items at the box-level in the finding aid with the EAD container type "avbox" and appropriate box number and unit title description. Boxes can be listed or described individually or in ranges – whatever is appropriate for the materials. It may also be helpful to roughly describe the materials in the scope and content note (see [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) for examples). 
 
+Assign the appropriate access restriction at the series and collection levels so that researchers understand AV items may require further processing to be accessed and/or digitized. 
+
 ### Locations
 
 If boxes are described in the finding aid, assign box location(s) to the appropriate collection Resource record in ArchivesSpace. Select "AV Box" as the child type and the appropriate box number as the child indicator (see [Creating locations in ASpace](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#creating-locations-in-archivesspace)).
@@ -99,7 +101,7 @@ Place AV items in archival boxes or paige boxes, and number or label these boxes
 
 ### Description
 
-Describe AV items in the collection abstract when appropriate. (Yep, that's it! Easy.)
+Describe AV items in the collection abstract when appropriate. Assign the appropriate access restriction at the collection level so that researchers understand AV items require further processing to be accessed and/or digitized.  (Yep, that's it! Easy.)
 
 ### Locations
 
@@ -460,7 +462,7 @@ Some examples of spreadsheet coding below:
 
 Once your spreadsheet is complete, you can copy and paste the necessary lines or cells into the collection's XML finding aid.
 
-Below are further suggestions on how to code an AV item at a minimum and moderate level. 
+Below are further suggestions on how to code an AV items at a minimum and moderate level. 
 
 ### Minimum (required):
 
@@ -714,6 +716,34 @@ Below are examples of how to code an audio, video, and film item when additional
 </scopecontent> 
 
 <processinfo><p>Processing information: The digital files were extracted from DVD. Original DVD files are dated 6 July 2005. An access .mp4 file was made from the DVD files for viewing purposes.</p></processinfo> 
+```
+
+##### AV Box Example:
+
+As mentioned in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section, sometimes you may need to describe AV items at the box level. Below are examples of this, including a single box and range of boxes:
+
+```
+<did> 
+
+<container type="avbox">1</container> 
+
+<unittitle>Documentary project, 1980</unittitle> 
+
+</did> 
+<scopecontent><p>AV items related to a documentary film project produced in 1980 by Tom Davenport.</p></scopecontent>
+
+```
+
+```
+<did> 
+
+<container type="avbox">1-7</container> 
+
+<unittitle>Apollo Records Test Pressings</unittitle> 
+
+</did> 
+<scopecontent><p>LP Test pressings arranged roughly alphabetically by artist.</p></scopecontent>
+
 ```
 
 ## Formats/Container types
