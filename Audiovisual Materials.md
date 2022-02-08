@@ -322,7 +322,7 @@ Place your constructed title into the "Title" field in Jitterbug. Place other pe
 
 ## Data entry and import
 
-As mentioned above, there are two methods for entering metadata into Jitterbug – either directly into Jitterbug or via csv file import. This section covers steps for both methods.  
+As mentioned above, there are two methods for entering metadata into Jitterbug – either directly into Jitterbug or via CSV file import. This section covers steps for both methods.  
 
 ### Directly into Jitterbug
 
@@ -355,7 +355,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     ![temporary IDs on videotapes](https://github.com/annewell/images/blob/main/Jitterbug_tempIDs.png)
 
-2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and Audiovisual Archivist or Technical Services archivist.  
+2.	Place items in the in the exact row order you wish the call numbers to be assigned by Jitterbug. This order relates to the arrangement plan determined by the pre-processor and audiovisual archivist or Technical Services archivist.  
  
     If you assigned temporary IDs to your items create and save a separate spreadsheet, or labeling guide, with your temporary ID column. Below is an example of     a labeling guide with inventory numbers highlighted in yellow and item call numbers highlighted in green. In this example, call numbers were added to the         labeling guide after arrangement and Jitterbug import to assist with labeling of the materials. 
 
@@ -389,7 +389,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     ![Jitterbug batch import fields highlighted](https://github.com/annewell/images/blob/main/Jitterbug_import_batch.PNG)
 
-7.	Browse for your csv file and select "Upload and Continue" 
+7.	Browse for your CSV file and select "Upload and Continue" 
 
     ![Jitterbug batch import pop up window 1](https://github.com/annewell/images/blob/main/Jitterbug_import_batch2.PNG)
 
@@ -397,7 +397,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     ![Jitterbug batch import pop up window 1](https://github.com/annewell/images/blob/main/Jitterbug_import_batch3.PNG)
 
-9.  Jitterbug will alert you of any errors with your data (illustrated below in red). If this occurs, fix errors and re-import your csv.  
+9.  Jitterbug will alert you of any errors with your data (illustrated below in red). If this occurs, fix errors and re-import your CSV.  
 
     ![Jitterbug batch import pop up window 1](https://github.com/annewell/images/blob/main/Jitterbug_import_batch4.PNG)
 
