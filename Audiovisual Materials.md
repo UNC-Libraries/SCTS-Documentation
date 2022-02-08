@@ -464,7 +464,7 @@ Once your spreadsheet is complete, you can copy and paste the necessary lines or
 
 Below are further suggestions on how to code an AV items at a minimum and moderate level. 
 
-### Minimum (required):
+### Minimum description (required):
 
 ```
 <did> 
@@ -482,7 +482,7 @@ Below are further suggestions on how to code an AV items at a minimum and modera
 </did> 
 ```
 
-### Moderate:
+### Moderate description:
 
 ```
 <did> 
@@ -766,7 +766,7 @@ Below are examples of AV Box description, including a single box and range of bo
 
 The following section includes information on AV format metadata in relation to both EAD Finding Aids and Jitterbug. 
 
-EAD container[^2](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#endnotes) types across formats are listed on Technical Service's [EAD documentation page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). This section deals specifically with EAD container types specific to AV items, AV format metadata related to the EAD <genreform> tag, and information on metadata related to Jitterbug's format field. I thought about listing this information separately, but perhaps it helpful to see both finding aid and Jitterbug AV format metadata side by side. But first we have an exception, AV boxes, more below. 
+EAD container[^2](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#endnotes) types across formats are listed on Technical Service's [EAD documentation page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). This section deals specifically with EAD container types of AV items, AV format metadata related to the EAD <genreform> tag, and information on metadata related to Jitterbug's format field. I thought about listing out finding aid and Jitterbug metadata separately, but perhaps it helpful to see this format metadata side by side? But first we have an exception, AV boxes, related to moderate and minimum physical processing - more on that below. 
 
 
 ### Audiovisual Box
