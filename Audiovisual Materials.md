@@ -178,7 +178,7 @@ Jitterbug’s backend manages or assigns the call number sequences for each coll
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
-It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the Audiovisual Archivist or Technical Services archivist, who will advise on how to proceed. **DO NOT delete records unless instructed to.** 
+It is possible to manually change a call number in Jitterbug if a mistake happens, but this change does not update Jitterbug's backend that tells the database which call number to assign next. If you make a mistake (mistakes happen, it's ok!), please consult the audiovisual archivist or Technical Services processing archivist, who will advise on how to proceed. **DO NOT delete records unless instructed to.**
 
 ### Required fields 
 
