@@ -77,7 +77,7 @@ Below is a brief overview of what is required at this moderate processing level.
 
 ### Pre-Processing
 
-Place like AV items or groupings in archival boxes or paige boxes, and number or label these boxes, using the standard document cartons/document case label but with the added “AV prefix: AV Box 1, AV Box 2, AV Box 3, etc. (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)).
+Place like AV items or groupings in archival boxes or paige boxes, and number or label these boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc. (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)).
 
 ### Description
 
@@ -1003,6 +1003,16 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 
 This section discusses rehousing, labeling, box types, and shelving locations of AV items. Plan to cross-reference this section with Technical Services general documentation on [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md), which includes crucial information on recording locations in ArchivesSpace.
 
+## Moderate and Minimum processing (box and collection-level processing)
+    
+Before we dive into lots of information on how to put away AV processed at the item-level, let's first talk about moderate and minimum processing levels that we first talked about in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section.
+    
+When processing AV at either the box or collection-level, place AV items into archival paige boxes. In terms of arrangement, it is helpful to group like or related materials into the same box or series of boxes. This is particularly true when AV boxes are being described in the finding aid. Try not to stack materials on top of each other. It's ok to mix formats, but from a preservation context, it's a good idea to consult with a Processing Archivist or Conservator with AV experience to see how to best store AV items in shared boxes and which formats can by stored safely with one another. For example, magnetic based AV formats should not be stored with celluloid moving image film items -- the materials or bases of these formats are not friends :(. 
+      
+Number and label AV boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc.
+    
+Continue below for information on how to store and shelve AV items processed at the item-level.
+    
 ## Rehousing Materials
 
 Apart from moving image film, it is preferable to leave AV materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
