@@ -442,7 +442,7 @@ AV materials are most often coded at the item-level in finding aids, even AV ite
 
 ## XML/EAD
 
-Wilson Library's archival materials are acessible via EAD finding aids expressed in XML.[^3](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#endnotes)
+Wilson Library's archival materials are accessible via EAD finding aids expressed in XML.[^3](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#endnotes)
 
 To create item-level XML for AV materials, open your CSV export from Jitterbug and isolate fields you would like to call out in description (Call Number, Title, and Format, for example. Some other fields that might be helpful include LegacyID, Reel/TapeNumber, RecordingLocation, ItemYear, ItemDate, and ContentDescription). 
 
