@@ -30,7 +30,7 @@ Updated February 2022 by Anne Wells.
 ![open reel audio in Wilson Library's stacks](https://github.com/annewell/images/blob/main/Stacks_OpenReel.png)
 *Open reel audio shelved in Wilson Library's closed stacks.*
 
-Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual (AV) materials. These materials include analog audio or sound recordings, video tapes, and motion picture films, as well as born-digial AV materials that originate in digital form. 
+Below is documentation related to the arrangement, physical processing, and description of archival, or non-commercial audiovisual (AV) materials. These materials include analog audio or sound recordings, videotapes, and motion picture films, as well as born-digial AV materials that originate in digital form. 
 
 This documentation covers AV processing after the point of accessioning all the way up to access, or finding aid description, and shelving materials in Wilson Library's closed stacks. At this point, this documentation page does not cover policies or workflows related to AV conservation, digitization, post-digitization, or quality control (maybe one day?). 
 
