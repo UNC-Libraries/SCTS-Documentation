@@ -174,7 +174,7 @@ To make things even more fun, Southern Folklife Collection AV items may have eit
 
 **Auto-generated call numbers**:
 
-Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.**  I repeat, **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore super important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
+Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.**  I repeat, **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore super important to keep the row order of your CSV in the exact order you wish the call numbers to be assigned by Jitterbug.  
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
