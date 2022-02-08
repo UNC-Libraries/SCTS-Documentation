@@ -1360,7 +1360,6 @@ a peek at another academic instutition's documentation on descriptive policies f
 
 professional organizations dedicated to the preservation and access to our collective AV heritage.
 
-- mentors past and present! Andy Uhrich, Michelle Puetz, Nancy Watrous, Carolyn Faber, Andrew Lampert, Rick Prelinger, and so many more <3
 
 # Endnotes
 
