@@ -1373,6 +1373,6 @@ professional organizations dedicated to the preservation and access to our colle
 
 ^2 what the heck in a container type? It's an EAD element. And what is an EAD element? Read more on the [Library of Congress' EAD webpage](https://www.loc.gov/ead/tglib/elements/container.html)
 
-^3 still confused about the differences of EAD and XML? I was at first too. Read more on EAD and XML on the [Society of American Archivists' FAQ page](https://www2.archivists.org/groups/encoded-archival-standards-section/frequently-asked-questions-about-ead-and-ead3)
+^3 still confused about the differences of EAD and XML? I was at first too. Read more on EAD and XML on the [Society of American Archivists' FAQ page on EAD and EAD3](https://www2.archivists.org/groups/encoded-archival-standards-section/frequently-asked-questions-about-ead-and-ead3)
 
 
