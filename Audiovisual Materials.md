@@ -21,6 +21,7 @@ Updated January 2022 by Anne Wells.
     -[Shelving](#shelving)    
     -[Creating locations in ASpace](#creating-locations-in-archivesspace)    
 - [Resources](#resources)
+- [Endnotes](#endnotes)
 
 ***
 
@@ -443,7 +444,7 @@ All AV materials are coded at the item-level in finding aids, even materials tha
 
 ## XML/EAD
 
-Wilson Library's archival materials are acessible via EAD finding aids expressed in XML.^3
+Wilson Library's archival materials are acessible via EAD finding aids expressed in XML.[^3](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#endnotes)
 
 To create item-level XML for AV materials, open your CSV export from Jitterbug and isolate fields you would like to call out in description (Call Number, Title, and Format, for example. Some other fields that might be helpful include LegacyID, Reel/TapeNumber, RecordingLocation, ItemYear, ItemDate, and ContentDescription). 
 
@@ -765,9 +766,10 @@ Below are examples of AV Box description, including a single box and range of bo
 
 ## Formats/Container types
 
-The following section includes information on AV format metadata in relation to both Jitterbug and EAD Finding Aids. Container^2 types across formats are listed on Technical Service's [EAD documenation page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). This section deals specifically with container types specific to AV, as well 
+The following section includes information on AV format metadata in relation to both EAD Finding Aids and Jitterbug. 
 
-metadata found in Jitterbug's  I thought about separating this information out, but it's kind of neat to see everything side by side.
+EAD container[^2](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#endnotes) types across formats are listed on Technical Service's [EAD documentation page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). This section deals specifically with EAD container types specific to AV items, AV format metadata related to the EAD <genreform> tag, and information on metadata related to Jitterbug's format field. I thought about listing this information separately, but perhaps it helpful to see both finding aid and Jitterbug AV format metadata side by side. But first we have an exception, AV boxes, more below. 
+
 
 ### Audiovisual Box
 
