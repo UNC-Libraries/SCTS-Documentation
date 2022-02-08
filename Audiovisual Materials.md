@@ -865,9 +865,9 @@ It's worth noting that there are also a handful of legacy SFC Call number prefix
 
 ## Subject headings
 
-A great resource for folklore sound recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
-
-Listed below is a local controlled vocabulary for music-based and/or AV majority collections. Subject headings are arranged loosely by genre or subject. For more widely applicable subject terms (i.e.: Folk music., Folk songs., Dance music., etc), it may be useful to further specify the heading with a geographic location (i.e. Folk music--North Carolina.).  
+Listed below is a local controlled vocabulary for music-based and/or AV majority collections. Subject headings are arranged loosely by genre or subject. This list is in no way exhaustive (please add to it!). These subject headings and groupings are informed by Wilson Library collecting policies and AV items held across units at Wilson - the majority of which were created in the United States and document white and Black individuals or communities, often based in the South or Southeast United States. 
+    
+Addition tips: For more widely applicable subject terms (i.e.: Folk music., Folk songs., Dance music., etc), it may be useful to further specify the heading with a geographic location (i.e. Folk music--North Carolina.). A great resource for folklore sound recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html     
 
 #### Blues and R&B:
 
