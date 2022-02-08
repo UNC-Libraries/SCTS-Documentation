@@ -105,11 +105,11 @@ Describe AV items in the collection abstract when appropriate. Assign the approp
 
 Assign box location(s) to the appropriate Accession record in ArchivesSpace. Select "AV Box" as the child type and the appropriate box number as the child indicator (see [Creating locations in ASpace](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#creating-locations-in-archivesspace)).
 
-Now onto arrangement.
+Now onto arrangement of AV items.
 
 # Arrangement
 
-When assigned an accession containing archival AV materials, consult with a Technical Services archivist about how to best arrange the materials. It is helpful to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit or by previously arranged accessions from the collection, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, check to see if there is an existing finding aid for the collection to see if there is already an arrangement plan in place. It's also helpful to remember that the process of arranging archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats. The question - how can we best present these materials so people can find what they need? - should guide your approach to arrangement. 
+When assigned an accession containing archival AV materials, consult with a Technical Services processing archivist about how to best arrange the materials. It is helpful to have an arrangement plan in place before proceeding with item-level processing. Sometimes an arrangement plan is predetermined by the curatorial unit or by previously arranged accessions from the collection, but often determining an arrangement plan requires some of your own digging and gaining some familiarity with the collection materials. Before diving in, check to see if there is an existing finding aid for the collection to see if there is already an arrangement plan in place. It's also helpful to remember that the process of arranging archival AV doesn't vary much from the processes of our manuscript and visual processing colleagues and friends. We often live in a more item-level world when processing AV, but the general methods, practices, and goal of arrangement are the same across formats. The question - how can we best present these materials so people can find what they need? - should guide your approach to arrangement. 
 
 Generally, try to arrange AV materials by content, rather than by format. Exceptions to this may include production-heavy collections with defined works, or titles, that may benefit from having sub-groupings of like-format items to gain a sense of the creator's production process. An example of this includes the Tom Davenport Papers, http://finding-aids.lib.unc.edu/20025   
 
@@ -149,7 +149,7 @@ Greenhill Family/FLi Artists/Folklore Productions Collection [series 3 arranged 
 
 ## Introduction
 
-Once arrangement is determined, consult with the Audiovisual Archivist or Technical Services archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
+Once arrangement is determined, consult with the audiovisual srchivist or Technical Services processing archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
 
 https://jitterbug.lib.unc.edu/
 
@@ -174,7 +174,7 @@ To make things even more fun, Southern Folklife Collection AV items may have eit
 
 **Auto-generated call numbers**:
 
-Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore super important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
+Jitterbug’s backend manages or assigns the call number sequences for each collection and its formats. **Call numbers should not be manually entered into Jitterbug.**  I repeat, **Call numbers should not be manually entered into Jitterbug.** If you are creating a record directly in Jitterbug, it will auto-generate an item's call number once the "Collection" and "Format" fields are filled in. If you are importing a CSV, Jitterbug assigns call numbers based on the "Collection" and "Format" fields, as well as the row order of the CSV. It is therefore super important to keep the row order in the exact order you wish the call numbers to be assigned by Jitterbug.  
  
 PLEASE NOTE that Jitterbug only generates a unique call number once. In other words, if you create a record and delete it, or if you manually change an auto-generated call number, the auto-generated call numbers for that collection will no longer be accurate. 
 
