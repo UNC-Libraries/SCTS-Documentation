@@ -1071,10 +1071,10 @@ Small to medium-sized AV materials require additional housing into archival boxe
 
 **Audio:**
 
-    - ¼” Open Reel Audio 
-    - ½” Open Reel Audio 
-    - 1” Open Reel Audio 
-    - 2” Open Reel Audio 
+    - ¼" Open Reel Audio 
+    - ½" Open Reel Audio 
+    - 1" Open Reel Audio 
+    - 2" Open Reel Audio 
     - Videotape formats used as audio, such as ADAT and VHS (PCM-F1)
 
 **Motion Picture Film:**
@@ -1086,11 +1086,11 @@ Small to medium-sized AV materials require additional housing into archival boxe
     - 9.5mm
     - Filmstrips
 
-**Open Reel Videotape:**
+**Large Open Reel Videotape:** (smaller open reel videotapes can be boxed into paige boxes)
 
-    - ½” Open Reel Video 
-    - 1” Open Reel Video 
-    - 2” Open Reel Video
+    - ½" Open Reel Video 
+    - 1" Open Reel Video 
+    - 2" Open Reel Video
 
 Proceed to [Shelving](#shelving) if you have any of the materials listed above.  
 
