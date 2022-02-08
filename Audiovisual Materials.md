@@ -1244,19 +1244,19 @@ Below are the current shelving locations for AV items arranged by format, collec
 
 ### AV Boxes
     
-    All collecting units: TBD    
+    All collecting units: Orange K.22 b (currently: K.22 b.1) or K.23 a (currently: K.23 a.5)  
 
 ### Open reel audio
 
 Includes 1/4" Open Reel Audio, 1/2" Open Reel Audio, 1" Open Reel Audio, 2" Open Reel Audio, ADAT, Hi8 (Audio Tape), Data8, U-Matic (Audio Tape), Beta (PCM-F1), VHS (PCM-F1), NAB Cartridge. Shelve as-is. Does not require boxing. 
 
-    SFC (FT-100 through FT-18000s): N.5 a through N.3 a (currently: N.3 a.66) 
+    SFC (FT-100 through FT-18000s): Orange N.5 a through N.3 a (currently: N.3 a.66) 
     
-    SFC (“FT-_ _ _ _ _/_”): K.18 b through K.20 b (currently: K.20 b.8) 
+    SFC (“FT-_ _ _ _ _/_”): Orange K.18 b through K.20 b (currently: K.20 b) 
 
-    SHC (“T”): K.27 a through K.27 b (currently: K.27 b.14) 
+    SHC (“T”): Orange K.27 a through K.27 b (currently: K.27 b) 
 
-    UARMS (“T”): N.2 a through N.1 b (currently: N.1 b.13) 
+    UARMS (“T”): Orange N.2 a through N.1 b (currently: N.1 b.13) 
 
 ### Audiocassette
 
