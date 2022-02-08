@@ -1250,43 +1250,47 @@ Below are the current shelving locations for AV items arranged by format, collec
 
 Includes 1/4" Open Reel Audio, 1/2" Open Reel Audio, 1" Open Reel Audio, 2" Open Reel Audio, ADAT, Hi8 (Audio Tape), Data8, U-Matic (Audio Tape), Beta (PCM-F1), VHS (PCM-F1), NAB Cartridge. Shelve as-is. Does not require boxing. 
 
-    SFC (FT-100 through FT-18000s): Orange N.5 a through N.3 a (currently: N.3 a.66) 
+    SFC (FT-100 through FT-18000s): Orange N.5 a through N.3 a (currently: ~N.3 a.69)
     
-    SFC (“FT-_ _ _ _ _/_”): Orange K.18 b through K.20 b (currently: K.20 b) 
+    SFC (“FT-_ _ _ _ _/_”): Orange K.18 b through K.20 b (currently: ~K.20 b.20)
 
-    SHC (“T”): Orange K.27 a through K.27 b (currently: K.27 b) 
+    SHC (“T”): Orange K.27 a through K.27 b (currently: ~K.27 b.14)
 
-    UARMS (“T”): Orange N.2 a through N.1 b (currently: N.1 b.13) 
+    UARMS (“T”): Orange N.2 a through N.1 b (currently: ~N.1 b.13) 
 
 ### Audiocassette
 
 Includes audiocassettes and microcassettes. Formats require box storage. 
 
-    SFC (FS-100 through FS-18000s): K.24 a through K.23 b (currently: K.23 b.6) 
+    SFC (FS-100 through FS-18000s): K.24 a through K.23 b (currently: ~K.23 b.6) 
 
-    SFC (“FS-_ _ _ _ _/_): K.23 b (currently: K.23 b.46) 
+    SFC (“FS-_ _ _ _ _/_): K.23 b (currently: ~K.23 b.47) 
 
-    SHC/UARMS/RBC (“C”): K.26 b (currently: K.26 b.27) 
+    SHC/UARMS/RBC (“C”): K.26 b (currently: ~K.26 b.27) 
 
 ### Audiodiscs
 
-Includes Instantaneous disc, Transcription discs, 45s, 78s, LP, Flexi disc, Analog discs. Formats require box storage. 
+Includes Instantaneous disc, Transcription discs, 45s, 78s, LP, Flexi disc, Analog discs. Formats require box storage. Please note that commercial audiodiscs with legacy or consectuive call numbers (i.e. 78-100, 78-101, 78-102) are stored in a different location (level 9, Yellow).
 
-    SFC Instantaneous discs (“FD-“): K.3 b (currently K.3 b.14) 
+    SFC Instantaneous discs (FD-100 through FD-1600s): K.3 b (currently ~K.3 b.9) 
+    
+    SFC Instantaneous discs (FD-_ _ _ _ _/_): K.3 b (currently K.3 b.14) 
+    
+    SFC Transcription discs (TR-100 through TR-1900s): K.3 b [bottom row] (currently: K.3 b.40) 
 
-    SFC Transcription discs (“TR-“): K.3 b through K.4 a [bottom row] (currently: K.4 a.30) 
+    SFC Transcription discs (TR-_ _ _ _ _/_): K.4 a [bottom row] (currently: K.4 a.30) 
 
-    SFC 45 (“45-“): K.3 b (currently: K.3 b.11) 
+    SFC 45 (45- _ _ _ _/_): K.3 b (currently: K.3 b.11) 
 
-    SFC 78 (“78-“): K.3 b (currently: K.3 b.11) 
+    SFC 78 (78-_ _ _ _ _ /_): K.3 b (currently: K.3 b.11) 
 
-    SFC LP and Flexi disc (“FC-“): K.3 b (currently: K.3 b.12) 
+    SFC LP and Flexi disc (FC-_ _ _ _ _/_): K.3 b (currently: K.3 b.12) 
 
-    SFC Analog disc (“D-“): K.3 b (currently: K.3 b.12) 
+    SFC Analog disc (D-_ _ _ _ _ /_): K.3 b (currently: K.3 b.12) 
 
     SHC/UARMS/RBC small audiodiscs (45s, Flexi discs, small-sized Instantaneous discs): N.1 b (currently: N.1 b.42) 
 
-    SHC/UARMS/RBC medium audiodiscs (LPs, 78s, medium-sized Instantaneous discs): N.1 b (currently: N.1 b.51) 
+    SHC/UARMS/RBC medium audiodiscs (LPs, 78s, medium-sized Instantaneous discs): N.1 b (currently: ~N.1 b.52) 
 
     SHC/UARMS/RBC large audiodiscs (Transcription discs, large-sized Instantaneous discs): N.1 b [bottom row] (currently: N.a b.63) 
 
@@ -1294,11 +1298,11 @@ Includes Instantaneous disc, Transcription discs, 45s, 78s, LP, Flexi disc, Anal
 
 Includes Digital Audio Tapes (DATs) 
 
-    SFC (DAT-100s through DAT-600s): KK.11 a. 1 (currently: KK.11 a. 1) 
+    SFC (DAT-100s through DAT-600s): KK.11 a. 1 (currently: KK.11 a.1) 
 
-    SFC (“DAT-_ _ _ _ _/_“): KK.11 a through KK.12 a (currently: KK.12 a. 3) 
+    SFC (DAT-_ _ _ _ _/_): KK.11 a through KK.12 a (currently: ~KK.12 a.3) 
 
-    SHC/UARMS/RBC (“DAT-“): N.1 b (currently: N.1 b.57) 
+    SHC/UARMS/RBC (DAT-_ _ _ _ _ /_): N.1 b (currently: N.1 b.57) 
 
 ### MiniDisc 
 
@@ -1306,59 +1310,63 @@ Includes MiniDisc
 
     SFC (MD-100s): KK13 a (currently: KK13 a.1) 
 
-    SFC (“MD-_ _ _ _ _/_“): KK13 a (currently: KK13 a.1) 
+    SFC (MD-_ _ _ _ _/_): KK13 a (currently: KK13 a.1) 
 
-    SHC/UARMS/RBC (“MD-“): TBD! 
+    SHC/UARMS/RBC (MD-_ _ _ _ _/_): TBD! 
 
 ### 8-Track Tape 
 
 Includes 8-track tapes 
-
-    SFC (“8T”): K.3 b (currently K.3 b.21) 
     
-    SHC/UARMS/RBC (“8T”): TBD!
+    SFC (8T-1 through 8T-80s): K.3 b (currently K.3 b.21) 
+
+    SFC (8T-_ _ _ _ _/_): K.3 b (currently K.3 b.21) 
+    
+    SHC/UARMS/RBC (8T-_ _ _ _ _/_): TBD!
 
 ### Cylinder
 
 Includes cylinders 
+   
+    SFC (CY-100 through CY-200s): K.3 b (currently: K.3 b.29) 
 
-    SFC/SHC/UARMS/RBC (“CY”): K.3 b (currently: K.3 b.32) 
+    SFC/SHC/UARMS/RBC (CY-_ _ _ _ _/_): K.3 b (currently: K.3 b.32) 
 
 ### Wire Recording
 
 Includes wire recordings 
 
-    SFC/SHC/UARMS/RBC (“WR-“): K.3 b (currently K.3 b.22) 
+    SFC/SHC/UARMS/RBC (WR-_ _ _ _ _/_): K.3 b (currently K.3 b.22) 
 
 ### Videotape (boxable videotapes)
 
 Includes Betacam, Betacam SP, Betamax, Digital Betacam, U-Matic, VHS, HDCAM, DVCAM, MiniDV, Hi*, Video8, Digital 8, D-2, M-Format 
 
-    SFC (“VT-“): M.2 a; M.2 b; K.1 b; K.2 a (currently: K.2 a.27) 
+    SFC (VT-_ _ _ _ _/_): M.2 a; M.2 b; K.1 b; K.2 a through K.3 b(currently: ~K.3 b.9) 
 
-    SHC/UARMS/RBC (“VT-“): K.5 b through K.9 b (currently: K.9 b.26) 
+    SHC/UARMS/RBC (VT-_ _ _ _ _/_): K.5 b through K.7 b (currently: ~K.7 b.28) 
 
 ### Videotape (large open reel)
 
 Includes 2" Open Reel Video, 1" Open Reel Video, 1/2" Open Reel Video 
 
-    SFC (“VT-“): K.2 a [bottom row] (currently: K.2 a.36) 
+    SFC (VT-_ _ _ _ _/_): K.2 a [bottom row] (currently: ~K.2 a.36) 
 
-    SHC/UARMS/RBC (“VT-“): K.5 a through K.5 b [bottom row] (currently: K.5 b.47) 
+    SHC/UARMS/RBC (VT-_ _ _ _ _/_): K.5 a through K.5 b [bottom row] (currently: ~K.5 b.47) 
 
 ### Film
 
 Includes 35mm, 16mm, Super 8mm, 8mm, 9.5mm motion picture film and Filmstrips 
 
-    SFC (“F-“): K.10 a through K.11 a (currently: K.11 a.10) 
+    SFC (F--_ _ _ _ _/_): K.10 a through K.11 a (currently: ~K.11 a.10) 
 
-    SHC (“F-“): K.8 b through K.11 a (currently: K.11 a.10) 
+    SHC F--_ _ _ _ _/_): K.8 b through K.11 a (currently: ~K.11 a.10) 
 
-    UARMS (“F-“): K.10 b through K.11 a (currently: K.11 a.10) 
+    UARMS F--_ _ _ _ _/_): K.10 b through K.11 a (currently: ~K.11 a.10) 
     
 Full-coat magnetic soundtracks
 
-    SFC, SHC, UARMS (“F-“): KK. 15 a (currently: KK.15 a.2)
+    SFC, SHC, UARMS (F--_ _ _ _ _/_): KK. 15 a (currently: KK.15 a.2)
     
 ## Creating locations in ArchivesSpace
 
