@@ -426,7 +426,7 @@ When you select "Export" a pop-up window will appear. You can select any appropr
 
 ![Jitterbug batch export field options](https://github.com/annewell/images/blob/main/Jitterbug_export3.PNG)
 
-Select the green "Build and Download" button on the bottom of the batch export option and voila!, a csv export, illustrated below, should now be in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
+Select the green "Build and Download" button on the bottom of the batch export option and voila!, a CSV export, illustrated below, should now be in your Downloads folder. You can now use this metadata to apply EAD/XML tags discussed further in the [XML/EAD section](#xmlead) below.  
 
 ![sample Jitterbug export CSV file](https://github.com/annewell/images/blob/main/Jitterbug_export5.PNG)
 
