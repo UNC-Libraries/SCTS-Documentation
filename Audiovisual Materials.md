@@ -95,7 +95,7 @@ Below is a brief overview of what is required at this minimum processing level:
 
 ### Pre-Processing
 
-Place AV items in archival boxes or paige boxes, and number or label these boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc. (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)). It's not required or necessary to arrange AV items at this time, but if easy categories or groupings emerge, why not 😊? You'll be helping your colleague who picks up this collection next.
+Place AV items in archival boxes or paige boxes, and number or label these boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc. (see [Labeling and putting stuff away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away)). It's not required or necessary to arrange AV items at this time, but if easy categories or groupings emerge, why not 😊? You'll be helping your future self or your colleague who picks up this collection next.
 
 ### Description
 
