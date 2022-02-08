@@ -779,24 +779,24 @@ When materials are being described at the box-level in finding aids, use the Aud
 
 For intensive item-level description related to Jitterbug data entry and finding aid description, proceed to the Audio, Video, and Film sections below. These sections include information on:
 
-- **Jitterbug Format**: format display name in [Jitterbug](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#jitterbug)   
-- **Jitterbug Format ID**: unique ID given to each Jitterbug AV format type that is used primarily during [CSV import](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#csv-import)
-- **SFC Item**: call number pre-fix assigned to AV items in the Southern Folklife Collection
-- **SHC/UARMS/etc Item**: call number pre-fix assigned to AV items in the Southern Historical Collection, University Archives, North Carolina Collection, and Rare Book collecting units
-- **Finding Aid `<container type=>`**: Finding Aid container types for the _type_ attribute in the [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) `<container>` tag. EAD container types across all formats can be found in Technical Services' [EAD] page(https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). 
-- **Finding Aid Display Name**: AV format name displayed in finding aids
-- **Finding Aid `<genreform=>` text**: Format name listed in the `<genreform=>` tag found in the [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) `<physdesc>` tag. This metadata is usually more descriptive than the Finding Aid Display Name.
+- **Jitterbug format**: format metadata or display name in [Jitterbug](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#jitterbug)   
+- **Jitterbug format ID**: unique ID given to each Jitterbug AV format type that is used primarily during Jitterbug [CSV import](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#csv-import)
+- **SFC item**: call number pre-fix assigned to AV items in the Southern Folklife Collection
+- **SHC/UARMS/etc item**: call number pre-fix assigned to AV items in the Southern Historical Collection, University Archives, North Carolina Collection, and Rare Book collecting units
+- **Finding aid `<container type=>`**: Finding Aid container types for the _type_ attribute in the [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) `<container>` tag. EAD container types across all formats can be found in Technical Services' [EAD page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md).
+- **Finding aid display fame**: AV format name displayed in finding aids
+- **Finding aid `<genreform=>` text**: Format name listed in the `<genreform=>` tag found in the [XML/EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#xmlead) `<physdesc>` tag. This metadata is usually more descriptive than the Finding Aid Display Name. For example, Betacam videotape would have a <genreform> of Betacam and a finding aid display name of Videotape.
 
-If you need assistance identifying AV formats, consult the Audiovisual Archivist or a Technical Services Processing Archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
+If you need assistance identifying AV formats, consult the audiovisual archivist or a Technical Services Processing Archivist. A great online resource for identifying AV is the Preservation Self-Assessment Program's Collection ID Guide: 
 
 https://psap.library.illinois.edu/collection-id-guide 
 
-EAD container types across all formats can be found in Technical Services' [EAD] page(https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md).
+Again, if you're interested, EAD container types across all formats can be found in Technical Services' [EAD page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md).
 
 
 ### Audio
 
-| **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
+| **Jitterbug format**             | Jitterbug format ID     | SFC item        |  SHC/UARMS/etc item | Finding Aid `<container type=>`                   | Finding aid display name                 | Finding aid `<genreform=>` text |
 | ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
 | Audiocassette  | 28          | FS      | C    | sfcaudiocassette [FS]; audiocassette [C] | SFC Audio Cassette [FS]; Audiocassette [C] | Audiocassette |                
 | Microcassette                  | 29                  | FS                     | C                              | sfcaudiocassette [FS]; audiocassette [C] | SFC Audio Cassette [FS-]; Audiocassette [C-] | Microcassette |                                     |
@@ -826,7 +826,7 @@ EAD container types across all formats can be found in Technical Services' [EAD]
 
 ### Video
 
-| **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
+| **Jitterbug format**             | Jitterbug format ID     | SFC item        |  SHC/UARMS/etc item | Finding aid `<container type=>`                   | Finding aid display name                 | Finding aid `<genreform=>` text |
 | ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
 | Betacam  | 7          | VT      | VT    | videotape | Videotape | Betacam    |     
 | Betacam SP                     | 8                   | VT                     | VT                             | videotape | Videotape             | Betacam SP                     |
@@ -851,7 +851,7 @@ It's worth noting that there are also a handful of legacy SFC Call number prefix
 
 ### Film
 
-| **Jitterbug Format**             | Jitterbug Format ID     | SFC Item        |  SHC/UARMS/etc Item | Finding Aid `<container type=>`                   | Finding Aid Display Name                 | Finding Aid `<genreform=>` text |
+| **Jitterbug format**             | Jitterbug format ID     | SFC item        |  SHC/UARMS/etc item | Finding aid `<container type=>`                   | Finding aid display name                 | Finding aid `<genreform=>` text |
 | ---------------| ------------| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | 
 | 35mm                           | 1                   | F                      | F                              | film | Film                  | 35mm motion picture film       | 
 | 16mm                           | 2                   | F                      | F                              | film | Film                  | 16mm motion picture film       |
@@ -867,7 +867,7 @@ It's worth noting that there are also a handful of legacy SFC Call number prefix
 
 A great resource for folklore sound recording collections is the **American Folklore Society's Ethnographic Thesaurus:** http://id.loc.gov/vocabulary/ethnographicTerms.html 
 
-Listed below is a local controlled vocabulary for music-based and/or AV centric collections. Subject headings are arranged loosely by genre or subject. For more widely applicable subject terms (i.e.: Folk music., Folk songs., Dance music., etc), it may be useful to further specify the heading with a geographic location (i.e. Folk music--North Carolina.).  
+Listed below is a local controlled vocabulary for music-based and/or AV majority collections. Subject headings are arranged loosely by genre or subject. For more widely applicable subject terms (i.e.: Folk music., Folk songs., Dance music., etc), it may be useful to further specify the heading with a geographic location (i.e. Folk music--North Carolina.).  
 
 #### Blues and R&B:
 
@@ -911,9 +911,11 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Folk musicians--North Carolina. 
 - Folk songs, English--North Carolina. 
 - Folk songs, English -- United States. 
+- Folk songs, Hebrew.
 - Folklore--North Carolina.  
 - Guitar music--North Carolina.  
 - Hymns, English--North Carolina 
+- Jewish folk dancing--Songs and music. 
 - Old-time music--Southern States.  
 
 #### Radio recordings:
@@ -942,6 +944,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Funeral service.
 - Hymns, English--North Carolina. 
 - Gospel music--North Carolina.
+- Jewish chants.
 - Primitive Baptists--Clergy--North Carolina. 
 - Prayer--North Carolina. 
 - Preaching--North Carolina. 
@@ -956,6 +959,7 @@ Listed below is a local controlled vocabulary for music-based and/or AV centric 
 - Sacred music--North Carolina. 
 - Sermons, American--North Carolina. 
 - Spirituals (Songs)--North Carolina. 
+- Synagogue music--North Carolina.
 
 #### Oral History interviews and storytelling:
 
