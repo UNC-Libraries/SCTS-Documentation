@@ -763,7 +763,9 @@ Below are examples of AV Box description, including a single box and range of bo
 
 ## Formats/Container types
 
-The following section includes information on AV formats in Jitterbug metadata and finding aid description. 
+The following section includes information on AV format metadata in relation to both Jitterbug and EAD Finding Aids. Container^2 types across formats are listed on Technical Service's [EAD documenation page](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/EAD.md). This section deals specifically with container types specific to AV, as well 
+
+metadata found in Jitterbug's  I thought about separating this information out, but it's kind of neat to see everything side by side.
 
 ### Audiovisual Box
 
@@ -1364,5 +1366,7 @@ professional organizations dedicated to the preservation and access to our colle
 # Endnotes
 
 ^1 item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
+
+^2 what the heck in a container type? It's an EAD element. And what is an EAD element? Read more on the Library of Congress' EAD webpage, [https://www.loc.gov/ead/tglib/elements/container.html](https://www.loc.gov/ead/tglib/elements/container.html)
 
 
