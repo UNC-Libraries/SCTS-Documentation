@@ -1009,7 +1009,7 @@ This section discusses rehousing, labeling, box types, and shelving locations of
     
 Before we dive into lots of information on how to put away AV materials processed at the item-level, let's talk about moderate and minimum processing levels that we first talked about in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section.
     
-When processing AV at either the box or collection-level, place AV items into archival paige boxes. In terms of arrangement, it is helpful to group like or related materials into the same box or series of boxes. This is particularly true when AV boxes are being described in the finding aid. Try not to stack materials on top of each other. It's ok to mix formats, but from a preservation context, it's a good idea to consult with a Processing Archivist or Conservator with AV experience to see how to best store AV items in shared boxes and which formats can by stored safely with one another. For example, magnetic based AV formats should not be stored with celluloid moving image film items -- the materials or bases of these formats are not friends :(. 
+When processing AV at either the box or collection-level, place AV items into archival paige boxes. In terms of arrangement, it is helpful to group like or related materials into the same box or series of boxes. This is particularly true when AV boxes are being described in the finding aid. Try not to stack materials on top of each other. It's ok to mix formats, but from a preservation context, it's a good idea to consult with a Technical Services Processing Archivist or Conservator with AV experience to see how to best store AV items in shared boxes and which formats can by stored safely with one another. For example, magnetic based AV formats should not be stored with celluloid moving image film items -- the materials or bases of these formats are not friends :(. 
       
 Number and label AV boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc.
     
@@ -1017,11 +1017,11 @@ Continue below for information on how to store and shelve AV items processed at 
     
 ## Rehousing Materials
 
-Apart from moving image film, it is preferable to leave AV materials in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
+Apart from moving image film, it is preferable to leave AV items in their original containers since these containers often contain information about the original stock, as well as container notes created by the creator or donor of the collection. Exceptions to this include original containers with severe preservation or conservation concerns, such as mold or an inability to properly contain the item at hand.  
 
-Whenever an AV material is rehoused, transcribe all titles and container notes from the original container into the item's Jitterbug "Container note" field and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
+Whenever an AV item is rehoused, transcribe all titles and container notes from the original container into the item's Jitterbug "Container note" field and photocopy or digitally photograph the original container. Place the photocopy or photograph in the collection’s control file or the curatorial unit's Department Drive until proper procedures for documenting original containers are developed.  
 
-Unlike audio and video formats, moving image film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services decided how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist about film inspection and rehousing before proceeding with moving image materials.  
+Unlike audio and video formats, motion picture film is ideally hand inspected, placed onto archival cores, and rehoused into archival cans. Technical Services Processing Archivists decide how to provide housing for film on case-by-case basis. Consult the Audiovisual Archivist or Technical Services Processing Archivist about film inspection and rehousing before proceeding with motion picture film materials.  
 
 ## AV item labels
 
@@ -1035,7 +1035,7 @@ G:\wilson\ts\archival\labels\AV labels\AV_spine_labels
 
 Use whichever label and placement makes sense for the material- generally speaking, processing archivists use front facing labels for circular items, like audiodisc formats and open reel open reel audiotapes, and use spine labels for more cartridge based materials, like audiocassettes, digital audiotapes (DAT), and videotapes. No matter which label you choose, be sure to place it on the AV item's box or case, rather than on the physical media.  
 
-Moving image films are a bit of an outlier when it comes to labels. If possible, use the Brother P-touch label maker located on level 10 to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.       
+Motion picture films are a bit of an outlier when it comes to labels. If possible, use the Brother P-touch label maker located on level 10 to create a call number label (size 36 font) and adhere label to the side of film can. Hand write the title in all caps to the right of the call number label.       
  
 Sample images of formats and label placement below:    
  
@@ -1067,7 +1067,7 @@ _LP with front facing label placed on custom-made Mylar sleeve_
 
 ### AV box types
 
-Small to medium-sized AV materials require additional housing into archival boxes, while larger formats do not require additional housing.
+Small to medium-sized AV materials require additional housing into archival boxes, while larger AV formats do not require additional housing.
 
 #### AV items that do not require boxing:
 
@@ -1098,9 +1098,9 @@ Proceed to [Shelving](#shelving) if you have any of the materials listed above.
 
 #### AV items that require boxing
 
-The small to medium-sized AV materials AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. 
+The small to medium-sized AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. 
 
-Please note that there are three distinct boxing systems for AV items, including one for all collecting units besides the Southern Folklife Collection ("Wilson AV Box") and two distinct boxing systems for the Southern Folklife Collection ("SFC AV Box" and "Legacy SFC AV Box"). These three box systems are listed below with their associated formats and archival box type. (It can be tricky at first to get a hang of all of these different boxing systems - if you ever have a question, please feel free to consult the Audiovisual Archivist or a Technical Services processing archivist. We're here for you!)
+Please note that there are three distinct boxing systems for AV items, including one for all collecting units besides the Southern Folklife Collection ("Wilson AV Box") and two distinct boxing systems for the Southern Folklife Collection ("SFC AV Box" and "Legacy SFC AV Box"). These three box systems are listed below with their associated formats and archival box type. (It can be tricky at first to get a hang of all of these different boxing systems! - if you ever have a question, please feel free to consult the Audiovisual Archivist or a Technical Services Processing Archivist. We're here for you!)
 
 **Wilson AV Box**  
 Collecting units: Southern Historical Collection, University Archives, Rare Books Collection, North Carolina Collection
@@ -1169,6 +1169,8 @@ When boxing, try to organize items by call number in the box. Place items in a t
 Label templates for each shared box title resides in the Departments drive: G:\wilson\ts\archival\labels\AV labels
 
 These templates include labels for all 3 box types mentioned above, including both Southern Folklife Collection label types. Templates are arranged by collecting unit: "SFC" and "non SFC".
+    
+For AV Boxes, or AV items processed at moderate or minimum levels, use the standard document cartons/document case label, and add the AV prefix to the box number: AV Box 1, AV Box 2, AV Box 3, etc. The template for this label also lives in the Departments drive: G:\wilson\ts\archival\labels\Box labels OneLibrary
 
 ![box labels in folders on metal shelving](https://github.com/annewell/images/blob/main/Shelving_BoxLabelsresize.jpeg)
 
@@ -1233,10 +1235,16 @@ _Legacy SFC 8-track box title on archival CD box type._
 ## Shelving
 
 AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson Library's closed stacks (except for several hundred motion picture films stored remotely at the Library Service Center (LSC), but let's not get into that now). Select AV formats, like open reel audio and moving image film, are also shelved by collecting unit.
+    
+AV boxes, or AV items processed at moderate or minimum levels, are also stored on level 10.
 
 As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. SFC also has two distinct call number systems for select formats that are shelved independently from one another. 
 
 Below are the current shelving locations for AV items arranged by format, collecting unit, and SFC call number type (when appropriate).
+
+### AV Boxes
+    
+    All collecting units: TBD    
 
 ### Open reel audio
 
@@ -1356,7 +1364,7 @@ Full-coat magnetic soundtracks
 
 Once AV items are shelved in their appropriate location, record the location in ArchivesSpace. Visit Technical Services' [Labelling and Putting Stuff Away](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#creating-locations-in-archivesspace) for helpful instructions on how to record AV item locations in ASpace.
 
-An important distinction to note is that you can add AV locations either in a Resource record or an Accession record in ArchivesSpace. Add locations to the Resource record when AV items are described or listed out in the collection finding aid (or are planning to be described by Technical Services). When AV materials are not described in a collection finding aid, such as a collection-level finding aid, add AV item locations to the appropriate Accession record.
+An important distinction to note is that you can add AV locations either in a Resource record or an Accession record in ArchivesSpace. Add locations to the Resource record when AV items are described or listed out in the collection finding aid (or are planning to be described by Technical Services). When AV items are not described in a collection finding aid, such as a collection-level finding aid, add AV item locations to the appropriate Accession record.
 
 # Resources  
 
