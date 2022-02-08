@@ -443,6 +443,8 @@ All AV materials are coded at the item-level in finding aids, even materials tha
 
 ## XML/EAD
 
+Wilson Library's archival materials are acessible via EAD finding aids expressed in XML.^3
+
 To create item-level XML for AV materials, open your CSV export from Jitterbug and isolate fields you would like to call out in description (Call Number, Title, and Format, for example. Some other fields that might be helpful include LegacyID, Reel/TapeNumber, RecordingLocation, ItemYear, ItemDate, and ContentDescription). 
 
 Create columns for your XML, illustrated below in green, to properly code your desired metadata:
@@ -1367,6 +1369,8 @@ professional organizations dedicated to the preservation and access to our colle
 
 ^1 item-level streaming access restrictions ("Open", "Campus", or "Closed") are determined by the curatorial unit. Access restrictions are ideally determined during intake or acquisition. Processing Archivists may need to correspond with the curatorial unit to gather additional item-level restrictions.  
 
-^2 what the heck in a container type? It's an EAD element. And what is an EAD element? Read more on the Library of Congress' EAD webpage, [https://www.loc.gov/ead/tglib/elements/container.html](https://www.loc.gov/ead/tglib/elements/container.html)
+^2 what the heck in a container type? It's an EAD element. And what is an EAD element? Read more on the [Library of Congress' EAD webpage](https://www.loc.gov/ead/tglib/elements/container.html)
+
+^3 still confused about the differences of EAD and XML? I was at first too. Read more on EAD and XML on the [Society of American Archivists' FAQ page](https://www2.archivists.org/groups/encoded-archival-standards-section/frequently-asked-questions-about-ead-and-ead3)
 
 
