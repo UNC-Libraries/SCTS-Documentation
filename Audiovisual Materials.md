@@ -250,7 +250,7 @@ Additional guidance on creating item titles can be found below.
 ### Creating titles  
 Transcribe annotations written on original container into the "Container Note" field in Jitterbug. This field preserves how the title is originally presented on the container. 
 
-If possible, titles include who (performer or event title), what (album or song title), where (recording location using style guide for finding aid [GeogNames](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#geognames)), & when (item year or date using the style guide for finding aid [dates](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#dates)). Below is further guidance on constructing titles: 
+If possible, titles include who (performer or event title), what (album or song title), where (recording location using style guide for finding aid [GeogNames](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#geognames)), & when (item year or date, following [Technical Services' style guide for dates](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md#dates)). Below is further guidance on constructing titles: 
  
 **Who/What**
 
