@@ -1368,7 +1368,7 @@ An important distinction to note is that you can add AV locations either in a Re
 
 # Resources  
 
-This documentation page is not the result of a single individual! As the Audiovisual Archivist at Wilson Library, I lean on my Wilson Library colleagues (endless thanks to them!) and acknowledge the many smart & thoughtful people in the larger archives field who have presented and published widely about processing archival AV materials. Below is a growing & ever-evolving list of some recommended resources to check out if you haven't already. Solidarity to the AV people out there - wishing you all the best (& permanent funding for all your endeavors).:
+This documentation page is not the result of a single individual! As the audiovisual archivist at Wilson Library, I lean on my Wilson Library colleagues (endless thanks to them!) and acknowledge the many smart & thoughtful people in the larger archives field who have mentored me, presented, and published widely about processing archival AV materials. Below is a growing & ever-evolving list of some recommended resources to check out if you haven't already. Solidarity to the AV people out there - wishing you all the best (& permanent funding for all your endeavors):
 
 - University of Illinois at Urbana-Champaign's [Preservation Self-Assessment Program: "Collection ID Guide: Audiovisual Materials"](https://psap.library.illinois.edu/collection-id-guide#audiovisual)
 
