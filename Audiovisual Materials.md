@@ -1011,7 +1011,10 @@ Before we dive into lots of information on how to put away AV materials processe
     
 When processing AV at either the box or collection-level, place AV items into archival paige boxes. In terms of arrangement, it is helpful to group like or related materials into the same box or series of boxes. This is particularly true when AV boxes are being described in the finding aid. Try not to stack materials on top of each other. It's ok to mix formats, but from a preservation context, it's a good idea to consult with a Technical Services Processing Archivist or Conservator with AV experience to see how to best store AV items in shared boxes and which formats can by stored safely with one another. For example, magnetic based AV formats should not be stored with celluloid moving image film items -- the materials or bases of these formats are not friends :(. 
       
-Number and label AV boxes, using the standard document cartons/document case label but with the added AV prefix: AV Box 1, AV Box 2, AV Box 3, etc.
+Number and label AV boxes, using the standard document cartons/document case label but with the added AV prefix (AV Box 1, AV Box 2, AV Box 3, etc.) and accession number when appropriate. 
+    
+![AV Box](https://github.com/annewell/images/blob/main/Shelving_AVBox.jpeg)  
+_AV box title on paige box._    
     
 Continue below for information on how to store and shelve AV items processed at the item-level.
     
@@ -1181,6 +1184,9 @@ Please note that existing labels for select shared AV boxes, such as "Videotape 
 Below are images of select AV boxes for all three AV boxing methods (Wilson AV box, SFC AV box, and legacy SFC box) for reference.
 
 **Wilson AV box titles and types:**
+    
+![AV Box](https://github.com/annewell/images/blob/main/Shelving_AVBox.jpeg)  
+_AV box title on paige box._
 
 ![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)  
 _Videotape box title on paige box with "space available" flag in the most recent box._
