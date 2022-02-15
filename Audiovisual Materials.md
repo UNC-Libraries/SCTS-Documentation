@@ -1014,7 +1014,7 @@ When processing AV at either the box or collection-level, place AV items into ar
 Number and label AV boxes, using the standard document cartons/document case label but with the added AV prefix (AV Box 1, AV Box 2, AV Box 3, etc.) and accession number when appropriate. 
     
 ![AV Box](https://github.com/annewell/images/blob/main/Shelving_AVBox.jpeg)  
-_AV box title on paige box._    
+_AV box label on paige box._    
     
 Continue below for information on how to store and shelve AV items processed at the item-level.
     
@@ -1101,7 +1101,7 @@ Proceed to [Shelving](#shelving) if you have any of the materials listed above.
 
 #### AV items that require boxing
 
-The small to medium-sized AV formats that do require additional housing into archival boxes are listed below with the appropriate box title and box type. 
+The small to medium-sized AV formats that do require additional housing into archival boxes are listed below with the appropriate box title (or label) and box type. 
 
 Please note that there are three distinct boxing systems for AV items, including one for all collecting units besides the Southern Folklife Collection ("Wilson AV Box") and two distinct boxing systems for the Southern Folklife Collection ("SFC AV Box" and "Legacy SFC AV Box"). These three box systems are listed below with their associated formats and archival box type. (It can be tricky at first to get a hang of all of these different boxing systems! - if you ever have a question, please feel free to consult the Audiovisual Archivist or a Technical Services Processing Archivist. We're here for you!)
 
