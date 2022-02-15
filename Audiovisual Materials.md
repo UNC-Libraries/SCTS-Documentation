@@ -1007,7 +1007,7 @@ This section discusses rehousing, labeling, box types, and shelving locations of
 
 ## Moderate and Minimum processing (box and collection-level processing)
     
-Before we dive into lots of information on how to put away AV materials processed at the item-level, let's talk about moderate and minimum processing levels that we first talked about in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section.
+Before we dive into lots of information on how to put away AV materials processed at the item-level, let's discuss moderate and minimum processing levels that we first talked about in the [Processing Levels](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#processing-levels) section.
     
 When processing AV at either the box or collection-level, place AV items into archival paige boxes. In terms of arrangement, it is helpful to group like or related materials into the same box or series of boxes. This is particularly true when AV boxes are being described in the finding aid. Try not to stack materials on top of each other. It's ok to mix formats, but from a preservation context, it's a good idea to consult with a Technical Services Processing Archivist or Conservator with AV experience to see how to best store AV items in shared boxes and which formats can by stored safely with one another. For example, magnetic based AV formats should not be stored with celluloid moving image film items -- the materials or bases of these formats are not friends :(. 
       
