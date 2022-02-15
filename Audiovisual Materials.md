@@ -1185,9 +1185,6 @@ Below are images of select AV boxes for all three AV boxing methods (Wilson AV b
 
 **Wilson AV box titles and types:**
     
-![AV Box](https://github.com/annewell/images/blob/main/Shelving_AVBox.jpeg)  
-_AV box title on paige box._
-
 ![videotape box on metal shelving](https://github.com/annewell/images/blob/main/Shelving_Videotapebox.JPEG)  
 _Videotape box title on paige box with "space available" flag in the most recent box._
 
