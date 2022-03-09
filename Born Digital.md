@@ -9,6 +9,7 @@ Updated June 2020
 - [Processing](#processing)
 - [MODS requirements](#mods-requirements)
 - [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
+- [Putting Stuff Away](#putting-stuff-away)
 
 ***
 
@@ -278,5 +279,26 @@ This is an especially useful workflow if you are processing more than a handful 
 
 [CDR CSV to Mods](https://adminliveunc.sharepoint.com/:p:/r/sites/lib/departments/wts/_layouts/15/WopiFrame.aspx?sourcedoc=%7B675ECBEB-1D39-428E-94A1-E2CF3D143A55%7D&file=CDR_CSV_to_MODS_REVISED.pptx&action=default)
 
+# Putting stuff away
+
+There are currently three locations to shelve physical born-digital materials:
+
+**1. Materials ingested into the DCR**: Level 6, Black, 
+
+   Ingested materials are stored in shared boxes, "Digital Storage Device Box", on Level 6. Harddrives and other larger items may be shelved as-is on the shelf.
+   
+   Record the location of these materials in the appropriate accession record in ArchivesSpace as an Instance. Under instance, browse or create the appropriate shared Digital Storage Device Box. No need to list individual items, just a box location will do. If you have a larger item that is not in a shared box, list the location in the "General Note" field of the accession record.
+
+**2. Materials awaiting ingest or further appraisal**; Level 6, Black, 
+
+   Materials awaiting ingest are shelved as-in by accession on Level 6.
+   
+   Record the location of these in the appropriate accession record in ArchivesSpace in the General Note field.
+
+**3. Legacy materials already listed in finding aids** (FD-, CD-, DVD-, etc): Level 6, Black 
+
+   Legacy materials are shelved in various shared boxes on Level 6.
+   
+   Locations for these materials are listed in the appropriate Resource record. Please note that many of the materials are not listed in the collection finding aid they belong to. 
 
 
