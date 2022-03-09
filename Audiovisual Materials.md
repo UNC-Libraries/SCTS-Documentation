@@ -1241,7 +1241,7 @@ AV items are stored by format on level 10 in the 1952, or "orange", section of W
     
 AV boxes, or AV items processed at moderate or minimum levels, are also stored on level 10.
     
-For information on shelving archival born-digital materials, such as CDs, DVDs, and thumbdrives, visit Technical Services' [Born Digital](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Born%20Digital.md) documentation.
+For information on shelving archival born-digital materials, such as CDs, DVDs, and thumbdrives, visit Technical Services' [Born Digital](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Born%20Digital.md#putting-stuff-away) documentation.
 
 As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. SFC also has two distinct call number systems for select formats that are shelved independently from one another. 
 
