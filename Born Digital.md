@@ -295,7 +295,7 @@ There are currently three locations to shelve physical born-digital materials:
    
    Record the location of these in the appropriate accession record in ArchivesSpace in the General Note field.
 
-**3. Legacy materials already listed in finding aids** (FD-, CD-, DVD-, etc): Level 6, Black, T Range 2, Side b.
+**3. Legacy materials already listed in finding aids** (FLD-, CD-, DVD-, etc): Level 6, Black, T Range 2, Side b.
 
    Legacy materials are shelved in various shared boxes on Level 6.
    
