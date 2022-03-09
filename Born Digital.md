@@ -299,6 +299,6 @@ There are currently three locations to shelve physical born-digital materials:
 
    Legacy materials are shelved in various shared boxes on Level 6.
    
-   Locations for these materials are listed in the appropriate Resource record. Please note that many of the materials are not listed in the collection finding aid they belong to. 
+   Locations for these materials are listed in the appropriate Resource record. Please note that some of the materials found in these legacy boxes are not listed in the collection finding aid they belong to. 
 
 
