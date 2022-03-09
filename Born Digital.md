@@ -283,13 +283,13 @@ This is an especially useful workflow if you are processing more than a handful 
 
 There are currently three locations to shelve physical born-digital materials:
 
-**1. Materials ingested into the DCR**: Level 6, Black, , Y Range 9, Side b.
+**1. Materials ingested into the DCR**: Level 6, Black, Y Range 9, Side b.
 
    Ingested materials are stored in shared boxes, "Digital Storage Device Box", on Level 6. Harddrives and other larger items may be shelved as-is on the shelf.
    
    Record the location of these materials in the appropriate accession record in ArchivesSpace as an Instance. Under instance, browse or create the appropriate shared Digital Storage Device Box. No need to list individual items, just a box location will do. If you have a larger item that is not in a shared box, list the location in the "General Note" field of the accession record.
 
-**2. Materials awaiting ingest or further appraisal**; Level 6, Black, Black, Y Range 10, Side a.
+**2. Materials awaiting ingest or further appraisal**; Level 6, Black, Y Range 10, Side a.
 
    Materials awaiting ingest are shelved as-in by accession on Level 6.
    
