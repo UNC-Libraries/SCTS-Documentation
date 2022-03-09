@@ -1240,6 +1240,8 @@ _Legacy SFC 8-track box title on archival CD box type._
 AV items are stored by format on level 10 in the 1952, or "orange", section of Wilson Library's closed stacks (except for several hundred motion picture films stored remotely at the Library Service Center (LSC), but let's not get into that now). Select AV formats, like open reel audio and moving image film, are also shelved by collecting unit.
     
 AV boxes, or AV items processed at moderate or minimum levels, are also stored on level 10.
+    
+For information on shelving archival born-digital materials, such as CDs, DVDs, and thumbdrives, visit Technical Services' [Born Digital](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Born%20Digital.md) documentation.
 
 As previously noted, Southern Folklife Collection AV items are shelved separately from other collecting units at Wilson. SFC also has two distinct call number systems for select formats that are shelved independently from one another. 
 
