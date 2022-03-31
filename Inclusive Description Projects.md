@@ -3,6 +3,12 @@ Compiled October 2020, updated June, 2021, November 2021, December 2021, Februar
 
 ## Adding names of enslaved people to finding aids, November 2021-February 2022
 
+* Added names of enslaved people to the description of [Benjamin Franklin Little Papers](https://finding-aids.lib.unc.edu/03954/):
+    - Biographical note
+    - Scope and Content
+    - Series 1A, 2 series descriptions
+    - Folder 30
+    
 * Added names of enslaved people to the description of [Arnold and Screven Family Papers](https://finding-aids.lib.unc.edu/03419/):
     - Biographical note
     - XOPF-3419/1
