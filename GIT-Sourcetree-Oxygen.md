@@ -225,6 +225,8 @@ _In the Output tab:_
 2. Under your local branches, switch to the main branch by double-clicking on it.
 
 3. While on the main branch, right click on the branch you want to go live and select "merge [branch] into current branch". In the pop-up, click OK to confirm the merge.
+<br>
+
 ![Merge branch](https://github.com/llsmith305/images/blob/main/Merge_branch.png?raw=true)
 
 *Merging the branch*
