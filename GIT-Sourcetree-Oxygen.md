@@ -9,6 +9,8 @@
   - [Install Oxygen XML Editor](#install-oxygen-xml-editor)
   - [Set up Transformation Scenario](#set-up-transformation-scenario)
 
+- [Merging and Pushing](#merging-and-pushing)
+
 ***
 
 # GIT Set-up Instructions
@@ -204,3 +206,37 @@ _In the Output tab:_
 > Note: If you forgot to name your scenario, it will automatically be named after the EAD XML file that you had opened when you began creating the scenario. To rename it, select it in the list and click "EDIT." Then change the name across the very top of the menu. Click "OK" to save your new scenario and return to Oxygen. 
 
 ![Edit scenario screenshot 2](https://user-images.githubusercontent.com/58087302/79363266-afe0af80-7f15-11ea-9754-3ce394c71b3c.png "Edit scenario window screenshot 2")
+
+
+
+# Merging and Pushing
+
+## Pushing New Finding Aid Changes Live
+
+1. Make sure the correct branch is checked out on your local Sourcetree. If already under your local branches, pull any changes that need to be pulled. If the branch is not in your local branches, open your remote branches on the left hand side of Sourcetree, right click on the correct branch, and select "checkout origin/[branch]". A pop-up will ask you to confirm the checkout, click OK. 
+![Remote branches](https://github.com/llsmith305/images/blob/main/Remote_branches.png?raw=true) 
+
+*Remote branches*
+<br>
+<br>
+![Branch checkout](https://github.com/llsmith305/images/blob/main/Branch_checkout.png?raw=true)
+*Branch checkout*
+
+2. Under your local branches, switch to the main branch by double-clicking on it.
+
+3. While on the main branch, right click on the branch you want to go live and select "merge [branch] into current branch". In the pop-up, click OK to confirm the merge.
+![Merge branch](https://github.com/llsmith305/images/blob/main/Merge_branch.png?raw=true)
+
+*Merging the branch*
+<br>
+<br>
+<br>
+<br>
+![Confirm merge](https://github.com/llsmith305/images/blob/main/Confirm_merge.png?raw=true)
+
+*Confirm merging*
+
+4. Push the new commits on main. In the Push pop-up, make sure the main branch is selected and click Push. The new changes to the main branch can take up to 2 hours to dislay live.
+
+![Push main](https://github.com/llsmith305/images/blob/main/Push_main.png?raw=true)
+*Pushing main branch*
