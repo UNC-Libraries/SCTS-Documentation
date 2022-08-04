@@ -31,7 +31,7 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Data Digital Video Disc**                    | datadvd                 | DDVD-collection#/item#                |
 | **Digital Audio Tape**                         | dat                     | DAT-collection#/item#                 |
 | **Digital Item**                               | digitem                 | DI-collection#/item#                  |
-| **Digital Folder**                             | digifolder              | DF-collection#/folder#                  |
+| **Digital Folder**                             | digfolder               | DF-collection#/folder#                  |
 | **Digital Video Disc**                         | dvd                     | DVD-collection#/item#                 |
 | **Envelope**                                   | envelope                | envelope#                             |
 | **Extra Oversize Image**                       | xoimage                 | XOP-P-collection#/item#               |
@@ -70,7 +70,7 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Separated Folder (i.e. vault item)**         | separatedfolder         | SEP-collection#/folder#               |
 | **Song Folio**                                 | folio                   | song folio#                           |
 | **Special Format Image**                       | sfimage                 | SF-P-collection#/item#                |
-| **SFC Audio Cassette**                         | sfaudiocassette         | FS-collection#/item#                  |
+| **SFC Audio Cassette**                         | sfcaudiocassette        | FS-collection#/item#                  |
 | **SFC Audio Open Reel**                        | sfaudioopenreel         | FT-collection#/item#                  |
 | **Track**                                      | track                   | track#                 |
 | **Transcription Disc**                         | trans                   | TR-collection#/transcription disc#                   |
