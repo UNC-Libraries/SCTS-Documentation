@@ -1,45 +1,6 @@
 # Inclusive Description Projects
 Compiled October 2020, updated June, 2021, November 2021, December 2021, February 2022
 
-## Adding names of enslaved people to finding aids, November 2021-February 2022
-
-* Added names of enslaved people to the description of [Benjamin Franklin Little Papers](https://finding-aids.lib.unc.edu/03954/):
-    - Biographical note
-    - Scope and Content
-    - Series 1A, 2 series descriptions
-    - Folder 30
-    
-* Added names of enslaved people to the description of [Arnold and Screven Family Papers](https://finding-aids.lib.unc.edu/03419/):
-    - Biographical note
-    - XOPF-3419/1
-    
-* Added names of enslaved and free people of color to the description for [Bullock and Hamilton Family Papers](https://finding-aids.lib.unc.edu/00101/):
-    - Biographical note
-    - Folders 5, 6, 19, 22, 25, 29, 30, 39
-
-        The biographical note and folder 19 include this note to acknowledge archivist intervention: NOTE: parenthetical information is derived from original document; the archivist has used more modern terms to describe the physical condition of Jordan, the age of Patience, and the occupations of Dick, Charity, Charlotte, Eily, and William.
-
-* Added names of enslaved people to the description for these volumes in [Hentz Family Papers](https://finding-aids.lib.unc.edu/00332/):
-
-    -  Autobiography Parts I and II
-    -  Obstetrical Record 
-
-         Includes this explanatory note: patients who were enslaved typically are listed by first name only, followed by the name of the enslaver in the case list. In the index, the patients who were enslaved are typically listed with the last name of the enslaver. Processing archivists have employed the index version of the name to potentially enhance discovery. When we have misidentified a person's last name, please let us know at wilsonlibrary@unc.edu.
-
-   -  Medical Journal
-   
-   
-* Added names of enslaved people to the description of volumes and correspondence in [Clegg Family Papers](https://finding-aids.lib.unc.edu/05503/):
- 
-   -  Rock Springs Steam Saw Mill, circa 1866-1868
-   -  Mill account book, circa 1866-1868
-   -  Soapstone Mills merchandise account book, 1870
-   -  Rock Spring Steam Saw Mill, circa 1866-1867
-   -  Farm time book, circa 1865-1868
-   -  Rocky River Mill time book, 1865, 1875-1876
-   -  Time book, circa 1872-1873
-   -  Farm time book, circa 24 August 1873-1874
-   -  Correspondence, 1865
 
 ## Enhanced description for videotapes in the WTVD Moving Image Collection, January 2022
 
@@ -101,16 +62,6 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
     
     - Added racial identities
     
-
-
-
-## Antebellum finding aids: LibGuides project, summer and fall 2020 
-
-* Focusing on finding aids highlighted in UNC Libraries LibGuides *Using Records about Slavery in the Southern Historical Collection* and *Voices of the Enslaved in Wilson Special Collections Library*.  
-
-* Revised language in 30 small finding aids. Examples: [Isabella C Sourtan Letter](https://finding-aids.lib.unc.edu/00719/) and [Ben Sparkman Plantation Journal](https://finding-aids.lib.unc.edu/03574/) 
-
-* Exploring approaches to remediation work on large and medium-sized collections of planation records and records about enslavement.  
 
 
 
@@ -231,26 +182,6 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 * Created spreadsheet with analysis of other Miscellaneous collections for future revision work 
 
 
-  
-
-## Antebellum finding aids: Pilot project, spring 2020 
-
-* Revised 10 finding aids to experiment with how to conceptualize antebellum finding aid work 
-
-* Rewrote abstracts centering enslaved communities 
-
-* Included universal headings: Slavery--United States--History--19th century--Sources; Slavery--United States--History--18th century--Sources. 
-
-* Revised headings for plantations, geographic names 
-
-* Examples include: [Prudhomme Family](https://finding-aids.lib.unc.edu/00613/), [Quitman Family](https://finding-aids.lib.unc.edu/00616/), and [Pettigrew Family](https://finding-aids.lib.unc.edu/00592/) 
-
-
-  
-
-## Creating name authority records for names for enslaving families, spring and summer 2020 
-
-* Headings created for approximately three hundred families 
 
 
 ## Terms around intellectual disability, February 2020 
@@ -274,20 +205,7 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 
 ## [Louise Davis Photographs](https://finding-aids.lib.unc.edu/40500/) (40500-z), January 2020 
 
-* In the abstract, in addition to mentioning that Ms. Davis was the "…the first woman commencement marshal when she graduated in 1937..," information was included indicating that "…enrollment of women students at UNC was strictly limited.," and that the images are unique in part because they "…depict student life on the campus from the perspective of a woman in a predominately male environment." 
-
-
-  
-
-
-
-  
-
-## Revision of what was called the Tunstall Family Letter, fall 2019 
-
-* In response to a remediation request from Research and Instructional Services, we reframed the finding aid to decenter the white male enslaver. 
-
-* We renamed the collection the [Mary Tunstall Letter on Enslaved Child Betsy](https://finding-aids.lib.unc.edu/05249) 
+* In the abstract, in addition to mentioning that Ms. Davis was the "…the first woman commencement marshal when she graduated in 1937..," information was included indicating that "…enrollment of women students at UNC was strictly limited.," and that the images are unique in part because they "…depict student life on the campus from the perspective of a woman in a predominately male environment."
 
 
   
@@ -315,25 +233,6 @@ These finding aids are highlighted in UNC Libraries LibGuide *Voices of the Ensl
 ## [Charles Anderson Farrell Photographic Collection](https://finding-aids.lib.unc.edu/P0024/) (P0024), summer 2019 
 
 * Described the images from the first public performance of the Lost Colony outdoor drama in Manteo, N.C. on 4 July 1937 as including "…offensive scenes of white actors portraying Indigenous people of the Croatan tribe." 
-
-
-  
-
-## Revising Maunsel White finding aid, summer 2019 
-
-* In response to a remediation request from the SHC, we rewrote narrative description in the [Maunsel White Papers](https://finding-aids.lib.unc.edu/02234) that asserted in classic Lost Cause fashion that White was a "benevolent slave holder."  
-
-* We also rewrote the abstract to center description on material related to enslaved people. 
-
-
-  
-
-## Revising J. Marion Sims finding aid, summer 2019 
-
-* In response to a remediation request from Research and Instructional Services, we rewrote the abstract, scope/content note, and the biographical note in the [J. Marion Sims Papers](https://finding-aids.lib.unc.edu/00666) that asserted that Sims who had conducted medical experiments on enslaved women was a “pioneer” in the field of gynecology.  
-
-* We also analyzed the collection’s contents to see if there was any content about his experimentation on enslaved women. We did not find any, and we made that absence of information clear. “Sims also discussed the sale of enslaved persons, but the papers do not include any documentation of the experimental gynecological and cancer surgeries he conducted on enslaved women.” 
-
 
   
 
