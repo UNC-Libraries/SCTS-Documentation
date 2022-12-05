@@ -3,6 +3,22 @@
 Compiled December 2022
 
 
+
+## Finding aids remediation: July through December 2022
+
+* Six month phase of ongoing project
+* Goals 
+-	Develop standardized language and a way to present it in slavery-era finding aids to communicate our accountability for repairing outdated and problematic description. 
+-	Draft and make publicly available a statement about historical descriptive practices for slavery-era materials and our interventions in this area. 
+-	Implement a plan for retaining and accessing legacy finding aid description. 
+-	Complete the remediation of the finding aids listed on the Popular Topics by Collection page on the Studying Slavery in the Southern Historical Collection Lib Guide. Document the practice and guidelines used and solicit feedback on this approach.
+-	Explore how finding aid description can be remediated to support better access to lists of enslaved people in slavery-era collections.  
+-	Identify, redescribe, and queue for digitization images of enslaved and/or formerly enslaved people in slavery-era collections. 
+-	Collective discussion and engagement with user communities and related projects and initiatives. 
+
+
+
+
 ## Adding names of enslaved people to finding aids, November 2021-February 2022
 
 * Added names of enslaved people to the description of [Benjamin Franklin Little Papers](https://finding-aids.lib.unc.edu/03954/):
