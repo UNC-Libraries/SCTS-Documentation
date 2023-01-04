@@ -1,4 +1,4 @@
-Updated June 2020 by Dawne Howard Lucas. 
+Updated January 2021 by Dawne Howard Lucas. 
 
 # Overview
 
@@ -63,7 +63,9 @@ Updated June 2020 by Dawne Howard Lucas.
 
 # Before we begin
 
-We enter accession records into ArchivesSpace for all archival material received in Wilson Library. When print materials that require bibliographic cataloging are received as part of a larger archival collection, include a note about the print materials (and where they can be found) in the accession record. Create a ticket with a link to the accession record and submit it to Tickets for Tech Services section of the TS ticketing system. 
+We enter accession records into ArchivesSpace for all archival material received in Wilson Library. Information about accessions are pulled from the New Accession Request form, appraisal reports, and office hours discussions. SCTS will contact curators for additional information if needed.
+
+When print materials that require bibliographic cataloging are received as part of a larger archival collection, include a note about the print materials (and where they can be found) in the accession record. Create a ticket with a link to the accession record and submit it to Tickets for Tech Services section of the TS ticketing system. 
 
 **Staff interface:** https://aspace.lib.unc.edu:4433/ 
 
@@ -71,7 +73,7 @@ Login using your Onyen/password
 
 # Creating an Accession Record at the Wilson Special Collections Library
 
-This documentation is supplemental to the documentation provided by ArchivesSpace, and has been adapted for use at the Wilson Special Collections Library. _"Maps to:" notes let you know where you would have entered the same information in AT._
+This documentation is supplemental to the documentation provided by ArchivesSpace, and has been adapted for use at the Wilson Special Collections Library. 
 
 > While entering data you should periodically click **Save Accession**. If any required element is missing, you will be prompted to add that information. Some fields have boilerplate text with instructions. You should delete the instructions as you create the record.
 
@@ -89,8 +91,6 @@ Other fields are used for accessions at the Wilson Special Collections Library, 
 
 ### Title
 
-_Maps to: Title (Basic Information tab)_
-
 The title of the accession will typically, but need not always, match the title of the resource to which the accession belongs. For example, the accession title may be John Smith Diaries, which may become part of the larger Smith Family Papers. Required by TS.
 
 **Delete the boilerplate instructions!**
@@ -98,8 +98,6 @@ The title of the accession will typically, but need not always, match the title 
 When spawning a resource (see below), this field maps to the resource title.
 
 ### Identifier
-
-_Maps to: Accession Number (Basic Information tab)_
 
 Here's how we enter identifiers at the Wilson Special Collections Library: 
 
@@ -113,13 +111,9 @@ Required by ArchivesSpace.
 
 ### Accession Date
 
-_Maps to: Accession Date (Basic Information tab)_
-
 When you create a new accession, this field is automatically filled with the current date, so you may need to edit that date to reflect the actual date of the accession transaction. The accession date in ArchivesSpace is meant to represent the date of the receipt of the materials, which is not necessarily the same as the date the accession record is created and most probably not the date that the contents of the accession were created. Required by ArchivesSpace.
 
 ### Content Description
-
-_Maps to: Description (Accession Notes tab)_
 
 A description of the document types and topical contents of the accession. When spawning a resource, this field maps to the main level scope and content note. Required by TS.
 
@@ -127,27 +121,19 @@ A description of the document types and topical contents of the accession. When 
 
 ### General Note
 
-_Maps to: General Accession Note (Basic Information tab)_
-
 Intended for notes about the acquisition or processing of the accession, and not about the accession itself. Can used as a place to record temporary locations. (examples: 206_7a.1 or BD lab). 
  
 **Delete the boilerplate instructions!**
 
 ### Acquisition Type
 
-_Maps to: Acquisition Type (Accession Notes tab)_
-
 Choose from a drop-down list. A categorical descriptor for the type of acquisition. We typically select _gift, purchase, or transfer._ Required by TS.
 
 ### Resource Type
 
-_Maps to: Resource Type (Basic Information tab)_
-
 Choose from a drop-down list. A list of terms for categorizing resources into basic types. We typically select _Collection, Papers, or Records._ Required by TS.
 
 ### Restrictions Apply?
-
-_Maps to: Restrictions Apply (Acknowledgements, Restrictions & Processing Tasks tab)_
 
 A selected check box indicates that restrictions apply. The restrictions can be explained using the Access Restrictions Note and/or Rights sub-records, described elsewhere below. 
 
@@ -157,13 +143,9 @@ Do not check this box. Just leave it alone. Pretend you never saw it.
 
 ### Access Restrictions
 
-_Maps to: Access Restrictions (Acknowledgements, Restrictions & Processing Tasks tab)_
-
 A selected check box indicates that access to the materials is restricted. 
 
 ### Access Restrictions Note
-
-_Maps to: Access Restrictions Note (Acknowledgements, Restrictions & Processing Tasks tab)_
 
 A statement indicating what materials in the accession have restrictions on access, what the authority of the restriction is, and for how long the restriction will be in effect. There are several boilerplated options available.
 
@@ -171,19 +153,13 @@ A statement indicating what materials in the accession have restrictions on acce
 
 ### Use Restrictions
 
-_Maps to: Use Restrictions? (Acknowledgements, Restrictions & Processing Tasks tab)_
-
 A selected check box indicates that there are use restrictions for materials in the accession. The restrictions can be explained using the Use Restrictions Note and/or Rights sub-records, described below. 
 
 ### Use Restrictions Note
 
-_Maps to: Use Restrictions Note  (Acknowledgements, Restrictions & Processing Tasks tab)_
-
 A statement indicating which materials have use restrictions, how the materials can be used, what the authority of the restriction is, and for how long the restriction will be in effect. Additional information may also be recorded in a Rights sub-record.
 
 ## Dates
-
-_Maps to: Date Expression (Basic Information tab)_
 
 This sub-record identifies and records the date(s) that pertain to the creation, assembly, accumulation, and/or maintenance and use of the materials being described. The required fields are **Label, Type,  Date Expression.**
 
@@ -220,8 +196,6 @@ Choose from a drop-down list. Indicate the level of confidence for the informati
 
 ## Extents
 
-_Maps to: Extent (Basic Information tab)_
-
 This sub-record is used for recording the extent (items, volume, or containers) of the described materials. The required fields are Portion, Number, and Type. 
 
 **You may add as many extent records as needed. This means that you can record physical and digital extents in the same record. Hooray! To do this, you will need to create more than one sub-record using the steps below.**
@@ -232,26 +206,18 @@ One Extent sub-record will automatically appear as part of the accession record 
 
 ### Portion
 
-_Maps to: This is a new feature that does not map to AT_
-
 Used to specify whether an extent statement relates to the whole or part of a given accession. Choose part or whole from the drop-down list. If you are recording multiple extents (for example, if you have 1 box of papers and 1 hard drive), you will need to create multiple sub-records. Required by ArchivesSpace.
 
 ### Number
 
-_Maps to: Extent number (Basic Information tab)_
-
  A numeric value for indicating the number of units in the extent statement, e.g., 5, 11.5, 245. Used in conjunction with Type (below) to provide a structured extent statement. Required by ArchivesSpace.
  
  ### Type
- 
- _Maps to: Extent number (Basic Information tab)_
- 
+  
  A term indicating the type of unit used to measure the extent of materials described (examples: items, linear feet, gigabytes). Choose from a drop-down list. Required by ArchivesSpace.
  
  ### Container Summary
- 
- _Maps to: Container Summary (Basic Information tab)_
- 
+  
 Serves to describe the logical or physical parts of a multi-level resource or digital object that makes up an aggregation of archival materials. Required by TS.
 
 Example of use: if the Number and Type are 10 linear feet, then the container summary might be used to record the actual number of containers (10 boxes and 4 flat files)
@@ -267,8 +233,6 @@ Example of use: if the Number and Type are 10 linear feet, then the container su
 
 ## Agents
 
-_Maps to: Names & Subjects tab_
-
 Also known as names, this sub-record enables associating an agent as a creator, source, or subject to the materials being described, as a rights holder to a rights statement, as an agent responsible for a recorded event, and to other agents. 
 
 > Note that we will be using agent records much more comprehensively in the future!
@@ -283,21 +247,15 @@ To link an agent record to a material description record, click **Agent Links** 
 
 ### Role
 
-_Maps to: Function (Names & Subjects tab)_
-
 Choose from drop-down list. An indication of what function (creator, source, or subject) the agent has in regards to its link to a certain material description record. Required by ArchivesSpace
 
 > Note that if you choose a Role=Creator, the screen will present a **Title** field. _You do not have to fill in the **Title** field._
 
 ### Relator
 
-_Maps to: Role (Names & Subjects tab) Isn't that confusing?_
-
 _Very_ optional. Choose from drop-down list. A more specific indication of what role the agent has in respect to the materials being described. For example, an agent may be linked as a creator to a record, but with the more specific role of "illustrator" or as the source to a record, but with the more specific role of "donor."  
 
 ### Agent
-
-_Maps to: Name Lookup (Names & Subjects tab)_
 
 For identifying the agent related to the material described in the record. Agents may be searched using auto-complete, using a browse function, or, if need be, may be created on demand. Required by ArchivesSpace.
 
@@ -361,8 +319,6 @@ For identifying the agent related to the material described in the record. Agent
 
 ## Related Resources
 
-_Maps to: Resources Linked to this accession (Basic Information tab)_
-
 Also known as collections, this field allows you link an accession to an existing resource record in your repository. The **Resource** field is required. You may link as many resource records to an accession as necessary. 
 
 To link a related resource to an accession record, click **Related Resources** on the left navigation bar and then click Add Related Resource on the right side of the screen. 
@@ -415,15 +371,11 @@ This sub-record is used to add staff-only information about the processing of ma
 
 ### Processing Plan
 
-_Maps to: Processing Plan (Acknowledgements, Restrictions & Processing Tasks tab)_
-
 Open text field. For recording a plan for processing of the archival unit. We typically use _Acc2Proc_ or _Intake_. Required by TS.
 
 **Delete the boilerplate instructions!**
 
 ### Processing Status
-
-_Maps to: Processing Status (Acknowledgements, Restrictions & Processing Tasks tab)_
 
 Choose from drop-down list. We typically do not use this field until the accession has been **Processed**.
 
@@ -438,29 +390,21 @@ Please note that there are several user defined fields that we did not migrate f
 
 ### Items
 
-_Maps to: Items (User defined fields tab)_
-
 Used to record the approximate number of items in an accession. 
 
 **Delete the boilerplate instructions!**
 
 ### Monetary
 
-_Maps to: Monetary (User defined fields tab)_
-
 Used to record how much money was paid for an accession, if applicable.
 
 ### New or addition
-
-_Maps to: New or addition (User defined fields tab)_
 
 Used to record whether an accession is creating a new collection, or adding to an existing collection. 
 
 **Delete the boilerplate instructions!**
 
 ### Biographical and historical information
-
-_Maps to: Biographical/historical information (User defined fields tab)_
 
 Used to record biographical and historical information related to an accession and its 
 agents. In the future, we might record some of this information in the agent records. 
