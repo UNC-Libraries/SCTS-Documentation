@@ -62,11 +62,19 @@ Updated January 2023 by Dawne Howard Lucas.
 ***
 # Before the Accession Record
 
-> 1/11/2023: This section is a work in progress!
+> 1/11/2023: This section is a work in progress! This section is useful for all Wilson Library staff members.
+
+SCTS enters accession records into ArchivesSpace for all newly acquired archival materials received in Wilson Library. There are several steps that must take place before SCTS can accession newly acquired archival materials.
+
+1. Materials must be physically present in Wilson Library.
+2. When applicable, materials must have an appraisal report saved to the Intake channel on Microsoft Teams **and** must have received approval by the Collection Development Review Committee (CDRC).
+3. When applicable, materials must have must have a signed deed of gift.
+4. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
+> Please fill out this form as thoroughly as possible. 
 
 # Intro to Accession Records
 
-We enter accession records into ArchivesSpace for all archival material received in Wilson Library. Information about accessions are pulled from the New Accession Request form, appraisal reports, and office hours discussions. SCTS will contact curators for additional information if needed.
+Information about accessions are pulled from the New Accession Request form, appraisal reports, and office hours discussions. SCTS will contact curators for additional information if needed.
 > Appraisal reports can be found in the Files section of the Intake channel on the Special Collections Intake Team. There is a folder for each curatorial unit.
 
 When print materials that require bibliographic cataloging are received as part of a larger archival collection, include a note about the print materials (and where they can be found) in the accession record. Create a ticket with a link to the accession record and submit it to Tickets for Tech Services section of the TS ticketing system. 
