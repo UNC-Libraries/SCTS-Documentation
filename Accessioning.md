@@ -1,7 +1,7 @@
 Updated January 2023 by Dawne Howard Lucas. 
 
 # Overview
-- [Before the Accession Record] (#before-the-accession-record)
+- [Before the Accession Record](#before-the-accession-record)
 - [Intro to Accession Records](#intro-to-accession-records)
 - [Creating an Accession Record](#creating-an-accession-record-at-the-wilson-special-collections-library)
 - [Instructions](#instructions)
