@@ -61,7 +61,7 @@ Updated January 2023 by Dawne Howard Lucas.
 
 ***
 
-# Before we begin
+# Intro to Accession Records
 
 We enter accession records into ArchivesSpace for all archival material received in Wilson Library. Information about accessions are pulled from the New Accession Request form, appraisal reports, and office hours discussions. SCTS will contact curators for additional information if needed.
 > Appraisal reports can be found in the Files section of the Intake channel on the Special Collections Intake Team. There is a folder for each curatorial unit.
