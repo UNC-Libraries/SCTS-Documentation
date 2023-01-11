@@ -70,7 +70,12 @@ SCTS enters accession records into ArchivesSpace for all newly acquired archival
 2. When applicable, materials must have an appraisal report saved to the Intake channel on Microsoft Teams **and** must have received approval by the Collection Development Review Committee (CDRC).
 3. When applicable, materials must have must have a signed deed of gift.
 4. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
-> Please fill out this form as thoroughly as possible. 
+Please fill out this form as thoroughly as possible. At minimum, accession records must contain the following information:
+- **Collection name**
+- **Collection number**
+- **Content description**
+- **Extent (# of boxes and approximate # of items** 
+- **Dates**
 
 # Intro to Accession Records
 
