@@ -74,7 +74,7 @@ Please fill out this form as thoroughly as possible. At minimum, accession recor
 - **Collection name**
 - **Collection number**
 - **Content description**
-- **Extent (# of boxes and approximate # of items** 
+- **Extent (# of boxes and approximate # of items**) 
 - **Dates**
 
 # Intro to Accession Records
