@@ -85,16 +85,15 @@ SCTS needs the following information to create and save accession records in Arc
 - **Name of donor or seller**
 - **Condition concerns (if applicable)**
 - **Current location of materials**
-> Materials should not be left in offices or on carts for SCTS to pick up. Materials should be left in Room 
+> Materials should not be left in offices or on carts for SCTS to pick up. Materials should be stored in Room 206, or arrangements should be made to bring them to the TS-Archival work room.
 - **If office hours have been requested**
 
 In addition to the information listed above, providing the following information is **strongly recommended**. Some of this information might already be in the appraisal report. 
 - **Biographical information**
 - **Recommended subject headings (can be keywords)**
 
-5. 
 6. SCTS receives notification of completed forms and creates the accession record. If needed, SCTS will follow-up with curatorial units for more information.
-7. SCTS will create a ticket on the Intake planner
+7. SCTS will create a ticket on the Intake planner and tag the curatorial staff member associated with the accession. The ticket will be placed into one of the following categories:
 
 # Creating an Accession Record at the Wilson Special Collections Library
 
