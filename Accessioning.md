@@ -1,7 +1,7 @@
 Updated January 2023 by Dawne Howard Lucas. 
 
 # Overview
-- [Before the Accession Record](#before-the-accession-record)
+- [Accessioning Workflow](#accessioning-workflow)
 - [Creating an Accession Record](#creating-an-accession-record-at-the-wilson-special-collections-library)
 - [Instructions](#instructions)
   - [Basic Information](#basic-information)
@@ -59,7 +59,7 @@ Updated January 2023 by Dawne Howard Lucas.
 - [Agent Links](#agent-links)
 
 ***
-# Before the Accession Record
+# Accessioning Workflow
 
 > 1/11/2023: This section is a work in progress! This section is useful for all Wilson Library staff members.
 
