@@ -63,14 +63,16 @@ Updated January 2023 by Dawne Howard Lucas.
 
 > 1/11/2023: This section is a work in progress! This section is useful for all Wilson Library staff members.
 
-SCTS enters accession records into ArchivesSpace for all newly acquired archival materials received in Wilson Library. There are several steps that must take place before SCTS can accession newly acquired archival materials.
+SCTS enters accession records into ArchivesSpace for all newly acquired archival materials received in Wilson Library. Thoroughly capturing as much information as possible at the point of accession is very important, as it is much harder to piece together scattered or undocumented collection data later.
+
+There are several steps that must take place before SCTS can accession newly acquired archival materials.
 
 1. Materials must be physically present in Wilson Library.
 2. When applicable, materials must have an appraisal report saved to the Intake channel on Microsoft Teams **and** must have received approval by the Collection Development Review Committee (CDRC).
 > Appraisal reports are used for collection development purposes and are outside the purview of SCTS. **However,** SCTS heavily relies on the information provided in them. 
 4. When applicable, materials must have must have a signed deed of gift.
 5. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
-Please fill out this form as thoroughly as possible. 
+This form should be filled as thoroughly as possible. SCTS will follow-up with any questions. Please note that materials cannot be accessioned if there is "Not yet" an appraisal report, CDRC review, or a signed deed of gift. 
 
 SCTS needs the following information to create and save accession records in ArchivesSpace. Some of this information might already be in the appraisal report:
 
@@ -83,12 +85,16 @@ SCTS needs the following information to create and save accession records in Arc
 - **Name of donor or seller**
 - **Condition concerns (if applicable)**
 - **Current location of materials**
+> Materials should not be left in offices or on carts for SCTS to pick up. Materials should be left in Room 
+- **If office hours have been requested**
 
 In addition to the information listed above, providing the following information is **strongly recommended**. Some of this information might already be in the appraisal report. 
 - **Biographical information**
 - **Recommended subject headings (can be keywords)**
 
 5. 
+6. SCTS receives notification of completed forms and creates the accession record. If needed, SCTS will follow-up with curatorial units for more information.
+7. SCTS will create a ticket on the Intake planner
 
 # Creating an Accession Record at the Wilson Special Collections Library
 
