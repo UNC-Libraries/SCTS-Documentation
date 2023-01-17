@@ -2,7 +2,6 @@ Updated January 2023 by Dawne Howard Lucas.
 
 # Overview
 - [Before the Accession Record](#before-the-accession-record)
-- [Intro to Accession Records](#intro-to-accession-records)
 - [Creating an Accession Record](#creating-an-accession-record-at-the-wilson-special-collections-library)
 - [Instructions](#instructions)
   - [Basic Information](#basic-information)
@@ -91,9 +90,10 @@ In addition to the information listed above, providing the following information
 
 5. 
 
-# Intro to Accession Records
+# Creating an Accession Record at the Wilson Special Collections Library
 
 Information about accessions are pulled from the New Accession Request form, appraisal reports, and office hours discussions. SCTS will contact curators for additional information if needed.
+
 > Appraisal reports can be found in the Files section of the Intake channel on the Special Collections Intake Team. There is a folder for each curatorial unit.
 
 When print materials that require bibliographic cataloging are received as part of a larger archival collection, include a note about the print materials (and where they can be found) in the accession record. Create a ticket with a link to the accession record and submit it to Tickets for Tech Services section of the TS ticketing system. 
@@ -102,7 +102,6 @@ When print materials that require bibliographic cataloging are received as part 
 
 Login using your Onyen/password
 
-# Creating an Accession Record at the Wilson Special Collections Library
 
 This documentation is supplemental to the documentation provided by ArchivesSpace, and has been adapted for use at the Wilson Special Collections Library. 
 
