@@ -68,8 +68,9 @@ SCTS enters accession records into ArchivesSpace for all newly acquired archival
 
 1. Materials must be physically present in Wilson Library.
 2. When applicable, materials must have an appraisal report saved to the Intake channel on Microsoft Teams **and** must have received approval by the Collection Development Review Committee (CDRC).
-3. When applicable, materials must have must have a signed deed of gift.
-4. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
+> Appraisal reports are used for collection development purposes and are outside the purview of SCTS. **However,** SCTS heavily relies on the information provided in them. 
+4. When applicable, materials must have must have a signed deed of gift.
+5. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
 Please fill out this form as thoroughly as possible. 
 
 SCTS needs the following information to create and save accession records in ArchivesSpace. Some of this information might already be in the appraisal report:
