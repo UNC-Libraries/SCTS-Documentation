@@ -95,7 +95,8 @@ In addition to the information listed above, providing the following information
 6. SCTS receives notification of completed forms and creates the accession record. If needed, SCTS will follow-up with curatorial units for more information.
 7. SCTS will create a ticket on the Intake planner (located on the Intake channel on Microsoft Teams) and tag the curatorial staff member associated with the accession. The ticket will be placed into one of the following categories:
 
-- **Office Hours Requested**: Office hours have been requested either via the New accession request form or by SCTS request.
+- **Office Hours Requested**: Office hours have been requested either via the "Archival accession request form" or by SCTS request.
+- **Accessioned: Needs Curatorial**: SCTS cannot proceed without further action from a curatorial unit, such as additional appraisal.
 
 # Creating an Accession Record at the Wilson Special Collections Library
 
