@@ -61,7 +61,7 @@ Updated January 2023 by Dawne Howard Lucas.
 ***
 # Accessioning Workflow
 
-> 1/11/2023: This section is a work in progress! This section is useful for all Wilson Library staff members.
+> This section is useful for all Wilson Library staff members! Please contact Dawne with questions.
 
 SCTS enters accession records into ArchivesSpace for all newly acquired archival materials received in Wilson Library. Thoroughly capturing as much information as possible at the point of accession is very important, as it is much harder to piece together scattered or undocumented collection data later.
 
@@ -97,6 +97,13 @@ In addition to the information listed above, providing the following information
 
 - **Office Hours Requested**: Office hours have been requested either via the "Archival accession request form" or by SCTS request.
 - **Accessioned: Needs Curatorial**: SCTS cannot proceed without further action from a curatorial unit, such as additional appraisal.
+- **Ready for SCTS**: SCTS can proceed with the accession.
+- **Enhanced Processing**: SCTS can proceed with the accession, and the materials will receive enhanced description. This option typically applies to materials documenting populations that historically have been excluded from or inadequately described in our collections.
+- **Born Digital**: Requires processing in the born digital lab.
+
+SCTS has assigned accessions to other categories in the past, including **Photographs** and **AV**. Those categories still exist, but SCTS has moved away from using them.
+
+8. When finished, SCTS will mark the accession as complete.
 
 # Creating an Accession Record at the Wilson Special Collections Library
 
