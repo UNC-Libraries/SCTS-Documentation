@@ -70,8 +70,8 @@ There are several steps that must take place before SCTS can accession newly acq
 1. Materials must be physically present in Wilson Library.
 2. When applicable, materials must have an appraisal report saved to the Intake channel on Microsoft Teams **and** must have received approval by the Collection Development Review Committee (CDRC).
 > Appraisal reports are used for collection development purposes and are outside the purview of SCTS. **However,** SCTS heavily relies on the information provided in them. 
-4. When applicable, materials must have must have a signed deed of gift.
-5. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
+3. When applicable, materials must have must have a signed deed of gift.
+4. Once steps 1-3 have been completed, a curatorial staff member fills out the "Archival accession request form," located on the Intake channel on Microsoft Teams.
 This form should be filled as thoroughly as possible. SCTS will follow-up with any questions. Please note that materials cannot be accessioned if there is "Not yet" an appraisal report, CDRC review, or a signed deed of gift. 
 
 SCTS needs the following information to create and save accession records in ArchivesSpace. Some of this information might already be in the appraisal report:
@@ -92,8 +92,8 @@ In addition to the information listed above, providing the following information
 - **Biographical information**
 - **Recommended subject headings (can be keywords)**
 
-6. SCTS receives notification of completed forms and creates the accession record. If needed, SCTS will follow-up with curatorial units for more information.
-7. SCTS will create a ticket on the Intake planner (located on the Intake channel on Microsoft Teams) and tag the curatorial staff member associated with the accession. The ticket will be placed into one of the following categories:
+5. SCTS receives notification of completed forms and creates the accession record. If needed, SCTS will follow-up with curatorial units for more information.
+6. SCTS will create a ticket on the Intake planner (located on the Intake channel on Microsoft Teams) and tag the curatorial staff member associated with the accession. The ticket will be placed into one of the following categories:
 
 - **Office Hours Requested**: Office hours have been requested either via the "Archival accession request form" or by SCTS request.
 > Office hours are not required, but are a good idea for the following types of accessions: the first accession of a new collection, large accessions, accessions with access restrictions, accessions with a variety of formats, or accessions that are otherwise not straightforward.  
@@ -104,8 +104,8 @@ In addition to the information listed above, providing the following information
 
 SCTS has assigned accessions to other categories in the past, including **Photographs** and **AV**. Those categories still exist, but SCTS has moved away from using them.
 
-8. When finished, SCTS will mark the accession as complete.
-9. That's it! Pleaase contact Dawne with questions.
+7. When finished, SCTS will mark the accession as complete.
+8. That's it! Pleaase contact Dawne with questions.
 
 > All sections below this point are specific to SCTS workflows and are intended for SCTS staff members.
 
