@@ -96,6 +96,7 @@ In addition to the information listed above, providing the following information
 7. SCTS will create a ticket on the Intake planner (located on the Intake channel on Microsoft Teams) and tag the curatorial staff member associated with the accession. The ticket will be placed into one of the following categories:
 
 - **Office Hours Requested**: Office hours have been requested either via the "Archival accession request form" or by SCTS request.
+> Office hours are not required, but are a good idea for the following types of accessions: the first accession of a new collection, large accessions, accessions with access restrictions, accessions with a variety of formats, or accessions that are otherwise not straightforward.  
 - **Accessioned: Needs Curatorial**: SCTS cannot proceed without further action from a curatorial unit, such as additional appraisal.
 - **Ready for SCTS**: SCTS can proceed with the accession.
 - **Enhanced Processing**: SCTS can proceed with the accession, and the materials will receive enhanced description. This option typically applies to materials documenting populations that historically have been excluded from or inadequately described in our collections.
