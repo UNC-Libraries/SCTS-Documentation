@@ -107,7 +107,11 @@ SCTS has assigned accessions to other categories in the past, including **Photog
 8. When finished, SCTS will mark the accession as complete.
 9. That's it! Pleaase contact Dawne with questions.
 
+> All sections below this point are specific to SCTS workflows and are intended for SCTS staff members.
+
 # Creating an Accession Record at the Wilson Special Collections Library
+
+> This section is specific to SCTS workflows and is intended for SCTS staff members.
 
 Information about accessions are pulled from the New Accession Request form, appraisal reports, and office hours discussions. SCTS will contact curators for additional information if needed.
 
@@ -125,6 +129,8 @@ This documentation is supplemental to the documentation provided by ArchivesSpac
 > While entering data you should periodically click **Save Accession**. If any required element is missing, you will be prompted to add that information. Some fields have boilerplate text with instructions. You should delete the instructions as you create the record.
 
 # Instructions
+
+> This section is specific to SCTS workflows and is intended for SCTS staff members.
 
 1. On the main toolbar, click **Create** and select Accession. 
 
