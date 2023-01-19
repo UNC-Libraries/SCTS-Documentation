@@ -104,6 +104,7 @@ In addition to the information listed above, providing the following information
 SCTS has assigned accessions to other categories in the past, including **Photographs** and **AV**. Those categories still exist, but SCTS has moved away from using them.
 
 8. When finished, SCTS will mark the accession as complete.
+9. That's it! Pleaase contact Dawne with questions.
 
 # Creating an Accession Record at the Wilson Special Collections Library
 
