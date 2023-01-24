@@ -7,14 +7,16 @@ Compiled December 2022
 ## Finding aids remediation: July through December 2022
 
 * Six month phase of ongoing project
-* Goals: 
-    - Develop standardized language and a way to present it in slavery-era finding aids to communicate our accountability for repairing outdated and problematic description. 
-    - Draft and make publicly available a statement about historical descriptive practices for slavery-era materials and our interventions in this area. 
-    - Implement a plan for retaining and accessing legacy finding aid description. 
-    - Complete the remediation of the finding aids listed on the Popular Topics by Collection page on the Studying Slavery in the Southern Historical Collection Lib Guide. Document the practice and guidelines used and solicit feedback on this approach.
-    - Explore how finding aid description can be remediated to support better access to lists of enslaved people in slavery-era collections.  
-    - Identify, redescribe, and queue for digitization images of enslaved and/or formerly enslaved people in slavery-era collections. 
-    - Collective discussion and engagement with user communities and related projects and initiatives. 
+* Completed the remediation of the finding aids listed on the Popular Topics by Collection page on the Studying Slavery in the Southern Historical Collection Lib Guide. Documented the practice and guidelines used for this remediation.
+
+* Identified, redescribed, and queued for digitization images of enslaved and/or formerly enslaved people in slavery-era collections. 
+
+* Drafted statement about historical finding aid practice and our remediation. Statement vetted by Ethical Description Working Group and Southern Historical Collection staff. 
+
+* Drafted text of a banner to be included on finding aids for slavery era collections notifying researchers of  content and the bias in finding aid description. The text will be included in a finding aid note now and incorporated as a banner when we implement a new finding aids public interface system. 
+
+* Piloted linking to legacy finding aids that have been scanned and turned into pdfs. ![image](https://user-images.githubusercontent.com/37347394/214408106-4d33ad57-9503-4f7a-aca3-776eb71cab8f.png)
+
 
 
 
