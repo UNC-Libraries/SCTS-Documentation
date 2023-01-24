@@ -16,11 +16,7 @@ Compiled December 2022
 
 * Drafted text of a banner to be included on finding aids for slavery era collections notifying researchers of  content and the bias in finding aid description. The text will be included in a finding aid note now and incorporated as a banner when we implement a new finding aids public interface system. 
 
-* Piloted linking to legacy finding aids that have been scanned and turned into pdfs. ![image](https://user-images.githubusercontent.com/37347394/214408106-4d33ad57-9503-4f7a-aca3-776eb71cab8f.png)
-
-
-
-
+* Piloted linking to legacy finding aids that have been scanned and turned into pdfs. 
 
 ## Adding names of enslaved people to finding aids, November 2021-February 2022
 
