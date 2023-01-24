@@ -7,6 +7,7 @@ Compiled December 2022
 ## Finding aids remediation: July through December 2022
 
 * Six month phase of ongoing project
+
 * Completed the remediation of the finding aids listed on the Popular Topics by Collection page on the Studying Slavery in the Southern Historical Collection Lib Guide. Documented the practice and guidelines used for this remediation.
 
 * Identified, redescribed, and queued for digitization images of enslaved and/or formerly enslaved people in slavery-era collections. 
