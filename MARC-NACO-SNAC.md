@@ -1,16 +1,30 @@
-Updated July 2020 by Jodi Berkowitz.
+Updated January 2023 by Jodi Berkowitz.
 
 # Overview
 
+- [Review finding aid](#review-finding-aid)
 - [Creating new MARC records](#creating-new-marc-records)
 - [Editing existing MARC records](#editing-existing-marc-records)
+- [Updating finding aid](#updating-finding-aid)
+- [NACO work](#naco-work)
+- [SNAC work](#snac-work)
 - [Headings for archival records (authority work)](#headings-for-archival-records-authority-work)
 
 ***
 
+# Review finding aid 
+
+## This applies to new MARC and MARC edits
+
+1. Read over finding aid, paying special attention to the title, creator, and all subject headings to verify their accuracy and appropriateness.
+2. Construct new creator heading as needed.
+3. Note if new NACO record will need to be created.
+4. Edit and add subject headings as needed.
+5. Note any edits that will have to be made to the finding aid.
+
 # Creating new MARC records
 
-## Create a new record
+## Create a new record in OCLC Connexion
 
 1. Select collection for which you will create a record
    - File > Local File Manager > xx.bib.db
@@ -223,6 +237,11 @@ No period at end
 
 ### 8. Save to local file (F4)
 
+# Updating finding aid
+
+# NACO work
+
+# SNAC work
 
 # Headings for archival records (authority work)
 
