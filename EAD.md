@@ -71,7 +71,7 @@ Here is the list of container types for the _type_ attribute in the `<contai
 | **Song Folio**                                 | folio                   | song folio#                           |
 | **Special Format Image**                       | sfimage                 | SF-P-collection#/item#                |
 | **SFC Audio Cassette**                         | sfcaudiocassette        | FS-collection#/item#                  |
-| **SFC Audio Open Reel**                        | sfaudioopenreel         | FT-collection#/item#                  |
+| **SFC Audio Open Reel**                        | sfcaudioopenreel         | FT-collection#/item#                  |
 | **Track**                                      | track                   | track#                 |
 | **Transcription Disc**                         | trans                   | TR-collection#/transcription disc#                   |
 | **Transcription Volume**                       | transv                  | TV-collection#/item#                  |
