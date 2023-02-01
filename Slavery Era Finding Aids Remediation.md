@@ -10,13 +10,15 @@ Six month phase of ongoing project
 
 * Completed the remediation of the finding aids listed on the [Popular Topics by Collection](https://guides.lib.unc.edu/researching-records-slavery/collections-popular-topics) page on the Studying Slavery in the Southern Historical Collection Lib Guide. Documented the practice and guidelines used for this remediation.
 
-* Identified, redescribed, and queued for digitization images of enslaved and/or formerly enslaved people in slavery-era collections. 
+*Began remediating corresponding catalog records for remediated finding aids.  
+
+* Identified, redescribed, and queued for digitization images of enslaved and/or formerly enslaved people in slavery-era collections. Example: [William Starr Meyers Images](https://finding-aids.lib.unc.edu/P0094/)
 
 * Drafted statement about historical finding aid practice and our remediation. Statement vetted by Ethical Description Working Group and Southern Historical Collection staff. 
 
 * Drafted text of a banner to be included on finding aids for slavery era collections notifying researchers of  content and the bias in finding aid description. The text will be included in a finding aid note now and incorporated as a banner when we implement a new finding aids public interface system. 
 
-* Piloted linking to legacy finding aids that have been scanned and turned into pdfs. 
+* Piloted linking to legacy finding aids that have been scanned and turned into pdfs. Example: [Hubard Family Papers](https://finding-aids.lib.unc.edu/00360/)
 
 ## Adding names of enslaved people to finding aids, November 2021-February 2022
 
