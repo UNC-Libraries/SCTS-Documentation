@@ -238,7 +238,7 @@ _In the Output tab:_
 
 *Confirm merging*
 
-4. Push the new commits on main. In the Push pop-up, make sure the main branch is selected and click Push. The new changes to the main branch can take up to 2 hours to dislay live.
+4. Push the new commits on main. In the Push pop-up, make sure the main branch is selected and click Push. The new changes to the main branch can take up to 2 hours to display live.
 
 ![Push main](https://github.com/llsmith305/images/blob/main/Push_main.png?raw=true)
 *Pushing main branch*
