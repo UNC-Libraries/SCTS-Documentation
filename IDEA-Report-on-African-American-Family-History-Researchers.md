@@ -2,7 +2,6 @@
 
 Project team:
 
-- **Collection name**
 - **Jackie Dean, Special Collections, Head of Archival Processing Section**
 - **Eileen Dewitya, Special Collections, Head of Bibliographic Cataloging**
 - **Sarah Hoover, Special Collections Cataloger**
