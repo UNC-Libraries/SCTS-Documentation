@@ -231,19 +231,19 @@ We began this project in hopes of gaining some insights into the perspectives an
 
 # Endnotes
 
-[^1}: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
+[^1]: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
 
-[^2}: For example, if your ancestor was alive during the New Deal, then think about the social security number. Considering what forms were filled out to establish the unique identifier and what agencies might have tracked it offer additional search points.
+[^2]: For example, if your ancestor was alive during the New Deal, then think about the social security number. Considering what forms were filled out to establish the unique identifier and what agencies might have tracked it offer additional search points.
 
-[^3}: We also heard that manuscript materials can be very difficult to read on microfilm. Digitization can dramatically improve decipherability.
+[^3]: We also heard that manuscript materials can be very difficult to read on microfilm. Digitization can dramatically improve decipherability.
 
-[^4}: Bernetiae suggested the [Amistad Research Center](https://amistad-finding-aids.tulane.edu/) as an example of excerpted abstracts with keywords highlighted.
+[^4]: Bernetiae suggested the [Amistad Research Center](https://amistad-finding-aids.tulane.edu/) as an example of excerpted abstracts with keywords highlighted.
 
-[^5}: Duke University Libraries has already implemented ArchivesSpace for their archives and manuscript collections. [This](https://archives.lib.duke.edu/?utf8=%E2%9C%93&view=list&group=true&search_field=all_fields&q=slavery) is an example of what a search results page might look like.
+[^5]: Duke University Libraries has already implemented ArchivesSpace for their archives and manuscript collections. [This](https://archives.lib.duke.edu/?utf8=%E2%9C%93&view=list&group=true&search_field=all_fields&q=slavery) is an example of what a search results page might look like.
 
-[^6}: For example: [360. Hubard Family Papers](https://finding-aids.lib.unc.edu/00360/).
+[^6]: For example: [360. Hubard Family Papers](https://finding-aids.lib.unc.edu/00360/).
 
-[^7}: For example: [716. Lewis Thompson Papers](https://finding-aids.lib.unc.edu/00716/).
+[^7]: For example: [716. Lewis Thompson Papers](https://finding-aids.lib.unc.edu/00716/).
 
 [^8]: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
 
