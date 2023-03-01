@@ -13,18 +13,19 @@ Interviewees:
 
 - **Ashley Adams, genealogist, North Carolina African American Heritage Commission, North Carolina Department of Natural and Cultural Resources, Raleigh, N.C.**
 - **Kathy Atwater, Community Advocacy Specialist at Marian Cheek Jackson Center, Chapel Hill, N.C.**
-- **Ellen Fernandez-Sacco, genealogist and independent scholar, Florida**
+- **[Ellen Fernandez-Sacco](https://latinogenealogyandbeyond.com/), genealogist and independent scholar, Florida**
 - **Khadija McNair, Assistant Site Manager of Historic Stagville, Durham, N.C.**
 - **Shelley Murphy, genealogist, coordinator and instructor at the Midwest African American Genealogy Institute (MAAGI), and Descendant Project Researcher at University of Virginia**
-- **Olivia Dorsey Peacock, genealogist and creative technologist developing digital tools in service of Black family historians and genealogists, North Carolina**
+- **[Olivia Dorsey Peacock](https://oliviapeacock.com/), genealogist and creative technologist developing digital tools in service of Black family historians and genealogists, North Carolina**
 - **Bernetiae Reed, genealogist, documentarian, and author, North Carolina**
-- **Nicka Sewell-Smith, genealogist, host of BlackProGenLive, documentarian, consultant**
+- **[Nicka Sewell-Smith](https://www.whoisnickasmith.com/about-me/), genealogist, host of BlackProGenLive, documentarian, consultant**
 - **Carmen White, family historian and genealogist**
 - **Renate Yarborough Sanders, genealogist, speaker, educator, host of Let’s Talk North Carolina Genealogy, Hampton Roads, Va.**
 
 ## Background
 
 Wilson Library has a large collection of slavery era family papers, some of which document the lives and lived experiences of enslaved and free Black people. Description of these materials in finding aids and catalog records historically has privileged the lives and perspectives of the white families represented in the collections; moreover, this description typically was created with a scholarly audience in mind. Slavery was to be studied as an institution, but the humanity of individual enslaved people was rarely recognized. At this time, Special Collections Technical Services archivists and catalogers are beginning to redress this unbalanced representation and repair exclusionary language in finding aids and catalog records. This project was an opportunity to explore how we can expand our efforts to improve these descriptive tools to facilitate the research experience of family historians who are specifically interested in marginalized and underrepresented groups.
+
 Our project goals have centered building our understanding of the research process and experience of genealogists and researchers of African American family history in a general sense and at Wilson Special Collections Library in particular. We also hoped to establish initial relationships with the interviewees with the possibility of returning to them as consultants for further conversations about the descriptive work we are doing in Technical Services. 
 The Interviews
 
@@ -51,11 +52,11 @@ Shelley and Ellen Fernandez-Sacco told us that one of the major motivating force
 
 We heard from several interviewees that they start with what they know, perhaps creating a family tree or timeline to visually sort out that information, and then often the first searches are on Ancestry or Family Search. Ashley Adams started in Ancestry with the name of her grandfather who served in the military, and then found that she could build a narrative of his military journey--where he was posted and for how long.
 
-Most everyone also uses finding aids, library catalogs, google searches, newspapers.com, city directories, and other databases and websites , and will keyword search on “slavery” with family surnames, city and county locations, local terms (some of which are offensive), as well as subject headings such as Slavery—[geographic location]. Bernetiae Reed offered valuable critique of subject headings, cautioning us of their limitations to non-expert searchers. Researchers may click on a subject heading within a finding aid expecting to be taken to related content somewhere in the finding aid, rather than back to the catalog to a list of other library materials—archival and non-archival—that share the same heading.
+Most everyone also uses finding aids, library catalogs, google searches, newspapers.com, city directories, and other databases and websites[^1](#endnotes), and will keyword search on “slavery” with family surnames, city and county locations, local terms (some of which are offensive), as well as subject headings such as Slavery—[geographic location]. Bernetiae Reed offered valuable critique of subject headings, cautioning us of their limitations to non-expert searchers. Researchers may click on a subject heading within a finding aid expecting to be taken to related content somewhere in the finding aid, rather than back to the catalog to a list of other library materials—archival and non-archival—that share the same heading.
 
-Nicka Sewell-Smith starts with the people who are living and works backward, then asks about location and time period: when and how did people come to live and work in this place, what else was going on, and what archival resources does that state/location have that might answer those questions? Olivia Dorsey Peacock and Ellen Fernandez-Sacco similarly expand their research with context-driven searches: instead of looking for people, Olivia sometimes searches for information that is adjacent to people, such as places and institutions ; Ellen uses general and local histories, church histories, and memoirs to enhance her understanding of context.
+Nicka Sewell-Smith starts with the people who are living and works backward, then asks about location and time period: when and how did people come to live and work in this place, what else was going on, and what archival resources does that state/location have that might answer those questions? Olivia Dorsey Peacock and Ellen Fernandez-Sacco similarly expand their research with context-driven searches: instead of looking for people, Olivia sometimes searches for information that is adjacent to people, such as places and institutions[^2](#endnotes); Ellen uses general and local histories, church histories, and memoirs to enhance her understanding of context.
 
-Renate Yarborough Sanders also uses older websites like Afrigeneas to search discussion boards. She and others emphasized the community of people researching African American ancestors as a source of expertise, as well as social and emotional support. Renate never expected to be a part of this community, but now is a regular participant in online genealogical groups on Facebook, such as Freedmen's Bureau Fridays. Ellen Fernandez-Sacco echoed the impossibility of doing genealogical research by oneself. She also turns to Facebook groups for community and to the Latino Genealogy and Beyond blog. And of course we would be remiss in not pointing out BlackProGen, the online community hosted by Nicka Sewell-Smith and supported by many of the interviewees with whom we spoke, including Olivia Dorsey Peacock who first mentioned this group to us and then recruited many of the other interviewees for this project.
+Renate Yarborough Sanders also uses older websites like [Afrigeneas](https://www.afrigeneas.com/) to search discussion boards. She and others emphasized the community of people researching African American ancestors as a source of expertise, as well as social and emotional support. Renate never expected to be a part of this community, but now is a regular participant in online genealogical groups on Facebook, such as [Freedmen's Bureau Fridays](https://www.facebook.com/960038024340461/posts/freedmen-bureau-fridays-findings-massey-charlottesville-albemarle-1866/1354649624879297/). Ellen Fernandez-Sacco echoed the impossibility of doing genealogical research by oneself. She also turns to Facebook groups for community and to the [Latino Genealogy and Beyond](https://latinogenealogyandbeyond.com/) blog. And of course we would be remiss in not pointing out [BlackProGen](https://www.whoisnickasmith.com/blackprogen/), the online community hosted by Nicka Sewell-Smith and supported by many of the interviewees with whom we spoke, including Olivia Dorsey Peacock who first mentioned this group to us and then recruited many of the other interviewees for this project.
 
 Several interviewees emphasized the importance of tracking and organizing research discoveries. Shelley Murphy suggested creating a path of questions and recording who gave what information. Both Shelley and Olivia Dorsey Peacock are big on timelines as an organizing principle. Shelley makes notes on what kinds of records exist for the that time period in that state, and what records exist because of the laws that were in place. Olivia has created (and shares out) a spreadsheet with rows representing events in a timeline and columns used for citations and other information.
 
@@ -98,7 +99,7 @@ Ashley Adams had novice researchers in mind, especially students, when she sugge
 
 > Comment: Undergraduate students at UNC Chapel Hill typically get an introduction to Wilson Library through classes and assignments that have been coordinated through our Research and Instruction department. Other researchers who are new to Wilson Library can participate in a consultation interview with Research and Instruction staff before they come to the Library for in person research. 
 
-> Comment: Renate Yarborough Sanders recorded her own walk-through of our website and shared it with us: https://youtu.be/0N18dQphXZ0. This is a great reminder that some researchers may learn better with a self-paced activity or need an introduction outside of business hours of the Library.
+> Comment: Renate Yarborough Sanders recorded her own walk-through of our website and shared it with us: [https://youtu.be/0N18dQphXZ0](https://youtu.be/0N18dQphXZ0). This is a great reminder that some researchers may learn better with a self-paced activity or need an introduction outside of business hours of the Library.
 
 - **Genealogist center**
 
@@ -114,7 +115,7 @@ Bernetiae Reed would like to see a center with dedicated resources and staff. Ni
 
 - **Settling into research at a new archive can take 45 minutes.** 
 
-> Comment: Are there more ways we can make the settling in process feel comfortable and productive? Does the FAQ need any updates from the researcher perspective?
+> Comment: Are there more ways we can make the settling in process feel comfortable and productive? Does the [FAQ](https://library.unc.edu/wilson/visit/) need any updates from the researcher perspective?
 
 - **Make patrons feel welcome, no matter whether they are remote or in person. For example, there should be capacity for online payment transactions if requesting digitization or copies.**
 - **Special collections libraries can feel intimidating. Is there a dedicated staff member there to help genealogists?**
@@ -122,7 +123,7 @@ Bernetiae Reed would like to see a center with dedicated resources and staff. Ni
 
 ### Digitization
 
-- **We need to get as much as we can online to improve access for so many more people. Ellen Fernandez-Sacco reminded us that people are unable to travel for many reasons—time, distance, expense, and disability.  Seeking family history should not be limited to able-bodied people with disposable income. As Ellen said, the experience of discovering your history should not be kept from anyone because “Keeping people from their history is a really easy way to keep people down.” Renate Yarborough Sanders simply encouraged us to keep digitizing everything we have about people of color from the slavery era.*
+- **We need to get as much as we can online to improve access for so many more people. Ellen Fernandez-Sacco reminded us that people are unable to travel for many reasons—time, distance, expense, and disability.[^3](#endnotes) Seeking family history should not be limited to able-bodied people with disposable income. As Ellen said, the experience of discovering your history should not be kept from anyone because “Keeping people from their history is a really easy way to keep people down.” Renate Yarborough Sanders simply encouraged us to keep digitizing everything we have about people of color from the slavery era.*
 
 > Comment: We have an ongoing digitization stream that is focused on digitizing slavery era collection materials. What else do researchers want or need to know about the digitization program at Wilson Library? Is more transparency needed to understand what gets digitized and why?
 
@@ -132,21 +133,21 @@ Bernetiae Reed would like to see a center with dedicated resources and staff. Ni
 
 - **Database**
 
-Bernetiae Reed envisions a future in which information about enslaved people in a finding aid is linked to a digitized document of record and points to a spreadsheet or database that brings together all the contextual information about enslaved people who are documented in the collections at Wilson Library. A researcher could search by an enslaved person’s name, a plantation, an enslaver, etc. This dataset should be compatible with larger projects such as Peoples of the Historical Slave Trade, a discovery hub that aggregates datasets and digital projects with documentation of enslaved people, and On These Grounds, a multi-site project to develop a shared data model for collecting, organizing, and describing historical records about enslaved people at universities. 
+Bernetiae Reed envisions a future in which information about enslaved people in a finding aid is linked to a digitized document of record and points to a spreadsheet or database that brings together all the contextual information about enslaved people who are documented in the collections at Wilson Library. A researcher could search by an enslaved person’s name, a plantation, an enslaver, etc. This dataset should be compatible with larger projects such as [Peoples of the Historical Slave Trade](http://www.enslaved.org/), a discovery hub that aggregates datasets and digital projects with documentation of enslaved people, and [On These Grounds](https://onthesegrounds.org/s/OTG/page/about), a multi-site project to develop a shared data model for collecting, organizing, and describing historical records about enslaved people at universities. 
 
-> Comment: This is one of the big decision points that we will have in the future. For now, when possible, we are adding information about individual enslaved people to the finding aid. When adding names is not feasible, we are highlighting that documentation of individuals is available and where to look for it in the collection. We will return to the bigger picture of spreadsheets and databases when we have more information from our colleagues working with On These Grounds.
+> Comment: This is one of the big decision points that we will have in the future. For now, when possible, we are adding information about individual enslaved people to the finding aid. When adding names is not feasible, we are highlighting that documentation of individuals is available and where to look for it in the collection. We will return to the bigger picture of spreadsheets and databases when we have more information from our colleagues working with [On These Grounds}(https://onthesegrounds.org/s/OTG/page/about).
 
 ### Connection building
 
-Nicka Sewell-Smith urged that any projects around slavery should work to put connections together, to cross pollenate information (as Peoples of the Historical Slave Trade does). When we silo off information, we don't acknowledge the enormity of the system of slavery. She gave an example of her own research in which she started at the Mississippi State archives, but a note about connections to Harvard University and Amherst College sent her to those repositories where she ultimately found the information she was seeking. Highlighting the interconnectedness of families is helpful.
+Nicka Sewell-Smith urged that any projects around slavery should work to put connections together, to cross pollenate information (as [Peoples of the Historical Slave Trade](http://www.enslaved.org/) does). When we silo off information, we don't acknowledge the enormity of the system of slavery. She gave an example of her own research in which she started at the Mississippi State archives, but a note about connections to Harvard University and Amherst College sent her to those repositories where she ultimately found the information she was seeking. Highlighting the interconnectedness of families is helpful.
 
-> Comment: We do have a “Related Collections” section in our finding aids that points to other collections in our Library and occasionally to collections in other Libraries. We could use ArchiveGrid, an aggregation of descriptions of archival material at more than 1000 institutions, to be more expansive in identifying related slavery era collections beyond our own library. We also contribute to Social Networks and Archival Context (SNAC), an international database that is designed to bring together information about archival materials related to individuals, families, and corporate bodies.
+> Comment: We do have a “Related Collections” section in our finding aids that points to other collections in our Library and occasionally to collections in other Libraries. We could use [ArchiveGrid](https://researchworks.oclc.org/archivegrid/), an aggregation of descriptions of archival material at more than 1000 institutions, to be more expansive in identifying related slavery era collections beyond our own library. We also contribute to [Social Networks and Archival Context (SNAC)](https://snaccooperative.org/), an international database that is designed to bring together information about archival materials related to individuals, families, and corporate bodies.
 
 ### Catalog navigation
 
-Bernetiae Reed gave us some feedback based on her vast research experience in our library catalog (and others). She reports that the number of clicks (minimum of 4) to get to the finding aid after entering a search term is excessive. She asks if the abstract could be visible with the collection title in the search returns so that it would be easier to rule in or rule out a collection before committing to the 4 clicks. Similarly, is it possible to see the keywords in contextual excerpts before committing to clicking all the way into the finding aid? 
+Bernetiae Reed gave us some feedback based on her vast research experience in our library catalog (and others). She reports that the number of clicks (minimum of 4) to get to the finding aid after entering a search term is excessive. She asks if the abstract could be visible with the collection title in the search returns so that it would be easier to rule in or rule out a collection before committing to the 4 clicks. Similarly, is it possible to see the keywords in contextual excerpts before committing to clicking all the way into the finding aid?[^4](#endnotes)
 
-> Comment: We are migrating our finding aids to ArchivesSpace, a content platform that will allow researchers to search more easily across all of our finding aids. The search results page will display the collection name and the initial portion of the abstract with keywords in context.  The catalog search will not change.
+> Comment: We are migrating our finding aids to ArchivesSpace, a content platform that will allow researchers to search more easily across all of our finding aids. The search results page will display the collection name and the initial portion of the abstract with keywords in context.[^5](#endnotes)  The catalog search will not change.
 
 ### Finding aids
 
@@ -154,7 +155,7 @@ We were told that researchers of African American family history are willing to 
 
 Bernetiae Reed and Nicka Sewell-Smith stated that the more we drill down in the description, the better: include buyer, seller, location, names, ages, details around county, places, and where the transaction takes place. On location Nicka emphasized that all of the context matters: you have to know where you are, how people came to live there, when they were there, and what was going on. Carmen White spoke to the same need for specificity around the movement of people: who are the enslaved people, the slave traders and the business partners; to where were the enslaved people trafficked and with whom? She likes having an executive summary (abstracts and collection overviews) but wants all the context we can give because sometimes she is searching for places that no longer exist, and if there are clues they will be in the details. Finding aids are a place to learn information that doesn't exist elsewhere.
 
-> Comment: Some of our earliest versions of finding aids for slavery era collections were inventories with item level description that was rich in detail. Over decades we have replaced them with finding aids that follow more current practices for archival description. Some details were set aside in service of helping researchers understand the overall scope of the collection, helping to them to see the forest and a few of the trees, instead of all of the trees. We are now making those original inventories available as PDFs that we can link to from the finding aid in order to give researchers the forest AND the trees. 
+> Comment: Some of our earliest versions of finding aids for slavery era collections were inventories with item level description that was rich in detail. Over decades we have replaced them with finding aids that follow more current practices for archival description. Some details were set aside in service of helping researchers understand the overall scope of the collection, helping to them to see the forest and a few of the trees, instead of all of the trees. We are now making those original inventories available as PDFs that we can link to from the finding aid in order to give researchers the forest AND the trees.[^6](#endnotes) 
 
 > Comment: We are adding more plantation names and geographic locations.
 
@@ -164,13 +165,13 @@ Bernetiae Reed and Nicka Sewell-Smith stated that the more we drill down in the 
 
 ### Slave bills of sale--[geographic location]. 
 
-> Comment: At the folder level we are adding “Records of enslavement include:” to highlight individual items that document enslaved people. 
+> Comment: At the folder level we are adding “Records of enslavement include:” to highlight individual items that document enslaved people.[^7](#endnotes)
 
 Carmen White told us it would be helpful to new researchers to say at the beginning of the finding aid that there are records of enslaved people here. Nicka Sewell-Smith suggested a visual that would be on the collection description the whole time to keep reminding the researcher that “Hey guys there's gonna be some crazy stuff or you might see some crazy stuff just heads up." This is a good reminder that jarring content can turn up almost anywhere in a slavery era collection.
 
 > Comment: We are in the process of adding a banner to every finding aid for collections with slavery era records. The banner will include a brief statement about slavery era collections and a link to more information about the historical context of collecting and description at Wilson Special Collections Library.
 
-> Comment: We are at the beginning of a long-term project to consciously edit all of these finding aids, including centering documentation of enslaved people in the abstract. Researchers and Library staff are encouraged to contact us (wilsonlibrary@unc.edu) to suggest finding aids in need of revision.
+> Comment: We are at the beginning of a long-term project to consciously edit all of these finding aids, including centering documentation of enslaved people in the abstract. Researchers and Library staff are encouraged to contact us ([wilsonlibrary@unc.edu](mailto:wilsonlibrary@unc.edu)) to suggest finding aids in need of revision.
 
 ### Content warnings
 
@@ -192,7 +193,7 @@ With some of the interviewees the conversation turned to remediation of biased a
 
 Carmen White told us that it’s not the finding aid language so much as the collection materials that are the most offensive, and “it's not the actual words [in the original records] it's the disregard of people that really bothers me….it's really just the disregard and the way that they really view human beings as property that gets me more than like actual verbiage… it's just the attitudes that you know that show up and the assumptions that people were making back then, and just complete dehumanization and disregard is what I find to be really problematic.”
 
-Renate Yarborough Sanders, a regular researcher at Wilson Library, told us that she wasn’t focused on remediated finding aids as essential, but she had used one of our consciously edited finding aids and that she noticed the changes that centered enslaved people. She previously worked with an earlier version that highlighted the institution of slavery as something to study, but failed to recognize the humanity of enslaved people who were documented.  We were thrilled to get the feedback that the remediation work is noticeable.
+Renate Yarborough Sanders, a regular researcher at Wilson Library, told us that she wasn’t focused on remediated finding aids as essential, but she had used one of our consciously edited finding aids and that she noticed the changes that centered enslaved people. She previously worked with an earlier version that highlighted the institution of slavery as something to study, but failed to recognize the humanity of enslaved people who were documented.[^8](#endnotes) We were thrilled to get the feedback that the remediation work is noticeable.
 
 > Comment: A sampling of language changes we are implementing in the finding aids:
 
@@ -227,3 +228,22 @@ We began this project in hopes of gaining some insights into the perspectives an
 - **Language remediation: this may not be the most important work we do for the genealogist audience, but it has the potential to impact how they experience their research. Ultimately this may be a more important consideration for our undergraduate audience.**
 - **Perfect is the enemy of good: we do not need to completely solve the problem of biased, inadequate, non-inclusive description before we can begin to make improvements. We can start by scoping smaller projects that have achievable outcomes and will have a positive impact on researchers.**
 - **Iteration: we are learning as we go and we expect that our descriptive practices and language will evolve as we revisit more legacy finding aids.**
+
+# Endnotes
+
+[^1}: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
+
+[^2}: For example, if your ancestor was alive during the New Deal, then think about the social security number. Considering what forms were filled out to establish the unique identifier and what agencies might have tracked it offer additional search points.
+
+[^3}: We also heard that manuscript materials can be very difficult to read on microfilm. Digitization can dramatically improve decipherability.
+
+[^4}: Bernetiae suggested the [Amistad Research Center](https://amistad-finding-aids.tulane.edu/) as an example of excerpted abstracts with keywords highlighted.
+
+[^5}: Duke University Libraries has already implemented ArchivesSpace for their archives and manuscript collections. [This](https://archives.lib.duke.edu/?utf8=%E2%9C%93&view=list&group=true&search_field=all_fields&q=slavery) is an example of what a search results page might look like.
+
+[^6}: For example: [360. Hubard Family Papers](https://finding-aids.lib.unc.edu/00360/).
+
+[^7}: For example: [716. Lewis Thompson Papers](https://finding-aids.lib.unc.edu/00716/).
+
+[^8: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
+
