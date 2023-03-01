@@ -229,8 +229,8 @@ We began this project in hopes of gaining some insights into the perspectives an
 - **Perfect is the enemy of good: we do not need to completely solve the problem of biased, inadequate, non-inclusive description before we can begin to make improvements. We can start by scoping smaller projects that have achievable outcomes and will have a positive impact on researchers.**
 - **Iteration: we are learning as we go and we expect that our descriptive practices and language will evolve as we revisit more legacy finding aids.**
 
-## Endnotes
 
+## Endnotes
 [^1]: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
 [^2]: For example, if your ancestor was alive during the New Deal, then think about the social security number. Considering what forms were filled out to establish the unique identifier and what agencies might have tracked it offer additional search points.
 [^3]: We also heard that manuscript materials can be very difficult to read on microfilm. Digitization can dramatically improve decipherability.
