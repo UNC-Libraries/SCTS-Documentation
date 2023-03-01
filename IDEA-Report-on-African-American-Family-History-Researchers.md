@@ -129,7 +129,7 @@ Bernetiae Reed would like to see a center with dedicated resources and staff. Ni
 
 > Comment: We are trying to make that work a little bit easier by applying “records of enslavement” as a metadata term at the folder level so that researchers can do more targeted searching.
 
-- **Database**
+### Database
 
 Bernetiae Reed envisions a future in which information about enslaved people in a finding aid is linked to a digitized document of record and points to a spreadsheet or database that brings together all the contextual information about enslaved people who are documented in the collections at Wilson Library. A researcher could search by an enslaved person’s name, a plantation, an enslaver, etc. This dataset should be compatible with larger projects such as [Peoples of the Historical Slave Trade](http://www.enslaved.org/), a discovery hub that aggregates datasets and digital projects with documentation of enslaved people, and [On These Grounds](https://onthesegrounds.org/s/OTG/page/about), a multi-site project to develop a shared data model for collecting, organizing, and describing historical records about enslaved people at universities. 
 
@@ -159,7 +159,7 @@ Bernetiae Reed and Nicka Sewell-Smith stated that the more we drill down in the 
 
 > Comment: We are highlighting formats, making sure that they are included in both finding aids and as part of the metadata of digitized collection material. 
 
-- **Lists of enslaved peopleEnslaved persons—[geographic location]—Registers**
+- **Lists of enslaved people = Enslaved persons—[geographic location]—Registers**
 - **Slave bills of sale--[geographic location]**
 
 > Comment: At the folder level we are adding “Records of enslavement include:” to highlight individual items that document enslaved people.[^7]
@@ -194,15 +194,15 @@ Renate Yarborough Sanders, a regular researcher at Wilson Library, told us that 
 
 > Comment: A sampling of language changes we are implementing in the finding aids:
 
-- **planterenslaver**
-- **slavesenslaved people**
-- **slaveownerenslaver**
-- **slave traderstraffickers in enslaved people**
-- **hiring outcouple this expression with trafficking**
-- **enslaved laborexpand this to enslaved knowledge, skill, and labor**
+- **planter-->enslaver**
+- **slaves-->enslaved people**
+- **slaveowner-->enslaver**
+- **slave traders-->traffickers in enslaved people**
+- **hiring out-->couple this expression with trafficking**
+- **enslaved labor-->expand this to enslaved knowledge, skill, and labor**
 - **“experienced slavery”**
 - **“asserted freedom”**
-- **runaway slaves, work slowdownsexpress as acts of resistance, self-emancipation by running away**
+- **runaway slaves, work slowdowns-->express as acts of resistance, self-emancipation by running away**
 - **remove venerative language but not the networks of people**
 - **remove academic, non-inclusive language**
 - **entice the reader by centering information about enslaved people in the folder, series, collection**
@@ -211,7 +211,7 @@ Renate Yarborough Sanders, a regular researcher at Wilson Library, told us that 
 
 Nicka Sewell-Smith suggested a 50 year audit of building names. Do these names still deserve to be on a building? Do the actions of the honoree still hold up over time?
 
-- **Comment: This work is in the purview of The University Commission on History, Race, and a Way Forward, which was formed in 2019. Their charge is “to explore, engage and teach the University’s history with race, and provide recommendations to the Chancellor on how we as a University community must reckon with the past.” Since 2019, the commission has recommended six names be removed from campus buildings because of their links to white supremacy.**
+> Comment: This work is in the purview of The University Commission on History, Race, and a Way Forward, which was formed in 2019. Their charge is “to explore, engage and teach the University’s history with race, and provide recommendations to the Chancellor on how we as a University community must reckon with the past.” Since 2019, the commission has recommended six names be removed from campus buildings because of their links to white supremacy.
 
 ## Conclusions
 
