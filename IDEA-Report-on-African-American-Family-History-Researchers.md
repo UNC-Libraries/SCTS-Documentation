@@ -121,11 +121,11 @@ Bernetiae Reed would like to see a center with dedicated resources and staff. Ni
 
 ### Digitization
 
-- **We need to get as much as we can online to improve access for so many more people. Ellen Fernandez-Sacco reminded us that people are unable to travel for many reasons—time, distance, expense, and disability.[^3] Seeking family history should not be limited to able-bodied people with disposable income. As Ellen said, the experience of discovering your history should not be kept from anyone because “Keeping people from their history is a really easy way to keep people down.” Renate Yarborough Sanders simply encouraged us to keep digitizing everything we have about people of color from the slavery era.*
+- **We need to get as much as we can online to improve access for so many more people. Ellen Fernandez-Sacco reminded us that people are unable to travel for many reasons—time, distance, expense, and disability.[^3] Seeking family history should not be limited to able-bodied people with disposable income. As Ellen said, the experience of discovering your history should not be kept from anyone because “Keeping people from their history is a really easy way to keep people down.” Renate Yarborough Sanders simply encouraged us to keep digitizing everything we have about people of color from the slavery era.**
 
 > Comment: We have an ongoing digitization stream that is focused on digitizing slavery era collection materials. What else do researchers want or need to know about the digitization program at Wilson Library? Is more transparency needed to understand what gets digitized and why?
 
-- **Item level metadata is desirable to reduce barriers to discovery, but it is not necessary. Researchers of African American family history are accustomed to deep dives into records; they do not expect this work to be easy and they understand how expensive and resource intensive it is to create item level metadata.*
+- **Item level metadata is desirable to reduce barriers to discovery, but it is not necessary. Researchers of African American family history are accustomed to deep dives into records; they do not expect this work to be easy and they understand how expensive and resource intensive it is to create item level metadata.**
 
 > Comment: We are trying to make that work a little bit easier by applying “records of enslavement” as a metadata term at the folder level so that researchers can do more targeted searching.
 
