@@ -107,7 +107,7 @@ The creator element consists of the authorized form of the creator’s name. Thi
 
 Wilson Library uses both the scope and content note and the abstract. The abstract often duplicates the scope and content note, particularly for small and medium size collections.  For large and complex collections, the abstract will be a distilled version of the scope and content note, which may include more details and offer more specificity about the range of material types, individuals and groups documented, geographical and chronological scope, and topics. 
 
-The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking [^1](#endnotes) (Hart). An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  
+The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking.[^1] An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  
 
 An abstract (scope and content note) should identify, summarize, and contextualize the following elements of content in a collection: 
 
@@ -121,7 +121,7 @@ An abstract (scope and content note) should identify, summarize, and contextuali
 
 - **Topics.** Subject matter addressed or documented in the collection materials. 
 
-We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description. As an embodiment of the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of white supremacist content that is deeply offensive and disturbing [^2](#endnotes) (Cullom). Historically our finding aid description has centered on the creators and collectors, often valorizing white individuals or families who owned enslaved individuals. Guided by our section's [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md) and [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes), we aspire to re-envision our abstract descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible to those outside of the academy, and description does not obscure collection material that documents the lives of enslaved people [^3](#endnotes) (Dean 41). We strive to surface the names, stories, and lived experiences of underrepresented and marginalized individuals and groups, in particular those in the Black community, documented in UNC's collections. This work is influenced and inspired by the conversation happening around ethical archival description in the profession [^4](#endnotes). We recognize and acknowledge the influence that they have on our work.
+We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description. As an embodiment of the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of white supremacist content that is deeply offensive and disturbing.[^2] Historically our finding aid description has centered on the creators and collectors, often valorizing white individuals or families who owned enslaved individuals. Guided by our section's [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md) and [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes), we aspire to re-envision our abstract descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible to those outside of the academy, and description does not obscure collection material that documents the lives of enslaved people.[^3] We strive to surface the names, stories, and lived experiences of underrepresented and marginalized individuals and groups, in particular those in the Black community, documented in UNC's collections. This work is influenced and inspired by the conversation happening around ethical archival description in the profession.[^4] We recognize and acknowledge the influence that they have on our work.
 
 
 # Extent 
@@ -467,15 +467,8 @@ _Transcription of original title amended in the finding aid by archivists in [ye
 
 Diacritics and other special characters have been omitted from this finding aid to facilitate keyword searching in web browsers.
 
-# Endnotes
 
-[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
-
-[^2]: Patrick Cullom and others, "Guidance for Creating AltText for Archival Images" project documentation, 2020.
-
-[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill.” Journal for the Society of the North Carolina Archivists, vol. 16 (2019): 41. http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf
-
-[^4]: Archives for Black Lives in Philadelphia’s (A4BLiP) Anti-Racist Description Working Group, "Anti-Racist Description Resources", October 2019. Accessed November 2019. https://archivesforblacklives.wordpress.com/
+# Bibliography
 
 Bergis Jules, “Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives,” Keynote address presented at National Digital Stewardship Alliance, Pittsburg, PA October 2017. Accessed December 5, 2019. https://medium.com/on-archivy/confronting-our-failure-ofcare-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280.
 
@@ -495,7 +488,12 @@ Nathan Sentence, “Maker unknown and the decentring First Nations People.” Ar
 Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Culturally Competent Archival (Re)description of Marginalized Histories.” Presented at Society of American Archivists Annual Meeting, Washington, D.C., August 2018.
 
 
+# Endnotes
 
+[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
+[^2]: Patrick Cullom and others, "Guidance for Creating AltText for Archival Images" project documentation, 2020.
 
+[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill.” Journal for the Society of the North Carolina Archivists, vol. 16 (2019): 41. http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf
 
+[^4]: Archives for Black Lives in Philadelphia’s (A4BLiP) Anti-Racist Description Working Group, "Anti-Racist Description Resources", October 2019. Accessed November 2019. https://archivesforblacklives.wordpress.com/
