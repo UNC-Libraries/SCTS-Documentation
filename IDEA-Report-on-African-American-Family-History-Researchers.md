@@ -245,5 +245,5 @@ We began this project in hopes of gaining some insights into the perspectives an
 
 [^7}: For example: [716. Lewis Thompson Papers](https://finding-aids.lib.unc.edu/00716/).
 
-[^8: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
+[^8]: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
 
