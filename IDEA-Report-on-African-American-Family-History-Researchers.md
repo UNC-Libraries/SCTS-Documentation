@@ -27,7 +27,8 @@ Interviewees:
 Wilson Library has a large collection of slavery era family papers, some of which document the lives and lived experiences of enslaved and free Black people. Description of these materials in finding aids and catalog records historically has privileged the lives and perspectives of the white families represented in the collections; moreover, this description typically was created with a scholarly audience in mind. Slavery was to be studied as an institution, but the humanity of individual enslaved people was rarely recognized. At this time, Special Collections Technical Services archivists and catalogers are beginning to redress this unbalanced representation and repair exclusionary language in finding aids and catalog records. This project was an opportunity to explore how we can expand our efforts to improve these descriptive tools to facilitate the research experience of family historians who are specifically interested in marginalized and underrepresented groups.
 
 Our project goals have centered building our understanding of the research process and experience of genealogists and researchers of African American family history in a general sense and at Wilson Special Collections Library in particular. We also hoped to establish initial relationships with the interviewees with the possibility of returning to them as consultants for further conversations about the descriptive work we are doing in Technical Services. 
-The Interviews
+
+## The Interviews
 
 Between March and October 2022 we conducted zoom interviews with ten genealogists and researchers of African American family history, spending about an hour with each interviewee. We brought a standard set of questions to each interview, but proceeded with each as more of a conversation. We wanted to listen and go in whatever directions our interviewees led us.
 
