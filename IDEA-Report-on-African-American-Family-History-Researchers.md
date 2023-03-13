@@ -20,7 +20,7 @@ Interviewees:
 - **Bernetiae Reed, genealogist, documentarian, and author, North Carolina**
 - **[Nicka Sewell-Smith](https://www.whoisnickasmith.com/about-me/), genealogist, host of BlackProGenLive, documentarian, consultant**
 - **Carmen White, family historian and genealogist**
-- **[Renate Yarborough Sanders](https://justthinking130.blogspot.com/), genealogist, speaker, educator, host of Let’s Talk North Carolina Genealogy, Hampton Roads, Va.**
+- **[Renate Yarborough Sanders](https://justthinking130.blogspot.com/), genealogist, speaker, educator, co-host of Let’s Talk North Carolina Genealogy, Newport News, Va.**
 
 ## Background
 
