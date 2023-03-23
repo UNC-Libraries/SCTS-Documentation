@@ -2,26 +2,29 @@
 # Slavery Era Finding Aids remediation
 Edited March 2023
 
-[Finding aids remediation: July through December 2022](#Finding aids remediation: July through December 2022)
+- [Remediation projects](#remediation-projects)
 
-[Adding names of enslaved people to finding aids, November 2021-February 2022](#Adding names of enslaved people to finding aids, November 2021-February 2022)
+    - [Finding aids remediation: July through December 2022](#finding-aids-remediation-july-through-december-2022)
 
-[Antebellum finding aids: LibGuides project, summer and fall 2020](#Antebellum finding aids: LibGuides project, summer and fall 2020)
+    - [Adding names of enslaved people to finding aids, November 2021-February 2022](#adding-names-of-enslaved-people-to-finding-aids-november-2021-february-2022)
 
-[Antebellum finding aids: Pilot project, spring 2020](#Antebellum finding aids: Pilot project, spring 2020)
+    - [Antebellum finding aids: LibGuides project, summer and fall 2020](#antebellum-finding-aids-libguides-project-summer-and-fall-2020)
 
-[Creating name authority records for names for enslaving families, spring and summer 2020](#Creating name authority records for names for enslaving families, spring and summer 2020)
+    - [Antebellum finding aids: Pilot project, spring 2020](#antebellum-finding-aids-pilot-project-spring-2020)
 
-[Revision of what was called the Tunstall Family Letter, fall 2019](#Revision of what was called the Tunstall Family Letter, fall 2019)
+    - [Creating name authority records for names for enslaving families, spring and summer 2020](#creating-name-authority-records-for-names-for-enslaving-families-spring-and-summer-2020)
 
-[Revising Maunsel White finding aid, summer 2019](#Revising Maunsel White finding aid, summer 2019)
+    - [Revision of what was called the Tunstall Family Letter, fall 2019](#revision-of-what-was-called-the-tunstall-family-letter-fall-2019)
 
-[Revising J. Marion Sims finding aid, summer 2019](#Revising J. Marion Sims finding aid, summer 2019)
+    - [Revising Maunsel White finding aid, summer 2019](#revising-maunsel-white-finding-aid-summer-2019)
 
-[Remediation guidelines](#Remediation guidelines]
+    - [Revising J. Marion Sims finding aid, summer 2019](#revising-j-marion-sims-finding-aid-summer-2019)
 
+- [Remediation guidelines](#remediation-guidelines)
 
-## Finding aids remediation: July through December 2022
+## Remediation projects
+
+### Finding aids remediation: July through December 2022
 
 Six month phase of ongoing project
 
@@ -36,7 +39,7 @@ Six month phase of ongoing project
 
 * Piloted linking to legacy finding aids that have been scanned and turned into pdfs. Example: [Hubard Family Papers](https://finding-aids.lib.unc.edu/00360/)
 
-## Adding names of enslaved people to finding aids, November 2021-February 2022
+### Adding names of enslaved people to finding aids, November 2021-February 2022
 
 * Added names of enslaved people to the description of [Benjamin Franklin Little Papers](https://finding-aids.lib.unc.edu/03954/):
     - Biographical note
@@ -76,7 +79,7 @@ Six month phase of ongoing project
    -  Farm time book, circa 24 August 1873-1874
    -  Correspondence, 1865
 
-## Antebellum finding aids: LibGuides project, summer and fall 2020 
+### Antebellum finding aids: LibGuides project, summer and fall 2020 
 
 * Focusing on finding aids highlighted in UNC Libraries LibGuides *Using Records about Slavery in the Southern Historical Collection* and *Voices of the Enslaved in Wilson Special Collections Library*.  
 
@@ -85,7 +88,7 @@ Six month phase of ongoing project
 * Exploring approaches to remediation work on large and medium-sized collections of planation records and records about enslavement.  
 
 
-## Antebellum finding aids: Pilot project, spring 2020 
+### Antebellum finding aids: Pilot project, spring 2020 
 
 * Revised 10 finding aids to experiment with how to conceptualize antebellum finding aid work 
 
@@ -98,27 +101,25 @@ Six month phase of ongoing project
 * Examples include: [Prudhomme Family](https://finding-aids.lib.unc.edu/00613/), [Quitman Family](https://finding-aids.lib.unc.edu/00616/), and [Pettigrew Family](https://finding-aids.lib.unc.edu/00592/) 
 
 
-  
-
-## Creating name authority records for names for enslaving families, spring and summer 2020 
+### Creating name authority records for names for enslaving families, spring and summer 2020 
 
 * Headings created for approximately three hundred families 
 
 
-## Revision of what was called the Tunstall Family Letter, fall 2019 
+### Revision of what was called the Tunstall Family Letter, fall 2019 
 
 * In response to a remediation request from Research and Instructional Services, we reframed the finding aid to decenter the white male enslaver. 
 
 * We renamed the collection the [Mary Tunstall Letter on Enslaved Child Betsy](https://finding-aids.lib.unc.edu/05249) 
 
-## Revising Maunsel White finding aid, summer 2019 
+### Revising Maunsel White finding aid, summer 2019 
 
 * In response to a remediation request from the SHC, we rewrote narrative description in the [Maunsel White Papers](https://finding-aids.lib.unc.edu/02234) that asserted in classic Lost Cause fashion that White was a "benevolent slave holder."  
 
 * We also rewrote the abstract to center description on material related to enslaved people. 
 
 
-## Revising J. Marion Sims finding aid, summer 2019 
+### Revising J. Marion Sims finding aid, summer 2019 
 
 * In response to a remediation request from Research and Instructional Services, we rewrote the abstract, scope/content note, and the biographical note in the [J. Marion Sims Papers](https://finding-aids.lib.unc.edu/00666) that asserted that Sims who had conducted medical experiments on enslaved women was a “pioneer” in the field of gynecology.  
 
@@ -155,77 +156,84 @@ i.	Mary Hunter Kennedy (https://finding-aids.lib.unc.edu/03242/): Enslaved peopl
 Collection overview questions: 
 •	Is the first sentence about who is documented in the collection or what is documented?
 
-4.	Subject headings
-a.	Add the universal: Slavery--United States--History--19th century—Sources and/or Slavery--United States—History—18th century--Sources
-b.	Add other format related headings
-i.	Slave bills of sale--[geographic location].
-ii.	Enslaved persons--[geographic location]--Registers.
-c.	Add plantation names (see Plantation heading construction)
-d.	Domestic terrorism—United States—History—19th century (for Reconstruction era violence
-Subject heading questions: 
-•	The catalog remediates “slave” to “enslaved.” What should we do in the finding aid? It appears that we can do “enslaved” and the links still work.
-•	Subject headings for unnamed land (maybe a plantation?) that is in a far off county/state and managed by an agent? Do not create a heading for anything that is really iffy to verify. 
+####Subject headings
+*	Add the universal: Slavery--United States--History--19th century—Sources and/or Slavery--United States—History—18th century--Sources
+*	Add other format related headings
+    - Slave bills of sale--[geographic location].
+    - Enslaved persons--[geographic location]--Registers.
+*	Add plantation names (see Plantation heading construction); do not crete a heading for anything that is really iffy to verify
+*	Domestic terrorism—United States—History—19th century (for Reconstruction era violence
 
-5.	Biographical note: For now, just do some basic editing.
-a.	Add racial identity.
-b.	Remove venerative language (e.g., planter, prominent, prosperous) and edit as needed.
-c.	Add slave schedule information, if available.
-d.	Add information about individual enslaved/Black people who are documented in the collection: Name, dates, locations, enslavers
-i.	George Hairston Papers (https://finding-aids.lib.unc.edu/01290/) Enslaved people documented in the collection include Elizabeth, a house servant, and her daughter by her enslaver Robert Hairston, probably in Lowndes County, Miss.; Frank, a child of 2 months who was sold from the estate of Absalom Powell in Columbus County, N.C., to Richard L. Byrne; Nancy, who attended to women enslaved by George Hairston and who herself was enslaved by Mary J. Cabaniss, probably in Pittsylvania County, Va.; and Roda, a girl enslaved by George Hairston (location unknown).
 
-Some genealogical research of people enslaved at Hairston family plantations has been done by descendent family members and is available at https://www.hairstonfamilygenealogy.com.
+####Biographical note: For now, just do some basic editing.
+*	Add racial identity.
+*	Remove venerative language (e.g., planter, prominent, prosperous) and edit as needed.
+*	Add slave schedule information, if available.
+*	Add information about individual enslaved/Black people who are documented in the collection: Name, dates, locations, enslavers
+    - George Hairston Papers (https://finding-aids.lib.unc.edu/01290/) Enslaved people documented in the collection include Elizabeth, a house servant, and her daughter by her enslaver Robert Hairston, probably in Lowndes County, Miss.; Frank, a child of 2 months who was sold from the estate of Absalom Powell in Columbus County, N.C., to Richard L. Byrne; Nancy, who attended to women enslaved by George Hairston and who herself was enslaved by Mary J. Cabaniss, probably in Pittsylvania County, Va.; and Roda, a girl enslaved by George Hairston (location unknown).
 
-6.	Scope and Content: sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful.
-Examples
-•	Blackford Family Papers (https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read. 
-•	Springs Family Papers (https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. A list of topics by series provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
+    Some genealogical research of people enslaved at Hairston family plantations has been done by descendent family members and is available at https://www.hairstonfamilygenealogy.com.
 
-7.	Contents list
-a.	Can the subseries be compressed to eliminate sub-sub-series? 
-b.	Add meaningful titles to all <unittitle> at the <c02>, <c03>, <c04> levels. Many antebellum finding aids have just dates at the subseries and folder levels. Add a format or other descriptor to the date.
-c.	Remediate language (see below #8).
-i.	Slaves, bills of sale for slaves, list of slaves-->enslaved people
-ii.	Hiring out, buying and selling-->trafficking
-iii.	Civil War-->American Civil War
-d.	Remove quotes that only add literary flourish or describe violence against Black people.
-e.	Remove repetition of biographical information about white people unless super helpful to understanding the rest of the scopenote.
-f.	Add item/folder level information for materials about Black people (if possible) 
-i.	Lists, wills, and bills of sale will often have names of enslaved people
-ii.	 Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the “neighborhood” (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
-Example
-•	324. Hayes Collection. (https://finding-aids.lib.unc.edu/00324/ folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
-Revise as
-August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
-Pettigrew’s letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
-g.	Make sure all content about Black people is represented at higher <c0n> levels.
-Examples
-•	Springs Family Papers (https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series.
+####Scope and Content: sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful.
 
-8.	Language overview:
-	Remove dehumanizing and marginalizing language, Lost Cause mythology 
-•	Slave-->enslaved 
-•	Planter-->plantation owner
-•	Slaveholder-->enslaver
-•	Civil War-->American Civil War 
-•	Free Blacks-->Free Black people 
-•	Slave bills of sale-->bills of sale for people who were enslaved 
-•	Plantation life-->note that it is plantation life for white people 
-•	Supervising slaves-->overseeing the forced labor of enslaved people
-•	Enslaved labor-->expand to enslaved labor, skills, and knowledge
-•	Characterizing enslaved people of a plantation as a community where possible  
-•	Trafficking-->can be used to describe hiring out and transfer of people claimed as property
+    Examples
+    
+*	Blackford Family Papers (https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read. 
+*	Springs Family Papers (https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. A list of topics by series provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
 
-9.	Digitization queue: are we adding to it or not? Not necessarily. 
+####Contents list
+*	Can the subseries be compressed to eliminate sub-sub-series? 
+*	Add meaningful titles to all <unittitle> at the <c02>, <c03>, <c04> levels. Many antebellum finding aids have just dates at the subseries and folder levels. Add a format or other descriptor to the date.
+*	Remediate language (see below #8).
+    - Slaves, bills of sale for slaves, list of slaves-->enslaved people
+    - Hiring out, buying and selling-->trafficking
+    - Civil War-->American Civil War
+*	Remove quotes that only add literary flourish or describe violence against Black people.
+*	Remove repetition of biographical information about white people unless super helpful to understanding the rest of the scopenote.
+*	Add item/folder level information for materials about Black people (if possible) 
+*	Lists, wills, and bills of sale will often have names of enslaved people
+*	 Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the “neighborhood” (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
 
-Helpful antebellum finding aids are accessible to a broad, general audience:
-•	Describe sources about enslaved people near the listing of volumes and folders; coordinate description to page-able units  
-•	Facilitate searching by geographic markers, genre types, source types, and topics.  
-•	Describe the types of information that are available for researching Black family history  
-•	Facilitate jumping in and out of the finding aid with a google keyword search; would not make understanding of the materials dependent on reading the finding aid linearly.  
-•	Highlight materials about enslaved people but does not distort the density and accessibility of this data and how it shows up in a large bulky collection.   
-•	Support genealogical research by providing information about the families represented.
-•	Note correspondents beyond the other family members.   
-•	Historicize and contextualize racist content   
-•	Characterize the content i.e. say if the diaries and letters are descriptive and not routine  
-•	Explain specialized information e.g. defining the terms manumission and indenture; explaining “race problem”; and defining source types like daybook
+    Example
+*	324. Hayes Collection. (https://finding-aids.lib.unc.edu/00324/ folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
+
+    Revise as
+
+    August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
+
+    Pettigrew’s letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
+
+*	Make sure all content about Black people is represented at higher <c0n> levels.
+
+    Examples
+
+    *	Springs Family Papers (https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series.
+
+####Language overview:
+*	Remove dehumanizing and marginalizing language, Lost Cause mythology 
+*	Slave-->enslaved 
+*	Planter-->plantation owner
+*	Slaveholder-->enslaver
+*	Civil War-->American Civil War 
+*	Free Blacks-->Free Black people 
+*	Slave bills of sale-->bills of sale for people who were enslaved 
+*	Plantation life-->note that it is plantation life for white people 
+*	Supervising slaves-->overseeing the forced labor of enslaved people
+*	Enslaved labor-->expand to enslaved labor, skills, and knowledge
+*	Characterizing enslaved people of a plantation as a community where possible  
+*	Trafficking-->can be used to describe hiring out and transfer of people claimed as property
+
+
+
+####Helpful antebellum finding aids are accessible to a broad, general audience:
+*	Describe sources about enslaved people near the listing of volumes and folders; coordinate description to page-able units  
+*	Facilitate searching by geographic markers, genre types, source types, and topics.  
+*	Describe the types of information that are available for researching Black family history  
+*	Facilitate jumping in and out of the finding aid with a google keyword search; would not make understanding of the materials dependent on reading the finding aid linearly.  
+*	Highlight materials about enslaved people but does not distort the density and accessibility of this data and how it shows up in a large bulky collection.   
+*	Support genealogical research by providing information about the families represented.
+*	Note correspondents beyond the other family members.   
+*	Historicize and contextualize racist content   
+*	Characterize the content i.e. say if the diaries and letters are descriptive and not routine  
+*	Explain specialized information e.g. defining the terms manumission and indenture; explaining “race problem”; and defining source types like daybook
 
