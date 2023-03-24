@@ -1,6 +1,6 @@
 
 # Slavery Era Finding Aids remediation
-Edited March 2023
+Updated March 2023
 
 - [Remediation projects](#remediation-projects)
 
@@ -173,38 +173,11 @@ This is a balancing act of centering what we know about Black people without mis
 
         Some genealogical research of people enslaved at Hairston family plantations has been done by descendent family members and is available at [Hairston Family Genealogy](https://www.hairstonfamilygenealogy.com).
 
-**Scope and Content:** 
-    Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
+**Scope and Content:** Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
 
-* [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read. 
-- places and dates of births or deaths of Black children who were enslaved by the family (1798-1836)	
-- fears of a large-scale insurrection of enslaved people in the southern states (1831)
-- difficulties in educating Black women to be teachers (1836)
-- the life of missionaries in Liberia (1836, 1843, 1845, 1852, 1855)
-- emancipation of enslaved people and then sending them to Liberia for resettlement (1841)
-- (list continues)
-	
-	Additional examples of the Blackfords' and other white people's personal views on slavery and perceptions about Black people can be found throughout the collection.
+* [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. See the collection level scope and content note for a list that preserves all of the keywords for searching while being slightly easier to read. 
 
-
-	
-* [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
-
-	_Series 1. Correspondence: Topics_
-
-	- Slavery, including health, labor, trafficking, self-emancipation, and wealth built upon the labor of, and crimes against enslaved people
-	- Freedmen labor and rights
-	- Family, especially the lives of white plantation women and children writing home from school
-	- North American Indian land disputes
-	- (list continues)
-
-	_Series 2. Other Papers: Topics and Formats_
-
-	- Bills of sale for enslaved people
-	- Agricultural products, including cotton, livestock
-	- Medical care
-	- (list continues)
-
+* [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content note, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
 
 **Contents list**
 *	Can the subseries be compressed to eliminate sub-sub-series? 
@@ -214,15 +187,15 @@ This is a balancing act of centering what we know about Black people without mis
 *	Remove repetition of biographical information about white people unless crucial to understanding the rest of the scopenote.
 *	Add item/folder level information for materials about Black people (if possible) 
 *	Lists, wills, and bills of sale often will have names of enslaved people
-*	 Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the "neighborhood" (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
-   
-	- [Hayes Collection](https://finding-aids.lib.unc.edu/00324/) (folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
+*	Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the "neighborhood" (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
 
-	Revise as
+	- [Hayes Collection](https://finding-aids.lib.unc.edu/00324/): (see folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
 
-	August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
+		Revise as
 
-	Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
+		August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
+
+		Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
 
 * Make sure all content about Black people is represented at higher `<c0n>` levels (sub-series, series, and collection overview).
   
