@@ -17,6 +17,7 @@
 - Confederate States of America--Social conditions.
 - Domestic terrorism—United States—History—19th century. (for Reconstruction era violence)
 - Enslaved persons--(Geographic location)--Registers.
+- Plantations--(Geographic location).
 - Slave bills of sale--(Geographic location).
 - Slave records--(Geographic location).
 - Slave-trade--(Geographic location).
