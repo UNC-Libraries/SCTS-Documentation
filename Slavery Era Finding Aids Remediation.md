@@ -156,13 +156,12 @@ This is a balancing act of centering what we know about Black people without mis
     - [Elliott and Gonzalez Family](https://finding-aids.lib.unc.edu/01009/): Enslaved people are represented in bills of sale and lists of enslaved people. There are also a few letters written by enslaved people and several more about them, especially their labor and acts of resistance to slavery, from the perspective of white family members.
     
 *	Recenter any available information about Black people to the first couple of sentences after the initial statement about who is documented in the collection.
-	- [William Alexander Hoke](https://finding-aids.lib.unc.edu/00345/) Topics include the buying and selling of enslaved people; human trafficking, then called "hiring out"; abolitionism; reminiscences about Julia, a nurse formerly enslaved by the family; Reconstruction era terrorism, including references to activities of the Ku Klux Klan; and Black membership at St. Luke's Church in Lincolnton, N.C. Other topics include...
+	- [William Alexander Hoke](https://finding-aids.lib.unc.edu/00345/): Topics include the buying and selling of enslaved people; human trafficking, then called "hiring out"; abolitionism; reminiscences about Julia, a nurse formerly enslaved by the family; Reconstruction era terrorism, including references to activities of the Ku Klux Klan; and Black membership at St. Luke's Church in Lincolnton, N.C. Other topics include...
 *	Add plantation names that appear in container list, even if minor. 
 *   Add formats (deeds, indentures, wills, lists of enslaved people, estate papers, ledgers, whatever records document lives of enslaved people). 
 	- [Mary Hunter Kennedy](https://finding-aids.lib.unc.edu/03242/): Enslaved people are represented in bills of sale and work contracts that evidence human trafficking, and in the contested will of Christopher Houston (1737-1844), the anti-slavery patriarch who upon his death manumitted the people he enslaved. 
 
-**Subject headings**
-See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/slavery%20era%20headings.md) for the universal heading that we are assigning to all slavery era collections, other suggested headings relating to formats and related topics, and instructions for plantation heading construction. 
+**Subject headings:** See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/slavery%20era%20headings.md) for the universal heading that we are assigning to all slavery era collections, other suggested headings relating to formats and related topics, and instructions for plantation heading construction. 
 
 **Biographical note:** 
     For now, just do some basic editing
@@ -177,33 +176,34 @@ See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/b
 **Scope and Content:** 
     Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
 
-[Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read. 
+* [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read. 
+- places and dates of births or deaths of Black children who were enslaved by the family (1798-1836)	
+- fears of a large-scale insurrection of enslaved people in the southern states (1831)
+- difficulties in educating Black women to be teachers (1836)
+- the life of missionaries in Liberia (1836, 1843, 1845, 1852, 1855)
+- emancipation of enslaved people and then sending them to Liberia for resettlement (1841)
+- (list continues)
 	
-Additional examples of the Blackfords' and other white people's personal views on slavery and perceptions about Black people can be found throughout the collection:
+	Additional examples of the Blackfords' and other white people's personal views on slavery and perceptions about Black people can be found throughout the collection.
 
-places and dates of births or deaths of Black children who were enslaved by the family (1798-1836)	
-fears of a large-scale insurrection of enslaved people in the southern states (1831)
-difficulties in educating Black women to be teachers (1836)
-the life of missionaries in Liberia (1836, 1843, 1845, 1852, 1855)
-emancipation of enslaved people and then sending them to Liberia for resettlement (1841)
-(list continues)
+
 	
-[Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
+* [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
 
-_Series 1. Correspondence: Topics_
+	_Series 1. Correspondence: Topics_
 
-Slavery, including health, labor, trafficking, self-emancipation, and wealth built upon the labor of, and crimes against enslaved people
-Freedmen labor and rights
-Family, especially the lives of white plantation women and children writing home from school
-North American Indian land disputes
-(list continues)
+	- Slavery, including health, labor, trafficking, self-emancipation, and wealth built upon the labor of, and crimes against enslaved people
+	- Freedmen labor and rights
+	- Family, especially the lives of white plantation women and children writing home from school
+	- North American Indian land disputes
+	- (list continues)
 
-_Series 2. Other Papers: Topics and Formats_
+	_Series 2. Other Papers: Topics and Formats_
 
-Bills of sale for enslaved people
-Agricultural products, including cotton, livestock
-Medical care
-(list continues)
+	- Bills of sale for enslaved people
+	- Agricultural products, including cotton, livestock
+	- Medical care
+	- (list continues)
 
 
 **Contents list**
