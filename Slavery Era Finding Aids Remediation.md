@@ -126,50 +126,43 @@ Six month phase of ongoing project
 * We also analyzed the collection’s contents to see if there was any content about his experimentation on enslaved women. We did not find any, and we made that absence of information clear. “Sims also discussed the sale of enslaved persons, but the papers do not include any documentation of the experimental gynecological and cancer surgeries he conducted on enslaved women.” 
 
 ## Remediation guidelines
-Remediation goal: repair description such that it is accessible, equitable, and helpful.
+Remediation goal: repair description to make it more accessible, equitable, and helpful.
 
 **Shared definitions:**
 *	Accessible: the description does not assume insider knowledge, contexts are explained 
-*	Equitable:  we will center what we know of the enslaved people as best we can.  
+*	Equitable:  we will center what we know of the enslaved people as best we can and remove venerative language about white people.  
 *	Helpful: sources about enslaved people are featured prominently 
 
-**Meta tags in EAD**
-1.	Update `<revision>`: Updated for Conscious Editing of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Name].
+**EAD tag revisions**
+1.	Update `<revision>`: Updated for Conscious Editing of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
 
 2.	Update `<processinfo>`
 * [Conscious Editing Work](https://library.unc.edu/reckoning/conscious-editing-initiative/) by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
 * Add racial identity statement if it is not already there.
 
 **Collection overview:** 
-This is a balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. In this phase of remediation we are decentering whiteness, but not eliminating existing description about the white family that is still useful. 
+This is a balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. In this phase of remediation we are decentering whiteness by removing venerative language, but not eliminating existing description about the white family that is still useful. 
 *	Move biographical info from 545 tags to the 520; delete 545 tags. 
 *	Reduce/remove as much biographical information as possible. In family papers, individual names should be few if any (they can still appear in the subject headings). Remove venerative language (e.g., prosperous, prominent, planter) and edit as needed. If "prominence" should be conveyed, try "politically and socially influential," or other language that speaks more directly to the power than "prominence."
 *	Add racial identity to the white family.
 *	Acknowledge existence of enslaved people and their relationship to the white family that they are living alongside of in the first sentence.
    
-	- [Jackson and Prince Family](https://finding-aids.lib.unc.edu/00371/): The papers of Jackson, Prince, and Cobb families of Athens, Macon, and other locations in Georgia, and the Rootes family of Fredericksburg, Va., document the lives of white plantation owning families and the people enslaved by them on Halscot Plantation outside Athens, Ga.; Cookshay Plantation in Chambers County, Ala.; and other plantations in Bibb and Baker counties, Ga.
+	- [Jackson and Prince Family](https://finding-aids.lib.unc.edu/00371/): The papers of Jackson, Prince, and Cobb families of Athens, Macon, and other locations in Georgia, and the Rootes family of Fredericksburg, Va., document the lives of white plantation-owning families and the people enslaved by them on Halscot Plantation outside Athens, Ga.; Cookshay Plantation in Chambers County, Ala.; and other plantations in Bibb and Baker counties, Ga.
 
 *	Acknowledge plantation was based on enslaved labor.
-    - [David Outlaw](https://finding-aids.lib.unc.edu/01534/): David Outlaw, a white farmer and a Whig member of Congress from 1847 to 1853, owned a farm near Windsor in Bertie County, N.C., whose operations included the forced labor of enslaved people. George, an enslaved person, managed the farm in David Outlaw's absence.
+	  - [David Outlaw](https://finding-aids.lib.unc.edu/01534/): David Outlaw, a white farmer and a Whig member of Congress from 1847 to 1853, owned a farm near Windsor in Bertie County, N.C., whose operations included the forced labor of enslaved people. George, an enslaved person, managed the farm in David Outlaw's absence.
     
 *	Acknowledge when Black people are the creators of the documentation and when they are represented from white people’s perspective (which is most often the case)
     - [Elliott and Gonzalez Family](https://finding-aids.lib.unc.edu/01009/): Enslaved people are represented in bills of sale and lists of enslaved people. There are also a few letters written by enslaved people and several more about them, especially their labor and acts of resistance to slavery, from the perspective of white family members.
     
 *	Recenter any available information about Black people to the first couple of sentences after the initial statement about who is documented in the collection.
-    - William Alexander Hoke (https://finding-aids.lib.unc.edu/00345/) Topics include the buying and selling of enslaved people; human trafficking, then called "hiring out"; abolitionism; reminiscences about Julia, a nurse formerly enslaved by the family; Reconstruction era terrorism, including references to activities of the Ku Klux Klan; and Black membership at St. Luke's Church in Lincolnton, N.C. Other topics include
+    - William Alexander Hoke (https://finding-aids.lib.unc.edu/00345/) Topics include the buying and selling of enslaved people; human trafficking, then called "hiring out"; abolitionism; reminiscences about Julia, a nurse formerly enslaved by the family; Reconstruction era terrorism, including references to activities of the Ku Klux Klan; and Black membership at St. Luke's Church in Lincolnton, N.C. Other topics include...
 *	Add plantation names that appear in container list, even if minor. 
 *   Add formats (deeds, indentures, wills, lists of enslaved people, estate papers, ledgers, whatever records document lives of enslaved people). 
-    - Mary Hunter Kennedy (https://finding-aids.lib.unc.edu/03242/): Enslaved people are represented in bills of sale and work contracts that evidence human trafficking, and in the contested will of Christopher Houston (1737-1844), the anti-slavery patriarch who upon his death manumitted the people he enslaved. 
+	- [Mary Hunter Kennedy](https://finding-aids.lib.unc.edu/03242/): Enslaved people are represented in bills of sale and work contracts that evidence human trafficking, and in the contested will of Christopher Houston (1737-1844), the anti-slavery patriarch who upon his death manumitted the people he enslaved. 
 
 **Subject headings**
-    
-*	Add the universal: Slavery--United States--History--19th century—Sources and/or Slavery--United States—History—18th century--Sources
-*	Add other format related headings
-    - Slave bills of sale--[geographic location].
-    - Enslaved persons--[geographic location]--Registers.
-*	Add plantation names (see Plantation heading construction); do not crete a heading for anything that is really iffy to verify
-*	Domestic terrorism—United States—History—19th century (for Reconstruction era violence
-
+See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/slavery%20era%20headings.md) for the universal heading that we are assigning to all slavery era collections, other suggested headings relating to formats and related topics, and instructions for plantation heading construction. 
 
 **Biographical note:** 
     For now, just do some basic editing
@@ -177,40 +170,63 @@ This is a balancing act of centering what we know about Black people without mis
 *	Remove venerative language (e.g., planter, prominent, prosperous) and edit as needed.
 *	Add slave schedule information, if available.
 *	Add information about individual enslaved/Black people who are documented in the collection: Name, dates, locations, enslavers
-    - [George Hairston Papers](https://finding-aids.lib.unc.edu/01290/): Enslaved people documented in the collection include Elizabeth, a house servant, and her daughter by her enslaver Robert Hairston, probably in Lowndes County, Miss.; Frank, a child of 2 months who was sold from the estate of Absalom Powell in Columbus County, N.C., to Richard L. Byrne; Nancy, who attended to women enslaved by George Hairston and who herself was enslaved by Mary J. Cabaniss, probably in Pittsylvania County, Va.; and Roda, a girl enslaved by George Hairston (location unknown).
+    - [George Hairston Papers](https://finding-aids.lib.unc.edu/04477/): Enslaved people documented in the collection include Elizabeth, a house servant, and her daughter by her enslaver Robert Hairston, probably in Lowndes County, Miss.; Frank, a child of 2 months who was sold from the estate of Absalom Powell in Columbus County, N.C., to Richard L. Byrne; Nancy, who attended to women enslaved by George Hairston and who herself was enslaved by Mary J. Cabaniss, probably in Pittsylvania County, Va.; and Roda, a girl enslaved by George Hairston (location unknown).
 
         Some genealogical research of people enslaved at Hairston family plantations has been done by descendent family members and is available at [Hairston Family Genealogy](https://www.hairstonfamilygenealogy.com).
 
 **Scope and Content:** 
-    Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful.
+    Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
 
-   -    [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read.
-    -   [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. A list of topics by series provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
+   - [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read.
+   	Additional examples of the Blackfords' and other white people's personal views on slavery and perceptions about Black people can be found throughout the collection:
+
+	places and dates of births or deaths of Black children who were enslaved by the family (1798-1836)
+	fears of a large-scale insurrection of enslaved people in the southern states (1831)
+	difficulties in educating Black women to be teachers (1836)
+	the life of missionaries in Liberia (1836, 1843, 1845, 1852, 1855)
+	emancipation of enslaved people and then sending them to Liberia for resettlement (1841)
+	(list continues)
+	
 
 **Contents list**
 *	Can the subseries be compressed to eliminate sub-sub-series? 
 *	Add meaningful titles to all `<unittitle>`at the `<c02>`, `<c03>`, `<c04>` levels. Many antebellum finding aids have just dates at the subseries and folder levels. Add a format or other descriptor to the date.
-*	Remediate language (see also below)
+*	Remediate language (see also Language Overview below)
     - Slaves, bills of sale for slaves, list of slaves-->enslaved people
-    - Hiring out, buying and selling-->trafficking
+    - Hiring out, buying and selling-->trafficking through hiring out / buying / selling
     - Civil War-->American Civil War
 *	Remove quotes that only add literary flourish or describe violence against Black people.
-*	Remove repetition of biographical information about white people unless super helpful to understanding the rest of the scopenote.
+*	Remove repetition of biographical information about white people unless crucial to understanding the rest of the scopenote.
 *	Add item/folder level information for materials about Black people (if possible) 
-*	Lists, wills, and bills of sale will often have names of enslaved people
+*	Lists, wills, and bills of sale often will have names of enslaved people
 *	 Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the "neighborhood" (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
    
-[Hayes Collection](https://finding-aids.lib.unc.edu/00324/) (folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
+	- [Hayes Collection](https://finding-aids.lib.unc.edu/00324/) (folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
 
-Revise as
+	Revise as
 
-August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
+	August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
 
-Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
+	Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
 
 * Make sure all content about Black people is represented at higher `<c0n>` levels.
   
-    - [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series.
+    - [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
+
+	Series 1. Correspondence: Topics
+
+	Slavery, including health, labor, trafficking, self-emancipation, and wealth built upon the labor of, and crimes against enslaved people
+	Freedmen labor and rights
+	Family, especially the lives of white plantation women and children writing home from school
+	North American Indian land disputes
+	(list continues)
+
+	Series 2. Other Papers: Topics and Formats
+
+	Bills of sale for enslaved people
+	Agricultural products, including cotton, livestock
+	Medical care
+	(list continues)
 
 **Language overview:**
 *	Remove dehumanizing and marginalizing language, Lost Cause mythology 
