@@ -15,6 +15,7 @@
 # Additional relevant headings
 
 - Confederate States of America--Social conditions.
+- Domestic terrorism—United States—History—19th century. (for Reconstruction era violence)
 - Enslaved persons--(Geographic location)--Registers.
 - Slave bills of sale--(Geographic location).
 - Slave records--(Geographic location).
