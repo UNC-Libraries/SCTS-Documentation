@@ -134,11 +134,11 @@ Remediation goal: repair description to make it more accessible, equitable, and 
 *	Helpful: sources about enslaved people are featured prominently 
 
 **EAD tag revisions**
-1.	Update `<revision>`: Updated for Conscious Editing of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
+*	Update `<revision>`: Updated for Conscious Editing of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
 
-2.	Update `<processinfo>`
-* [Conscious Editing Work](https://library.unc.edu/reckoning/conscious-editing-initiative/) by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
-* Add racial identity statement if it is not already there.
+*	Update `<processinfo>`
+	- [Conscious Editing Work](https://library.unc.edu/reckoning/conscious-editing-initiative/) by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
+	- Add racial identity statement if it is not already there.
 
 **Collection overview:** 
 This is a balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. In this phase of remediation we are decentering whiteness by removing venerative language, but not eliminating existing description about the white family that is still useful. 
@@ -177,24 +177,39 @@ See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/b
 **Scope and Content:** 
     Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
 
-   - [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read.
-   	Additional examples of the Blackfords' and other white people's personal views on slavery and perceptions about Black people can be found throughout the collection:
-
-	places and dates of births or deaths of Black children who were enslaved by the family (1798-1836)
-	fears of a large-scale insurrection of enslaved people in the southern states (1831)
-	difficulties in educating Black women to be teachers (1836)
-	the life of missionaries in Liberia (1836, 1843, 1845, 1852, 1855)
-	emancipation of enslaved people and then sending them to Liberia for resettlement (1841)
-	(list continues)
+[Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. A list preserves all of the keywords for searching and makes it slightly easier to read. 
 	
+Additional examples of the Blackfords' and other white people's personal views on slavery and perceptions about Black people can be found throughout the collection:
+
+places and dates of births or deaths of Black children who were enslaved by the family (1798-1836)	
+fears of a large-scale insurrection of enslaved people in the southern states (1831)
+difficulties in educating Black women to be teachers (1836)
+the life of missionaries in Liberia (1836, 1843, 1845, 1852, 1855)
+emancipation of enslaved people and then sending them to Liberia for resettlement (1841)
+(list continues)
+	
+[Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
+
+_Series 1. Correspondence: Topics_
+
+Slavery, including health, labor, trafficking, self-emancipation, and wealth built upon the labor of, and crimes against enslaved people
+Freedmen labor and rights
+Family, especially the lives of white plantation women and children writing home from school
+North American Indian land disputes
+(list continues)
+
+_Series 2. Other Papers: Topics and Formats_
+
+Bills of sale for enslaved people
+Agricultural products, including cotton, livestock
+Medical care
+(list continues)
+
 
 **Contents list**
 *	Can the subseries be compressed to eliminate sub-sub-series? 
 *	Add meaningful titles to all `<unittitle>`at the `<c02>`, `<c03>`, `<c04>` levels. Many antebellum finding aids have just dates at the subseries and folder levels. Add a format or other descriptor to the date.
-*	Remediate language (see also Language Overview below)
-    - Slaves, bills of sale for slaves, list of slaves-->enslaved people
-    - Hiring out, buying and selling-->trafficking through hiring out / buying / selling
-    - Civil War-->American Civil War
+*	Remediate language (see **Language Overview** below)
 *	Remove quotes that only add literary flourish or describe violence against Black people.
 *	Remove repetition of biographical information about white people unless crucial to understanding the rest of the scopenote.
 *	Add item/folder level information for materials about Black people (if possible) 
@@ -209,28 +224,11 @@ See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/b
 
 	Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
 
-* Make sure all content about Black people is represented at higher `<c0n>` levels.
+* Make sure all content about Black people is represented at higher `<c0n>` levels (sub-series, series, and collection overview).
   
-    - [Springs Family Papers](https://finding-aids.lib.unc.edu/04121/): this one has heavy description at the file level. Rather than replicate that heavy description at the collection scope and content, there is a list of topics by series that provides key word access without replicating the heavier description applied to folder groupings (formerly subseries). 
-
-	Series 1. Correspondence: Topics
-
-	Slavery, including health, labor, trafficking, self-emancipation, and wealth built upon the labor of, and crimes against enslaved people
-	Freedmen labor and rights
-	Family, especially the lives of white plantation women and children writing home from school
-	North American Indian land disputes
-	(list continues)
-
-	Series 2. Other Papers: Topics and Formats
-
-	Bills of sale for enslaved people
-	Agricultural products, including cotton, livestock
-	Medical care
-	(list continues)
-
 **Language overview:**
 *	Remove dehumanizing and marginalizing language, Lost Cause mythology 
-*	Slave-->enslaved 
+*	Slave-->enslaved person 
 *	Planter-->plantation owner
 *	Slaveholder-->enslaver
 *	Civil War-->American Civil War 
@@ -241,6 +239,9 @@ See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/b
 *	Enslaved labor-->expand to enslaved labor, skills, and knowledge
 *	Characterizing enslaved people of a plantation as a community where possible  
 *	Trafficking-->can be used to describe hiring out and transfer of people claimed as property
+*	List of slaves-->list of enslaved people
+*	Hiring out, buying and selling-->trafficking through hiring out / buying / selling
+
 
 
 
