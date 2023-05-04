@@ -7,7 +7,7 @@ New finding aids:
 - **[Saul Schniderman Collection, 1980s-2000s](https://finding-aids.lib.unc.edu/70152/) Collection contains papers and photographs collected by white librarian and labor folklorist Saul Schniderman.**
 - **[Virginia Omega Collier Photograph Album, circa 1936-1945](https://finding-aids.lib.unc.edu/70146/) Virginia Omega Collier, a Black woman who attended North Carolina Agricultural and Technical State University, located in Greensboro, N.C., from 1941 to 1943, compiled this photograph album in the 1940s. The album documents her time at the University as well as her family life and home in Plainfiled, N.J.**
 
-Additions to finding aids
+Additions to finding aids:
 
 - **[Ann Blackman Papers, 1800s-2000s](https://finding-aids.lib.unc.edu/70138/#d1e317)**
 - **[Carolina COVID-19 Archive, 2020-2022](https://finding-aids.lib.unc.edu/70097/#d1e632)**
@@ -15,7 +15,7 @@ Additions to finding aids
 - **[Mangum Family Papers, 1763-2016](https://finding-aids.lib.unc.edu/00483/#d1e4201)**
 - **[Peter Guralnick Collection, 1935-2019](https://finding-aids.lib.unc.edu/20453/#d1e39193)**
 
-Finding aid description remediated
+Finding aid description remediated:
 
 - **[Joseph W. Gilmer Papers, 1787-1846; 1865](https://finding-aids.lib.unc.edu/01721/)**
 
