@@ -1,6 +1,6 @@
 
 # Slavery Era Finding Aids remediation
-Updated March 2023
+Updated May 2023
 
 Wilson Library holds more than 500 collections that document the lived experiences of people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. These materials date from the early 1700s to the late 1800s following emancipation and include bills of sale of enslaved people; receipts that document the hiring out of labor of enslaved people; lists of enslaved people maintained by their enslavers; plantation journals and account books that document the labor, skills, and knowledge of enslaved people and their participation in the local economies; letters written about and sometimes by enslaved people; and legal documents, such as wills that document the trafficking of enslaved people across generations of families. 
 
@@ -13,10 +13,10 @@ We acknowledge our past practices are problematic, and we are working to repair 
 For more information about plans and milestones for this work, please see information about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
 
 Additional Resources from UNC Libraries: 
-- **[Studying Slavery in the Southern Historical Collection tutorial](#https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)**
-- **[A Guide to Conscious Editing at Wilson Special Collections Library](#https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)**
-- **[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](#https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)**
-- **[University Libraries Reckoning Initiative Framework](#https://library.unc.edu/reckoning/framework/)**
+- **[Studying Slavery in the Southern Historical Collection tutorial](https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)**
+- **[A Guide to Conscious Editing at Wilson Special Collections Library](https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)**
+- **[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)**
+- **[University Libraries Reckoning Initiative Framework](https://library.unc.edu/reckoning/framework/)**
 - **[Ann Blackman Papers, 1800s-2000s](https://finding-aids.lib.unc.edu/70138/#d1e317)**
 
 
