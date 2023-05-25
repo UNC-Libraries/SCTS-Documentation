@@ -17,8 +17,6 @@ Additional Resources from UNC Libraries:
 - **[A Guide to Conscious Editing at Wilson Special Collections Library](https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)**
 - **[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)**
 - **[University Libraries Reckoning Initiative Framework](https://library.unc.edu/reckoning/framework/)**
-- **[Ann Blackman Papers, 1800s-2000s](https://finding-aids.lib.unc.edu/70138/#d1e317)**
-
 
 
 
