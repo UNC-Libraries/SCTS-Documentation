@@ -10,10 +10,10 @@ Librarians and archivists who wrote the initial descriptions of these collection
 
 We acknowledge our past practices are problematic, and we are working to repair them. We are revisiting our finding aid description to remediate biased and exclusionary language that upholds white supremacy. We are repairing erasures by highlighting materials created by and about enslaved people.  This work is ongoing and evolving. While we iterate and continually edit the finding aids, we also will preserve, retain, and make available to researchers the older versions of finding aids with problematic language so we do not obscure our past practices. 
 
-For more information about plans and milestones for this work, please see more about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
+For more information about plans and milestones for this work, please see information about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
 
 Additional Resources from UNC Libraries: 
-•	Studying Slavery in the Southern Historical Collection tutorial
+•	[Studying Slavery in the Southern Historical Collection tutorial](#https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)
 •	A Guide to Conscious Editing at Wilson Special Collections Library 
 •	The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past
 •	University Libraries Reckoning Initiative Framework
