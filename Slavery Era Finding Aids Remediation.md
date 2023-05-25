@@ -2,6 +2,23 @@
 # Slavery Era Finding Aids remediation
 Updated March 2023
 
+Wilson Library holds more than 500 collections that document the lived experiences of people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. These materials date from the early 1700s to the late 1800s following emancipation and include bills of sale of enslaved people; receipts that document the hiring out of labor of enslaved people; lists of enslaved people maintained by their enslavers; plantation journals and account books that document the labor, skills, and knowledge of enslaved people and their participation in the local economies; letters written about and sometimes by enslaved people; and legal documents, such as wills that document the trafficking of enslaved people across generations of families. 
+Beginning in 1930, UNC history professor J. G. de Roulhac Hamilton, motivated by his vision to create a repository for the preservation and study of the history of the U.S. South, began a concerted effort to collect materials chiefly from politically and socially influential white families in this region. Hamilton’s Southern Historical Collection, which today is part of the Wilson Special Collections Library, was intended to perpetuate a white supremist narrative of history.
+Librarians and archivists who wrote the initial descriptions of these collections, which were often an inventory of itemized documents, focused entirely on the lives of white people and did not represent the lived experiences of enslaved people. In the 1980s and 1990s, new finding aids were written that identified the institution of slavery as a subject for scholarly research, but still failed to center individuals who were not white. Euphemistic and non-inclusive language, a style that privileged academic researchers over all others seeking access to materials about enslaved people, is used throughout these finding aids. 
+We acknowledge our past practices are problematic, and we are working to repair them. We are revisiting our finding aid description to remediate biased and exclusionary language that upholds white supremacy. We are repairing erasures by highlighting materials created by and about enslaved people.  This work is ongoing and evolving. While we iterate and continually edit the finding aids, we also will preserve, retain, and make available to researchers the older versions of finding aids with problematic language so we do not obscure our past practices. 
+
+For more information about plans and milestones for this work, please see Slavery Era Finding Aids Remediation. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
+
+Additional Resources from UNC Libraries: 
+•	Studying Slavery in the Southern Historical Collection tutorial
+•	A Guide to Conscious Editing at Wilson Special Collections Library 
+•	The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past
+•	University Libraries Reckoning Initiative Framework
+
+
+
+
+
 - [Remediation projects](#remediation-projects)
 
     - [Finding aids remediation: July through December 2022](#finding-aids-remediation-july-through-december-2022)
