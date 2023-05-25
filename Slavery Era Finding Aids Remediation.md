@@ -13,14 +13,14 @@ We acknowledge our past practices are problematic, and we are working to repair 
 For more information about plans and milestones for this work, please see information about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
 
 Additional Resources from UNC Libraries: 
-•	[Studying Slavery in the Southern Historical Collection tutorial](#https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)
-•	A Guide to Conscious Editing at Wilson Special Collections Library 
-•	The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past
-•	University Libraries Reckoning Initiative Framework
+•	**[Studying Slavery in the Southern Historical Collection tutorial](#https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)
+•	**[A Guide to Conscious Editing at Wilson Special Collections Library](#https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)
+•	**[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](#https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)
+•	**[University Libraries Reckoning Initiative Framework](#https://library.unc.edu/reckoning/framework/)
 
 
 
-
+**[Barber-Scotia College Photograph Album, circa 1931-1934](https://finding-aids.lib.unc.edu/70144/)
 
 - [Remediation projects](#remediation-projects)
 
