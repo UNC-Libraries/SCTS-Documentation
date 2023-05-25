@@ -19,28 +19,6 @@ Additional Resources from UNC Libraries:
 - **[University Libraries Reckoning Initiative Framework](https://library.unc.edu/reckoning/framework/)**
 
 
-
-
-- [Remediation projects](#remediation-projects)
-
-    - [Finding aids remediation: July through December 2022](#finding-aids-remediation-july-through-december-2022)
-
-    - [Adding names of enslaved people to finding aids, November 2021-February 2022](#adding-names-of-enslaved-people-to-finding-aids-november-2021-february-2022)
-
-    - [Antebellum finding aids: LibGuides project, summer and fall 2020](#antebellum-finding-aids-libguides-project-summer-and-fall-2020)
-
-    - [Antebellum finding aids: Pilot project, spring 2020](#antebellum-finding-aids-pilot-project-spring-2020)
-
-    - [Creating name authority records for names for enslaving families, spring and summer 2020](#creating-name-authority-records-for-names-for-enslaving-families-spring-and-summer-2020)
-
-    - [Revision of what was called the Tunstall Family Letter, fall 2019](#revision-of-what-was-called-the-tunstall-family-letter-fall-2019)
-
-    - [Revising Maunsel White finding aid, summer 2019](#revising-maunsel-white-finding-aid-summer-2019)
-
-    - [Revising J. Marion Sims finding aid, summer 2019](#revising-j-marion-sims-finding-aid-summer-2019)
-
-- [Remediation guidelines](#remediation-guidelines)
-
 ## Remediation projects
 
 ### Finding aids remediation: July through December 2022
