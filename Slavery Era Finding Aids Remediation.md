@@ -1,6 +1,12 @@
-
-# Slavery Era Finding Aids remediation
 Updated May 2023
+
+# Slavery Era Finding Aids Remediation
+
+- [Finding Aid Statement](#finding-aid-statement)
+- [Remediation Projects](#remediation-projects)
+- [Remediation Guidelines](#remediation-guidelines)
+
+## Finding Aid Statement
 
 Wilson Library holds more than 500 collections that document the lived experiences of people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. These materials date from the early 1700s to the late 1800s following emancipation and include bills of sale of enslaved people; receipts that document the hiring out of labor of enslaved people; lists of enslaved people maintained by their enslavers; plantation journals and account books that document the labor, skills, and knowledge of enslaved people and their participation in the local economies; letters written about and sometimes by enslaved people; and legal documents, such as wills that document the trafficking of enslaved people across generations of families. 
 
@@ -120,9 +126,9 @@ Six month phase of ongoing project
 
 * In response to a remediation request from Research and Instructional Services, we rewrote the abstract, scope/content note, and the biographical note in the [J. Marion Sims Papers](https://finding-aids.lib.unc.edu/00666) that asserted that Sims who had conducted medical experiments on enslaved women was a “pioneer” in the field of gynecology.  
 
-* We also analyzed the collection’s contents to see if there was any content about his experimentation on enslaved women. We did not find any, and we made that absence of information clear. “Sims also discussed the sale of enslaved persons, but the papers do not include any documentation of the experimental gynecological and cancer surgeries he conducted on enslaved women.” 
+* We also analyzed the collection’s contents to see if there was any content about his experimentation on enslaved women. We did not find any, and we made that absence of information clear. “Sims also discussed the sale of enslaved persons, but the papers do not include any documentation of the experimental gynecological and cancer surgeries he conducted on enslaved women.”
 
-## Remediation guidelines
+## Remediation Guidelines
 Remediation goal: repair description to make it more accessible, equitable, and helpful.
 
 **Shared definitions:**
@@ -211,9 +217,6 @@ This is a balancing act of centering what we know about Black people without mis
 *	Trafficking-->can be used to describe hiring out and transfer of people claimed as property
 *	List of slaves-->list of enslaved people
 *	Hiring out, buying and selling-->trafficking through hiring out / buying / selling
-
-
-
 
 **Helpful antebellum finding aids are accessible to a broad, general audience:**
 *	Describe sources about enslaved people near the listing of volumes and folders; coordinate description to page-able units  
