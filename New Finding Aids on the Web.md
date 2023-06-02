@@ -11,6 +11,18 @@ Expanded description:
 
 - **[Spencie Love Papers, 1950s-2000s](https://finding-aids.lib.unc.edu/05652/) Collection contains letters, notes, photographs, oral histories, and other materials documenting the life of white historian Spencie Love's family history, as well as materials documenting her professional life. Cornelia Spencer Love ("Spencie") was a former director the University of North Carolina at Chapel Hill's Southern Oral History Program. Her dissertation and subsequent book, "One Blood," documented the life the death of Charles R. Drew, a Black doctor who pioneered blood storage and plasma research. Throughout her career, she studied the Civil Rights movement.**
 
+Additions to finding aids: 
+
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/#d1e9055)
+
+- **[Jack Bernhardt Papers, 1943-2017](https://finding-aids.lib.unc.edu/20061/#d1e3034)
+
+- **[Ronald H. Bayes Papers, 1909-2008](https://finding-aids.lib.unc.edu/04949/#d1e2358)
+
+- **[Southern Newspaper Publishers Association Records, 1903-2016](https://finding-aids.lib.unc.edu/04600/#d1e625)
+
+- **[University Woman's Club of the University of North Carolina at Chapel Hill Records, 1949-2022](https://finding-aids.lib.unc.edu/40205/#d1e977)
+
 
 
 # April 2023
