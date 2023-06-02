@@ -13,15 +13,15 @@ Expanded description:
 
 Additions to finding aids: 
 
-- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/#d1e9055)
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/#d1e9055)**
 
-- **[Jack Bernhardt Papers, 1943-2017](https://finding-aids.lib.unc.edu/20061/#d1e3034)
+- **[Jack Bernhardt Papers, 1943-2017](https://finding-aids.lib.unc.edu/20061/#d1e3034)**
 
-- **[Ronald H. Bayes Papers, 1909-2008](https://finding-aids.lib.unc.edu/04949/#d1e2358)
+- **[Ronald H. Bayes Papers, 1909-2008](https://finding-aids.lib.unc.edu/04949/#d1e2358)**
 
-- **[Southern Newspaper Publishers Association Records, 1903-2016](https://finding-aids.lib.unc.edu/04600/#d1e625)
+- **[Southern Newspaper Publishers Association Records, 1903-2016](https://finding-aids.lib.unc.edu/04600/#d1e625)**
 
-- **[University Woman's Club of the University of North Carolina at Chapel Hill Records, 1949-2022](https://finding-aids.lib.unc.edu/40205/#d1e977)
+- **[University Woman's Club of the University of North Carolina at Chapel Hill Records, 1949-2022](https://finding-aids.lib.unc.edu/40205/#d1e977)**
 
 
 
