@@ -158,7 +158,7 @@ Bernetiae Reed and Nicka Sewell-Smith stated that the more we drill down in the 
 
 > Comment: We are adding more plantation names and geographic locations.
 
-> Comment: We are highlighting formats, making sure that they are included in both finding aids and as part of the metadata of digitized collection material. 
+> Comment: We are highlighting formats, making sure that they are included in catalog records, finding aids, and as part of the metadata of digitized collection material. 
 
 - **Lists of enslaved people = Enslaved persons—[geographic location]—Registers**
 - **Slave bills of sale--[geographic location]**
