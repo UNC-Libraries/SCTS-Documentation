@@ -106,7 +106,7 @@ These files deal with _a wide variety of topics_ and provide information on the 
 
 **Single item collections**
 
-- The collection is a letter dated 25 January 1850 about Betsy an enslaved African American child.
+- The collection is a letter dated 25 January 1850 about Betsy an enslaved American child.
 
 
 # Abstracts, Collection Overview, Biog/Hist notes
@@ -629,7 +629,7 @@ Abbreviate for lesser government bodies and for military units
 
 ### Racial and Ethnic Identities 
 
-In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the [Conscious editing](#abstracts-collection-overview-bioghist-notes) section of this Style Guide and the [abstract section of Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract) for more on this established practice). Below is a list of preferred racial and ethnic identity terms to describe an individual or group of individuals. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide”, when compiling these recommended racial and ethnic identities.[^5] Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in the [Identifying and characterizing: Decentering Whiteness](#identifying-and-characterizing-de-centering-whiteness) section of this Style Guide, we favor self-identification above all else. We also encourage those described or the decedents of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
+In our abstracts we list out racial and ethnic identities of creator, collectors, and major figures documented in collections so that whiteness is no longer the presumed default of the people represented in our collections (please see the [Conscious editing](#abstracts-collection-overview-bioghist-notes) section of this Style Guide and the [abstract section of Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract) for more on this established practice). Below is a list of preferred racial and ethnic identity terms to describe an individual or group of individuals. This is an evolving and living list of recommendations. It is not exhaustive. We consulted our colleagues and peers, including the “The Diversity Style Guide”, when compiling these recommended racial and ethnic identities.[^5] Please note that we do not hyphenate racial and ethnic identities and that we capitalize all identities, except for “white”. As noted in the [Identifying and characterizing: Decentering Whiteness](#identifying-and-characterizing-de-centering-whiteness) section of this Style Guide, we favor self-identification above all else. We also encourage those described or the descendants of those described to please let us know how they would like to be identified and/or when we have misidentified individuals or groups. 
 
 - African 
 
@@ -637,7 +637,7 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 
 - Afro-Caribbean 
 
-- American Indian or North American Indian [no longer using Native American; preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian] 
+- American Indian or North American Indian (no longer using Native American; preferably we would use specifics when available: Coharie Indian; Haliwa-Saponi Indian; Lumbee Indian; Tuscarora Indian) 
 
 - Asian American 
 
@@ -650,6 +650,8 @@ In our abstracts we list out racial and ethnic identities of creator, collectors
 - Chinese American 
 
 - Coharie Indian 
+
+- Croatan, or Croatoan [use only when referring to Indigenous peoples of the Hatteras and Roanoke Islands in the late 16th century, a title, or the proper name of a geographical feature or location.] (For more information see "Investigation of misuse of 'Croatan' (or 'Croatoan') as an identity term for Lumbee, Tuscarora, and other Indigenous people, Fall 2022-Summer 2023" in [Inclusive Description Projects](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Inclusive%20Description%20Projects.md).)
 
 - Creole 
 
@@ -741,7 +743,9 @@ Abbreviate a state name when it directly follows the name of a city or a county 
 
 - :smiley: _They came to the United States in 1856._
 
-#  Titles
+#  Titles, Dates, Numbers
+
+## Titles
 
 Use `<title>` tags to add italics or quotation marks to formal titles; use `<emph>` tags to add bold, italic, or quotation marks in all other cases.
 
@@ -769,7 +773,7 @@ Use `<title>` tags to add italics or quotation marks to formal titles; use `<emp
 
 - :smiley: _Her name was McGill, and she called herself_ `<emph render="doublequote">Lil,</emph>` _but everyone knew her as_ `<emph render="doublequote">Nancy.</emph>` 
 
-# Dates
+## Dates
 
 **General:** 
 
@@ -808,7 +812,7 @@ follow the first mention of the person's name.
 
 - Use "active" when neither a birth or death date is known but evidence shows that a person was active (previously known as "flourished") during those dates.
 
-# Numbers
+## Numbers
 
 Use numerals for centuries.
 
