@@ -233,7 +233,7 @@ Here’s an example:
 
 - :smiley: `<scopecontent><head>Collection Overview</head><p>The Janet Anderson and Eugene Anderson Collection documents African American life and culture in rural Fayette County, Tennessee, especially the intersection of African American health crises and civil rights concerns. The collection consists of an interview with Janet and Eugene Anderson in May 2019 in Rossville, Tennessee, and copies of newspaper clippings, photographs, and flyers that supplement their stories about African American health activism in Fayette County. Topics include Tent City (1959-1960); the Appalachian Student Health Coalition in Rossville, Tennessee; the Poor People's Health Council of Rossville, Tennessee in the late 1970s; the Original Fayette County, Tennessee Civic and Welfare League, Inc., in the early 1990s; and Janet Anderson's campaign for Fayette County Court Clerk in 1978.</p></scopecontent>`
 
-## Biographical Note verses Historical Note
+## Biographical Note versus Historical Note
 
 - Biographical notes are about individuals and families; historical notes are about organizations.
 - If you are creating a new finding aid, the template will default to this:
@@ -742,6 +742,7 @@ Abbreviate a state name when it directly follows the name of a city or a county 
 - :smiley: _She is a native of North Carolina._
 
 - :smiley: _They came to the United States in 1856._
+
 
 #  Titles, Dates, Numbers
 
