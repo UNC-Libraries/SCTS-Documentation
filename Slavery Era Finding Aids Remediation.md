@@ -2,11 +2,11 @@ Updated May 2023
 
 # Slavery Era Finding Aids Remediation
 
-- [Finding Aid Statement](#finding-aid-statement)
+- [Legacy Description of Slavery Era Collections](#legacy-description-of-slavery-era-collections)
 - [Remediation Projects](#remediation-projects)
 - [Remediation Guidelines](#remediation-guidelines)
 
-## Finding Aid Statement
+## Legacy Description of Slavery Era Collections
 
 Wilson Library holds more than 500 collections that document the lived experiences of people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. These materials date from the early 1700s to the late 1800s following emancipation and include bills of sale of enslaved people; receipts that document the hiring out of labor of enslaved people; lists of enslaved people maintained by their enslavers; plantation journals and account books that document the labor, skills, and knowledge of enslaved people and their participation in the local economies; letters written about and sometimes by enslaved people; and legal documents, such as wills that document the trafficking of enslaved people across generations of families. 
 
