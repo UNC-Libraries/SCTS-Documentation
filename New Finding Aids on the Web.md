@@ -1,4 +1,53 @@
 
+# June 2023
+
+New finding aids: 
+
+- **[Nellie Ferry and Colleen Chapman Collection, 1940s-1950s](https://finding-aids.lib.unc.edu/70151/)
+This collection contains materials created and collected by Nellie Ferry and Colleen Chapman, two white women from Oregon, who ran country and western music fan clubs in the early 1950s. Materials consist of photographic prints and negatives, unpublished acetate audio discs, and printed materials related to country and western musicians, principally the Sons of the Pioneers but also Ernest Tubb, Chet Atkins, Bob Wills, Hank Williams, Merle Travis, Maddox Brothers and Rose, and others.**
+
+
+- **[Saul Schniderman Collection, 1980s-2000s](https://finding-aids.lib.unc.edu/70152/)
+Collection contains papers and photographs collected by white librarian and labor folklorist Saul Schniderman. Papers include a brochure from the Labor Heritage Foundation, labor song lyrics and music, a 1984 letter from folklorist and historian Archie Green, and tributes written about Green following Green's death in 2009. Photographs of Pete Seeger, Florence Reece, and Si Kahn are also included.**
+
+These materials were housed as z collections and, until now, did not have finding aids:  
+
+- **[Alabama Department of Archives and History Bulletin on Cahaba, Ala., 1925](https://finding-aids.lib.unc.edu/01582/)
+Mimeographed booklet of Vol. 1, No. 6, of the monthly bulletin of the Alabama Department of Archives & History in Montgomery, Ala. This issue of the bulletin, dated June 1925, chiefly pertains to the deserted town of Cahaba, the onetime capital of Alabama.**
+
+- **[Edgar Howard Farrar Letter, 1912](https://finding-aids.lib.unc.edu/00253/)
+The collection is a letter from Edgar Howard Farrar, a New Orleans, La., lawyer, asking the governor to commute the death sentence of the murderer of his son.**
+
+- **[Howell Cobb Papers, 1819, 1851](https://finding-aids.lib.unc.edu/00161/)
+The collection contains a typed transcription of the will of Howell Cobb (1772-1818), of Cherry Hill Plantation in Jefferson County, Ga. Cobb emancipates William Hill from enslavement and leaves $50 per year to another enslaved man, Fellow Ben. At the discretion of his brother, John A. Cobb, Howell Cobb leaves much of his estate to his nephew, also named Howell Cobb (1815-1868). There is also a $50 check, dated 11 January 1851 and signed by Speaker of the House Howell Cobb, written to U.S. House of Representatives member David Rumsey, Jr., a representative from New York.**
+
+- **[J. H. Collett Historical Sketch, undated](https://finding-aids.lib.unc.edu/00164/)
+Contains a handwritten account of the experiences of J. H. Collett while fighting in the Confederate Army of Tennessee during the American Civil War, including the Battle of Franklin (1864). The account was not written by Collett. It might have been written by Mrs. N. H. Fulsner.**
+
+- **[Nettie Hicks Kilgore Historical Sketch of Columbia County and Magnolia, Ark., undated](https://finding-aids.lib.unc.edu/00165/)
+Includes a brief historical sketch of Columbia County and Magnolia, Ark., written by Nettie Hicks Kilgore.**
+
+- **[Robert H. B. Brazier French Broad River and Tuckasegee River Map, circa 1826](https://finding-aids.lib.unc.edu/02948/)
+Map of the French Broad River from Asheville, N.C., to Paint Rock, from Robert H. B. Brazier's survey in 1826. There is also a small piece containing the Tuckasegee River. Appears to be a copy of the survey for the western section of the Buncombe Turnpike, made by Brazier in 1826 at the expense of the Board for Internal Improvements. The maps are manuscript copies on glazed cloth.**
+
+
+Additions: 
+
+- **[Board of Trustees of the University of North Carolina at Chapel Hill Records, 1972-2022](https://finding-aids.lib.unc.edu/40003/)
+
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/)
+
+- **[Helen Maynor Scheirbeck Papers, 1939-2008 (bulk 1960-1990)](https://finding-aids.lib.unc.edu/05526/#d1e4355)
+
+- **[Louis A. Pérez Jr. Collection, 1800s-2018](https://finding-aids.lib.unc.edu/05647/#d1e6921\)
+
+- **[News Services of the University of North Carolina at Chapel Hill Records, 1924-2013](https://finding-aids.lib.unc.edu/40139/#d1e123900)
+
+- **[Pierce & Company Records, 1879-2021](https://finding-aids.lib.unc.edu/04614/#d1e12398)
+
+- **[Souls Grown Deep Foundation Collection, 1982-2015](https://finding-aids.lib.unc.edu/20491/#d1e64823) 
+
+
 # May 2023
 
 New finding aids: 
