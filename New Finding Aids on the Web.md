@@ -39,7 +39,7 @@ Additions:
 
 - **[Helen Maynor Scheirbeck Papers, 1939-2008 (bulk 1960-1990)](https://finding-aids.lib.unc.edu/05526/#d1e4355)**
 
-- **[Louis A. Pérez Jr. Collection, 1800s-2018](https://finding-aids.lib.unc.edu/05647/#d1e6921\)**
+- **[Louis A. Pérez Jr. Collection, 1800s-2018](https://finding-aids.lib.unc.edu/05647/#d1e6921)**
 
 - **[News Services of the University of North Carolina at Chapel Hill Records, 1924-2013](https://finding-aids.lib.unc.edu/40139/#d1e123900)**
 
