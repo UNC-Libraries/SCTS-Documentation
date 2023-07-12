@@ -10,6 +10,8 @@ Compiled October 2020, updated June, 2021, November 2021, December 2021, Februar
 
      In 2023, archivists examined the use of "Croatan" in Wilson Library archival collections and decided to leave this term in places where it refers to the Indigenous peoples of the Hatteras and Roanoke Islands, is part of a title, or is the proper name of a geographic feature or location. We have replaced "Croatan" with the appropriate identity term for materials that refer specifically to the groups noted above. When we are unable to make a determination, we use "Indigenous peoples." We recognize the complexity of this issue and welcome feedback on this decision at wilsonlibrary@unc.edu.
 
+As of July 2023, this statement has been added to the following collections: 3417, 3709, 4258, 4710, 4740, 5422, 5526, 40501, 70103. P0024, P0034, P0035, P0077, P0081, P0085, P0115.
+
 ## Enhanced description for videotapes in the WTVD Moving Image Collection, January 2022
 
 * Audiovisual Archivist added descriptions to 534 videotapes found in the [WTVD Moving Image Collection (04929)](https://finding-aids.lib.unc.edu/04929/). The finding aid previously listed only videotape titles and formats. The finding aid now includes detailed item descriptions and topics that the AV Archivist consciously edited from a tape inventory found in the collection control file. 
