@@ -227,6 +227,8 @@ We began this project in hopes of gaining some insights into the perspectives an
 - **Perfect is the enemy of good: we do not need to completely solve the problem of biased, inadequate, non-inclusive description before we can begin to make improvements. We can start by scoping smaller projects that have achievable outcomes and will have a positive impact on researchers.**
 - **Iteration: we are learning as we go and we expect that our descriptive practices and language will evolve as we revisit more legacy finding aids.**
 
+## Acknowledgements
+This project was supported by a grant from the [University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council](https://library.unc.edu/idea/council/) at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
 
 ## Endnotes
 [^1]: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
