@@ -14,6 +14,18 @@ Contains papers of Jerma A. Jackson, a Black associate professor in the Departme
 - **[John Motley Morehead III Papers, 1914-1988](https://finding-aids.lib.unc.edu/70156/)
 Contains the papers of the white Morehead Family, primarily John Motley Morehead III and his cousin John Lindsay Morehead. Materials include correspondence, business records, family materials, and planning materials. Topics include the Morehead family, John Motley Morehead III’s work with Union Carbide, Morehead’s involvement in politics, and Morehead’s work with the University of North Carolina, including the gift and planning of the bell tower, the purchase of the planetarium, and the establishment of the Morehead Foundation.**
 
+Expanded from collection level: 
+
+- **[Joe Hackney Papers, 1981-2012](https://finding-aids.lib.unc.edu/70128/)**
+
+Addition: 
+
+- **[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)**
+
+
+
+
+
 
 # June 2023
 
