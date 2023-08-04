@@ -11,8 +11,7 @@ Contains the personal files of personal files of Edward Weiss AKA "Charlie Brown
 Contains papers of Jerma A. Jackson, a Black associate professor in the Department of History at the University of North Carolina at Chapel Hill. Materials include research files and transcripts, 35mm slides, photographic prints, and audiocassettes used for Jackson's book, Singing in My Soul: Black Gospel Music in a Secular Age (UNC Press, 2004). Interviews are with African American gospel singers as well as others involved in the church and music business. The materials also include paper transcripts of the interviews and materials related to the Church of God in Christ, the Pentecostal Christian denomination in the United States headquartered in Memphis, Tenn., that include biographical information on women singers.**
 
 
-- **[John Motley Morehead III Papers, 1914-1988]
-https://finding-aids.lib.unc.edu/70156/
+- **[John Motley Morehead III Papers, 1914-1988](https://finding-aids.lib.unc.edu/70156/)
 Contains the papers of the white Morehead Family, primarily John Motley Morehead III and his cousin John Lindsay Morehead. Materials include correspondence, business records, family materials, and planning materials. Topics include the Morehead family, John Motley Morehead III’s work with Union Carbide, Morehead’s involvement in politics, and Morehead’s work with the University of North Carolina, including the gift and planning of the bell tower, the purchase of the planetarium, and the establishment of the Morehead Foundation.**
 
 
