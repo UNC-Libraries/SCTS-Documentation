@@ -1,4 +1,21 @@
 
+# July 2023
+
+New finding aids:
+
+- **[Edward Weiss AKA "Charlie Brown" Collection, 1950-2020](https://finding-aids.lib.unc.edu/70149/)
+Contains the personal files of personal files of Edward Weiss AKA "Charlie Brown", a white Jewish disc jockey and host of the syndicated beach music program On the Beach with Charlie Brown. Materials include song playlists, newspaper clippings, promotional materials, photographic prints, and open reel tapes. One of the tapes includes interviews Brown conducted backstage with touring musicians in the late 1950s, including Clyde McPhatter, Bo Diddley, The Platters, The Crests, Frankie Lymon, Carl Perkins, Duane Eddie, Dion DiMucci (of Dion and The Belmonts), Ahmad Jamal, Dakota Staton, and Keely Smith. There is also a rare interview with Buddy Holly.**
+
+
+-**[Jerma A. Jackson Collection, 1992-1997](https://finding-aids.lib.unc.edu/70153/)
+Contains papers of Jerma A. Jackson, a Black associate professor in the Department of History at the University of North Carolina at Chapel Hill. Materials include research files and transcripts, 35mm slides, photographic prints, and audiocassettes used for Jackson's book, Singing in My Soul: Black Gospel Music in a Secular Age (UNC Press, 2004). Interviews are with African American gospel singers as well as others involved in the church and music business. The materials also include paper transcripts of the interviews and materials related to the Church of God in Christ, the Pentecostal Christian denomination in the United States headquartered in Memphis, Tenn., that include biographical information on women singers.**
+
+
+-**[John Motley Morehead III Papers, 1914-1988]
+https://finding-aids.lib.unc.edu/70156/
+Contains the papers of the white Morehead Family, primarily John Motley Morehead III and his cousin John Lindsay Morehead. Materials include correspondence, business records, family materials, and planning materials. Topics include the Morehead family, John Motley Morehead III’s work with Union Carbide, Morehead’s involvement in politics, and Morehead’s work with the University of North Carolina, including the gift and planning of the bell tower, the purchase of the planetarium, and the establishment of the Morehead Foundation.**
+
+
 # June 2023
 
 New finding aids: 
