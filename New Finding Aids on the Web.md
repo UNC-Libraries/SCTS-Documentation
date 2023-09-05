@@ -1,3 +1,30 @@
+# August 2023
+
+New: 
+
+- **[Department of Mathematics of the University of North Carolina at Chapel Hill Records, 1968-2017](https://finding-aids.lib.unc.edu/70155/)
+The University of North Carolina has had mathematics instructors on campus since classes began in 1795, with Charles Wilson Harris serving as the University’s first tutor mathematics. Joseph P. Caldwell became a "Presiding Professor" of mathematics in 1796. This collection contains records documenting the Department of Mathematics beginning in the late 1960s. Materials include department meeting minutes, graduate school admissions data, curriculum changes, annual reports, commencement information, and faculty curriculum vitae.**
+
+- **[Office of President of the University of North Carolina (System): Margaret Spellings Records, 2016-2019](https://finding-aids.lib.unc.edu/70157/)
+Contains records, including correspondence, subject files, and other materials, related to the administration of the campuses of the University of North Carolina System while Margaret Spellings served as UNC System President, 2016-2019.**
+
+Remediated description: 
+
+- **[Cameron Family Papers, 1757-1978](https://finding-aids.lib.unc.edu/00133/)
+
+Additions:
+
+- **[Craig, Ferris, and Flowers Family Papers, 1841-2022](https://finding-aids.lib.unc.edu/05323/)
+
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/)
+
+- **[Records of the School of Public Health, 1930-2007](https://finding-aids.lib.unc.edu/40120/)
+
+- **[Southern Folklife Collection Festival Files, 1936-2023](https://finding-aids.lib.unc.edu/30007/)
+
+
+
+
 
 # July 2023
 
