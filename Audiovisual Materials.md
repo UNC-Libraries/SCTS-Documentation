@@ -149,6 +149,8 @@ Greenhill Family/FLi Artists/Folklore Productions Collection [series 3 arranged 
 
 ## Introduction
 
+**Read this documentation carefully! There are a lot of details. They are important.**
+
 Once arrangement is determined, consult with the audiovisual srchivist or Technical Services processing archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
 
 https://jitterbug.lib.unc.edu/
@@ -162,7 +164,7 @@ There are 2 options for entering item metadata into Jitterbug – either by crea
 
 Before proceeding, it is also a good idea to familiarize yourself with Jitterbug – its fields, search options, and capabilities, such as its auto-generated call numbers, required metadata fields, and suggested metadata fields.  
 
-**Additional jitterbug documentation is located in the departments or G drive: G:\wilson\ts\archival\Jitterbug.** Documentation includes field definitions and style guide ("Jitterbug Field Definitions and Style Guide.xlsx"), as well as a documentation and template related to Jitterbug CSV Items Import (more on that below under Data Entry and Import: [CSV Import](#CSV-import)). 
+**Additional jitterbug documentation is located in the departments or G drive: G:\wilson\ts\archival\audiovisual documentation.** Documentation includes field definitions and style guide ("Jitterbug import template and style guide.xlsx"), as well as a documentation and template related to Jitterbug CSV Items Import (more on that below under Data Entry and Import: [CSV Import](#CSV-import)). 
 
 ## Metadata
 
@@ -341,7 +343,7 @@ As mentioned above, there are two methods for entering metadata into Jitterbug �
 
 Documentation related to Jitterbug CSV import is located in the departments or G drive: 
 
-**G:\wilson\ts\archival\Jitterbug\"AVitems_import_CSVtemplate"**
+**G:\wilson\ts\archival\audiovisual documentation\"Jitterbug import template and style guide"**
 
 Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
 
@@ -351,7 +353,7 @@ Below are the steps for creating and importing a CSV import into Jitterbug. The 
 
     ![csv import sample](https://github.com/annewell/images/blob/main/Jitterbug_import_csv.png)
 
-    For larger collections, it may be helpful to inventory the materials upfront. This technique may include assigning temporary IDs with archival paper tape to       each item (as seen below) and then arranging the collection after metadata has been gathered on each item, or simply just keeping materials shelved in the         order you inventoried them. If you choose to add temporary IDs, create a temporary column in your CSV import template to store each item's temporary IDs so       you can match them up with their assigned call number after import.  
+    For larger collections, it may be helpful to inventory the materials upfront. This technique may include assigning temporary IDs with archival paper tape to each item (as seen below) and then arranging the collection after metadata has been gathered on each item, or simply just keeping materials shelved in the order you inventoried them. If you choose to add temporary IDs, create a temporary column in your CSV import template to store each item's temporary IDs so you can match them up with their assigned call number after import.  
 
     ![temporary IDs on videotapes](https://github.com/annewell/images/blob/main/Jitterbug_tempIDs.png)
 
