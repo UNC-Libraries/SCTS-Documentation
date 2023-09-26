@@ -1,7 +1,6 @@
 Content owner: **Anne Wells**
 
-Updated February 2022 by Anne Wells.
-Updated September 2023 by Dawne Howard Lucas.
+Updated February 2022 by Anne Wells. Updated September 2023 by Dawne Howard Lucas.
 
 # Overview
 - [Introduction](#introduction)
