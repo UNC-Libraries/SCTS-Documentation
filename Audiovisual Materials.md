@@ -1,6 +1,7 @@
 Content owner: **Anne Wells**
 
 Updated February 2022 by Anne Wells.
+Updated September 2023 by Dawne Howard Lucas.
 
 # Overview
 - [Introduction](#introduction)
@@ -26,6 +27,8 @@ Updated February 2022 by Anne Wells.
 ***
 
 # Introduction
+
+**Read this documentation carefully! There are a lot of details. They are important. You will be sad and frustrated if you disregard them.**
 
 ![open reel audio in Wilson Library's stacks](https://github.com/annewell/images/blob/main/Stacks_OpenReel.png)
 *Open reel audio shelved in Wilson Library's closed stacks.*
@@ -149,7 +152,7 @@ Greenhill Family/FLi Artists/Folklore Productions Collection [series 3 arranged 
 
 ## Introduction
 
-**Read this documentation carefully! There are a lot of details. They are important.**
+**Read this documentation carefully! There are a lot of details. They are important. You will be sad and frustrated if you disregard them.**
 
 Once arrangement is determined, consult with the audiovisual srchivist or Technical Services processing archivist to decide which method to use to gather and enter item-level metadata into Jitterbug. Jitterbug is accessible to authorized users with an Onyen and Onyen password at the following link: 
 
