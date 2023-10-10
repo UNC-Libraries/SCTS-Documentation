@@ -2,9 +2,21 @@
 
 New: 
 
--**[John S. Ullman Collection, 1960-1970](https://finding-aids.lib.unc.edu/70160/)	
-John S. Ullman, a white concert coordinator, director, and manager, co-founded the Seattle Folklore Society in the 1960s and later was a manager for artists including Elizabeth Cotton and Mike Seeger. Collection contains 23 16mm motion picture kinescopes and 48 open reel audiotapes of concerts and workshops organized and produced by Ullman. Recorded artists include: Fred McDowell, Lightnin' Hopkins, Mike Russo, Doc Watson, Booker T. Washington ""Bukka"" White, Jesse Fuller, Mike Seeger, Sonny Terry and Brownie McGhee, Roscoe Holcomb, Furry Lewis, John Lee Hooker, Son House, Georgia Sea Island Singers, New Lost City Ramblers, Bill Monroe, Robert Pete Williams, Vern & Ray, Joe Pancerzewski, Reverend Gary Davis, Hamza El Din, Ramblin' Jack Elliott, Sam Hinton, Mance Lipscomb, Ralph Stanley, Big Joe Williams, Buell Kazee, the Mills Family, and others.**
+- **[John S. Ullman Collection, 1960-1970](https://finding-aids.lib.unc.edu/70160/)	
+John S. Ullman, a white concert coordinator, director, and manager, co-founded the Seattle Folklore Society in the 1960s and later was a manager for artists including Elizabeth Cotton and Mike Seeger. Collection contains 23 16mm motion picture kinescopes and 48 open reel audiotapes of concerts and workshops organized and produced by Ullman. Recorded artists include: Fred McDowell, Lightnin' Hopkins, Mike Russo, Doc Watson, Booker T. Washington "Bukka" White, Jesse Fuller, Mike Seeger, Sonny Terry and Brownie McGhee, Roscoe Holcomb, Furry Lewis, John Lee Hooker, Son House, Georgia Sea Island Singers, New Lost City Ramblers, Bill Monroe, Robert Pete Williams, Vern & Ray, Joe Pancerzewski, Reverend Gary Davis, Hamza El Din, Ramblin' Jack Elliott, Sam Hinton, Mance Lipscomb, Ralph Stanley, Big Joe Williams, Buell Kazee, the Mills Family, and others.**
 
+Expanded description: 
+
+- **David Schenck Papers, 1970s-2000s](https://finding-aids.lib.unc.edu/05559/)
+- **Margaret Day Allen and Robert John Allen Collection, circa 2000-2015](https://finding-aids.lib.unc.edu/20576/)
+
+Additions: 
+
+- **[Charles Russell Hardman Papers, 1930s-1990](https://finding-aids.lib.unc.edu/05611/)
+- **[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)
+- **[Harrison and Smith Family Papers, 1857-2005](https://finding-aids.lib.unc.edu/05144/)
+- **[Hodding Carter Papers, 1908-2008](https://finding-aids.lib.unc.edu/05314/)
+- **[Southern Historical Association Records, 1935-2016](https://finding-aids.lib.unc.edu/04030/)
 
 
 
