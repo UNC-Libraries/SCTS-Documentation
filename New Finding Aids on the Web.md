@@ -7,16 +7,16 @@ John S. Ullman, a white concert coordinator, director, and manager, co-founded t
 
 Expanded description: 
 
-- **David Schenck Papers, 1970s-2000s](https://finding-aids.lib.unc.edu/05559/)
-- **Margaret Day Allen and Robert John Allen Collection, circa 2000-2015](https://finding-aids.lib.unc.edu/20576/)
+- **[David Schenck Papers, 1970s-2000s](https://finding-aids.lib.unc.edu/05559/)**
+- **[Margaret Day Allen and Robert John Allen Collection, circa 2000-2015](https://finding-aids.lib.unc.edu/20576/)**
 
 Additions: 
 
-- **[Charles Russell Hardman Papers, 1930s-1990](https://finding-aids.lib.unc.edu/05611/)
-- **[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)
-- **[Harrison and Smith Family Papers, 1857-2005](https://finding-aids.lib.unc.edu/05144/)
-- **[Hodding Carter Papers, 1908-2008](https://finding-aids.lib.unc.edu/05314/)
-- **[Southern Historical Association Records, 1935-2016](https://finding-aids.lib.unc.edu/04030/)
+- **[Charles Russell Hardman Papers, 1930s-1990](https://finding-aids.lib.unc.edu/05611/)**
+- **[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)**
+- **[Harrison and Smith Family Papers, 1857-2005](https://finding-aids.lib.unc.edu/05144/)**
+- **[Hodding Carter Papers, 1908-2008](https://finding-aids.lib.unc.edu/05314/)**
+- **[Southern Historical Association Records, 1935-2016](https://finding-aids.lib.unc.edu/04030/)**
 
 
 
