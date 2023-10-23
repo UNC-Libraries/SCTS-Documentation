@@ -345,7 +345,7 @@ As mentioned above, there are two methods for entering metadata into Jitterbug â
 
 Documentation related to Jitterbug CSV import is located in the departments or G drive: 
 
-**G:\wilson\ts\archival\audiovisual documentation\"Jitterbug import template and style guide"**
+**G:\wilson\ts\archival\audiovisual documentation\Jitterbug import template and style guide**
 
 Documentation includes a master spreadsheet of AV format identification numbers, a template for CSV import, and sample CSV import data. 
 
