@@ -93,6 +93,12 @@ Copy and paste from finding aid
 
   - Remove, edit as needed depending on collection
 
+### RDA description fields
+
+336	 	 	unspecified|bzzz|2rdacontent
+337	 	 	unspecified|bz|2rdamedia
+338	 	 	unspecified|bzu|2rdacarrier
+
 ### 500 _ _ : Citation note
 
 **"In the xxx, University of North Carolina at Chapel Hill (#)"**
