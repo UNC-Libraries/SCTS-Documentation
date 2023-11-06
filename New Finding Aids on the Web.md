@@ -14,28 +14,28 @@ Personal papers of Milton "Ab" Abernethy and Minna K. Abernethy, white publisher
 
 Additions and expanded description 
 
--**[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
--**[Campaign Literature from North Carolina Elections, circa 1800s-2019](https://finding-aids.lib.unc.edu/70026/)**
--**[David Grisman Collection, 1960s-2010s](https://finding-aids.lib.unc.edu/70145/)**
--**[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)**
--**[David Morton Collection, 1928-2003](https://finding-aids.lib.unc.edu/20373/)**
--**[Hairston and Wilson Family Papers, 1750-2017](https://finding-aids.lib.unc.edu/03149/)**
--**[Junius Irving Scales Papers, 1940-1987](https://finding-aids.lib.unc.edu/04879/)**
--**[Kay Kyser and Georgia Carroll Kyser Papers, 1906-2004](https://finding-aids.lib.unc.edu/05289/)**
--**[Laura Spivey Massie Papers, 1919-2017](https://finding-aids.lib.unc.edu/05770/)**
--**[Louis Round Wilson Papers, 1833-1985](https://finding-aids.lib.unc.edu/03274/)**
--**[Lucy Massie Phenix Collection, 1941-2011](https://finding-aids.lib.unc.edu/05462/)**
--**[Lynch (Ky.) Colored High School-West Main Alumni Association, Inc. Collection, 1919-2010](https://finding-aids.lib.unc.edu/05590/)**
--**[Mary Malvina Southard Geer Papers 1906-1936](https://finding-aids.lib.unc.edu/05005/)**
--**[Philip F. Gura Collection, 1855-2005](https://finding-aids.lib.unc.edu/20064/)**
--**[Propaganda Fide Press Printing Blocks, 1626-1850](https://finding-aids.lib.unc.edu/70118/)**
--**[Records of the School of Public Health, 1930-2007](https://finding-aids.lib.unc.edu/40120/)**
--**[Skinner Family Papers, 1705-1900](https://finding-aids.lib.unc.edu/00669/)**
--**[Southern Association of Women Historians, 1971-2011](https://finding-aids.lib.unc.edu/04152/)**
--**[Southern Newspaper Publishers Association Records, 1903-2016](https://finding-aids.lib.unc.edu/04600/)**
--**[University of North Carolina Miscellaneous Diplomas, 1798-1929, 2011](https://finding-aids.lib.unc.edu/03050/)**
--**[Weil Family Papers, 1860s-1983](https://finding-aids.lib.unc.edu/04696/)**
--**[William O. Southard Account Books, 1834-1938](https://finding-aids.lib.unc.edu/05053/)**
+- **[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
+- **[Campaign Literature from North Carolina Elections, circa 1800s-2019](https://finding-aids.lib.unc.edu/70026/)**
+- **[David Grisman Collection, 1960s-2010s](https://finding-aids.lib.unc.edu/70145/)**
+- **[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)**
+- **[David Morton Collection, 1928-2003](https://finding-aids.lib.unc.edu/20373/)**
+- **[Hairston and Wilson Family Papers, 1750-2017](https://finding-aids.lib.unc.edu/03149/)**
+- **[Junius Irving Scales Papers, 1940-1987](https://finding-aids.lib.unc.edu/04879/)**
+- **[Kay Kyser and Georgia Carroll Kyser Papers, 1906-2004](https://finding-aids.lib.unc.edu/05289/)**
+- **[Laura Spivey Massie Papers, 1919-2017](https://finding-aids.lib.unc.edu/05770/)**
+- **[Louis Round Wilson Papers, 1833-1985](https://finding-aids.lib.unc.edu/03274/)**
+- **[Lucy Massie Phenix Collection, 1941-2011](https://finding-aids.lib.unc.edu/05462/)**
+- **[Lynch (Ky.) Colored High School-West Main Alumni Association, Inc. Collection, 1919-2010](https://finding-aids.lib.unc.edu/05590/)**
+- **[Mary Malvina Southard Geer Papers 1906-1936](https://finding-aids.lib.unc.edu/05005/)**
+- **[Philip F. Gura Collection, 1855-2005](https://finding-aids.lib.unc.edu/20064/)**
+- **[Propaganda Fide Press Printing Blocks, 1626-1850](https://finding-aids.lib.unc.edu/70118/)**
+- **[Records of the School of Public Health, 1930-2007](https://finding-aids.lib.unc.edu/40120/)**
+- **[Skinner Family Papers, 1705-1900](https://finding-aids.lib.unc.edu/00669/)**
+- **[Southern Association of Women Historians, 1971-2011](https://finding-aids.lib.unc.edu/04152/)**
+- **[Southern Newspaper Publishers Association Records, 1903-2016](https://finding-aids.lib.unc.edu/04600/)**
+- **[University of North Carolina Miscellaneous Diplomas, 1798-1929, 2011](https://finding-aids.lib.unc.edu/03050/)**
+- **[Weil Family Papers, 1860s-1983](https://finding-aids.lib.unc.edu/04696/)**
+- **[William O. Southard Account Books, 1834-1938](https://finding-aids.lib.unc.edu/05053/)**
 
 
 
