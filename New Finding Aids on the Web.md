@@ -1,3 +1,45 @@
+
+# October 2023
+
+New
+
+- **[Alim Braxton Collection, 2019-2022](https://finding-aids.lib.unc.edu/70158/)
+Contains approximately 100 letters written by Alim Braxton to Mark Katz, dated August 2019 to April 2022. Braxton (artist name is Rrome Alone) is a Black writer, rapper, and death row inmate who has been incarcerated since 1993. Born Michael Jerome Braxton, he took the name "Alim" when he accepted Islam while in prison. Braxton has been collaborating Mark Katz, a white professor in the Department of Music at the University of North Carolina at Chapel Hill, on an album, Mercy on My Soul, and a book,  Rap and Redemption on Death Row.**
+
+- **[John McCutcheon Collection, 1960s-2020s](https://finding-aids.lib.unc.edu/70161/)
+Contains the personal collection of John McCutcheon, a white folk musician, singer-songwriter, storyteller, activist and author. Materials include scores and sheet music, tour passes, project files, original song lyric drafts, album and tour t-shirts, published book projects, promotional materials, photographs, and audiovisual materials. Audiovisual materials include live recordings of McCutcheon's "Signs of the Times" tour with Si Kahn, as well as other performances by McCutcheon and other musicians, such as Currence and Minnie Hammonds, Bill Fell, Paul Van Arsdale, Albert Hash, Blackie Cool, Lee Sexton, Janette Carter, Cas Wallin, J. R. "Peanut" Cantrell, I. D. Stamper, Luke Smathers, and others.**
+
+- **[M. A. Abernethy and Minna K. Abernethy Papers, 1805-1984](https://finding-aids.lib.unc.edu/70159/)
+Personal papers of Milton "Ab" Abernethy and Minna K. Abernethy, white publishers of the journal Contempo and operators of the Intimate Bookshop in Chapel Hill, N.C. Materials include: Ab's correspondence from his student days at North Carolina State College of Agriculture and Engineering (now North Carolina State University) in 1928-1929 (he was thrown out of N.C. State by the Honor Court for publishing an article about widespread cheating on campus); drafts and other papers related to articles he published while at N.C. State…**
+
+Additions and expanded description 
+
+-**[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
+-**[Campaign Literature from North Carolina Elections, circa 1800s-2019](https://finding-aids.lib.unc.edu/70026/)**
+-**[David Grisman Collection, 1960s-2010s](https://finding-aids.lib.unc.edu/70145/)**
+-**[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/20504/)**
+-**[David Morton Collection, 1928-2003](https://finding-aids.lib.unc.edu/20373/)**
+-**[Hairston and Wilson Family Papers, 1750-2017](https://finding-aids.lib.unc.edu/03149/)**
+-**[Junius Irving Scales Papers, 1940-1987](https://finding-aids.lib.unc.edu/04879/)**
+-**[Kay Kyser and Georgia Carroll Kyser Papers, 1906-2004](https://finding-aids.lib.unc.edu/05289/)**
+-**[Laura Spivey Massie Papers, 1919-2017](https://finding-aids.lib.unc.edu/05770/)**
+-**[Louis Round Wilson Papers, 1833-1985](https://finding-aids.lib.unc.edu/03274/)**
+-**[Lucy Massie Phenix Collection, 1941-2011](https://finding-aids.lib.unc.edu/05462/)**
+-**[Lynch (Ky.) Colored High School-West Main Alumni Association, Inc. Collection, 1919-2010](https://finding-aids.lib.unc.edu/05590/)**
+-**[Mary Malvina Southard Geer Papers 1906-1936](https://finding-aids.lib.unc.edu/05005/)**
+-**[Philip F. Gura Collection, 1855-2005](https://finding-aids.lib.unc.edu/20064/)**
+-**[Propaganda Fide Press Printing Blocks, 1626-1850](https://finding-aids.lib.unc.edu/70118/)**
+-**[Records of the School of Public Health, 1930-2007](https://finding-aids.lib.unc.edu/40120/)**
+-**[Skinner Family Papers, 1705-1900](https://finding-aids.lib.unc.edu/00669/)**
+-**[Southern Association of Women Historians, 1971-2011](https://finding-aids.lib.unc.edu/04152/)**
+-**[Southern Newspaper Publishers Association Records, 1903-2016](https://finding-aids.lib.unc.edu/04600/)**
+-**[University of North Carolina Miscellaneous Diplomas, 1798-1929, 2011](https://finding-aids.lib.unc.edu/03050/)**
+-**[Weil Family Papers, 1860s-1983](https://finding-aids.lib.unc.edu/04696/)**
+-**[William O. Southard Account Books, 1834-1938](https://finding-aids.lib.unc.edu/05053/)**
+
+
+
+
 # September 2023
 
 New: 
