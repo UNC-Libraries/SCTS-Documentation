@@ -28,6 +28,22 @@ Additional Resources from UNC Libraries:
 
 ## Remediation projects
 
+### Finding aids remediation: 2023
+
+The following remediation projects were prompted by and/or done in consultation with Wilson Library researchers: 
+
+* [133. Cameron Family Papers](https://finding-aids.lib.unc.edu/00133/): remediation of abstract, biographical note, collection scope and content note, and all series level descriptions; compression of sub-subseries in series 1 and 2; review of series 1 (partial), 2, 3.1 (partial), 5, and 6 (partial), for material about enslaved, free, and freed people; addition of description for records of enslavement and records of Reconstruction at folder level.
+* [322. Hawkins Family Papers](https://finding-aids.lib.unc.edu/00322/): remediation of abstract, biographical note, collection scope and content note, and all series level descriptions; compression of sub-subseries into subseries; review of series 1 (1845-1865), for material about enslaved, free, and freed people; addition of description for records of enslavement at folder level.
+* [3223. Battle Family Papers](https://finding-aids.lib.unc.edu/03223/): remediation of abstract, biographical note, collection scope and content note, and all series level descriptions; compression of sub-subseries into subseries; review of legacy finding aid for material about enslaved, free, and freed people; addition of description for records of enslavement and records of Reconstruction at folder level.
+* [389. Robert A. Jones Papers](https://finding-aids.lib.unc.edu/00389/): revised to more accurately reflect collection content about enslaved, free, and Indigenous people.
+* [1290. Manumission Records of North Carolina](https://finding-aids.lib.unc.edu/01290/): revised to more accurately reflect collection content about enslaved and free people.
+
+The following remediation projects were completed in the course of processing new accessions:
+
+* [669. Skinner Family Papers](https://finding-aids.lib.unc.edu/00669/): revised to include information about records of enslavement in folder level description.
+* [5144. Harrison and Smith Family Papers](https://finding-aids.lib.unc.edu/05144/): revised to include information about records of enslavement in folder level description.
+* [3149. Hairston and Wilson Family Papers](https://finding-aids.lib.unc.edu/03149/): revised to include information about records of enslavement in folder level description.
+  
 ### Finding aids remediation: July through December 2022
 
 Six month phase of ongoing project
