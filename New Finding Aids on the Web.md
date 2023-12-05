@@ -1,4 +1,46 @@
 
+# November 2023
+
+New
+
+- **[B. Bernetiae Reed Collection, 1981, 1996-2016](https://finding-aids.lib.unc.edu/05635/)
+Contains audiovisual materials created by B. Bernetiae Reed, a Black genealogist, historian, documentary filmmaker, and social activist, consisting of interviews with Reed's family, extended family, friends, and people related to her research for the two-volume history of the Black people enslaved by U.S. President Thomas Jefferson, The slave families of Thomas Jefferson : a pictorial study book with an interpretation of his farm book in genealogy charts that she published in 2007. Additional subjects covered in the video recordings and audio recordings relate to family history, William Reed at North Carolina A&T State University farm in Greensboro, N.C., Southern University in Baton Rouge, La., Governor John McKeithen at Columbia, La., and Quaker history in North Carolina.**
+
+- **[David Gahr Photographic Prints, 1960-1985](https://finding-aids.lib.unc.edu/70162/)
+This collection contains seven photographic prints of performances and portraits of musicians taken by white New York City-based photographer David Gahr and one photographic print taken by his daughter Carla Gahr. Photographs include: Eastern Kentucky singer and songwriter Sarah Ogan Gunning performing at the 1964 Newport Folk Festival; Eastern Kentucky miner, singer, songwriter, and folk song collector Jim Garland (Sarah Ogan Gunning's brother) performing at the 1963 Newport Folk Festival; Creole musicians Canray Fontenot and Alphonse "Bois Sec" Ardoin performing at the 1966 Newport Folk Festival; folk song collector, singer and musician Frank Warner performing at the 1960 Newport Folk Festival; portrait of banjo player Billy Faier, 1964; portrait of musician and music director of the Highlander Research and Education Center Guy Carawan, New York City, 1960; portrait of Izzy Young, owner of the Folklore Center, New York City, 1962; group photograph of performers on stage at a 1987 memorial event for Folkways Records founder Moses Asch (the group includes Pete Seeger, Alan Lomax, Malvina Reynolds, Izzy Young, and Hazel Dickens); and a photographic print of folksinger David Massengill (circa 1980s) by Carla Adrian Gahr.**
+
+- **[David Potorti Collection, 1997-2002](https://finding-aids.lib.unc.edu/70163/)
+Contains recordings of interviews conducted by white writer and reporter David Potorti, as well as footage of blues musician Etta Baker, the gospel singing group The Branchettes, and the North Carolina A&T marching band. Interviews include: phone interviews with Gerry McCabe, Bess Lomax Hawes, Ron Hale, Bob Riskin, Walter Camp, and Ed Kahn, circa 1997, regarding McCabe's Guitar Shop; interviews with David Garner, David and Mary Farrell, Kings Pottery regarding potters in Seagrove, N.C.; an interview with artist Stacy Lambert (includes a paper written by Potorti about Lambert and copies of some of Lambert's drawings); interviews with North Carolina traditional musician Marvin Gastner, Jesse Eustice (daughter of old-time musicians Bobbie and Tommy Thompson), banjoist and author Bob Carlin, music journalist Jack Bernhardt, and WPAQ founder Ralph Epperson and his son, station manager Kelly Epperson; interviews with potters M. L. Owens and Nancy Owens, potter Jerry Parnell, and folk artist Vollis Simpson; interviews with old-time musicians Jim Watson and Alan Jabbour relating to a story on the Red Clay Ramblers; and interviews with old-time musicians Alice Gerrard and Hazel Dickens. Other footage includes: a video of blues musician Etta Baker visiting and singing in Professor Bill Malone's class at the University of North Carolina at Chapel Hill, 5 April 2000 and 6 April 2000; the gospel singing group The Branchettes, 23 February 2000; and the North Carolina A&T Marching Band, circa 2000.**
+
+- **[Lester J. Levine Collection, 1964-1994](https://finding-aids.lib.unc.edu/70166/)
+Contains materials collected by white writer, entrepreneur, and business consultant Lester J. Levine. Materials include concert and festival ephemera, Newport Folk Festival photographs, photographs and newspaper clippings documenting events in Chapel Hill, N.C., and a memorial service program and newspaper documenting the assassination of Dr. Martin Luther King, Jr. Concert and festival ephemera includes three concert ticket stubs: Newport Folk Festival in Newport, R.I., 26 July 1964; Joan Baez at Wait Chapel in Winston-Salem, N.C., 12 March 1965; and Joan Baez and Bob Dylan at Reynolds Coliseum in Raleigh, N.C., 19 March 1965. Also includes a flyer for Joan Baez and Bob Dylan In Concert, 19 March 1965; an autographed festival program for the 1965 Newport Folk Festival; a reprint of "The Folk Scene" issue of Cavalier, July 1965; a program for the American Folk Festival at the Asheville Auditorium, Asheville, N.C., 25 June 1963; a concert program for "Where Have All the Flowers Gone: A Celebration of Songwriting and Singing," presented by WHYY-FM and Sing Out!, featuring Pete Seeger, Tom Paxton, Ronnie Gilbert, Fred Hellerman and others, 22 May 1994; and a program for the 1970 Jubilee Music Festival at the University of North Carolina at Chapel Hill, as well as photographs taken at the 1965 Newport Folk Festival workshops. Individuals photographed include musicians Bob Dylan, Joan Baez, Donovan, Ian and Sylvia Tyson, and Theodore Bikel. There are also 24 photographs, circa 1966, taken in Chapel Hill, N.C., including images of a "Beat Duke" parade, an art festival, the Jubilee music festival, and the "Silent Sam" Confederate statue. Newspaper clippings document an outdoor fire sale at the Chapel Hill record store Kemp's and a clipping from the Newport Daily News relating to the Newport Folk Festival, 1964. There is also an issue of the Daily Tar Heel about the assassination of Martin Luther King, Jr. with the headline "KING KILLED," 5 April 1968, as well as a Martin Luther King, Jr. memorial service program, 7 April 1968. The memorial service was organized by the Ministerial Alliance for the Chapel Hill Community, 7 April 1968. Materials range in date from 1964 to 1994, with most materials dating from 1964 to 1970.**
+
+- **[Margaret Vale Papers, 1878-1955 and undated](https://finding-aids.lib.unc.edu/70150/)
+The Margaret Vale Papers document the life of Margaret Vale of Charleston, South Carolina. Vale was a white silent film and theater actress, a writer, and a feminist who lived with neuralgia. Vale was involved in the 20th-century suffrage movement, active in the United States Democratic Party and a charter member of The Women Democrats of America: The National Organization of Democratic Women. This collection consists of personal and business correspondence, 1878 to 1955; photographs taken of Margaret Vale, kittens, and the environs around and inside her home with George Howe; scrapbooks; notebooks; production programs; ephemera; writings and editorial work done by Vale; papers relating to advocacy work performed by Vale; clippings relating to social issues followed by Vale; and miscellaneous items.**
+
+Enhanced processing for digitization preparation
+
+-**[John Kenyon Chapman Papers, 1969-2009](https://finding-aids.lib.unc.edu/05441/)**
+
+Additions
+
+-**[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
+
+-**[Daily Tar Heel Records, 1990-2021](https://finding-aids.lib.unc.edu/40148/)**
+
+-**[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/)**
+
+-**[Latina/o Studies Program of the University of North Carolina at Chapel Hill Records, 1999-2023](https://finding-aids.lib.unc.edu/40489/)**
+
+-**[Lucy Massie Phenix Collection, 1941-2017](https://finding-aids.lib.unc.edu/05462/)**
+
+-**[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2022](https://finding-aids.lib.unc.edu/40446/)**
+
+-**[William P. Murphy Papers, 1951-2005](https://finding-aids.lib.unc.edu/05797/)**
+
+
+
+
 # October 2023
 
 New
