@@ -24,17 +24,11 @@ Reprocessing in preparation for digitization
 Additions
 
 - **[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
-
 - **[Daily Tar Heel Records, 1990-2021](https://finding-aids.lib.unc.edu/40148/)**
-
 - **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/)**
-
 - **[Latina/o Studies Program of the University of North Carolina at Chapel Hill Records, 1999-2023](https://finding-aids.lib.unc.edu/40489/)**
-
 - **[Lucy Massie Phenix Collection, 1941-2017](https://finding-aids.lib.unc.edu/05462/)**
-
 - **[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2022](https://finding-aids.lib.unc.edu/40446/)**
-
 - **[William P. Murphy Papers, 1951-2005](https://finding-aids.lib.unc.edu/05797/)**
 
 
