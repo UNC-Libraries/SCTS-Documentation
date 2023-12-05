@@ -17,25 +17,25 @@ Contains materials collected by white writer, entrepreneur, and business consult
 - **[Margaret Vale Papers, 1878-1955 and undated](https://finding-aids.lib.unc.edu/70150/)
 The Margaret Vale Papers document the life of Margaret Vale of Charleston, South Carolina. Vale was a white silent film and theater actress, a writer, and a feminist who lived with neuralgia. Vale was involved in the 20th-century suffrage movement, active in the United States Democratic Party and a charter member of The Women Democrats of America: The National Organization of Democratic Women. This collection consists of personal and business correspondence, 1878 to 1955; photographs taken of Margaret Vale, kittens, and the environs around and inside her home with George Howe; scrapbooks; notebooks; production programs; ephemera; writings and editorial work done by Vale; papers relating to advocacy work performed by Vale; clippings relating to social issues followed by Vale; and miscellaneous items.**
 
-Enhanced processing for digitization preparation
+Reprocessing in preparation for digitization
 
--**[John Kenyon Chapman Papers, 1969-2009](https://finding-aids.lib.unc.edu/05441/)**
+- **[John Kenyon Chapman Papers, 1969-2009](https://finding-aids.lib.unc.edu/05441/)**
 
 Additions
 
--**[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
+- **[Bob Hall Papers, 1960s-2019](https://finding-aids.lib.unc.edu/05633/)**
 
--**[Daily Tar Heel Records, 1990-2021](https://finding-aids.lib.unc.edu/40148/)**
+- **[Daily Tar Heel Records, 1990-2021](https://finding-aids.lib.unc.edu/40148/)**
 
--**[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/)**
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193/)**
 
--**[Latina/o Studies Program of the University of North Carolina at Chapel Hill Records, 1999-2023](https://finding-aids.lib.unc.edu/40489/)**
+- **[Latina/o Studies Program of the University of North Carolina at Chapel Hill Records, 1999-2023](https://finding-aids.lib.unc.edu/40489/)**
 
--**[Lucy Massie Phenix Collection, 1941-2017](https://finding-aids.lib.unc.edu/05462/)**
+- **[Lucy Massie Phenix Collection, 1941-2017](https://finding-aids.lib.unc.edu/05462/)**
 
--**[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2022](https://finding-aids.lib.unc.edu/40446/)**
+- **[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2022](https://finding-aids.lib.unc.edu/40446/)**
 
--**[William P. Murphy Papers, 1951-2005](https://finding-aids.lib.unc.edu/05797/)**
+- **[William P. Murphy Papers, 1951-2005](https://finding-aids.lib.unc.edu/05797/)**
 
 
 
