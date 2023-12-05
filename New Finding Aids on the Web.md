@@ -1,4 +1,3 @@
-
 # November 2023
 
 New
