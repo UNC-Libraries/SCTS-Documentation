@@ -1,43 +1,34 @@
-Compiled January 2020; needs updating.
+Updated January 2024.
 
 # Overview
 
-- [Processing blue sheet](#processing-blue-sheet)
+- [Workflow](#workflow)
+- [Sourcetree](#sourcetree)
 - [Proc-Rec](#proc-rec)
-- [AT](#at)
+- [ASpace](#aspace)
+- [New-on-the-Web](#new-on-the-web)
 
 ***
 
-# Processing blue sheet
+# Workflow
 
-Last updated March, 2018
+**1.** Processor fills out blue sheet through TS tiketing form. 
 
-## Form
-
-![processing blue sheet list 1](https://user-images.githubusercontent.com/58087302/80250279-7f99bf00-8641-11ea-9f9d-9933b1677bd2.png "handy dandy tracking form")
-
-![processing blue sheet list 2](https://user-images.githubusercontent.com/58087302/80250392-c1c30080-8641-11ea-9e9b-8e48f22b14f4.png "locations checked, FAID form")
-
-![processing blue sheet list 3](https://user-images.githubusercontent.com/58087302/80250504-0189e800-8642-11ea-8759-6acd89ad30ec.png "MARC changes form")
-
-#### Saved:
-
-\\ad.unc.edu\lib\departments\wilson\ts\archival\documentation
-
-https://adminliveunc.sharepoint.com/sites/lib/departments/wts/_layouts/15/WopiFrame.aspx?sourcedoc=%7B95502EFA-4EEC-428B-A6A8-12557866BBD4%7D&file=Processing%20-%20Blue%20Sheet.docx&action=default 
-
-## Workflow
-
-**1.** Processor fills out blue sheet and gives to Laura Smith 
-
-**2.** Branch is merged and pushed to make changes live, puts sheets in the "wrap up" pile. (Changes will take 1-2 hours to show live after pushes the branch). 
+**2.** Branch is merged and pushed to make changes live, ticket is sorted into "blue sheets" section of TS gmail. (Changes will take 1-2 hours to show live after pushes the branch). 
 
 **3.** Check to make sure changes are live by searching page for the new acc number(s). Delete branch from sourcetree. 
 
-**4.** Update AT and ProcRec. 
+**4.** Update ASpace and ProcRec. 
 
-**5.** Create/edit MARC. 
+**5.** Update New on the Web spreadsheet.
 
+**6.** Create/edit MARC.
+
+# Sourcetree 
+
+Check live version of finding aid to see if it's updated correctly. If so, delete the relevant branch from your local branches on Sourcetree, then from the remote branches (right click branch, "delete [branch]"). 
+
+Note: If you make a mistake, and someone was still working on this branch, they should still be able to repopulate to remote by "pushing" their local branch.
 
 # Proc-Rec
 
@@ -64,28 +55,40 @@ The fields are as follows:
 - **A/V items**
 - **Graphic items**
 - **Estimated hours spent**
-- **Code**: R (regular stream), UD (user-driven), WD (Wilson driven), AP (Acc2Proc)
+- **Code**: I (intake processing), UD (user-driven), E (enhanced processing), LP (List2Proc), IP (Ifrastructure preparation)
 - **Comments**
 
 *No leading zeros, no letters. Collections starting with "P" use "9" in place of the P. "NCC" = "7". "HC" = "8".
 
-Control table in the processing database ideally contains a master list of all finding aids. Updated whenever I receive a blue sheet for a new collection. 
+A new table needs to be created at the start of every fiscal year. Easiest way to do this is by creating a copy of last year's table and renaming.
 
 
-# AT
+# ASpace
 
-In addition to Proc_Rec, we also update the Archivist Toolkit accession record with very basic processing information. Fields that need updating are found under the following two tabs in an AT Accession Record: Basic Information and Acknowledgments, Restrictions, and Processing Tasks. 
+In addition to Proc_Rec, we also update the ArchivesSpace accession record with basic processing information. 
 
-### Basic Information Tab
+### Collection Management
 
-Replace the accessions shelf locations in the General Accession Note field with the phrase "Reg Order" (leave UID for digital) 
+Under "Collection Management" in the accession record in ASpace, update the "Processors" field with the processor's name, and the "processing status" field with the level of processing completed. 
 
-![Basic info tab screenshot 1](https://user-images.githubusercontent.com/58087302/80260981-2b013e80-8657-11ea-9e9e-bdfcf5871bda.png)
+![ASpace screenshot 1](https://github.com/llsmith305/images/blob/main/Aspace_Capture1.PNG)
 
-Acknowledgments, Restrictions, and Processing Tasks Tab 
+Save changes.
 
-- Change Processing Status to Processed  
-- Check the Processed check box (yes, a little redundant)  
-- Add the Processed Date. I have been using the date that I am filling in the information here, not the date that actual processing was finished. 
+### Create Event
 
-![Basic info tab screenshot 2](https://user-images.githubusercontent.com/58087302/80261063-6a2f8f80-8657-11ea-8706-b0d7edf54e70.png)
+At the top right of the accession record, click "add event" and select type "processed" for fully processed accessions or "processed [AV/photographs/mixed materials/etc.]" for partially processed accessions. Click "add event"
+
+![ASpace screenshot 2](https://github.com/llsmith305/images/blob/main/ASpace_Capture2.PNG)
+
+Note: Dawne can set up event templates that automatically populates the information needed when a processing event is created.
+
+![ASpace screenshot 3](https://github.com/llsmith305/images/blob/main/ASpace_Capture3.PNG)
+
+Save event.
+
+# New-on-the-Web
+
+New_On_Web.xlxs found on Teams at Wilson SCRC-Archival--General--Files.
+
+Create new tab for the month. Add info from all the blue sheets that came in that month. Let Jackie know when done.
