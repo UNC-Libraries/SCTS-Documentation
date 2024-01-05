@@ -7,6 +7,7 @@ Updated January 2024.
 - [Proc-Rec](#proc-rec)
 - [ASpace](#aspace)
 - [New-on-the-Web](#new-on-the-web)
+- [Stats](#stats)   
 
 ***
 
@@ -92,3 +93,11 @@ Save event.
 New_On_Web.xlxs found on Teams at Wilson SCRC-Archival--General--Files.
 
 Create new tab for the month. Add info from all the blue sheets that came in that month. Let Jackie know when done.
+
+# Stats
+
+Processing: https://docs.google.com/spreadsheets/d/13-PUdl26VjZkGOXdDGOCQwAfuY_hulQtFUPLq4cRd3w/edit#gid=1335418769
+
+Ticketing: https://docs.google.com/spreadsheets/d/1woY1tgDbE25h4GJqiDDPghRSATeI1wocQbkuCSCPW8c/edit#gid=1011434391
+
+Acquisitions tracking: https://docs.google.com/spreadsheets/d/1ZTKJRChvybZe--gwzUnJrTqBBcTdxutSUSGQgQxuTY4/edit#gid=0
