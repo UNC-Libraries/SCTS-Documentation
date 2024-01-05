@@ -1,3 +1,38 @@
+
+# December 2023
+
+New
+
+- **[Associate Vice Chancellor for Facilities Services at the University of North Carolina at Chapel Hill Records, 1979-2010s (bulk 1986-2010s)](https://finding-aids.lib.unc.edu/40242/)
+The Associate Vice Chancellor for Facilities Services is the administrator of the University's Facilities Services unit, which is responsible for the maintenance and operations of campus facilities and grounds. Records include reports, memos, meeting minutes, financial records, and other materials related to campus projects and services. **
+
+- **[Bill Neal Papers, circa 1989-1993](https://finding-aids.lib.unc.edu/70168/)
+Papers of Bill Neal (1950-1991), a white Southern chef, author, and co-founder of restaurants La Residence and Crook’s Corner in Chapel Hill, N.C., contain typed and handwritten recipes and introductory essays for Bill Neal's southern cooking and page proofs, artwork, copy edited sections, partial drafts, notes, and photocopied clippings of columns by gardening author Elizabeth Lawrence relating to Bill Neal's Gardener's Latin: a lexicion. The collection also contains typescript and published versions of articles, fiction, and recipes by Bill Neal; scattered correspondence with publishers and literary agents; and other items. **
+
+- **[Bill of Sale for Ester, 1850](https://finding-aids.lib.unc.edu/70170/)
+Bill of sale for Ester, an enslaved girl of 16 years of age, who on 1 January 1850 was trafficked through sale by William L. Perkins to A. W. Marshall in North Carolina. J. N. Pearce signed as witness to the sale. **
+
+
+Additions
+
+- **[Elizabeth Amis Cameron Blanchard Papers, 1694-1954](https://finding-aids.lib.unc.edu/03367/)**
+
+- **[Kay Kyser and Georgia Carroll Kyser Papers, 1906-2004](https://finding-aids.lib.unc.edu/05289/)**
+
+- **[Latino Comic Books Collection, 1974-2019](https://finding-aids.lib.unc.edu/70029/)**
+
+- **[Lucy Massie Phenix Collection, 1941-2017](https://finding-aids.lib.unc.edu/05462/)**
+
+- **[Mexican Comic Collection, 1951-2020](https://finding-aids.lib.unc.edu/70030/)**
+
+- **[North Carolina City, County, and Regional Ephemera Collection, circa 1880-2023 (bulk 1980s-2023) ](https://finding-aids.lib.unc.edu/70023/)**
+
+- **[Rose Highland-Sharpe Collection of University of North Carolina at Chapel Hill Black Alumni Reunion Materials, 2009-2022](https://finding-aids.lib.unc.edu/70094/)**
+
+
+
+
+
 # November 2023
 
 New
