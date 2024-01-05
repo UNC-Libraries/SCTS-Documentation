@@ -13,17 +13,15 @@ Updated January 2024.
 
 # Workflow
 
-**1.** Processor fills out blue sheet through TS tiketing form. 
+**1.** Processor fills out blue sheet through TS ticketing form. 
 
-**2.** Branch is merged and pushed to make changes live, ticket is sorted into "blue sheets" section of TS gmail. (Changes will take 1-2 hours to show live after pushes the branch). 
+**2.** Branch is merged and pushed to make changes live, ticket is sorted into "blue sheets" section of TS gmail. (Changes will take 1-2 hours to show live after branch is pushed). 
 
-**3.** Check to make sure changes are live by searching page for the new acc number(s). Delete branch from sourcetree. 
+**3.** Check to make sure changes are live by searching online finding aid for the new acc number(s). Delete branch from sourcetree. 
 
-**4.** Update ASpace and ProcRec. 
+**4.** Update ASpace, ProcRec, and New on the Web spreadsheet. 
 
-**5.** Update New on the Web spreadsheet.
-
-**6.** Create/edit MARC.
+**5.** Create/edit MARC.
 
 # Sourcetree 
 
