@@ -248,9 +248,9 @@ _In the Output tab:_
 
 1. Save a copy of the relevant xml file to G:\wilson\ts\archival\LauraS\Faid_takedown_backups.
 
-2. On the main branch, delete the xml file from C:\Users\[User]\Documents\finding-aids\ [Unit]
+2. Create a branch and delete the xml file from C:\Users\[User]\Documents\finding-aids\ [Unit] on the new branch.
 
-3. Commit the change and push the main branch.
+3. When ready, merge to main branch.
 
 4. Let Steve Segedy know the file has been deleted from the repository so that he can complete the removal (otherwise the finding aid will rebuild).
 
