@@ -123,24 +123,10 @@ website.
 
 # GIT/Sourcetree Troubleshooting
 
-## Sourcetree: SSH Key Fail
-
-1. You have tried to pull or push to an existing branch in your Sourcetree repository and see the following notification:
- 
-![SSH_Key_Fail_Screen_1](https://user-images.githubusercontent.com/62359394/92785825-bc0e5300-f375-11ea-898c-d2d89bbd8f93.JPG "SSH Key Fail")
-
-2. Click "no" and open the "Pageant PuTTY authentication agent" (computer wearing hat icon) by clicking on the "triangle" located on your Windows toolbar (bottom right corner), next to the wireless icon. You should see the the Pageant icon in this window.
- 
-![Pageant_1_Toolbar](https://user-images.githubusercontent.com/62359394/92786222-10b1ce00-f376-11ea-8e23-279e8bc93820.jpg "PuTTY authentication agent")
-
-3. Click "Add Key" and navigate to the folder where GIT keeps your "finding-aids" folder (should be in "This PC>Documents"). Select "All Files" from drop-down to the right of "file name" field.You will want to select the "Microsoft Publisher" file that should be there named "id_rsa":
-
-![SSH_RSA_Key ](https://user-images.githubusercontent.com/62359394/92786654-6c7c5700-f376-11ea-870a-5391745655f3.JPG "SSH RSA Key")
-
-
-4. After clicking ok, the "Pageant Key List" should be populated and you can click "close." 
-
-5. Try your pull/push request again.
+1. Restart your computer
+2. Make sure you have the latest version of sourcetree. You can either check the sourcetree website and download the newest release from there, or check Tools--Options--Updates on your sourcetree.
+3. Check repository settings (repository--repository settings) on sourcetree. It should show git@gitlab.lib.unc.edu:manuscripts/finding-aids.git as the repository. If not, then you'll need to re-clone the repo using the steps above.
+4. If all else fails, ask Steve Segedy.
 
 # Oxygen Install and Transformation Scenario
 
