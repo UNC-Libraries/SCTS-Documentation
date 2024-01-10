@@ -4,7 +4,6 @@
   - [Finding Aids: Setting Up Your Development Space](#finding-aids-setting-up-your-development-space)
   - [Install Git for Windows](#install-git-for-windows)
 - [GIT/Sourcetree Troubleshooting](#git/sourcetree-troubleshooting)
-  - [Sourcetree: SSH Key Fail](#sourcetree-ssh-key-fail)
 - [Oxygen Install and Transformation Scenario](#oxygen-install-and-transformation-scenario)
   - [Install Oxygen XML Editor](#install-oxygen-xml-editor)
   - [Set up Transformation Scenario](#set-up-transformation-scenario)
