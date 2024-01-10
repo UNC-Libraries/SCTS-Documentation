@@ -10,6 +10,7 @@
   - [Set up Transformation Scenario](#set-up-transformation-scenario)
 
 - [Merging and Pushing](#merging-and-pushing)
+- [Finding Aid Removals](#finding-aid-removals)
 
 ***
 
@@ -242,3 +243,15 @@ _In the Output tab:_
 
 ![Push main](https://github.com/llsmith305/images/blob/main/Push_main.png?raw=true)
 *Pushing main branch*
+
+# Finding Aid Removals
+
+1. Save a copy of the relevant xml file to G:\wilson\ts\archival\LauraS\Faid_takedown_backups.
+
+2. On the main branch, delete the xml file from C:\Users\[User]\Documents\finding-aids\ [Unit]
+
+3. Commit the change and push the main branch.
+
+4. Let Steve Segedy know the file has been deleted from the repository so that he can complete the removal (otherwise the finding aid will rebuild).
+
+5. If there are ContentDM items from the collection that need to be removed, put in a JIRA digital collections ticket for their removal.
