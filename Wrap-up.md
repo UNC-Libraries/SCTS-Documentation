@@ -6,7 +6,7 @@ Updated January 2024.
 - [Sourcetree](#sourcetree)
 - [Proc-Rec](#proc-rec)
 - [ASpace](#aspace)
-- [New-on-the-Web](#new-on-the-web)
+- [New on the Web](#new-on-the-web)
 - [Stats](#stats)   
 
 ***
@@ -86,7 +86,7 @@ Note: Dawne can set up event templates that automatically populates the informat
 
 Save event.
 
-# New-on-the-Web
+# New on the Web
 
 New_On_Web.xlxs found on Teams at Wilson SCRC-Archival--General--Files.
 
