@@ -1,4 +1,36 @@
 
+# January 2024
+
+- **[Friends of Old Carrboro, Inc. Collection, circa 1970s-2000](https://finding-aids.lib.unc.edu/70171/)
+The collection contains organizational records of the historic preservation advocacy group Friends of Old Carrboro, Inc., founded in 1981 in Carrboro, Orange County, N.C. Records created and collected by the organization's president Jay Bryan include files about preservation of historic Carrboro mill town architecture, historical surveys, renovation of Carr Mill, development of downtown Carrboro, construction of Weaver Street Market, preventing a Franklin Street extension road and related demolishment of homes, and other efforts to influence town planning and zoning policies. Also documented are the organization's efforts to establish height limits on buildings, traffic calming solutions, historic district designations, neighborhood protection zones, and vernacular architectural standards. Audiovisual materials include 200 color slides made for an architectural study done by Claudia Roberts Brown, a VHS tape with content about local photographer Mack Watts, and interviews conducted in the 1980s with long-time residents and recorded on eight audiocassette tapes. Acquired as part of the Southern Historical Collection. **
+
+
+- **[Jean Anderson Collection, 1940-2023](https://finding-aids.lib.unc.edu/70164/)
+The collection of food and travel writer, cookbook author, and magazine editor Jean Anderson (1929-2023) contains diaries, scrapbooks, collected recipes in volumes and loose papers, subject files, research files, writings, and correspondence with chefs, food writers, editors, and others. Collection materials span her career from the 1940s until 2023. Subject files pertain to different foods, many associated with cuisines and foodways in the American South. Topics include "Muffins," "Gingerbread," "Corn pudding," and "Green Goddess" (salad dressing). Research files pertain to foodways and other topics including North Carolina pottery and travel in Portugal. A small sample of Anderson's extensive library of foodways publications she collected over her lifetime forms a published portion of this collection and includes community cookbooks and chefs' self-published cookbooks, chiefly from North Carolina and the South. Acquired as part of the Southern Historical Collection. **
+
+
+- **[Speaking of Ducks with Judge F. L. Fuller Photograph Album, 1928](https://finding-aids.lib.unc.edu/70172/)
+The photograph album labeled "Speaking of Ducks with Judge F. L. Fuller, Ocracoke, N.C., January 1928" contains 52 uncaptioned, vernacular photographs captured in 1928 on Ocracoke Island in Hyde County, N.C. Images depict Ocracoke Island's scenery, wildlife, landmarks, waterways, docks, dirt roads, public and residential structures, and fishing boats. Images also show white men hunting, clamming, fishing, and oystering. Included are photographs of Ocracoke Lighthouse, Silver Lake harbor, duck decoy sets, a wild horse, sea oats, a post office, an automobile, and hunters posed with their shotguns and dead prey. Acquired as part of the North Carolina Collection Photographic Archives. **
+
+
+- **[Tommy Edwards Collection, 1930-2021](https://finding-aids.lib.unc.edu/70165/)
+The collection of North Carolina bluegrass musical artist Tommy Edwards (1945-2021) contains audio recordings, video recordings, photographs, posters, flyers, calendars, clippings from publications, project files, song folios, unpublished and incomplete song lyrics written by hand, set lists for performances, and other papers. Most collection materials are dated between 1960 and 2021, reflecting Edwards's career as a traditional bluegrass musician, songwriter, performer, and recording artist. Formats of recordings made by Edwards include VHS, compact disc, open-reel audio tape, ADAT multitrack tape, and LPs. Formats of unpublished recordings made by others and collected by Edwards include instantaneous acetate discs and a 16-inch radio transcription disc. Of note in the printed materials is a rare song folio from the 1930s that Edwards collected. The folio highlights bluegrass and early country music artists including Wade Mainer, Zeke Mainer, and the Delmore Brothers, who played live on the Raleigh, N.C., radio station with the call letters WPTF. Photographs and other printed materials, including posters and flyers, document performances of the Tommy Edwards Bluegrass Experience at music venues in Chapel Hill, N.C., especially the Cat's Cradle, in the 1970s. Acquired as part of the Southern Folklife Collection. **
+
+Materials from the stacks that have been recently described in finding aids:
+
+- **[Burlington Industries, Inc. Records, 1844-2001](https://finding-aids.lib.unc.edu/04995/)**
+
+- **[George C. Stoney Papers, circa 1900-2011](https://finding-aids.lib.unc.edu/04970/)**
+
+- **[John Willis Ellis Papers, 1844-1958 (bulk 1844-1865) ](https://finding-aids.lib.unc.edu/00242/)**
+
+Addition:
+
+- **[Student Government of the University of North Carolina at Chapel Hill Records, 1919-2022](https://finding-aids.lib.unc.edu/40169/)**
+
+
+
+
 # December 2023
 
 New
