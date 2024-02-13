@@ -15,7 +15,7 @@ Beginning in 1930, UNC history professor J. G. de Roulhac Hamilton, motivated by
 
 Librarians and archivists who wrote the initial descriptions of these collections, which were often an inventory of itemized documents, focused entirely on the lived experiences of white people and did not consider the lives of enslaved people. In the 1980s and 1990s, new finding aids were written that identified the institution of slavery as a subject for scholarly research, but still failed to center individuals who were not white. Euphemistic and non-inclusive language, a style that privileged academic researchers over all others seeking access to materials about enslaved people, is used throughout these finding aids. 
 
-Our past practices are problematic, and we are working to repair them by rectifying language that upholds white supremacy and by highlighting materials created by and about enslaved people. Older versions of revised finding aids will be available to researchers
+Our past practices are problematic, and we are working to repair them by rectifying language that upholds white supremacy and by highlighting materials created by and about enslaved people. Older versions of revised finding aids will be available to researchers.
 
 For more information about plans and milestones for this work, please see information about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
 
