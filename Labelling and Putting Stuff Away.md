@@ -73,6 +73,18 @@ With so many collections and so many formats dispersed throughout the stacks it 
 
 The stacks are divided into color zones and lettered sections within those zones. Each row of shelves is identified by a color, a section letter and a range number. For example, Red U.11. Further, each row of shelves has two sides (side a and side b) and each individual shelf is numbered in sequence. Using the example above, a location might be Red U.11 a.2 (in other words the "a" side of "Row 11" and the second shelf on that side). Most shelves have identifying labels. If you shelve materials on a shelf without a label, find the nearest shelf with a label (usually the top shelf, or a shelf at the end of the range) and count up to your shelf number. This shelf numbering scheme will make more sense when you shelve your first collection. 
 
+To remember the layout of the building better, think of Wilson Library as a sandwich, ’29, ’52 and ’77. The parts of the building that were built in 1929 and 1977 act as the “bread” and the part of the building built in 1952 is the fixings in the middle. 
+
+| **1929**             | 1952     | 1977       | 
+| ---------------| ------------| --------------------- | 
+| 3. Sepia  | 3. Green          | 3. N/A      |
+| 5. N/A  | 5. N/A          | 5. Purple      |
+| 6. N/A  | 6. N/A          | 6. Black      |
+| 7. N/A  | 7. N/A          | 7. Teal      |
+| 9. Blue  | 9. Blue          | 9. Yellow      |
+| 10. Orange  | 10. Orange          | 10. Red      |
+
+
 It's always a good idea to take a pencil and notepaper into the stacks when shelving collections, or bring a phone to take pictures of the boxes you are shelving. 
 
 ### Building
@@ -81,11 +93,11 @@ For the time being, assume that all of the collections you'll be dealing with wi
 
 ### Floor
 
-Which floor is the container on? Typically 3, 5, 7, 9 or 10. 
+Which floor is the container on? Typically 3, 5, 6, 7, 9 or 10. 
 
 ### Room
 
-The color zone indicated by signage in the room: Red, Orange, Blue, Yellow, Purple, or Green. 
+The color zone indicated by signage in the room: Red, Orange, Blue, Yellow, Purple, Black, Sepia, or Green. 
 
 ### Area
 
