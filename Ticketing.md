@@ -5,6 +5,11 @@ Compiled March 2024.
 - [JIRA](#jira)
   - [Submitting a Ticket](#submitting-a-ticket)
   - [SC Board](#sc-board)
+  - [Assigning a Ticket](#assigning-a-ticket)
+  - [Communication in a Ticket](#communication-in-a-ticket)
+    - [Watchers and Participants](#watchers-and-participants)
+  - [Adding/Changing Departments](#adding-or-changing-departments)
+  - [Finishing a Ticket](#finishing-a-ticket)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
   - [Microsoft Flow](#microsoft-flow)
@@ -37,13 +42,15 @@ Only one person can be assigned a ticket in JIRA. But if you want to add anyone 
 If there is someone other than the submitter of the ticket who might want to follow what's happening with the ticket you can add them as a "participant." Participants are people outside of JIRA who will still be able to view the progress of the ticket.
 To add particpants, scroll down to "more fields" on the right side of the open ticket and click next to "request particpants."
 ![JIRA 4](https://github.com/llsmith305/images/blob/main/Jira_capture_4.png)
-## Adding/Changing Departments
+## Adding or Changing Departments
 Sometimes tickets are mistakenly submitted to our department or need some help from another section (e.g. if there are ContentDM fixes, Applications and Software need to be involved). You can add or change departments associated with a ticket by navigating to "department" under "more fields" in the right side of the ticket and selecting the appropriate department.
 
 NOTE: If you close out a ticket that another department is added to, it also closes the ticket on their end, so you will need to communicate about when a ticket can be fully resolved. 
 ![JIRA 7](https://github.com/llsmith305/images/blob/main/Jira_capture_7.png)
-
+## Finishing a Ticket
+When work has been completed on a ticket, drag and drop the ticket into the "done" column under "resolved." JIRA will open a resolve box for you to add resolution type (typically "fixed/fully resolved") and to add a note to the submitter that the ticket has been completed.
   
+
 
 # Archival Planner
 ## Blue Sheets and Merge Requests
