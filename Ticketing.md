@@ -19,10 +19,11 @@ Compiled March 2024.
    - New archival tickets automatically tag and email Laura Smith, Dawne Lucas, and Jackie Dean.
    - New bibio tickets automatically tag and email all biblio people.
 ### Board Workflow 
-When a ticket comes into the "backlog" column, any of the tagged users can into the "queued" column (for tickets awaiting work). This can be done by dragging and dropping the ticket into the desired column in the board.
-
-From the queued column, you can drag and drop a ticket into the "In Progress" column under either "resume normal work" for when starting work on the ticket or "pending response" for when awaiting a response from someone about the ticket.
-![JIRA 5](https://github.com/llsmith305/images/blob/main/Jira_capture_5.png)
+  - When a ticket comes into the "backlog" column, any of the tagged users can move it into the "queued" column (for tickets awaiting work) or "in progress" column (for tickets being worked on). This can be done by dragging and dropping the ticket into the desired column in the board.
+  - JIRA will prompt you to make a comment whenever changing columns. You can comment, either internally or to the submitter, or leave the box blank and continue.
+#### Pending Response
+If you are waiting for a response from the submitter before continuing work on a ticket, you can mark the ticket as "pending response" when under the "in progress" column by clicking on the "in progress" dropdown at the top right of the ticket and selecting "pending response from reporter."
+![JIRA 6](https://github.com/llsmith305/images/blob/main/Jira_capture_6.png)
 
 ## Assigning a Ticket
 Each ticket allows for one, and only one, assignee. You can assign a ticket to yourself or anyone else in TS by opening the ticket and navigating to the "assignee" field on the right side of the ticket. You can either click "assign to me" to assign to yourself, or search for an assignee by name. An email alert will be sent to the assignee.
