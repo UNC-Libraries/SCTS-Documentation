@@ -5,6 +5,7 @@ Compiled March 2024.
 - [JIRA](#jira)
   - [Submitting a Ticket](#submitting-a-ticket)
   - [SC Board](#sc-board)
+  - [Useful Functions](#useful-functions)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
   - [Microsoft Flow](#microsoft-flow)
@@ -18,6 +19,12 @@ Compiled March 2024.
  - Once a ticket is submitted it will appear under the "backlog" column of our SC board under either the "Archival" or "Bibliographical" swim lane.
    - New archival tickets automatically tag and email Laura Smith, Dawne Lucas, and Jackie Dean.
    - New bibio tickets automatically tag and email all biblio people.
+ - When a ticket comes into the "backlog" column, any of the tagged users can into the "queued" column (for tickets awaiting work) or "in progress" column (for tickets undergoing work). This can be done by dragging and dropping the ticket into the desired column in the board.
+### Assigning a Ticket
+  - Each ticket allows for one, and only one, assignee. You can assign a ticket to yourself or anyone else in TS by opening the ticket and navigating to the "assignee" field on the right side of the ticket. You can either click "assign to me" to assign to yourself, or search for an assignee by name. An email alert will be sent to the assignee.
+![JIRA 1](https://github.com/llsmith305/images/blob/main/Jira_capture_1.png)
+  
+## Useful Functions
 
 # Archival Planner
 ## Blue Sheets and Merge Requests
