@@ -5,7 +5,6 @@ Compiled March 2024.
 - [JIRA](#jira)
   - [Submitting a Ticket](#submitting-a-ticket)
   - [SC Board](#sc-board)
-  - [Useful Functions](#useful-functions)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
   - [Microsoft Flow](#microsoft-flow)
@@ -19,12 +18,26 @@ Compiled March 2024.
  - Once a ticket is submitted it will appear under the "backlog" column of our SC board under either the "Archival" or "Bibliographical" swim lane.
    - New archival tickets automatically tag and email Laura Smith, Dawne Lucas, and Jackie Dean.
    - New bibio tickets automatically tag and email all biblio people.
- - When a ticket comes into the "backlog" column, any of the tagged users can into the "queued" column (for tickets awaiting work) or "in progress" column (for tickets undergoing work). This can be done by dragging and dropping the ticket into the desired column in the board.
-### Assigning a Ticket
-  - Each ticket allows for one, and only one, assignee. You can assign a ticket to yourself or anyone else in TS by opening the ticket and navigating to the "assignee" field on the right side of the ticket. You can either click "assign to me" to assign to yourself, or search for an assignee by name. An email alert will be sent to the assignee.
+### Board Workflow 
+When a ticket comes into the "backlog" column, any of the tagged users can into the "queued" column (for tickets awaiting work). This can be done by dragging and dropping the ticket into the desired column in the board.
+
+From the queued column, you can drag and drop a ticket into the "In Progress" column under either "resume normal work" for when starting work on the ticket or "pending response" for when awaiting a response from someone about the ticket.
+![JIRA 5](https://github.com/llsmith305/images/blob/main/Jira_capture_5.png)
+
+## Assigning a Ticket
+Each ticket allows for one, and only one, assignee. You can assign a ticket to yourself or anyone else in TS by opening the ticket and navigating to the "assignee" field on the right side of the ticket. You can either click "assign to me" to assign to yourself, or search for an assignee by name. An email alert will be sent to the assignee.
 ![JIRA 1](https://github.com/llsmith305/images/blob/main/Jira_capture_1.png)
+## Communication in a Ticket
+After you open a ticket, you can scroll down to view the activity on that ticket, including all comments. You can add internal notes to TS people working on the ticket or comment out to the submitter of the ticket. You can @mention anyone within TS (or any watchers - see below) within these comments.
+![JIRA 2](https://github.com/llsmith305/images/blob/main/Jira_capture_2.png)
+### Watchers and Participants 
+Only one person can be assigned a ticket in JIRA. But if you want to add anyone else in TS to keep track/help on a ticket, you can add them as a "watcher" by clicking the eye logo at the top right of the ticket and "add watcher."
+![JIRA 3](https://github.com/llsmith305/images/blob/main/Jira_capture_3.png)
+
+If there is someone other than the submitter of the ticket who might want to follow what's happening with the ticket you can add them as a "participant." Participants are people outside of JIRA who will still be able to view the progress of the ticket.
+To add particpants, scroll down to "more fields" on the right side of the open ticket and click next to "request particpants."
+![JIRA 4](https://github.com/llsmith305/images/blob/main/Jira_capture_4.png)
   
-## Useful Functions
 
 # Archival Planner
 ## Blue Sheets and Merge Requests
