@@ -21,6 +21,7 @@ Compiled March 2024.
  - Tickets are submitted through the [JIRA Help Center](https://unclibrary.atlassian.net/servicedesk/customer/portals) under the "Wilson Library Technical Services" portal. There are two sections of the portal to submit a request through: Archival Services (for finding aid or ArchivesSpace errors, processing requests, location remediation, or content warning creation/editing) and Bibliographic Services (for remediation of bioliographic records, location or size corrections in Sierra, content warning creation/editing, and metadata edits).
  - All Wilson Services tickets, including those from Tech Services staff, should be submitted through the portal. (There is a function to submit tickets through the back end of JIRA, but as of now we are not using this function).
 ## SC Board
+![JIRA 8](https://github.com/llsmith305/images/blob/main/Jira_capture_8.png)
  - Wilson tickets will appear in our Special Collections Technical Services board in JIRA. You can access the board [here](https://unclibrary.atlassian.net/jira/software/c/projects/SC/boards/65) or under Your work--boards--SC board after signing into your JIRA.
  - Once a ticket is submitted it will appear under the "backlog" column of our SC board under either the "Archival" or "Bibliographical" swim lane.
    - New archival tickets automatically tag and email Laura Smith, Dawne Lucas, and Jackie Dean.
