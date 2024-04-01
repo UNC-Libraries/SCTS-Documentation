@@ -2,6 +2,7 @@ Compiled March 2024.
 
 # Overview
 
+- [Overview](#overview)
 - [JIRA](#jira)
   - [Submitting a Ticket](#submitting-a-ticket)
   - [SC Board](#sc-board)
@@ -15,6 +16,11 @@ Compiled March 2024.
   - [Microsoft Flow](#microsoft-flow)
  
 ***
+
+# Overview
+We are replacing our Wilson TS Help Ticket google form with two new systems: JIRA and an archival microsoft form/planner.
+  - JIRA: The new Wilson Library Technical Services portal of the JIRA Help Center will now cover requests for remediation of bibliographic records, finding aids, and ArchivesSpace.
+  - Archival Planner: Internal archival requests to merge/push GIT branches, blue sheets for new processing, and List2Proc additions will be submitted via a microsoft form and tracked via a microsoft planner.
  
 # JIRA
 ## Submitting a Ticket
