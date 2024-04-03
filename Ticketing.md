@@ -51,11 +51,11 @@ Only one person can be assigned to a ticket in JIRA. But if you want to add anyo
 If there is someone other than the submitter of the ticket who might want to follow what's happening with the ticket you can add them as a "participant." Participants are people outside of JIRA who will still be able to view the progress of the ticket.
 To add particpants, scroll down to "more fields" on the right side of the open ticket and click next to "request particpants."
 ![JIRA 4](https://github.com/llsmith305/images/blob/main/Jira_capture_4.png)
-## Adding or Changing Departments
-Sometimes tickets are mistakenly submitted to our department or need some help from another section (e.g. if there are ContentDM fixes, Applications and Software need to be involved). You can add or change departments associated with a ticket by navigating to "department" under "more fields" in the right side of the ticket and selecting the appropriate department.
+## Adding or Changing Service Departments
+Sometimes tickets are mistakenly submitted to our department or need some help from another section. To add or change, navigate to "services involved" on the right side of the ticket, add the appropriate service and remove "Wilson Tech Services" if needed.
 
 NOTE: If you close out a ticket that another department is added to, it also closes the ticket on their end, so you will need to communicate about when a ticket can be fully resolved. 
-![JIRA 7](https://github.com/llsmith305/images/blob/main/Jira_capture_7.png)
+
 ## Finishing a Ticket
 When work has been completed on a ticket, drag and drop the ticket into the "done" column under "resolved." JIRA will open a resolve box for you to add resolution type (typically "fixed/fully resolved") and to add a note to the submitter that the ticket has been completed.
   
