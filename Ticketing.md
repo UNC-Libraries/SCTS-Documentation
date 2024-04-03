@@ -48,7 +48,7 @@ After you open a ticket, you can scroll down to view the activity on that ticket
 Only one person can be assigned to a ticket in JIRA. But if you want to add anyone else in TS to keep track/help on a ticket, you can add them as a "watcher" by clicking the eye logo at the top right of the ticket and "add watcher."
 ![JIRA 3](https://github.com/llsmith305/images/blob/main/Jira_capture_3.png)
 
-If there is someone other than the submitter of the ticket who might want to follow what's happening with the ticket you can add them as a "participant." Participants are people outside of JIRA who will still be able to view the progress of the ticket.
+If there is someone other than the submitter of the ticket who might want to follow what's happening with the ticket you can add them as a "participant." Participants are people outside of TS who will still be able to view the progress of the ticket.
 To add particpants, scroll down to "more fields" on the right side of the open ticket and click next to "request particpants."
 ![JIRA 4](https://github.com/llsmith305/images/blob/main/Jira_capture_4.png)
 ## Adding or Changing Service Departments
