@@ -9,7 +9,7 @@ Compiled March 2024.
   - [Assigning a Ticket](#assigning-a-ticket)
   - [Communication in a Ticket](#communication-in-a-ticket)
     - [Watchers and Participants](#watchers-and-participants)
-  - [Adding/Changing Departments](#adding-or-changing-departments)
+  - [Adding/Changing Departments](#adding-or-changing-service-departments)
   - [Finishing a Ticket](#finishing-a-ticket)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
