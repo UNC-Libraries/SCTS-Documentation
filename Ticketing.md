@@ -64,7 +64,7 @@ When work has been completed on a ticket, drag and drop the ticket into the "don
 Once resolved, tickets will disappear from the SC Board. If you need to look at a finished ticket, click on "filters" at the top of the page and select "view all filters." Search for "Resolved SC Tickets" in the search bar. Select this filter.
 ![JIRA 10](https://github.com/llsmith305/images/blob/main/Jira_capture_10.png)
 
-This filter should show you all Wilson TS tickets with a resolved status. You can further refine the filter fields or search by keyword. Once you have this filter open, you can star the filter for easy future access. It should then show up as the first option open under the "filters" drop down at the top of the page.
+This filter should show you all Wilson TS tickets with a resolved status. You can further refine the filter fields or search by keyword. Once you have this filter open, you can star the filter for easy future access. It should then show up as the first option under the "filters" drop down at the top of the page.
 ![JIRA 11](https://github.com/llsmith305/images/blob/main/Jira_capture_11.png)
 
 # Archival Planner
