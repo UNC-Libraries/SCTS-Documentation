@@ -11,6 +11,7 @@ Compiled March 2024.
     - [Watchers and Participants](#watchers-and-participants)
   - [Adding/Changing Departments](#adding-or-changing-service-departments)
   - [Finishing a Ticket](#finishing-a-ticket)
+  - [View Finished Tickets](#view-finished-tickets)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
   - [Microsoft Flow](#microsoft-flow)
@@ -59,7 +60,12 @@ NOTE: If you close out a ticket that another department is added to, it also clo
 ## Finishing a Ticket
 When work has been completed on a ticket, drag and drop the ticket into the "done" column under "resolved." JIRA will open a resolve box for you to add resolution type (typically "fixed/fully resolved") and to add a note to the submitter that the ticket has been completed.
   
+## View Finished Tickets
+Once resolved, tickets will disappear from the SC Board. If you need to look at a finished ticket, click on "filters" at the top of the page and select "view all filters." Search for "Resolved SC Tickets" in the search bar. Select this filter.
+![JIRA 10](https://github.com/llsmith305/images/blob/main/Jira_capture_10.png)
 
+This filter should show you all Wilson TS tickets with a resolved status. You can further refine the filter fields or search by keyword. Once you have this filter open, you can star the filter for easy future access. It should then show up as the first option open under the "filters" drop down at the top of the page.
+![JIRA 11](https://github.com/llsmith305/images/blob/main/Jira_capture_11.png)
 
 # Archival Planner
 ## Blue Sheets and Merge Requests
