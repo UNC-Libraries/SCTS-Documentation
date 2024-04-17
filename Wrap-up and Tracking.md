@@ -13,9 +13,9 @@ Updated January 2024.
 
 # Workflow
 
-**1.** Processor fills out blue sheet through TS ticketing form. 
+**1.** Processor fills out blue sheet through microsoft form. 
 
-**2.** Branch is merged and pushed to make changes live, ticket is sorted into "blue sheets" section of TS gmail. (Changes will take 1-2 hours to show live after branch is pushed). 
+**2.** Branch is merged and pushed to make changes live, ticket is moved to "wrap up" section of blue sheet planner. (Changes will take 1-2 hours to show live after branch is pushed). 
 
 **3.** Check to make sure changes are live by searching online finding aid for the new acc number(s). Delete branch from sourcetree. 
 
