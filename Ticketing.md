@@ -14,6 +14,8 @@ Compiled March 2024.
   - [Viewing Finished Tickets](#viewing-finished-tickets)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
+  - [Viewing the Planner](#viewing-the-planner)
+      - [Pinning Planner in Teams](#pinning-planner-in-teams)
   - [Microsoft Flow](#microsoft-flow)
  
 ***
@@ -72,6 +74,19 @@ This filter should show you all Wilson TS tickets with a resolved status. You ca
   - Blue Sheets, List2Procs, and GIT merge/push requests are submitted through [this microsoft form](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=T9WzWMkW00KvCB_KvQlWZjnLCvqsIedCs1g4IqhwWE1UQzRSQUJVM1pNTEtORVVTOVJBWldVMFhMTi4u&topview=Preview), also found as a tab on Wilson SCTS-Archival--General channel in Teams.
   - Once submitted, these tickets automatically populate a task in [the planner](https://tasks.office.com/admin.live.unc.edu/en-US/Home/Planner/#/plantaskboard?groupId=a159b0b7-6c00-46a0-977b-10c99a206261&planId=kmGl8FYePUWMq-0ZMwZYFGQAE4Fn) (also located on Archival's Teams channel) under the "Submitted" column.
   - Laura Smith will manage the workflow for these tickets, but any submitter will be able to check on their tickets' progress in the planner.
+
+### Viewing the Planner
+You can check on the status of blue sheets and merge requests in the planner by opening [this link](https://tasks.office.com/admin.live.unc.edu/en-US/Home/Planner/#/plantaskboard?groupId=a159b0b7-6c00-46a0-977b-10c99a206261&planId=kmGl8FYePUWMq-0ZMwZYFGQAE4Fn) in a browser (you will need to be signed into microsoft), or by opening planner in Teams.
+
+#### Pinning Planner in Teams
+For easy access through Teams, navigate to the apps on the left side of your teams, click on the three dots to open more apps, and search for the planner app.
+![TEAMS 1](https://github.com/llsmith305/images/blob/main/Teams_capture_1.png)
+
+With Planner open within Teams, right click on the app and select "pin" to pin the app to the sidebar.
+![TEAMS 2](https://github.com/llsmith305/images/blob/main/Teams_capture_2.png)
+
+In the Planner app, you can find the Blue Sheets/GIT Requests planner and click "pin plan."
+![TEAMS 3](https://github.com/llsmith305/images/blob/main/Teams_capture_3.png)
 
 ## Microsoft Flow
   - The automation from Form to Planner is managed through [a Microsoft Flow.](https://make.powerautomate.com/environments/Default-58b3d54f-16c9-42d3-af08-1fcabd095666/flows/132e7f01-c152-4801-8835-f5157578fa91?v3=true)
