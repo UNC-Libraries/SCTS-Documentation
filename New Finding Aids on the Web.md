@@ -20,10 +20,9 @@ Additions
 
 - **[Maggie Holtzberg and Barry Dornfeld Collection on Gandy Dancers Documentary Film, 1991-1993](https://finding-aids.lib.unc.edu/20240/)**
 
-- **[Medical Illustration and Photography of the University of North Carolina at Chapel Hill Records, 1950-2009[(https://finding-aids.lib.unc.edu/40307/)**
+- **[Medical Illustration and Photography of the University of North Carolina at Chapel Hill Records, 1950-2009](https://finding-aids.lib.unc.edu/40307/)**
 
-- **[School of Pharmacy of the University of North Carolina at Chapel Hill Records, 1951-2012]
-(https://finding-aids.lib.unc.edu/40264/)**
+- **[School of Pharmacy of the University of North Carolina at Chapel Hill Records, 1951-2012](https://finding-aids.lib.unc.edu/40264/)**
 
 - **[Tom Davenport Papers, 1973-2018](https://finding-aids.lib.unc.edu/20025/)**
 
