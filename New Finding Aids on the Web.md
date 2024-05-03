@@ -1,3 +1,35 @@
+
+# April 2024
+New
+
+- **[Duplicating Technologies Collection, 1782-2018](https://finding-aids.lib.unc.edu/70169/)
+This collection is composed of culturally significant documents that were copied or printed using different duplicating technologies from 1782 through 2018. Together, these documents trace the development of home and office printing, from Watt's Copy Machine to the Xerox. The copying and printing processes applied by the duplicating technologies chronicled in this collection utilized either pressure or light sensitivity and were largely reliant on new chemical developments to achieve the results collected here. Through this collection, it is possible to see how printing and copying technologies referenced and built on previous processes, improving on previous methods and connecting these technologies through time.**
+
+- **[Morehead Planetarium and Science Center Records, 1945-2002](https://finding-aids.lib.unc.edu/70177/)
+The collection contains adminstrative and promotional files of the Morehead Planetarium and Science Center, which opened on the campus of the University of North Carolina in 1949. Files (1945-2002) include correspondence, memoranda, and other administrative materials related to activities at the planetarium, including education, events, accreditation, operations, and automation, as well as files related to the training of astronauts in the 1960s.**
+
+Additions
+
+- **[Bullitt History of Medicine Club records, 1950s-2018](https://finding-aids.lib.unc.edu/HC0009/)**
+
+- **[Folkstreams.net Collection, 1949-2019](https://finding-aids.lib.unc.edu/20384/)**
+
+- **[Harry Lee Harllee Films, 1927-1945](https://finding-aids.lib.unc.edu/04773/)**
+
+- **[Lucy Massie Phenix Collection, 1941-2017](https://finding-aids.lib.unc.edu/05462/)**
+
+- **[Maggie Holtzberg and Barry Dornfeld Collection on Gandy Dancers Documentary Film, 1991-1993](https://finding-aids.lib.unc.edu/20240/)**
+
+- **[Medical Illustration and Photography of the University of North Carolina at Chapel Hill Records, 1950-2009[(https://finding-aids.lib.unc.edu/40307/)**
+
+- **[School of Pharmacy of the University of North Carolina at Chapel Hill Records, 1951-2012]
+(https://finding-aids.lib.unc.edu/40264/)**
+
+- **[Tom Davenport Papers, 1973-2018](https://finding-aids.lib.unc.edu/20025/)**
+
+- **[University of North Carolina Television Network Records, 1949-1999](https://finding-aids.lib.unc.edu/40258/)**
+
+
 # March 2024
 
 Container listings added to collection level records: 
