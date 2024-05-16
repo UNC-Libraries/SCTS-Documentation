@@ -6,10 +6,10 @@
 
 •	LS sends all the new finding aids to Jodi, including new collection level records and newly processed collections from existing collection level records  
 
-•	LS [updates MARC records](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Cataloging.md#editing-existing-marc-records) for additions in OCLC and Sierra  
+•	LS [updates MARC records](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/MARC-NACO-SNAC.md#editing-existing-marc-records) for additions in OCLC and Sierra  
 
 •	Jodi shares new collection level records with Barbara
 
 • Barbara creates new MARC collection level records
 
-•	Jodi [creates new MARC records](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Cataloging.md#creating-new-marc-records) for processed collections  
+•	Jodi [creates new MARC records](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/MARC-NACO-SNAC.md#creating-new-marc-records) for processed collections  
