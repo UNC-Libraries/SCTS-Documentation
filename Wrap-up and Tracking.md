@@ -94,8 +94,8 @@ Create new tab for the month. Add info from all the blue sheets that came in tha
 
 # Stats
 
+Acquisitions tracking: Special Collections Intake Team-->General-->Files 
+
 Processing: https://docs.google.com/spreadsheets/d/13-PUdl26VjZkGOXdDGOCQwAfuY_hulQtFUPLq4cRd3w/edit#gid=1335418769
 
 Ticketing: https://docs.google.com/spreadsheets/d/1woY1tgDbE25h4GJqiDDPghRSATeI1wocQbkuCSCPW8c/edit#gid=1011434391
-
-Acquisitions tracking: https://docs.google.com/spreadsheets/d/1ZTKJRChvybZe--gwzUnJrTqBBcTdxutSUSGQgQxuTY4/edit#gid=0
