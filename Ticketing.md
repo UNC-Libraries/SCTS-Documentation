@@ -14,7 +14,8 @@ Compiled March 2024.
   - [Viewing Finished Tickets](#viewing-finished-tickets)
 - [Archival Planner](#archival-planner)
   - [Blue Sheets and Merge Requests](#blue-sheets-and-merge-requests)
-  - [Viewing the Planner](#viewing-the-planner)
+    - [Workflow](#workflow)
+    - [Viewing the Planner](#viewing-the-planner)
       - [Pinning Planner in Teams](#pinning-planner-in-teams)
   - [Microsoft Flow](#microsoft-flow)
  
@@ -74,6 +75,19 @@ This filter should show you all Wilson TS tickets with a resolved status. You ca
   - Blue Sheets, List2Procs, and GIT merge/push requests are submitted through [this microsoft form](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=T9WzWMkW00KvCB_KvQlWZjnLCvqsIedCs1g4IqhwWE1UQzRSQUJVM1pNTEtORVVTOVJBWldVMFhMTi4u&topview=Preview), also found as a tab on Wilson SCTS-Archival--General channel in Teams.
   - Once submitted, these tickets automatically populate a task in [the planner](https://tasks.office.com/admin.live.unc.edu/en-US/Home/Planner/#/plantaskboard?groupId=a159b0b7-6c00-46a0-977b-10c99a206261&planId=kmGl8FYePUWMq-0ZMwZYFGQAE4Fn) (also located on Archival's Teams channel) under the "Submitted" column.
   - Laura Smith will manage the workflow for these tickets, but any submitter will be able to check on their tickets' progress in the planner.
+
+### Workflow
+#### Merge Requests
+  - [Merge branch to main. Push main branch.](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/GIT-Sourcetree-Oxygen.md#merging-and-pushing)
+  - Delete branch from local and remotes.
+  - If MARC edits are needed, move ticket into MARC column in planner.
+  - If no MARC edits, mark complete.
+
+#### Blue Sheets
+  - Merge branch to main and push main.
+  - Move ticket into wrap up column in planner.
+  - Complete the [wrap up](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Wrap-up%20and%20Tracking.md) at the end of the month.
+  - Move tickets into MARC column for MARC edits.
 
 ### Viewing the Planner
 You can check on the status of blue sheets and merge requests in the planner by opening [this link](https://tasks.office.com/admin.live.unc.edu/en-US/Home/Planner/#/plantaskboard?groupId=a159b0b7-6c00-46a0-977b-10c99a206261&planId=kmGl8FYePUWMq-0ZMwZYFGQAE4Fn) in a browser (you will need to be signed into microsoft), or by opening planner in Teams.
