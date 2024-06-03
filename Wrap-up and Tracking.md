@@ -54,7 +54,7 @@ The fields are as follows:
 - **A/V items**
 - **Graphic items**
 - **Estimated hours spent**
-- **Code**: I (intake processing), UD (user-driven), E (enhanced processing), LP (List2Proc), IP (Ifrastructure preparation)
+- **Code**: I (intake processing), UD (user-driven), E (enhanced processing), LP (List2Proc), IP (Infrastructure preparation)
 - **Comments**
 
 *No leading zeros, no letters. Collections starting with "P" use "9" in place of the P. "NCC" = "7". "HC" = "8".
