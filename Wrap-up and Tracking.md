@@ -35,7 +35,7 @@ ProcRec Table in processing_database.mdb
 
 The Proc_Rec table in the access database processing_database.mdb tracks the majority of our processing statistics: 
 
-This access database is found here: G:\wilson\TS\archival\mss_and_archives\processors\processing_database 
+This access database is found here: G:\wilson\ts\archival\processing_database\processing_database.mdb 
 
 The fields are as follows: 
 
