@@ -15,7 +15,7 @@ Updated description to uncover more information about the lives of people of col
 Added itemized list.**
 
 - **[Philip Henry Pitts Papers, 1814-1884](https://finding-aids.lib.unc.edu/00602)
-Updated description to uncover more information about the lives of people of color before and immediately after the American Civil War: The Philip Henry Pitts Papers document the white plantation owner and enslaver in Union Town (now Uniontown), Perry County, Alabama, who mostly dealt in cotton. **
+Updated description to uncover more information about the lives of people of color before and immediately after the American Civil War: The Philip Henry Pitts Papers document the white plantation owner and enslaver in Union Town (now Uniontown), Perry County, Alabama, who mostly dealt in cotton.**
 
 
 Additions
@@ -25,8 +25,7 @@ Added seven films in preparation to send them to the LSC. Addition of August 201
 - **[Department of Music of the University of North Carolina at Chapel Hill Records, circa 1927-2023](https://finding-aids.lib.unc.edu/40235)
 Series 4A. Performance Recordings, 2019-2023 (Addition of November 2023): Contains recordings of student musical performances sponsored by the Department of Music, 2019-2023. A recording of a 2021 interview with Martha Flowers, a singer, performer, and the Department of Music's first Black faculty member, is also included.**
 
-- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/)
-20193](https://finding-aids.lib.unc.edu/Added 60 open reel tapes from the Statue of Liberty production.**
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/20193) Added 60 open reel tapes from the Statue of Liberty production.**
 
 - **[Folkstreams.net Collection, 1949-2019](https://finding-aids.lib.unc.edu/20384)
 Added original film elements and film preservation copies for the 1975 productions The Amish: A People of Preservation and Dink: A Pre-Blues Musician  (Acc. 20231019.1)**
