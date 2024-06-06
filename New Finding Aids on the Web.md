@@ -1,3 +1,52 @@
+# May 2024
+New
+- **[Álbumes de Cromos on Latin American and Spanish History Collection, 1950-2013](https://finding-aids.lib.unc.edu/70182/)
+Contains 36 sticker albums (Spanish: albumes de cromos) on Latin American and Spanish history. The history of Peru and Uruguay are well represented.**
+
+- **[André Savine Collection of I︠A︡kov Borisovich Polonskiĭ Papers, 1940-1951](https://finding-aids.lib.unc.edu/70181/)
+I︠A︡kov Borisovich Polonskiĭ (1892-1951) was a lawyer, journalist, literary historian, and book collector active in the intellectual and political life of Russian and Russian Jewish émigré community in Paris, France. Polonskiĭ belonged to several émigré political groups, and to literary societies and associations dealing with publishing and book culture, including Respublikansko-demokraticheskai︠a︡ gruppa (Республиканско-демократическая группа, "The Republican-Democratic Group") and Soi︠u︡z russkikh pisateleĭ i zhurnalistov v Parizhe (Союз русских писателей и журналистов в Париже; "Union of Russian Writers and Journalists in Paris"), in which he held leadership positions. Soiuz russkikh pisateleĭ i zhurnalistov v Parizhe was a literary association formed in 1920 in Paris whose membership included many prominent émigré authors. Respublikansko-demokraticheskai︠a︡ gruppa was an émigré political association formed in 1944 in Paris by former members of Respublikansko-demokraticheskoe obʺedinenie (Республиканско-демократическое объединение). The collection contains papers, 1940-1951, of Soi︠u︡z russkikh pisateleĭ i zhurnalistov v Parizhe and of Respublikansko-demokraticheskai︠a︡ gruppa, as well as planning documents for the creation of a Russian language daily newspaper, and includes correspondence, meeting minutes, membership lists, manifesto and program drafts, expense estimates, and miscellaneous notes and clippings.**
+
+Additional Description 
+
+- **[Daniel Shine Hill Papers, 1842-1894](https://finding-aids.lib.unc.edu/04834)
+Updated description to uncover more information about the lives of people of color before and immediately after the American Civil War: Daniel Shine Hill (1812-1873) of Franklin County, N.C., was a white plantation owner and enslaver; he was also a businessman, a major in the Confederate Army, and an active participant in the temperance movement. The collection chiefly consists of business correspondence pertaining to the sale of cotton and the status of the cotton market; accounting sheets related to the purchase of dry goods, groceries, hardware, clothing, and textiles; and receipts.**
+
+- **[North Carolina Land Grants and Deeds, 1711-1861; 1901](https://finding-aids.lib.unc.edu/00553)
+Added itemized list.**
+
+- **[Philip Henry Pitts Papers, 1814-1884](https://finding-aids.lib.unc.edu/00602)
+Updated description to uncover more information about the lives of people of color before and immediately after the American Civil War: The Philip Henry Pitts Papers document the white plantation owner and enslaver in Union Town (now Uniontown), Perry County, Alabama, who mostly dealt in cotton. **
+
+
+Additions
+- **[Allard K. Lowenstein Papers, 1924-1995](https://finding-aids.lib.unc.edu/04340)
+Added seven films in preparation to send them to the LSC. Addition of August 2011, 1968-1972: Contains campaign and other political materials that should have been included with the original gift in 1982; Additional materials from the Estate of Allard K. Lowenstein, 1958-1980s: Contains correspondence, articles, speeches, interviews, and other materials concerning Allard K. Lownestein's policitical career and death. Also removed restricted series and incorporated restricted materials into existing series structure.**
+
+- **[Department of Music of the University of North Carolina at Chapel Hill Records, circa 1927-2023](https://finding-aids.lib.unc.edu/40235)
+Series 4A. Performance Recordings, 2019-2023 (Addition of November 2023): Contains recordings of student musical performances sponsored by the Department of Music, 2019-2023. A recording of a 2021 interview with Martha Flowers, a singer, performer, and the Department of Music's first Black faculty member, is also included.**
+
+- **[Florentine Films Archives, 1981-1997](https://finding-aids.lib.unc.edu/)
+20193](https://finding-aids.lib.unc.edu/Added 60 open reel tapes from the Statue of Liberty production.**
+
+- **[Folkstreams.net Collection, 1949-2019](https://finding-aids.lib.unc.edu/20384)
+Added original film elements and film preservation copies for the 1975 productions The Amish: A People of Preservation and Dink: A Pre-Blues Musician  (Acc. 20231019.1)**
+
+- **[Hal Kemp Papers, 1918-2007](https://finding-aids.lib.unc.edu/04923)
+Added three films in preparation to send them to the LSC.**
+
+- **[Latina/o Studies Program of the University of North Carolina at Chapel Hill Records, 1999-2024](https://finding-aids.lib.unc.edu/40489)
+Added Latina/o Studies Program symposium and event flyers, newsletter, flyers for courses, Spring 2024 (Acc. 20240401.1.)**
+
+- **[Marina Bokelman Collection, 1966-1968](https://finding-aids.lib.unc.edu/70035)
+The Addition of September 2023 contains black and white photographic negatives (original and digitized) and corresponding contact sheets. Some of the images appear in Marina Bokelman and David Evans' book Going up the Country: Adventures in Blues Fieldwork in the 1960s.  According to Evans, the photographs were taken in 1966-1968 and were labeled as a group called "Studio City" (SC)," which is the suburb of Los Angeles, Calif., where Bokelman's parents lived.  Many were of the photographs were taken at her parents' home, while most of the others were taken at the house in Malibu, Calif.  These photographs mostly depict Bokelman and Evans, often playing guitar, or Bokelman's parents and brothers.  None of them depict any of the activity of their fieldwork with blues artists, but they come from that time period and the general environment described in the book.**
+- **[Tom Davenport Papers, 1973-2018](https://finding-aids.lib.unc.edu/20025)
+Added three films in preparation to send them to the LSC.**
+
+- **[Lucy Massie Phenix Collection](https://finding-aids.lib.unc.edu/05462)
+Added five films in preparation to send them to the LSC.**
+
+
+
 
 # April 2024
 New
