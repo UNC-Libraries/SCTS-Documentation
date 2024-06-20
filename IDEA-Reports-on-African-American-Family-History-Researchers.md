@@ -1,13 +1,13 @@
 # IDEA Grant Reports on African American Family History Researchers
-- [IDEA Grant African American Family History Researchers: Phase 1](#idea-grant-african-american-family-history-researchers-phase-1)
+- [IDEA Grant African American Family History Researchers: Phase 1](#idea-grant-on-african-american-family-history-researchers-phase-1)
 
 Building our understanding of the research process and experience of genealogists and researchers of African American family history.
   
-- [IDEA Grant African American Family History Researchers: Phase 2](#idea-grant-african-american-family-history-researchers-phase-2)
+- [IDEA Grant African American Family History Researchers: Phase 2](#idea-grant-on-african-american-family-history-researchers-phase-2)
 
 Seeking feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff.
     
-## IDEA Grant African American Family History Researchers: Phase 1
+## IDEA Grant on African American Family History Researchers: Phase 1
 
 Project team:
 
@@ -250,7 +250,7 @@ This project was supported by a grant from the [University Libraries Inclusion, 
 [^8]: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
 
 
-## IDEA Grant African American Family History Researchers: Phase 2
+## IDEA Grant on African American Family History Researchers: Phase 2
 
 Project team:
 
@@ -266,7 +266,7 @@ Interviewees:
 
 ## Background
 
-The Technical Services Department of Wilson Special Collections Library previously conducted interviews with 10 researchers engaged in African American family history and genealogy research. The interviewees generously shared with the project team about their research processes and experiences. A summary of their feedback is available in the [IDEA Grant Report on African American Family History Researchers: Phase 1](#idea-grant-report-on-african-american-family-history-researchers-phase-1). 
+The Technical Services Department of Wilson Special Collections Library previously conducted interviews with 10 researchers engaged in African American family history and genealogy research. The interviewees generously shared with the project team about their research processes and experiences. A summary of their feedback is available in the [IDEA Grant Report on African American Family History Researchers: Phase 1](#idea-grant-on-african-american-family-history-researchers-phase-1). 
 
 Some of the interviewees’ suggestions concerned communicating out about the work we are doing and creating a welcoming environment for questions and comments from the genealogical audience, who may feel less comfortable in the context of a special collections library at a large university. For Phase 2 of our IDEA work, we asked for feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff:
 
