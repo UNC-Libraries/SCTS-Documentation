@@ -7,7 +7,7 @@ Building our understanding of the research process and experience of genealogist
 
 Seeking feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff.
     
-## IDEA Grant on African American Family History Researchers: Phase 1
+# IDEA Grant on African American Family History Researchers: Phase 1
 
 Project team:
 
@@ -250,7 +250,7 @@ This project was supported by a grant from the [University Libraries Inclusion, 
 [^8]: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
 
 
-## IDEA Grant on African American Family History Researchers: Phase 2
+# IDEA Grant on African American Family History Researchers: Phase 2
 
 Project team:
 
@@ -343,7 +343,7 @@ Antonio also encouraged us to get out there and present on our work in public sp
   
 Renate Yarborough Sanders helped us better understand her research needs when she pointed out that she is not able to build a dataset of enslavers for a given county. She appreciated statements of fact in the abstract ([name] was an enslaver and…) and that we have subject headings for slavery and for plantation owners, but how would she build a comprehensive list of people who enslaved anywhere from one to hundreds of people? In following up on this question with colleagues, we discovered that “slaveholder” is already a Library of Congress subject heading, as is “enslaver.” We wondered why our institution has used “slaveholder” only eight times for nearly 700 slavery era collections. We investigated “enslaver” as well, thinking that would be a more current term, and found that Library of Congress directs that “enslavers is not an appropriate term for those who owned slaves; instead, it should be used for any individuals or groups involved in slavery and the slave trade, including those who captured people, ship captains and crew who transported them, auctioneers who ran slave markets, merchants who purchased and sold slaves, plantation overseers and managers, banks and firms that financed plantations, institutions and individuals who owned slaves, etc.”([https://id.loc.gov/authorities/subjects/sh2022006245.html]( https://id.loc.gov/authorities/subjects/sh2022006245.html)). We will continue the conversation around these terms with our colleagues to decide the best way forward to solve this research problem.
 
-### Conclusions and Next Steps
+## Conclusions and Next Steps
 
 As always, we are deeply appreciative of our interviewees and their generous sharing of insights, experiences, and suggestions. The ten interviews we conducted in Phase 1 and the three in Phase 2 have been important reminders of the value of listening to researchers talk about their experiences and understand where the gaps are from their perspectives. Even when we are on the right track, we can miss things—like an important subject heading—that are crucial components of productive interactions between researchers and our collections.
 
