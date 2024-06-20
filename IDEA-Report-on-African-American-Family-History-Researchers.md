@@ -1,4 +1,9 @@
-# IDEA Grant Final Report
+# IDEA Grant Phases 1 and 2: Final Reports
+- [IDEA Grant African American Family History Researchers: Phase 1](#idea-grant-african-american-family-history-researchers-phase-1)
+- [IDEA Grant African American Family History Researchers: Phase 2](#idea-grant-african-american-family-history-researchers-phase-2)
+
+    
+## IDEA Grant African American Family History Researchers: Phase 1
 
 Project team:
 
@@ -85,7 +90,7 @@ We are sharing below the comments and suggestions we heard, and in some instance
 
 ### Staff assistance
 
-When it comes to research assistance from the library, several interviewees said they would go around and around before asking for help, and when they did seek assistance there was a strong preference for live contact, either in person or by phone, instead of by email. Phone is preferred because you feel seen by someone who can help; email doesn't feel as connected and sometimes the response brings an avalanche of information that is hard to make sense of because it is being delivered from someone else’s perspective. One interviewee was hesitant to ask for too much, wanting to be seen as a “good” visitor.
+When it comes to research assistance from the library, several interviewees said they would go around and around before asking for help, and when they did seek assistance there was a strong preference for live contact, either in person or by phone, instead of by email. Phone is preferred because you feel seen/heard by someone who can help; email doesn't feel as connected and sometimes the response brings an avalanche of information that is hard to make sense of because it is being delivered from someone else’s perspective. One interviewee was hesitant to ask for too much, wanting to be seen as a “good” visitor.
 We heard kudos to the pandemic staff who digitized and emailed documents. 
 
 ### Outreach
@@ -239,3 +244,118 @@ This project was supported by a grant from the [University Libraries Inclusion, 
 [^6]: For example: [360. Hubard Family Papers](https://finding-aids.lib.unc.edu/00360/).
 [^7]: For example: [716. Lewis Thompson Papers](https://finding-aids.lib.unc.edu/00716/).
 [^8]: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
+
+
+## IDEA Grant African American Family History Researchers: Phase 2
+
+Project team:
+
+- **Jackie Dean, Special Collections, Head of Archival Processing Section**
+- **Nancy Kaiser, Technical Services Archivist**
+- **Eileen Lewis, Business Services Coordinator**
+- **Saija Wilson, Graduate Student Research Assistant**
+
+Interviewees:
+- **Antonio Austin, Ph.D. genealogist and candidate in United States and Public History at Howard University, Washington, D.C.**
+- **[Olivia Dorsey Peacock](https://oliviapeacock.com/), genealogist and creative technologist developing digital tools in service of Black family historians and genealogists, North Carolina**
+- **[Renate Yarborough Sanders](https://justthinking130.blogspot.com/), genealogist, speaker, educator, co-host of Let’s Talk North Carolina Genealogy, Newport News, Va.**
+
+## Background
+
+The Technical Services Department of Wilson Special Collections Library previously conducted interviews with 10 researchers engaged in African American family history and genealogy research. The interviewees generously shared with the project team about their research processes and experiences. A summary of their feedback is available in the IDEA Grant Final Report. 
+Some of the interviewees’ suggestions concerned communicating out about the work we are doing and creating a welcoming environment for questions and comments from the genealogical audience, who may feel less comfortable in the context of a special collections library at a large university. For Phase 2 of our IDEA work, we asked for feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff:
+
+-	Initial statement in Processing Information that alerts researchers that this is a slavery era collection.
+-	“Learn more here” statement that provides historical context of description for slavery era collections at Wilson Library and what we are doing to remediate and repair past descriptive practices.
+-	Conscious editing statement in Processing Information that explains what sections of the finding aid have been remediated.
+-	Reparative description statement in Processing Information that alerts researchers if additional information about enslaved people has been surfaced in that finding aid and how to find it.
+-	Contact link at top of finding aid.
+-	Contact us statement in Processing Information.
+
+The finding aid for the [Leak and Wall Family Papers](https://finding-aids.lib.unc.edu/01468/) served as an example of these statements in context.
+
+## The Interviews
+
+### Legacy Description of Slavery Era Finding Aids: Initial statement
+
+> This collection contains materials that document people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. Learn more here about how we are revising legacy description for slavery era collections at Wilson Special Collections Library.
+  
+This initial statement identifies a collection as part of a group of approximately 700 slavery era collections. The main feedback is that placing it within the Processing Information section may bury the lead. Antonio Austin suggested a banner not unlike the current yellow banner that we have to alert people to the Wilson Library infrastructure project. This is an intriguing idea but we will hold on any implementation until after we complete the ArchivesSpace finding aid migration project. At that point we will have a better idea of how prominently (or not) Processing Information will appear in the new non-linear finding aid display.
+
+Tangentially, Antonio suggested a separate webpage that would be a comprehensive list of the 700 collections. Being able to browse a list of collection names could be of immense value to genealogists who are engaged with multiple family name searching. This also is an intriguing idea and one that we hopefully will be able to implement post-migration. In the meantime we will consult with colleagues to determine if there are short term solutions for sharing that information with researchers.
+
+### Legacy Description of Slavery Era Finding Aids: Learn more [here](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Slavery%20Era%20Finding%20Aids%20Remediation.md#legacy-description-of-slavery-era-collections)
+
+> Wilson Library holds more than 500 collections that document people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. These materials date from the early 1700s to the late 1800s following emancipation and include bills of sale of enslaved people; receipts that document the hiring out of labor of enslaved people; lists of enslaved people maintained by their enslavers; plantation journals and account books that document the labor, skills, and knowledge of enslaved people and their participation in the local economies; letters written about and sometimes by enslaved people; and legal documents, such as wills that document the trafficking of enslaved people across generations of families.
+  
+>  Beginning in 1930, UNC history professor J. G. de Roulhac Hamilton, motivated by his vision to create a repository for the preservation and study of the history of the U.S. South, began a concerted effort to collect materials chiefly from politically and socially influential white families in this region. Hamilton’s Southern Historical Collection, which today is part of the Wilson Special Collections Library, was intended to perpetuate a white supremist narrative of history.
+Librarians and archivists who wrote the initial descriptions of these collections, which were often an inventory of itemized documents, focused entirely on the lived experiences of white people and did not consider the lives of enslaved people. In the 1980s and 1990s, new finding aids were written that identified the institution of slavery as a subject for scholarly research, but still failed to center individuals who were not white. Euphemistic and non-inclusive language, a style that privileged academic researchers over all others seeking access to materials about enslaved people, is used throughout these finding aids.
+
+>  Our past practices are problematic, and we are working to repair them by rectifying language that upholds white supremacy and by highlighting materials created by and about enslaved people. Older versions of revised finding aids will be available to researchers.
+  
+>  For more information about plans and milestones for this work, please see information about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
+
+The intention of this “Learn more” statement is to be transparent about the history of description and to inform researchers about how we are engaging with that description in the present. We received positive feedback from all three interviewees and some additional suggestions for improving the statement. Olivia Dorsey Peacock made several key points: 1) be inclusive of more formats in that first paragraph. We hit the highlights, but some researchers may also read this statement as a guide to what formats are available. 2) In the second and third paragraphs, emphasize the impact of Hamilton’s white supremacist collecting: enslaved people were silenced again in the twentieth century, and the downplaying of the impact of slavery has brought us to this work we are doing now. 3) In the fourth paragraph, make clear that older versions of the finding aid will be available because they are a part of this history too. Olivia raised other important questions about J. G. de Rhoulac Hamilton and his relationships with the original families who donated their papers. To some extent these are addressed in one of the additional resources links at the end of the statement. TS Archival may want to consider adding a descriptive blurb to the link about the history of Hamilton’s collecting.
+
+### Conscious Editing and Reparative Description for this Collection
+
+> 	Conscious Editing Work by: [name, date] (Updated abstract, subject headings, scope and content note, historical note, and contents list). Earlier versions of the finding aid are available upon request.
+
+> 	In [YEAR], archivists reviewed this [collection/series/folder] to uncover more information about the lives of enslaved and free Black people. Containers that include materials related to enslaved and free Black people during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement" or "Records of Reconstruction." Researchers are advised that the collection may include more documentation of slavery than has been identified in this finding aid.
+
+With these two statements we want to let researchers know what we’ve been editing and why. With the second statement, we especially want them to know that our work may not be comprehensive. Having previously interviewed family history researchers we know that people looking for enslaved ancestors use finding aids as guides and starting points. Persistence and creative thinking beyond the finding aid are where the breakthroughs happen. The interviewees seem to think these statements were sufficient. If researchers need or want more clarification around the edits, they will ask. 
+Renate Yarborough Sanders suggested we update “free Black people” to “free people of color” and “Records of enslavement” to “Records of enslavement and free people of color” to be more inclusive. 
+
+Olivia Dorsey Peacock suggested that we consider providing links to and contextual information about earlier versions of the finding aid. In some cases, a paper-based legacy finding aid has become part of a collection and it is filed in the first folder. We also previously, albeit briefly, explored the idea of scanning paper-based legacy finding aids and providing a link to the digitized version in the current finding aid. We see value in this practice, but have not yet incorporated it into our remediation workflow due to lack of resolution on where to store the digital files. Born digital legacy finding aids are findable in the Internet Archive, but we have not offered that explanation directly to our researchers.
+
+### Questions and Comments for the Library
+
+> Contact button on the banner
+ 
+> 	We welcome questions and comments at wilsonlibrary@unc.edu
+  
+We want to communicate openness to questions and feedback alike, especially around reparative description. We wondered if the “contact” button in the banner was visible and encouraging enough. The feedback on this seemed to suggest that having both the button at the top (Antonio Austin asked if it could float along the side of the finding aid?) and the additional statement in the Processing Information section would be fine. The email address that is provided should be a link, and it should take the researcher to the same form as the contact button. Renate Yarborough Saunders suggested that it would be helpful if that contact button opened in a new tab in order to facilitate a researcher formulating their request by going back and forth between the finding aid and the contact us form. We have investigated this and it is possible, but it may be a project that waits until after the migration to ArchivesSpace, when global edits like this one will be much easier to execute.
+
+### Other Suggestions
+
+We knew we would get thoughtful feedback on the statements and we hoped for additional discussion on related topics of interest to our interviewees. We were not disappointed. Below are the highlights of the tangents we went on with the interviewees:
+
+- Silos
+Antonio Austin encouraged us to get beyond siloed information about enslaved people, to think about how we can make a bigger impact on the genealogical research community: silos minimize the impact of our efforts to “reclaim voices that have been silenced.” He mentioned Family Search as a place where we could share out our finding aids and/or digitized materials so that more eyes would find these records. We will delve deeper into Family Search to see what this could look like. 
+
+- Provenance
+Antonio also indirectly encouraged us not to over-prioritize our concerns about provenance: keep the focus on maximum impact. We began remediation work on our 700 slavery era collections during the pandemic, when our library was closed and we did not have access to collections unless they were digitized. At that time our strategy was to do what we could, where we could: repair language and reframe the description to recognize the humanity of the enslaved people in these collections, instead of just seeing slavery as an institution to be studied by scholars. We wondered, though, if we should be addressing provenance that placed enslavers at the center of the historical record. Is description remediation enough, or should we be re-processing these collections? Once we had regular access to the collections again, our strategy evolved to repairing language and surfacing more information about individual enslaved people and the institution of slavery. Rather than tackle a massive provenance reprocessing project, we decided to use the available resources to continue to chip away at the 700 with remediation and repair. Reconsideration of provenance and reprocessing is not off the table, but for the time being we are keeping our focus on remediation and repair in order to get to as many collections as we can.
+
+- Public presentations
+Antonio also encouraged us to get out there and present on our work in public spaces so that more people know what kind of work we are doing to improve access to slavery era collections for genealogical researchers: do not continue to hide the people who finally have been unhidden. He also cautioned us that there might be pushback from some audiences who feel strongly about who should and should not do this remediation work. We hear that and we are committed to thinking carefully about what our roles are as a predominantly white institution (PWI) and as individuals who are people of color and white should be in this work. This is an ongoing conversation we will have with ourselves as we navigate accountability, the needs of our researchers, and the potentially fraught outcomes of good intentions.
+
+- Subject headings
+Renate Yarborough Sanders helped us better understand her research needs when she pointed out that she is not able to build a dataset of enslavers for a given county. She appreciated statements of fact in the abstract ([name] was an enslaver and…) and that we have subject headings for slavery and for plantation owners, but how would she build a comprehensive list of people who enslaved anywhere from one to hundreds of people? In following up on this question with colleagues, we discovered that “slaveholder” is already a Library of Congress subject heading, as is “enslaver.” We wondered why our institution has used “slaveholder” only eight times for nearly 700 slavery era collections. We investigated “enslaver” as well, thinking that would be a more current term, and found that Library of Congress directs that “enslavers is not an appropriate term for those who owned slaves; instead, it should be used for any individuals or groups involved in slavery and the slave trade, including those who captured people, ship captains and crew who transported them, auctioneers who ran slave markets, merchants who purchased and sold slaves, plantation overseers and managers, banks and firms that financed plantations, institutions and individuals who owned slaves, etc.”([https://id.loc.gov/authorities/subjects/sh2022006245.html]( https://id.loc.gov/authorities/subjects/sh2022006245.html)). We will continue the conversation around these terms with our colleagues to decide the best way forward to solve this research problem.
+
+### Conclusions and Next Steps
+
+As always, we are deeply appreciative of our interviewees and their generous sharing of insights, experiences, and suggestions. The ten interviews we conducted in Phase 1 and the three in Phase 2 have been important reminders of the value of listening to researchers talk about their experiences and understand where the gaps are from their perspectives. Even when we are on the right track, we can miss things—like an important subject heading—that are crucial components of productive interactions between researchers and our collections.
+
+Going forward we will be following up on a few items mentioned above and consolidated here:
+
+Action items:
+
+-	Browsable list of 700 slavery era collections on a webpage: proceed with discussion with colleagues about how to share this information with researchers.
+-	Edit the “Learn more here” statement to underscore long term impact of collecting driven by white supremacy.
+-	Article link about Wilson’s collecting at the bottom of the “Learn more here” statement: reread article and add a descriptive blurb.
+-	Edit statement about reparative description in Processing Information and “Records of enslavement” in Contents List to include free people of color.
+-	Slaveholders and/or Enslavers subject headings: discuss and decide which headings to use.
+
+Conversations we can start having in Wilson:
+
+-	Legacy finding aids: establish a policy and/or workflow for making legacy finding aids (paper-based and born digital) accessible from the current finding aid. 
+-	Family Search: how would this interact with On These Grounds?
+-	Conversations around this work at a PWI
+-	Public presentations: what are some new venues for getting the word out about new approaches to description for slavery era collections at Wilson Library?
+
+After migration of finding aids to ArchivesSpace:
+
+-	Banner to identify slavery era collection finding aids: initiate discussion with colleagues about possible implementation.
+-	Contact button: can it open in a new tab? Can it float along side of the finding aid? Initiate discussion with colleagues about implementation.
+-	Email address in the Processing Information: can it point to the contact form? Initiate discussion with colleagues about implementation.
+
