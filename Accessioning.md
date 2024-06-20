@@ -571,4 +571,7 @@ The required fields are **Role** and **Agent**.
     - University of North Carolina at Chapel Hill. Library. Southern Historical Collection 
     - University of North Carolina at Chapel Hill. Library. University Archives and Records Service  
     
-  - If linking the name of a processor, please use the existing record, or create a new record if needed (see "Agent [a.k.a. Names] Links" above). 
+  - If linking the name of a processor, please use the existing record, or create a new record if needed (see "Agent [a.k.a. Names] Links" above).
+ 
+  - ![will](https://github.com/UNC-Libraries/SCTS-Documentation/assets/62356141/156ead94-b18e-4571-830e-027f9f2b8184)
+
