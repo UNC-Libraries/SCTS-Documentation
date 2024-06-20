@@ -6,7 +6,9 @@ Building our understanding of the research process and experience of genealogist
 - [IDEA Grant African American Family History Researchers: Phase 2](#idea-grant-on-african-american-family-history-researchers-phase-2)
 
 Seeking feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff.
-    
+
+***
+
 # IDEA Grant on African American Family History Researchers: Phase 1
 
 Project team:
@@ -239,7 +241,7 @@ We began this project in hopes of gaining some insights into the perspectives an
 ## Acknowledgements
 This project was supported by a grant from the [University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council](https://library.unc.edu/idea/council/) at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
 
-## Endnotes
+
 [^1]: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
 [^2]: For example, if your ancestor was alive during the New Deal, then think about the social security number. Considering what forms were filled out to establish the unique identifier and what agencies might have tracked it offer additional search points.
 [^3]: We also heard that manuscript materials can be very difficult to read on microfilm. Digitization can dramatically improve decipherability.
@@ -249,6 +251,7 @@ This project was supported by a grant from the [University Libraries Inclusion, 
 [^7]: For example: [716. Lewis Thompson Papers](https://finding-aids.lib.unc.edu/00716/).
 [^8]: [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/)
 
+***
 
 # IDEA Grant on African American Family History Researchers: Phase 2
 
@@ -372,3 +375,6 @@ After migration of finding aids to ArchivesSpace:
 
 ## Acknowledgements
 This project was supported by a grant from the [University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council](https://library.unc.edu/idea/council/) at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
+
+***
+## Endnotes
