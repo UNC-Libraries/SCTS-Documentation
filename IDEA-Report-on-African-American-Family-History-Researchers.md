@@ -365,3 +365,5 @@ After migration of finding aids to ArchivesSpace:
 -	Contact button: can it open in a new tab? Can it float along side of the finding aid? Initiate discussion with colleagues about implementation.
 -	Email address in the Processing Information: can it point to the contact form? Initiate discussion with colleagues about implementation.
 
+## Acknowledgements
+This project was supported by a grant from the [University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council](https://library.unc.edu/idea/council/) at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
