@@ -311,7 +311,9 @@ Olivia Dorsey Peacock suggested that we consider providing links to and contextu
 ### Questions and Comments for the Library
 
 > Contact button on the banner
- 
+ ![contact_us](https://github.com/UNC-Libraries/SCTS-Documentation/assets/62152077/de852618-0191-422e-b346-68ff1c80d108)
+
+
 > 	We welcome questions and comments at wilsonlibrary@unc.edu
   
 We want to communicate openness to questions and feedback alike, especially around reparative description. We wondered if the “contact” button in the banner was visible and encouraging enough. The feedback on this seemed to suggest that having both the button at the top (Antonio Austin asked if it could float along the side of the finding aid?) and the additional statement in the Processing Information section would be fine. The email address that is provided should be a link, and it should take the researcher to the same form as the contact button. Renate Yarborough Saunders suggested that it would be helpful if that contact button opened in a new tab in order to facilitate a researcher formulating their request by going back and forth between the finding aid and the contact us form. We have investigated this and it is possible, but it may be a project that waits until after the migration to ArchivesSpace, when global edits like this one will be much easier to execute.
