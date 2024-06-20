@@ -573,5 +573,5 @@ The required fields are **Role** and **Agent**.
     
   - If linking the name of a processor, please use the existing record, or create a new record if needed (see "Agent [a.k.a. Names] Links" above).
  
-  - ![will](https://github.com/UNC-Libraries/SCTS-Documentation/assets/62356141/156ead94-b18e-4571-830e-027f9f2b8184)
+  
 
