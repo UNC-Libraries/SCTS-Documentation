@@ -1,11 +1,11 @@
 # IDEA Grant Reports on African American Family History Researchers
 - [IDEA Grant on African American Family History Researchers: Phase 1](#idea-grant-on-african-american-family-history-researchers-phase-1)
 
-Building our understanding of the research process and experience of genealogists and researchers of African American family history.
+Goald: Build our understanding of the research process and experience of genealogists and researchers of African American family history.
   
 - [IDEA Grant on African American Family History Researchers: Phase 2](#idea-grant-on-african-american-family-history-researchers-phase-2)
 
-Seeking feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff.
+Goal: Seek feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff.
 
 ***
 
@@ -239,7 +239,7 @@ We began this project in hopes of gaining some insights into the perspectives an
 - **Iteration: we are learning as we go and we expect that our descriptive practices and language will evolve as we revisit more legacy finding aids.**
 
 ## Acknowledgements
-This project was supported by a grant from the [University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council](https://library.unc.edu/idea/council/) at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
+This project was supported by a grant from the University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
 
 
 [^1]: Other online sources mentioned include: earlywashingtondc.org; informationwanted.org; and [Race and Slavery Petitions Project](https://library.uncg.edu/slavery/petitions/) at University of North Carolina Greensboro.
@@ -322,7 +322,7 @@ Olivia Dorsey Peacock suggested that we consider providing links to and contextu
  ![contact_us](https://github.com/UNC-Libraries/SCTS-Documentation/assets/62152077/de852618-0191-422e-b346-68ff1c80d108)
 
 
-> 	We welcome questions and comments at wilsonlibrary@unc.edu
+> 	We welcome questions and comments at wilsonlibrary@unc.edu.
   
 We want to communicate openness to questions and feedback alike, especially around reparative description. We wondered if the “contact” button in the banner was visible and encouraging enough. The feedback on this seemed to suggest that having both the button at the top (Antonio Austin asked if it could float along the side of the finding aid?) and the additional statement in the Processing Information section would be fine. The email address that is provided should be a link, and it should take the researcher to the same form as the contact button. Renate Yarborough Saunders suggested that it would be helpful if that contact button opened in a new tab in order to facilitate a researcher formulating their request by going back and forth between the finding aid and the contact us form. We have investigated this and it is possible, but it may be a project that waits until after the migration to ArchivesSpace, when global edits like this one will be much easier to execute.
 
@@ -374,7 +374,7 @@ After migration of finding aids to ArchivesSpace:
 -	Email address in the Processing Information: can it point to the contact form? Initiate discussion with colleagues about implementation.
 
 ## Acknowledgements
-This project was supported by a grant from the [University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council](https://library.unc.edu/idea/council/) at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
+This project was supported by a grant from the University Libraries Inclusion, Diversity, Equity, and Accessibility (IDEA) Council at the University of North Carolina at Chapel Hill. Grant funding was used to compensate interviewees for their time.
 
 ***
 ## Endnotes
