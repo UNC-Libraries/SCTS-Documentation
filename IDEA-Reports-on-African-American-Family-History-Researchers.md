@@ -1,9 +1,9 @@
 # IDEA Grant Reports on African American Family History Researchers
-- [IDEA Grant on African American Family History Researchers: Phase 1](#idea-grant-on-african-american-family-history-researchers-phase-1)
+- [Phase 1](#idea-grant-on-african-american-family-history-researchers-phase-1)
 
-Goald: Build our understanding of the research process and experience of genealogists and researchers of African American family history.
+Goal: Build our understanding of the research process and experience of genealogists and researchers of African American family history.
   
-- [IDEA Grant on African American Family History Researchers: Phase 2](#idea-grant-on-african-american-family-history-researchers-phase-2)
+- [Phase 2](#idea-grant-on-african-american-family-history-researchers-phase-2)
 
 Goal: Seek feedback on clarity, tone, and placement of several statements that were composed to share information with researchers about our slavery era collection finding aids and how to communicate with library staff.
 
