@@ -88,7 +88,7 @@ Save event.
 
 # New on the Web
 
-New_On_Web.xlxs found on Teams at Wilson SCRC-Archival--General--Files.
+New_On_Web.xlxs found on Teams at Wilson SCTS-Archival--General--Files.
 
 Create new tab for the month. Add info from all the blue sheets that came in that month. Let Jackie know when done.
 
