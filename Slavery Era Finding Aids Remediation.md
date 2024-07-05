@@ -23,7 +23,7 @@ Additional Resources from UNC Libraries:
 - **[Studying Slavery in the Southern Historical Collection tutorial](https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)**
 - **[A Guide to Conscious Editing at Wilson Special Collections Library](https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)**
 - **[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)**
-- **[University Libraries Reckoning Initiative Framework](https://library.unc.edu/reckoning/framework/)**
+
 
 
 ## Remediation projects
