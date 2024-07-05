@@ -1,3 +1,57 @@
+
+# June 2024
+
+New
+
+- **[Charles M. Weiss and Shirley F. Weiss Photographs and Travel Diaries, 1939-1997](https://finding-aids.lib.unc.edu/70180/)
+This collection contains photographic slides, photographic prints, and travel diaries created by Charles M. Weiss and Shirley F. Weiss, former white faculty members at the University of North Carolina at Chapel Hill who traveled extensively throughout the world. The collection primarily consists of photographic slides and prints taken by Charles M. Weiss, including approximately 3,000 35mm slides and about 300 large-format mounted photographic prints from exhibitions of his work. Materials include artistic depictions of world heritage sites such as Machu Picchu in Peru, as well as images from the Weisses' professional work, including documentation of settlements that were part of the "New Town" city planning program such as Soul City, N.C., and photographs showing the development of Jordan Lake and University Lake. Other materials with local interest include photographs of Chapel Hill, N.C. in the 1950s. There are also bound travel diaries.**
+
+- **[Photographic Collection of Bikers and Motorcycle Clubs Culture in Winston-Salem, N.C., circa 1950s-1960s]( https://finding-aids.lib.unc.edu/70183/)
+The collection contains photographic prints depicting 1950s-1960s motorcycle culture in Winston-Salem, N.C. and vicinity in the 1950s-1960s, and includes numerous images of Black members of this community. Several of the images document interaction between Black and white people, which was often not documented. A majority of the images appear to have been removed from a photograph album and several have short descriptions written on them.**
+
+Additions
+
+- **[Academic Technology and Networks of the University of North Carolina at Chapel Hill Records, 1951-2000s](https://finding-aids.lib.unc.edu/40224)
+Addition of February 2024: Reports, Planning Documents, and Memos, 1976-1997 (Transfer 20240408.1): Reports, planning documents, and memos documenting the evolution of computer policies and usage at the University of North Carolina at Chapel Hill.**
+
+- **[Folk Alliance International Collection, 1982-2022](https://finding-aids.lib.unc.edu/20267)
+DF-20267/20: Contains born digital video of a summit meeting for folklorists and academics held in connection with Folk Alliance International’s (FAI) 2022 annual conference. Presented by FAI and co-hosted by American Folklore Society (AFS) and the American Folklife Center (AFC) at the Library of Congress with funding in part through the National Endowment for the Arts, this summit brought together folklorists, artists, and industry professionals to consider pathways and barriers to practicing tradition as a profession and to being recognized as an expert in artistic and academic spaces.**
+
+
+- **[Howard Washington Odum Papers, 1908-1990s](https://finding-aids.lib.unc.edu/03167)
+Subseries 7.6. Papers, 1930s-1990s (Addition of April 2024): Contains photographs, newspaper clippings, diplomas, and other ephemera related to or belonging to Howard Washington Odum. Most photographs are of Odum at various stages in his life and professional academic career. Other materials include: a White House Invitation to Odum and his wife, 1941 (taped to a sheet of paper, along with other small ephemeras including an IACP honorary membership card); diplomas from Clark University; a North Carolina State Planning Board certificate, 1945 (the Planning Board was established in 1935 as part of the New Deal, and abolished in 1947); a booklet that appears to be an Odum funeral or memorial program; and newspaper clippings concerning Odum, 1930s-1990s.**
+
+
+- **[Jeff Fields Papers, 1953-2009 (bulk 1964-1980)](https://finding-aids.lib.unc.edu/04950)
+Jeff Fields (1938- ), Georgia-born novelist, television producer and host, and 1964 graduate of the University of North Carolina in Chapel Hill.  Additions of November 2009 and May 2024: Additional correspondence and related items, writings, and photographs.**
+
+
+- **[Mexican Comic Collection, 1951-2022](https://finding-aids.lib.unc.edu/70030)
+This collection contains comic books and other graphic material produced in Mexico by Mexican writers and artists between 1951 and 2020, with the bulk of the materials dating between 2010 and 2019. Series 1A.8. Comic Books and Graphic Novels, 2015-2022, and undated (Addition of May 2024)**
+
+
+- **[Tom Davenport Papers, 1968-2018](https://finding-aids.lib.unc.edu/20025)
+The addition of January 2024 (Acc. 20240207.1) contains film elements for Davenport's 1968 film "Flowers." The film shows Davenport's early development as a filmmaker. The film features Davenport's parents, Robert and Elizabeth Davenport, on their farm ("Hollin") in the Crooked Run Valley between Delaplane, Va., and Paris, Va.**
+
+Description updates
+
+- **[Burk Uzzle Photograph Collection, 1930s-2010s](https://finding-aids.lib.unc.edu/70116)
+Container list and additional description added to collection level record.**
+
+- **[Capehart Family Papers, 1782-2005](https://finding-aids.lib.unc.edu/01494)
+Series 6A. Capehart and Harney Family History (Addition of September 2007), 1890s-2005 (Accession 100768): Contains materials documenting later generations of the Capehart Family, primarily William Selby Harney, Jr., and his mother, Clara Capehart Harney. Clara Capehart Harney was the daugther of William Rhodes Capehart. Included is a photograph album of the Capehart family, with most of the images identified; four scrapbooks documenting Capehart and Harney family history compiled by William Selby Harney, Jr.; one scrapbook of items relating to William Selby Harney, Jr., compiled by Clara Capehart Harney; and an oral history interview with William Selby Harney, Jr., conducted by his niece, Helen Harney Conrad.**
+
+- **[Florentine Films Archive, 1981-1997](https://finding-aids.lib.unc.edu/20193)Added audio open reels pertaining to "Baseball," a nine-part series on the history of baseball;  Added Series 13, William Segal: Contains materials used to make three short films collected and distributed together as Seeing, Searching, Being: William Segal, which explore the question of search and individual identity through the work and teachings of philosopher and painter William Segal. The films are William Segal (1992) Vezelay (1996) and In the Marketplace (2000).**
+
+- **[Louis Harris Papers, 1940s-1990s](https://finding-aids.lib.unc.edu/04662)
+Added folder list for Boxes 1-14, with more to come.**
+
+- **[Neal Family Papers, 1816-1916](https://finding-aids.lib.unc.edu/04370)
+In June 2024, archivists reviewed this collection to uncover more information about the lives of enslaved and free people of color. Containers that include materials related to enslaved and free people of color during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement and/or free people of color" or "Records of Reconstruction."**
+
+
+
+
 # May 2024
 New
 - **[Álbumes de Cromos on Latin American and Spanish History Collection, 1950-2013](https://finding-aids.lib.unc.edu/70182/)
