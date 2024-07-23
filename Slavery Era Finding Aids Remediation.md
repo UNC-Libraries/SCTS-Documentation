@@ -28,6 +28,31 @@ Additional Resources from UNC Libraries:
 
 ## Remediation projects
 
+### Finding aids remediation: 2024
+
+The following remediation projects were prompted by Wilson Library researchers:
+
+* [1052. William Eaton Papers](https://finding-aids.lib.unc.edu/01052/): updated abstract, subject headings, biographical note, collection overview, contents list.
+
+* [3075. Edenton Methodist Episcopal Church record book](https://finding-aids.lib.unc.edu/03075/): Updated abstract, subject headings, collection overview, contents list.
+
+* [5206. Sherrod Family Papers](https://finding-aids.lib.unc.edu/05206/): updated abstract, subject headings, biographical information, scope and content, and contents list.
+
+* [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/): updated collection overview, subject headings, biographical note, scope and content note, and contents list.
+
+* [1468. Leak and Wall Family Papers](https://finding-aids.lib.unc.edu/01468/): updated abstract, subject headings, biographical note, scope and content note, and contents list.
+
+* [602. Philip Henry Pitts Papers](https://finding-aids.lib.unc.edu/00602/): updated abstract, biographical note, collection overview, contents list.
+
+* [4834. Daniel Shine Hill Papers](https://finding-aids.lib.unc.edu/04834/): updated abstract, subject headings, biographical information, scope and content, and contents list.
+
+* [2441. James T. Harrison Papers](https://finding-aids.lib.unc.edu/02441/): updated abstract, subject headings, biographical note, scope content note, contents list.
+
+The following remediation project was completed in the course of processing a new accession:
+
+* [340. Laurens Hinton Papers](https://finding-aids.lib.unc.edu/00340/): Updated abstract, subject headings, biographical note, scope and content note, and contents list). Earlier versions of the finding aid are available upon request.
+
+
 ### Finding aids remediation: 2023
 
 The following remediation projects were prompted by and/or done in consultation with Wilson Library researchers: 
@@ -43,6 +68,7 @@ The following remediation projects were completed in the course of processing ne
 * [669. Skinner Family Papers](https://finding-aids.lib.unc.edu/00669/): revised to include information about records of enslavement in folder level description.
 * [5144. Harrison and Smith Family Papers](https://finding-aids.lib.unc.edu/05144/): revised to include information about records of enslavement in folder level description.
 * [3149. Hairston and Wilson Family Papers](https://finding-aids.lib.unc.edu/03149/): revised to include information about records of enslavement in folder level description.
+*  [3367. Elizabeth Amis Cameron Blanchard Papers](https://finding-aids.lib.unc.edu/03367/): revised to include information about records of enslavement in folder level description.
   
 ### Finding aids remediation: July through December 2022
 
