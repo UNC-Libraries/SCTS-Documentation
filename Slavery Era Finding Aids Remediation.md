@@ -62,13 +62,16 @@ The following remediation projects were prompted by and/or done in consultation 
 * [3223. Battle Family Papers](https://finding-aids.lib.unc.edu/03223/): remediation of abstract, biographical note, collection scope and content note, and all series level descriptions; compression of sub-subseries into subseries; review of legacy finding aid for material about enslaved, free, and freed people; addition of description for records of enslavement and records of Reconstruction at folder level.
 * [389. Robert A. Jones Papers](https://finding-aids.lib.unc.edu/00389/): revised to more accurately reflect collection content about enslaved, free, and Indigenous people.
 * [1294. Manumission Records of North Carolina](https://finding-aids.lib.unc.edu/01294/): revised to more accurately reflect collection content about enslaved and free people.
+* [1912. Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): updated abstract, subject headings, biographical note, scope content note, and container list.
 
 The following remediation projects were completed in the course of processing new accessions:
 
 * [669. Skinner Family Papers](https://finding-aids.lib.unc.edu/00669/): revised to include information about records of enslavement in folder level description.
 * [5144. Harrison and Smith Family Papers](https://finding-aids.lib.unc.edu/05144/): revised to include information about records of enslavement in folder level description.
 * [3149. Hairston and Wilson Family Papers](https://finding-aids.lib.unc.edu/03149/): revised to include information about records of enslavement in folder level description.
-*  [3367. Elizabeth Amis Cameron Blanchard Papers](https://finding-aids.lib.unc.edu/03367/): revised to include information about records of enslavement in folder level description.
+* [3367. Elizabeth Amis Cameron Blanchard Papers](https://finding-aids.lib.unc.edu/03367/): revised to include information about records of enslavement in folder level description.
+* [5506. Bill of Sale for Sam](https://finding-aids.lib.unc.edu/05506/): updated title, abstract, subject headings, scope and content note.
+* [842. Bill of Sale for Sam and Political Cartoon](https://finding-aids.lib.unc.edu/00842/): updated title, abstract, subject headings, scope and content note.
   
 ### Finding aids remediation: July through December 2022
 
