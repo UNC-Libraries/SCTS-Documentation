@@ -20,9 +20,9 @@ Our past practices are problematic, and we are working to repair them by rectify
 For more information about plans and milestones for this work, please see information about our remediation projects and our guidelines for finding aid remediation below. We welcome thoughts, suggestions, and questions at wilsonlibrary@unc.edu.
 
 Additional Resources from UNC Libraries: 
-- **[Studying Slavery in the Southern Historical Collection tutorial](https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)**
-- **[A Guide to Conscious Editing at Wilson Special Collections Library](https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)**
-- **[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)**
+- **[Studying Slavery in the Southern Historical Collection tutorial](https://guides.lib.unc.edu/researching-records-slavery/introduction-to-shc)** This tutorial includes a brief history of the Southern Historical Collection (SHC); a guide to document types and formats commonly associated with primary sources about slavery in the SHC; a list of collections that document slavery organized by topic; and strategies for researching slavery specifically within the SHC. 
+- **[A Guide to Conscious Editing at Wilson Special Collections Library](https://cdr.lib.unc.edu/concern/articles/qv33s598j?locale=en)** A helpful resource for those engaged in redescription work to remediate racist, derogatory, and biased collection descriptions for archives and manuscript collections in the Library.
+- **[The "Ceaseless Quest for Truth": The Southern Historical Collection and the Making and Remaking of the Southern Past](https://cdr.lib.unc.edu/concern/scholarly_works/d217qv73x?locale=en)** (Pam Kelley, The Assembly, 18 August 2021) An examination of the white supremacist culture and historical context that shaped J. G. de Rhoulac Hamilton's archiving of white civilization at the Southern Historical Collection. 
 
 
 
