@@ -10,6 +10,18 @@ Partially processed. Andrew, Nancy, and SFC student Elizabeth Esser are in the p
 - **[Miscellaneous Papers of 510 E. Franklin Street, 1879-1957](https://finding-aids.lib.unc.edu/05418/ )  Scattered, unrelated documents collected in 2005 from a building slated for destruction on the property of 510 East Franklin Street, located in the Chapel Hill Historic District in downtown Chapel Hill, N.C., and formerly owned by Charles Staples Mangum (1870-1939), a white University of North Carolina faculty member. Included are an 1879 daybook for merchant H. W. Gordon; financial and legal records including insurance policies for train conductor W. E. Gordon from Spencer, N.C.; handwritten poems, stories, and reflections possibly by David Currie; and materials pertaining to the publication of Charles S. Mangum, Jr.'s book The Legal Status of the Negro, including letters from W. T. Couch, editor and director of the University of North Carolina Press. There is no obvious thread connecting the papers except for the fact that they perhaps all belonged to former residents of the property. Acquired as part of the Southern Historical Collection.
 Container list and additional description added to collection level record.**   
 
+Additions: 
+
+- **[Florentine Films Archives](https://finding-aids.lib.unc.edu/20193/)
+Added Series 14. Working in Rural New England. Contains materials used to make Working in Rural New England,, Burns's thesis film while attending Hampshire College in Amherst, Mass. The 27-minute film educated visitors at the Old Sturbridge Village living museum located in nearby Sturbridge, Mass.**
+
+- **[Laurens Hinton Papers, 1825-1896](https://finding-aids.lib.unc.edu/00340/)
+The Addition of 2021 consists of correspondence, chiefly to Bella and Hugh Williams; newspaper clippings with social news about family members; genealogical and family history notes; other miscellaneous papers, including a history of the Connecticut Mutual Life Insurance office in Raleigh; and photographs that are chiefly formal and informal portraits of family members, with some additional snapshots of people at leisure on a seaside holiday, boating, at a river boat, and graveside. Records of enslavement include a copy of a genealogical letter (24 November 1915) that mentiones Molly (active 1792-1810), an enslaved person who was trafficked from Richard Eppes to Martha Bolling Eppes circa 1792.**
+
+Description updates: 
+
+- **[Louis Harris Papers, 1940s-1990s](https://finding-aids.lib.unc.edu/04662/)
+Added folder list for Boxes 15-47, with more to come.**
 
 
 # June 2024
