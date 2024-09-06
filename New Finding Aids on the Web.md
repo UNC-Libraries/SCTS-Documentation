@@ -1,7 +1,7 @@
 # July and August 2024
 New
 - **[Cathy Fink and Marcy Marxer Collection ](https://finding-aids.lib.unc.edu/70184/ )  Cathy Fink and Marcy Marxer are white musicians, music educators, activists, and a married couple of 35 years. Their collection documents bluegrass, country, and folk music performance and education, especially children's songs, and consists of project files with correspondence, press clippings, and promotional ephemera, such as flyers, posters, and photographic album art elements. Also included are audio and video recordings of studio sessions and live performances.
-Partially processed. Andrew, Nancy, and SFC student Elizabeth Esser are in the process of adding additional materials.**
+*Partially processed. Andrew, Nancy, and SFC student Elizabeth Esser are in the process of adding additional materials.**
  
 - **[Ivan M. Tribe Collection ](https://finding-aids.lib.unc.edu/70185/ )  Collection of Ivan M. Tribe (1940-2023), who was a white professor emeritus of History at the University of Rio Grande, scholar of Appalachian culture, and an expert on traditional country and bluegrass music. Included are research files, promotional and snapshot photographs, book projects, and writing projects. Materials on West Virginian musicians including photograph albums, posters for music shows, and movies. Also includes taped interviews from Hornpipe and Fugue, a radio show hosted by Ivan and his wife Deanna Tribe. Sound recording formats include audiocassettes, LPs, 45rpm records**
 .
