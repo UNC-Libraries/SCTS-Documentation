@@ -1,3 +1,36 @@
+
+# September 2024
+
+Expanded description 
+- **[Jacquelyn Dowd Hall Papers](https://finding-aids.lib.unc.edu/05574/)Professional papers, including correspondence, writings, speeches, research notes, teaching materials, and printed items comprise the collection of Jacquelyn Dowd Hall, a white historian of women and gender, labor and working classes, civil rights, and the American South and the founding director of the Southern Oral History Program (SOHP) at the University of North Carolina at Chapel Hill.
+_Enhanced processing from collection level record._**
+
+- **[Matt Hart Poster Collection](https://finding-aids.lib.unc.edu/20457/)
+Hand-made, graphic posters and album covers, numbered and signed by the artist, comprise the collection of Matt Hart, a white poster artist, home brewer, and cheese monger residing in Chapel Hill, N.C. The majority of posters are for music shows at clubs and other venues in Chapel Hill and Durham, N.C., and Los Angeles and San Francisco, Calif. Acquired as part of the Southern Folklife Collection.
+_Rehoused/described for infrastructure preparation, and then was coincidentally requested by a researcher._**
+
+Additions
+- **[Howell Begle Collection](https://finding-aids.lib.unc.edu/20441/)
+Howell Begle is a white entertainment and media lawyer and long-time activist on behalf of early rhythm and blues recording artists. 
+_Added born-digital content from accessions 102103 and 102348._**
+
+- **[Office of University Communications Records](https://finding-aids.lib.unc.edu/40482/)
+The Office of University Communications is responsible for media relations and communications on behalf of the University of North Carolina at Chapel Hill. 
+_Addition includes photographs taken by university photographers Jon Gardiner and Johnny Andrews, 2019-2022, including photographs from the COVID-19 pandemic, 2020-2021._**
+
+- **[Peter Guralnick Collection](https://finding-aids.lib.unc.edu/20453/)
+The Peter Guralnick Collection contains materials related to the writings of Peter Guralnick (1943-), a white author of fiction, screenplays, music criticism, biographies, and nonfiction anthologies about American roots and popular music, particularly music of the American South, including country, blues, gospel, soul, and rock 'n roll, from the 1950s and 1960s. 
+_Interviews and musical recordings from Accession 20211210.1 that had not been added to the finding aid._**
+
+- **[Ralph W. Ketner Papers](https://finding-aids.lib.unc.edu/05774/) Personal and business papers of Ralph W. Ketner, white co-founder of the Food Lion grocery store chain. Collection includes personal and family photographs, business correspondence from Ketner's tenure as CEO of the company, personal correspondence related to Ketner's broad civic, political and philanthropic interests, scrapbooks on Ketner's career, and video recordings with Ketner talking about leadership and the history of the company.
+_Materials likely arrived in March 2018, but were not processed as part of the collection until September 2024._**
+
+- **[Thomas Ware Diary](https://finding-aids.lib.unc.edu/01796/) The collection consists of a five-volume diary kept by Thomas Lewis Ware, presumably of Washington, Ga., while he was a member of the 15th Georgia Infantry Regiment, Confederate States of America, serving in Virginia and in the Gettysburg campaign, during which he was killed; and an essay or address about Jews and early Christians. 
+_The photograph likely arrived with the original accession but was not processed as part of the collection until September 2024._**
+
+
+
+
 # July and August 2024
 New
 - **[Cathy Fink and Marcy Marxer Collection ](https://finding-aids.lib.unc.edu/70184/ )  Cathy Fink and Marcy Marxer are white musicians, music educators, activists, and a married couple of 35 years. Their collection documents bluegrass, country, and folk music performance and education, especially children's songs, and consists of project files with correspondence, press clippings, and promotional ephemera, such as flyers, posters, and photographic album art elements. Also included are audio and video recordings of studio sessions and live performances.**
