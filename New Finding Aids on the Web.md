@@ -2,7 +2,7 @@
 # September 2024
 
 Expanded description 
-- **[Jacquelyn Dowd Hall Papers](https://finding-aids.lib.unc.edu/05574/)Professional papers, including correspondence, writings, speeches, research notes, teaching materials, and printed items comprise the collection of Jacquelyn Dowd Hall, a white historian of women and gender, labor and working classes, civil rights, and the American South and the founding director of the Southern Oral History Program (SOHP) at the University of North Carolina at Chapel Hill.**
+- **[Jacquelyn Dowd Hall Papers](https://finding-aids.lib.unc.edu/05574/) Professional papers, including correspondence, writings, speeches, research notes, teaching materials, and printed items comprise the collection of Jacquelyn Dowd Hall, a white historian of women and gender, labor and working classes, civil rights, and the American South and the founding director of the Southern Oral History Program (SOHP) at the University of North Carolina at Chapel Hill.**
 *Enhanced processing from collection level record.*
 
 - **[Matt Hart Poster Collection](https://finding-aids.lib.unc.edu/20457/)
