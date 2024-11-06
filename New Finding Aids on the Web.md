@@ -39,7 +39,7 @@ Expanded description:
 - **[David Morton Collection, 1928-2003](https://finding-aids.lib.unc.edu/20373/)**
   *Added FS-18634: David Morton radio interview.*
 
-Addition: 
+Additions: 
 - **[Association for the Preservation of the Eno River Valley Collection, 1983-2020s](https://finding-aids.lib.unc.edu/20329/)
 Acc. 20240613.1. Addition of Fall 2023: Festival Files and Recordings.**
 *Contains files and photographs from the Eno Festival, including posters and programs from most years, as well as submitted music for performance consideration.*
@@ -49,7 +49,7 @@ RT 20240109.2. Addition of January 2024.**
 *Contains files about the Rare Book Collection and collection development.*
 
 - **[McLean, Stinson, and Grigsby Family Papers, 1870-1980](https://finding-aids.lib.unc.edu/04703/)**
-- *Formerly Grigsby Family Papers. Acc. 20240603.2. _Photographs, correspondence, and some manuscript and print material.*
+  *Formerly Grigsby Family Papers. Acc. 20240603.2. _Photographs, correspondence, and some manuscript and print material.*
 
 - **[Office of the University Librarian of the University of North Carolina at Chapel Hill Records, 1894; 1904-2008](https://finding-aids.lib.unc.edu/40047/)**
 *RT 20240916.2. Subseries 9.4. Department Heads Meeting Minutes*
