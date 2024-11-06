@@ -48,7 +48,7 @@ Acc. 20240613.1. Addition of Fall 2023: Festival Files and Recordings.**
 RT 20240109.2. Addition of January 2024.**
 *Contains files about the Rare Book Collection and collection development.*
 
-- **[McLean, Stinson, and Grigsby Family Papers, 1870-1980](https://finding-aids.lib.unc.edu/04703/)Acc. 20240603.2.**
+- **[McLean, Stinson, and Grigsby Family Papers, 1870-1980](https://finding-aids.lib.unc.edu/04703/) Acc. 20240603.2.**
 *Photographs, correspondence, and some manuscript and print material. Formerly Grigsby Family Papers.*
 
 - **[Office of the University Librarian of the University of North Carolina at Chapel Hill Records, 1894; 1904-2008](https://finding-aids.lib.unc.edu/40047/) RT 20240916.2.**
