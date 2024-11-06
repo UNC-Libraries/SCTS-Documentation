@@ -1,4 +1,61 @@
 
+# October 2024
+
+October 2024
+- **[Auxiliary Services of the University of North Carolina at Chapel Hill Records, 1990s-2020s](https://finding-aids.lib.unc.edu/40263/)
+Records of the Auxiliary Services of the University of North Carolina at Chapel Hill primarily consisting of promotional materials and sample coursepacks from Print and Copy Services and promotional materials, menus, cookbooks (Aramark Culinary Excellence), and departmental information from Carolina Dining Services. The Print and Copy Services materials document some of the last work of the pre-digital era for course readings. The Auxiliary Services include Armored Car, Carolina Dining Services, UNC Student Stores, Carolina Managed Print Services, UNC Print Stop & Copy Center, Horace Williams Airport, Laundry, PID Office, UNC One Card, University Mail Services, and Vending. Acquired as part of University Archives. **
+
+- **[James H. Martin Jr. Papers, 1976-1986](https://finding-aids.lib.unc.edu/70194/)
+James H. Martin Jr. (1919-2002) of Gastonia, N.C., was a white textile executive. The collection consists of board records, reports, correspondence, and other materials relating to Martin's work as an executive or director with the American Textile Manufacturers Institute (ATMI); the North Carolina Textile Manufacturers Association; Ti-Caro, Inc.; the International Textile Manufacturers Federation; and the Industry Policy Advisory Committee (IPAC). Topics include international trade, especially with regard to increasing exports without simultaneously driving up finished apparel imports; byssinosis; and the Crafted With Pride in the U.S.A. campaign to encourage Americans to buy American-made clothing and textiles. Also included are texts of speeches Martin gave to textile industry audiences and others, and audio recordings of sessions at annual meetings of the American Textile Manufacturers Institute. **
+
+- **[John C. Whitaker Scrapbooks, 1913-1970](https://finding-aids.lib.unc.edu/70192/)
+John C. Whitaker (1891-1978) was a white executive in the tobacco industry. The collection consists of seven scrapbooks that chronicle Whitaker's life from the beginning of his professional career at R.J. Reynolds in 1913 until the 1960s. One of the scrapbooks documents Whitaker as chair of the Community Chest, an organization that fundraised for community organizations in Winston-Salem. Scrapbooks contain correspondence, newspaper clippings, photographs, certificates, event programs, and other materials that document personal, professional, and civic activities. **
+
+- **[Malvina Reynolds Collection, 1940s-2010s]https://finding-aids.lib.unc.edu/70197/)
+The collection of folksinger and songwriter Malvina Reynolds (1900-1978) contains extensive documentation of Reynolds' songwriting career and her political activism from the 1940s through the 1970s in California's San Francisco Bay Area. Collection materials include Reynolds' alphabetical files for her song titles, sheet music, songbooks, lead sheets with musical notations for performances, song sketches, lyrics, poems, stories, scripts, notebooks, autobiographical writing, biographical notes written by Reynolds' daughter Nancy Schimmel (1934- ), transcriptions of Schimmel's interviews of Reynolds, professional publicity photographs, posters, music festival programs, music publishing and licensing documentation, press clippings, performance calendars, and correspondence. Correspondents include American singers and political activists Barbara Dane (1927-2024) and Pete Seeger (1919-2014). Reynold's creative work with the Children's Television Workshop (renamed Sesame Workshop) and her performances on episodes of Sesame Street are documented in correspondence with the Workshop and fan mail she received. Reynolds' political activism is reflected in copies of articles and columns she wrote for the leftist newspaper People's Daily World under a pseudonym and in redacted copies of FBI surveillance files on Reynolds, a socialist, and her spouse William Reynolds, who was also a socialist activist. The files were obtained through a U.S. Freedom of Information request made by Reynolds' biographer Ellen Stekert (1935- ), and the collection contains correspondence related to that request. Reynold's collection also includes academic research files and a copy of her PhD dissertation in literature for the University of California, Berkeley. Acquired as part of the Southern Folklife Collection.**
+
+- **[Patrick Dougherty Collection, 1975-2022](https://finding-aids.lib.unc.edu/70188/)
+The collection of North Carolina-based artist and sculptor Patrick Dougherty (1945- ) contains files he maintained for his more than 300 outdoor art installations exhibited at museums, galleries, botanical gardens, college campuses, and other public and private venues in North Carolina, the United States, Europe, Japan, and Australia. Files for installations include correspondence, agreements with venues, drawings, sketches, press releases, press clippings, photographs, and audiovisual and electronic documentation of the art work. Other materials include exhibition catalogs and printed items such as greeting cards featuring images of Dougherty's large outdoor sculptures constructed from a variety of hard woods and tree saplings. Acquired as part of the Southern Folklife Collection.**
+
+- **[Preservation Chapel Hill Records, 1972-2002](https://finding-aids.lib.unc.edu/70191/)
+Preservation Chapel Hill, previously known as Chapel Hill Preservation Society and Preservation Society of Chapel Hill, was founded in 1972 under the leadership of Ida Howell Friday and Georgia Carroll Kyser. The records consist of meeting minutes, 1972-2002.**
+
+- **[Rachel Liebling Collection, 1960s-1990s](https://finding-aids.lib.unc.edu/70189/)
+The collection of filmmaker Rachel Liebling contains production materials for her 1994 documentary film High Lonesome: The Story of Bluegrass Music. Materials include 16mm film elements, a 16mm release print, original negatives of film outtakes, video transfers on Betacam and other analog formats, photographs, 1/4" open-reel audiotapes, audiocassettes, and transcriptions of interviews. The film featured interviews and live music recordings of bluegrass and country musicians and music groups including Bill Monroe (1911-1996), Ralph Stanley (1927-2016), Earl Scruggs (1924-2012), Mac Wiseman (1925-2019), Don Reno (1926-1984), the Osborne Brothers, and Jim and Jesse. In addition to these "first generation" bluegrass musicians, Liebling's film featured members of the then new generation including Alison Krauss (1971- ) and Sam Bush (1952- ). Open-reel audiotapes contain live country and bluegrass music performances recorded in Nashville, Tenn., in the 1960s. Photographs depict musicians, musical performances, and recording sessions, including a session with the Earl Scruggs Revue, a musical group Scruggs formed with his sons in the 1970s. The collection also contains materials from Amram Nowak, a filmmaker who directed the 1972 documentary film The Nashville Sound. Acquired as part of the Southern Folklife Collection.**
+
+- **[Roy Thompson Papers, 1940s-1980s](https://finding-aids.lib.unc.edu/70196/)
+This collection contains the journals and writings of Roy Thompson (1923-2007), a white columnist and reporter for the Winston-Salem Journal and Sentinel newspapers from 1950 to 1985. 55 three-ring binders of typewritten text on a variety of paper types. Materials include 34 notebooks of Thompson’s "North Carolina Notes," short quotations or summaries of facts about North Carolina and North Carolinians that Thompson found in books and other print resources. Entries range across a variety of subjects related to the state’s people, literature, history, natural environment, and places. There are more than 24,000 entries, indexed in 9 additional notebooks. The collection also includes 11 notebooks and binders that Thompson kept from 1940 through 1948, which include his years as a student studying journalism at the University of North Carolina. The journals include typescripts of some of Thompson’s articles, essays written as a student, and diaries of his life. A binder from 1953 includes clippings of columns and news reports for the Winston-Salem newspapers. There is also a mockup of Thompson’s publication Around Europe in 80 Feedboxes, 80 columns that he wrote during travels in Europe in 1955. Materials have been removed from three-ring binders. Received as part of the North Carolina Collection.**
+
+- **[Southern Historical Collection Community-Driven Archives Papers and Records, 2018-2021](https://finding-aids.lib.unc.edu/70190/)
+This collection contains materials documenting the work of the Southern Historical Collection’s Community-Driven Archives Team (CDAT) from 2017-2021, supported by a grant from the Andrew W. Mellon Foundation. This collection contains extensive materials about community-driven archives work, including documentation of community partnerships, workshops, presentations, programs, and assessments. Communities documented in this collection include: Mound Bayou, Miss.; Shaw, Miss.; Princeville, N.C.; Hobson City, Ala.; Edgecombe County, N.C.; Grambling, La.; Tuskegee, Ala.; Navassa, N.C.; East Spencer, N.C.; Eatonville, Fla.; the San Antonio African American Community Archives and Museum, the Appalachian Student Health Coalition, and the Eastern Kentucky African American Migration Project (EKAAMP).**
+
+- **[Stanly County Chapter of American War Mothers Records, 1941-1988](https://finding-aids.lib.unc.edu/70193/)
+The Stanly County Chapter of American War Mothers was founded in November 1944. The collection chiefly documents the Stanly County chapter but other local chapters in North Carolina and state and national organizations are also represented. Records consist of printed constitutions and by-laws, yearbooks, meeting minutes, convention programs and other materials, financial records and treasury reports for the chapter and guest house in Oteen, N.C.; membership applications; scrapbooks with newspaper clippings, photographs, event programs; and a book of remembrance with the names of veterans from Stanly County who died in service during World War I and World War II.**
+
+Expanded description: 
+- **[Eben T. Rawls Papers, 1917-2005](https://finding-aids.lib.unc.edu/05387/)**
+  *Broken into folder list for digitization request.*
+
+- **[David Morton Collection, 1928-2003](https://finding-aids.lib.unc.edu/20373/)**
+  *Added FS-18634: David Morton radio interview.*
+
+Addition: 
+- **[Association for the Preservation of the Eno River Valley Collection, 1983-2020s](https://finding-aids.lib.unc.edu/20329/)
+Acc. 20240613.1. Addition of Fall 2023: Festival Files and Recordings.**
+*Contains files and photographs from the Eno Festival, including posters and programs from most years, as well as submitted music for performance consideration.*
+
+- **[Health Sciences Library of the University of North Carolina at Chapel Hill Records, 1930s-2014](https://finding-aids.lib.unc.edu/40247/)
+RT 20240109.2. Addition of January 2024.**
+*Contains files about the Rare Book Collection and collection development.*
+
+- **[McLean, Stinson, and Grigsby Family Papers, 1870-1980](https://finding-aids.lib.unc.edu/04703/)**
+- *Formerly Grigsby Family Papers. Acc. 20240603.2. _Photographs, correspondence, and some manuscript and print material.*
+
+- **[Office of the University Librarian of the University of North Carolina at Chapel Hill Records, 1894; 1904-2008](https://finding-aids.lib.unc.edu/40047/)**
+*RT 20240916.2. Subseries 9.4. Department Heads Meeting Minutes_*
+
+
+
 # September 2024
 
 Expanded description 
