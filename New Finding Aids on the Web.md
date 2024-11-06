@@ -2,7 +2,6 @@
 # October 2024
 
 New
-
 - **[Auxiliary Services of the University of North Carolina at Chapel Hill Records, 1990s-2020s](https://finding-aids.lib.unc.edu/40263/)
 Records of the Auxiliary Services of the University of North Carolina at Chapel Hill primarily consisting of promotional materials and sample coursepacks from Print and Copy Services and promotional materials, menus, cookbooks (Aramark Culinary Excellence), and departmental information from Carolina Dining Services. The Print and Copy Services materials document some of the last work of the pre-digital era for course readings. The Auxiliary Services include Armored Car, Carolina Dining Services, UNC Student Stores, Carolina Managed Print Services, UNC Print Stop & Copy Center, Horace Williams Airport, Laundry, PID Office, UNC One Card, University Mail Services, and Vending. Acquired as part of University Archives. **
 
