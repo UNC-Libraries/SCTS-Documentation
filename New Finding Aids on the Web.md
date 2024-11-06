@@ -1,7 +1,6 @@
 
 # October 2024
 
-October 2024
 - **[Auxiliary Services of the University of North Carolina at Chapel Hill Records, 1990s-2020s](https://finding-aids.lib.unc.edu/40263/)
 Records of the Auxiliary Services of the University of North Carolina at Chapel Hill primarily consisting of promotional materials and sample coursepacks from Print and Copy Services and promotional materials, menus, cookbooks (Aramark Culinary Excellence), and departmental information from Carolina Dining Services. The Print and Copy Services materials document some of the last work of the pre-digital era for course readings. The Auxiliary Services include Armored Car, Carolina Dining Services, UNC Student Stores, Carolina Managed Print Services, UNC Print Stop & Copy Center, Horace Williams Airport, Laundry, PID Office, UNC One Card, University Mail Services, and Vending. Acquired as part of University Archives. **
 
@@ -11,7 +10,7 @@ James H. Martin Jr. (1919-2002) of Gastonia, N.C., was a white textile executive
 - **[John C. Whitaker Scrapbooks, 1913-1970](https://finding-aids.lib.unc.edu/70192/)
 John C. Whitaker (1891-1978) was a white executive in the tobacco industry. The collection consists of seven scrapbooks that chronicle Whitaker's life from the beginning of his professional career at R.J. Reynolds in 1913 until the 1960s. One of the scrapbooks documents Whitaker as chair of the Community Chest, an organization that fundraised for community organizations in Winston-Salem. Scrapbooks contain correspondence, newspaper clippings, photographs, certificates, event programs, and other materials that document personal, professional, and civic activities. **
 
-- **[Malvina Reynolds Collection, 1940s-2010s]https://finding-aids.lib.unc.edu/70197/)
+- **[Malvina Reynolds Collection, 1940s-2010s](https://finding-aids.lib.unc.edu/70197/)
 The collection of folksinger and songwriter Malvina Reynolds (1900-1978) contains extensive documentation of Reynolds' songwriting career and her political activism from the 1940s through the 1970s in California's San Francisco Bay Area. Collection materials include Reynolds' alphabetical files for her song titles, sheet music, songbooks, lead sheets with musical notations for performances, song sketches, lyrics, poems, stories, scripts, notebooks, autobiographical writing, biographical notes written by Reynolds' daughter Nancy Schimmel (1934- ), transcriptions of Schimmel's interviews of Reynolds, professional publicity photographs, posters, music festival programs, music publishing and licensing documentation, press clippings, performance calendars, and correspondence. Correspondents include American singers and political activists Barbara Dane (1927-2024) and Pete Seeger (1919-2014). Reynold's creative work with the Children's Television Workshop (renamed Sesame Workshop) and her performances on episodes of Sesame Street are documented in correspondence with the Workshop and fan mail she received. Reynolds' political activism is reflected in copies of articles and columns she wrote for the leftist newspaper People's Daily World under a pseudonym and in redacted copies of FBI surveillance files on Reynolds, a socialist, and her spouse William Reynolds, who was also a socialist activist. The files were obtained through a U.S. Freedom of Information request made by Reynolds' biographer Ellen Stekert (1935- ), and the collection contains correspondence related to that request. Reynold's collection also includes academic research files and a copy of her PhD dissertation in literature for the University of California, Berkeley. Acquired as part of the Southern Folklife Collection.**
 
 - **[Patrick Dougherty Collection, 1975-2022](https://finding-aids.lib.unc.edu/70188/)
@@ -52,7 +51,7 @@ RT 20240109.2. Addition of January 2024.**
 - *Formerly Grigsby Family Papers. Acc. 20240603.2. _Photographs, correspondence, and some manuscript and print material.*
 
 - **[Office of the University Librarian of the University of North Carolina at Chapel Hill Records, 1894; 1904-2008](https://finding-aids.lib.unc.edu/40047/)**
-*RT 20240916.2. Subseries 9.4. Department Heads Meeting Minutes_*
+*RT 20240916.2. Subseries 9.4. Department Heads Meeting Minutes*
 
 
 
