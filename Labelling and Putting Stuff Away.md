@@ -10,7 +10,7 @@
 
 # Linking to locations in ArchivesSpace
 
-_This section is in the process of undergoing extenstive revisions by Dawne Howard Lucas, November 2024_
+_This section is in the process of undergoing extenstive revisions by Dawne Howard Lucas, November 2024. Revisions are not yet complete! Let Dawne know if you need assistance._
 
 ## Why keep track of locations?
 
@@ -126,27 +126,37 @@ Let's say you are in charge of shelving Document Case 2 of the Howard W. Ketner 
 
 "What's a top container?," you might ask. Top containers typically refer to pageable units, such as record cartons, document cases, image boxes, or oversize boxes. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotapes and films.
 
-<!-- ![home_page](https://user-images.githubusercontent.com/62356141/81220617-9a5c2400-8faf-11ea-8515-dd26ac95b06d.png) -->
+_Don't worry! Screenshots will be added the week of November 18!_
+
+<!-- Enter updated screenshot here -->
 
 Click on the gear wheel on the top right hand portion of the screen and select "Manage Top Containers" from the drop menu. 
 
 
-<!-- ![edit_button](https://user-images.githubusercontent.com/62356141/81222256-fde75100-8fb1-11ea-9da9-ae7532385173.png) -->
+<!-- Enter updated screenshot here -->
 Type the collection number (05774) in the "Resource" field and click on the search button. Doing so will return a list of all of the top containers associated with this collection.
 
-
-<!-- ![edit_view](https://user-images.githubusercontent.com/62356141/81226468-e2cc0f80-8fb8-11ea-8b85-375641a80cbc.png) -->
+<!-- Enter updated screenshot here -->
 Scroll down and click on the check box for Document Case 2.
+> Note: In this example, we are adding a location to one top container. If you needed to add locations to multiple top containers within the same collection, you would check multiple boxes.
 
-<-- ![instances_menu](https://user-images.githubusercontent.com/62356141/81226886-89181500-8fb9-11ea-9ea2-d6a836c981be.png) -->
-Once you are in the "Instances" portion of the record, click where you see the words "Please click to load records."
+<!-- Enter updated screenshot here -->
+Click on the "Bulk Operations" button in the bottom right corner, and then select "Update Locations: Single Location."
+> NOTE: If you are adding locations to multiple boxes with multiple locations, you can use "Update Locations: Multiple Locations."
 
-![clik_to_load](https://user-images.githubusercontent.com/62356141/81588140-15458600-9386-11ea-9e9e-472eb8df2997.png)
+<!-- Enter updated screenshot here -->
 
-Scroll down to the end of the container list and click on "Add Container Instance." 
-> NOTE: You can also click on "Add Container Instance" at the beginning of the container list, but you will still have to scroll down to the end of the list.
+_Usually_, you can start typing the location in the "Location" box and the location will appear as an option. In this example, the location is Teal G8a5. Select the location and click the "Update" button (the update button will indicate how many records you are updating).
+> NOTE: The "Update" button will indicate how many top containers you are updating. Since we are updating one top container in this example, the button says "Update 1 records."
 
-![add_container_instance](https://user-images.githubusercontent.com/62356141/81590589-057b7100-9389-11ea-9b62-3a3b8b98fe51.png)
+<!-- Enter updated screenshot here -->
+
+If typing the location in doesn't bring up the correct location, you will have to browse for it by clicking on the arrow to the right of the "Location" box and selecting "Browse." Filter and/or facet until you find the correct location, and click on the "Link" button in the bottom left corner. The location will now appear in the "Location" box. Click the "Update" button to save the record. 
+> NOTE: The "Update" button will indicate how many top containers you are updating. Since we are updating one top container in this example, the button says "Update 1 records."
+
+If you still can't find the correct location, contact Dawne!
+
+<!-- 
 
 You will see the following form:
 
@@ -178,9 +188,9 @@ Now select the box and click "Link to Top Containers."
 If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
 ![os_with_subcontainer](https://user-images.githubusercontent.com/62356141/81601208-96a61400-9398-11ea-8d7b-8d2ead7a7fdc.png)
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
+-->
 
-
-
+<!-- Can reuse these instructions for adding to accession records? 
 
 #### To create a new top container, select the "Create" option instead of the browse option. 
 
@@ -222,7 +232,7 @@ If applicable, use the "Child Type" and "Child Indicator" fields to record sub-c
 
 That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
 
-
+-->
 <!-- ## ID number -->
 
 <!-- The ID number is automatically generated every time you add a record to the database. The number exists only to ensure that each row has a unique identifier in the database. This field can be sorted in order to track the order in which records have been entered into the database. -->
