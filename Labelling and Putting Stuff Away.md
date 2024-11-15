@@ -1,16 +1,16 @@
-Updated July 2019
+<!-- Updated July 2019 -->
 
 # Overview
 
-- [Creating locations in ArchivesSpace](#creating-locations-in-archivesspace)
+- [Linking to locations in ArchivesSpace](#linking-locations-in-archivesspace)
 - [Labels](#labels)
 - [Items Separated](#items-separated)
 
 ***
 
-# Creating locations in ArchivesSpace
+# Linking to locations in ArchivesSpace
 
-_Updated by Dawne Howard Lucas, May 2020; updated by Anne Wells, May 2021_
+_Updated by Dawne Howard Lucas, May 2020; updated by Anne Wells, May 2021; page undergoing extenstive revisions by Dawne Howard Lucas, November 2024_
 
 ## Why keep track of locations?
 
@@ -78,8 +78,9 @@ To remember the layout of the building better, think of Wilson Library as a sand
 | **1929**             | 1952     | 1977       | 
 | ---------------| ------------| --------------------- | 
 | 3. Sepia  | 3. Green          | 3. N/A      |
+| 4. Pink B | 4. N/A | 4. N/A |
 | 5. N/A  | 5. N/A          | 5. Purple      |
-| 6. N/A  | 6. N/A          | 6. Black      |
+| 6. Pink A  | 6. N/A          | 6. Black      |
 | 7. N/A  | 7. N/A          | 7. Teal      |
 | 9. Blue  | 9. Blue          | 9. Yellow      |
 | 10. Orange  | 10. Orange          | 10. Red      |
@@ -97,7 +98,7 @@ Which floor is the container on? Typically 3, 5, 6, 7, 9 or 10.
 
 ### Room
 
-The color zone indicated by signage in the room: Red, Orange, Blue, Yellow, Purple, Black, Sepia, or Green. 
+The color zone indicated by signage in the room: Red, Orange, Blue, Yellow, Purple, Black, Pink, Sepia, or Green. 
 
 ### Area
 
