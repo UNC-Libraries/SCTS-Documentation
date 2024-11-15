@@ -10,7 +10,7 @@
 
 # Linking to locations in ArchivesSpace
 
-_Updated by Dawne Howard Lucas, May 2020; updated by Anne Wells, May 2021; page undergoing extenstive revisions by Dawne Howard Lucas, November 2024_
+_This section is in the process of undergoing extenstive revisions by Dawne Howard Lucas, November 2024_
 
 ## Why keep track of locations?
 
@@ -120,27 +120,25 @@ This is a number describing which shelf the container/item is on.
 
 To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password. 
 
-## Creating new location information
+## Linking to location information
 
-Let's say you are in charge of shelving the latest addition to the Student Health Coalition Papers (#05649). Once you have shelved the materials and logged into ArchivesSpace, search for the collection using the "Search All Records" box. 
+Let's say you are in charge of shelving Document Case 2 of the Howard W. Ketner Papers (#05774). Once the box is safely on the shelf, you will link it to its location using "Manage Top Containers."
 
-![home_page](https://user-images.githubusercontent.com/62356141/81220617-9a5c2400-8faf-11ea-8515-dd26ac95b06d.png)
+"What's a top container?," you might ask. Top containers typically refer to pageable units, such as record cartons, document cases, image boxes, or oversize boxes. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotapes and films.
 
-Identify the correct resource record for the collection, and then click "Edit." 
-> NOTE: Be careful! The correct resource record might not be the first result on the page.
+<!-- ![home_page](https://user-images.githubusercontent.com/62356141/81220617-9a5c2400-8faf-11ea-8515-dd26ac95b06d.png) -->
+
+Click on the gear wheel on the top right hand portion of the screen and select "Manage Top Containers" from the drop menu. 
 
 
-![edit_button](https://user-images.githubusercontent.com/62356141/81222256-fde75100-8fb1-11ea-9da9-ae7532385173.png)
+<!-- ![edit_button](https://user-images.githubusercontent.com/62356141/81222256-fde75100-8fb1-11ea-9da9-ae7532385173.png) -->
+Type the collection number (05774) in the "Resource" field and click on the search button. Doing so will return a list of all of the top containers associated with this collection.
 
-Once the record is open, click on the collection title to give you a fuller view.
-> NOTE: You will sometimes encounter this note, especially when dealing with large collections: "Oops! We're having trouble fetching this tree. Please try refreshing the page." Just be patient, and it will usually open with no further action needed.
 
-![edit_view](https://user-images.githubusercontent.com/62356141/81226468-e2cc0f80-8fb8-11ea-8b85-375641a80cbc.png)
+<!-- ![edit_view](https://user-images.githubusercontent.com/62356141/81226468-e2cc0f80-8fb8-11ea-8b85-375641a80cbc.png) -->
+Scroll down and click on the check box for Document Case 2.
 
-Now that you can see the entire record in edit view, click on the "Instances" tab on the left side of the screen.
-
-![instances_menu](https://user-images.githubusercontent.com/62356141/81226886-89181500-8fb9-11ea-9ea2-d6a836c981be.png)
-
+<-- ![instances_menu](https://user-images.githubusercontent.com/62356141/81226886-89181500-8fb9-11ea-9ea2-d6a836c981be.png) -->
 Once you are in the "Instances" portion of the record, click where you see the words "Please click to load records."
 
 ![clik_to_load](https://user-images.githubusercontent.com/62356141/81588140-15458600-9386-11ea-9e9e-472eb8df2997.png)
