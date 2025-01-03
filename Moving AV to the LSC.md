@@ -10,18 +10,18 @@
 ***
 
 # Introduction
-Below is documentation of our current workflows for barcoding and relocating motion picture film materials to climate-controlled storage at the LSC. After rehousing the motion picture film items that you are working with (information about this process can be found in our [audiovisual materials processing documentation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md)), the next major steps involve retrieving metadata for these materials from Jitterbug, attaching barcode labels to the items, adding barcode data to the metadata spreadsheets and communicating with various stakeholders to generate MARC records and arrange transportation before finally bringing the materials out to the LSC. It might seem like quite a bit, but it’s a pretty smooth process once you get into the swing of things! 
+Below is documentation of our current workflow for barcoding and relocating motion picture film materials to climate-controlled storage at the Library Services Center (or LSC). After rehousing the films that you are working with (information about this process can be found in our [audiovisual materials processing documentation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md)), the next major steps involve retrieving metadata for these materials from Jitterbug, attaching barcode labels to the items, adding barcode data to the metadata spreadsheets and communicating with various stakeholders to generate MARC records and arrange transportation before finally bringing the materials out to the LSC. It might seem like quite a bit, but it’s a pretty smooth process once you get into the swing of things! 
 
 **Why Relocate to Cold Storage?**
 
-In short, relocating films from storage in the Wilson stacks to climate-controlled storage at the LSC is primarily a preservation-related concern. Like all collection items, motion picture films react to heat and humidity present in the storage environment. For the most part, the motion picture materials held at Wilson Library have either an acetate or a polyester base: each of which reacts differently to unstable environmental conditions. In the case of acetate-based films, heat and humidity can cause the film base to release acetic acid: a condition popularly referred to as vinegar syndrome. The buildup of this acetic acid over time can result in shrinkage and embrittlement of the film base, which can ultimately result in the film becoming completely unusable. Furthermore, this process is autocatalytic, which means that the acetic acid gas released by these films can affect other materials stored nearby; for this reason, vinegar syndrome is a major threat to the long-term viability of our motion picture collection. Polyester films, on the other hand, are more stable than acetate-based films but can still be affected by improper storage conditions: with the most common symptoms being film shrinkage and color fading. Unfortunately, a recent environmental survey indicated that the environmental conditions present in the stacks at Wilson Library are insufficient for the long-term retention of motion picture materials. For this reason, we have determined that the best way to mitigate many of these potential issues and ensure the overall longevity of our motion picture collections is by relocating them to climate-controlled storage at the Library Services Center (LSC) in Durham. 
+In short, relocating films from the Wilson Library stacks to climate-controlled storage at the LSC is primarily a preservation-related concern. Like all collection items, motion picture films react to heat and humidity present in the storage environment. For the most part, the motion picture materials held at Wilson Library have either an acetate or a polyester base: each of which reacts differently to unstable environmental conditions. In the case of acetate-based films, heat and humidity can cause the film base to release acetic acid: a condition popularly referred to as vinegar syndrome. The buildup of this acetic acid over time results in shrinkage and embrittlement of the film base, which can ultimately result in the film becoming completely unusable. Furthermore, this process is autocatalytic, which means that the acetic acid gas released by these films can affect other materials stored nearby; for this reason, vinegar syndrome is a major threat to the long-term viability of our motion picture collection as a whole. Polyester films, on the other hand, are more stable than acetate-based films but can still be affected by improper storage conditions: with the most common symptoms being film shrinkage and color fading. Unfortunately, a recent environmental survey indicated that the environmental conditions present in the stacks at Wilson Library are insufficient for the long-term retention of motion picture materials. For this reason, we have determined that the best way to mitigate many of these potential issues and ensure the overall longevity of our motion picture collections is by relocating them to climate-controlled storage at the LSC. 
 
 # Jitterbug Data
-As mentioned in our audiovisual materials processing documentation, we use an internal database system called Jitterbug to store and track metadata pertaining to Wilson’s archival audiovisual materials. The use of this program has numerous applications that aid everything from archival processing to management of our ongoing AV digitization projects. In this case we are using it to retrieve the metadata that will eventually be used to create the MARC records for each object. These MARC records will allow the items to be tracked via the library catalog which, in turn, means that they are eligible for storage at the LSC. 
+As discussed in our [audiovisual materials processing documentation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md#jitterbug), we use an internal database system called [Jitterbug](https://jitterbug.lib.unc.edu/) to store and track metadata pertaining to Wilson’s archival audiovisual materials. The use of this program has numerous applications that aid in everything from archival processing to management of our ongoing AV digitization projects. In this case, we are using it to retrieve the metadata that will eventually be used to create the MARC records for each object. These MARC records will allow the items to be tracked via the library catalog which, in turn, means that they are eligible for storage at the LSC. 
 
 Once you have logged into Jitterbug, you will see three buttons at the top of the page: “Audio Visual Items”, “Preservation Instances” and “Transfers”; each of which directs you to a series of records. For our purposes, the “Audio Visual Items” tab is the only one to be concerned with since we are focusing solely on data pertaining to the physical items themselves rather than digitized content (which is the primary focus of the “Preservation Instances” and “Transfers” tabs). Click on the “Audio Visual Items” button to retrieve the metadata for the items that you will be working with.
 
-The typical approach to pulling down item metadata involves approaching these materials on a collection-by-collection basis, using the content filters visible on the left side of the screen. Jitterbug offers four different filters for materials: “Preservation Instance” Filters, “Type” Filters, “Collection” Filters and “Format” Filters. For our purposes we only need to concern ourselves with the “Type” and “Collection” filters.
+The typical approach to pulling down item metadata involves approaching these materials on a collection-by-collection basis, using the content filters visible on the left side of the screen. Jitterbug offers four different filters for materials: “Preservation Instance” filters, “Type” filters, “Collection” filters and “Format” filters. For our purposes we only need to concern ourselves with the “Type” and “Collection” filters.
 ![Film metadata in Jitterbug](https://github.com/andrewdcrook/Photographs/blob/main/Picture1.jpg)  
 Since we are only working with film items, check the “Film” box under “Type Filters”. From there, scroll through the collections featured under “Collection Filters” until you find the collection that you will be working with.  
 Once the correct collection has been selected, hold down the shift key and click the first item that you intend to work with, then click the last item of this intended group: this should highlight all the records that you will be exporting. After this is done, click the “Batch” button (located at the top of the page) and select “Export” from the dropdown menu that appears.
@@ -34,46 +34,47 @@ Once you have downloaded the CSV spreadsheet, the first thing to do is to save t
 
 At this point, with your films properly rehoused and your spreadsheet open on your desktop you should be ready to start barcoding! 
 
-A quick note on the barcode stickers: Technical Services should have a healthy supply of barcode stickers available, but if that isn’t the case contact Resource Description and Management (RDM) staff (as of this writing our contact is Kim Allen) and they should be able to provide additional materials. 
-![Barcoded film cans in library stacks](https://github.com/andrewdcrook/Photographs/blob/main/Picture4.jpg) 
+A quick note on the barcode stickers: Technical Services should have a healthy supply of barcode stickers available, but if that isn’t the case contact Resource Description and Management (RDM) staff (as of this writing, our contact is Kim Allen) and they should be able to provide additional materials. 
+
 The process of barcoding films is relatively straightforward, but it does require a degree of diligence. At this point, we’re using a USB powered scanner attached to a laptop or desktop to add barcode data into the spreadsheet. Select the cell in the barcode column that is directly adjacent to the call number of the item that is being barcoded; if the cell has been formatted as ‘text’ then it should be able to record the entire barcode, including the leading zeroes that are otherwise removed.  To enter the data, press the tip of the scanner onto the barcode sticker and rub horizontally across the barcode until the device beeps; if all has worked correctly, the barcode data should appear in the selected cell. Once you have completed scanning the sticker make sure to check this cell to ensure that all numbers (including leading zeroes) have been logged and that the information present in the spreadsheet matches what is on the barcode sticker. This will ultimately help to prevent any problems down the line once the items have been delivered to the LSC. After entering the barcode information, peel the sticker from the sheet and attach it to the side of the film can, preferably to the left of the call number label on the container. Continue to repeat this process until all film cans have barcode stickers attached and the accompanying spreadsheet has barcode data in the appropriate spots. 
+![Barcoded film cans in library stacks](https://github.com/andrewdcrook/Photographs/blob/main/Picture4.jpg) 
 
 # Templating and Creating MARC Records
-Once the barcode data has been logged, the next step is to work with Resource Description and Management (RDM) staff to create MARC records for each film. As of this writing (Spring 2024) we correspond with Wanda Gunther (authority control and database management librarian) and Thuy-Anh Dang (metadata librarian for media resources) to have the item data converted into MARC records. A key part of this process is to move the data from our initial metadata spreadsheet downloaded from Jitterbug into a templated spreadsheet that RDM will use to import this information into Sierra (our current cataloging system); a blank copy of this templated spreadsheet can be found on the G drive by following this folder path: G>wilson>ts>archival_cataloging>Films_ToMARC-Template.xslx. 
+Once the barcode data has been logged, the next step is to work with Resource Description and Management (RDM) staff to create MARC records for each film; as of this writing, our primary contacts are Wanda Gunther (authority control and database management librarian) and Thuy-Anh Dang (metadata librarian for media resources). A key part of this process is to move the data from our initial metadata spreadsheet downloaded from Jitterbug into a templated spreadsheet that RDM will use to import this information into Sierra (our current cataloging system); a blank copy of this templated spreadsheet can be found on the G drive by following this folder path: G>wilson>ts>archival_cataloging>Films_ToMARC-Template.xslx. 
 ![MARC data template spreadsheet](https://github.com/andrewdcrook/Photographs/blob/main/Picture5.jpg)
 For the most part, the fields in the MARC template spreadsheet should correspond one-to-one with the fields in the metadata spreadsheet; however, there are a few things that might seem initially confusing, so we’ll go through the fields here from left to right. 
 
-The first three fields are marked 949\\, 949 \1 $z and 915 \\: these are strictly for MARC record formatting; the data in these fields should be pre-populated in the initial template document and can be cut and pasted as needed. 
-949 \1 – CallNumber: Corresponds to “CallNumber” in our original spreadsheet
+**The first three fields are marked 949\\, 949 \1 $z and 915 \\:** these are strictly for MARC record formatting; the data in these fields should be pre-populated in the initial template document and can be cut and pasted as needed. 
+**949 \1 – CallNumber:** Corresponds to “CallNumber” in our original spreadsheet
 
-949 \1 $i – Barcode: Corresponds to “Barcode” in our original spreadsheet
+**949 \1 $i – Barcode:** Corresponds to “Barcode” in our original spreadsheet
 
 Following these fields are three fields marked “245 02 $a”, “245 03 $a” and “245 04 $a”: these fields can be left blank
-245 00 $a – Title: Corresponds to “Title” in our original spreadsheet
+**245 00 $a – Title:** Corresponds to “Title” in our original spreadsheet
 
-300 \\ $a: This field is for indicating the number of items in a film can. Data in this field should be formatted as follows: 1 film reel ; $c (for an item that has only one film in the can) and adjusted accordingly if more items are present in the can (2 film reels ; $c for an item with two reels in a container, for instance). 
+**300 \\ $a:** This field is for indicating the number of items in a film can. Data in this field should be formatted as follows: 1 film reel ; $c (for an item that has only one film in the can) and adjusted accordingly if more items are present in the can (2 film reels ; $c for an item with two reels in a container, for instance). 
 
-500 \\ $a – Collection Name: Place the collection name as found at the top of the finding aid.
+**500 \\ $a – Collection Name:** Place the collection name as found at the top of the finding aid.
 
-500 \\ - Collection #:  Place the collection number as found at the top of the finding aid; make sure to retain the leading zero for Southern Historical Collection items
+**500 \\ - Collection #:**  Place the collection number as found at the top of the finding aid; make sure to retain the leading zero for Southern Historical Collection items
 
-500 \\ - ItemYear: Data from the ItemYear or ItemDate fields can be placed here. If entering a specific date in the field be sure to reformat the data from the YYYY-MM-DD format to a Day Month Year format, so 1956-11-02 becomes 2 November 1956, for instance. 
+**500 \\ - ItemYear:** Data from the ItemYear or ItemDate fields can be placed here. If entering a specific date in the field be sure to reformat the data from the YYYY-MM-DD format to a Day Month Year format, so 1956-11-02 becomes 2 November 1956, for instance. 
 
-500 \\ - ContainerNote: Corresponds to ContainerNote
+**500 \\ - ContainerNote:** Corresponds to ContainerNote
 
-500 \\ - Base: Corresponds to Base
+**500 \\ - Base:** Corresponds to Base
 
-500 \\ - ContentDescription: Corresponds to ContentDescription
+**500 \\ - ContentDescription:** Corresponds to ContentDescription
 
-500 \\ - Element: Corresponds to Element
+**500 \\ - Element:** Corresponds to Element
 
-500 \\ - Color: Corresponds to Color
+**500 \\ - Color:** Corresponds to Color
 
-500 \\ - SoundType: Corresponds to SoundType
+**500 \\ - SoundType:** Corresponds to SoundType
 
-500 \\ - LengthInFeet: Corresponds to LengthInFeet
+**500 \\ - LengthInFeet:** Corresponds to LengthInFeet
 
-830 \0 – OriginalCollection: Describes the original collecting unit for each item. At this time, the field can be populated with five options: “SFC Film Collection,” “SHC Film Collection,” “UARMS Film Collection,” “NCC Film Collection” and “RBC Film Collection.”
+**830 \0 – OriginalCollection:** Describes the original collecting unit for each item. At this time, the field can be populated with five options: “SFC Film Collection,” “SHC Film Collection,” “UARMS Film Collection,” “NCC Film Collection” and “RBC Film Collection.”
 
 Once this data has been crosswalked to your satisfaction, it can be forwarded to RDM staff who will create the MARC records. After RDM staff verifies that the MARC records have been added to the catalog, we can start performing quality control. 
 
