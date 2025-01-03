@@ -10,7 +10,7 @@
 ***
 
 # Introduction
-Below is documentation of our current workflows for barcoding and relocating motion picture film materials to climate-controlled storage at the LSC. After rehousing the motion picture film items that you are working with (information about this process can be found in our audiovisual materials processing documentation), the next major steps involve retrieving metadata for these materials from Jitterbug, attaching barcode labels to the items, adding barcode data to the metadata spreadsheets and communicating with various stakeholders to generate MARC records and arrange transportation before finally bringing the materials out to the LSC. It might seem like quite a bit, but it’s a pretty smooth process once you get into the swing of things! 
+Below is documentation of our current workflows for barcoding and relocating motion picture film materials to climate-controlled storage at the LSC. After rehousing the motion picture film items that you are working with (information about this process can be found in our [audiovisual materials processing documentation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md)), the next major steps involve retrieving metadata for these materials from Jitterbug, attaching barcode labels to the items, adding barcode data to the metadata spreadsheets and communicating with various stakeholders to generate MARC records and arrange transportation before finally bringing the materials out to the LSC. It might seem like quite a bit, but it’s a pretty smooth process once you get into the swing of things! 
 
 **Why Relocate to Cold Storage?**
 
