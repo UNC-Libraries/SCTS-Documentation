@@ -52,6 +52,7 @@ For the most part, the fields in the MARC template spreadsheet should correspond
 **949 \1 $i – Barcode:** Corresponds to “Barcode” in our original spreadsheet
 
 Following these fields are three fields marked “245 02 $a”, “245 03 $a” and “245 04 $a”: these fields can be left blank
+
 **245 00 $a – Title:** Corresponds to “Title” in our original spreadsheet
 
 **300 \\ $a:** This field is for indicating the number of items in a film can. Data in this field should be formatted as follows: 1 film reel ; $c (for an item that has only one film in the can) and adjusted accordingly if more items are present in the can (2 film reels ; $c for an item with two reels in a container, for instance). 
