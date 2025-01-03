@@ -44,21 +44,34 @@ For the most part, the fields in the MARC template spreadsheet should correspond
 
 The first three fields are marked 949\\, 949 \1 $z and 915 \\: these are strictly for MARC record formatting; the data in these fields should be pre-populated in the initial template document and can be cut and pasted as needed. 
 949 \1 – CallNumber: Corresponds to “CallNumber” in our original spreadsheet
+
 949 \1 $i – Barcode: Corresponds to “Barcode” in our original spreadsheet
 
 Following these fields are three fields marked “245 02 $a”, “245 03 $a” and “245 04 $a”: these fields can be left blank
 245 00 $a – Title: Corresponds to “Title” in our original spreadsheet
+
 300 \\ $a: This field is for indicating the number of items in a film can. Data in this field should be formatted as follows: 1 film reel ; $c (for an item that has only one film in the can) and adjusted accordingly if more items are present in the can (2 film reels ; $c for an item with two reels in a container, for instance). 
+
 500 \\ $a – Collection Name: Place the collection name as found at the top of the finding aid.
+
 500 \\ - Collection #:  Place the collection number as found at the top of the finding aid; make sure to retain the leading zero for Southern Historical Collection items
+
 500 \\ - ItemYear: Data from the ItemYear or ItemDate fields can be placed here. If entering a specific date in the field be sure to reformat the data from the YYYY-MM-DD format to a Day Month Year format, so 1956-11-02 becomes 2 November 1956, for instance. 
+
 500 \\ - ContainerNote: Corresponds to ContainerNote
+
 500 \\ - Base: Corresponds to Base
+
 500 \\ - ContentDescription: Corresponds to ContentDescription
+
 500 \\ - Element: Corresponds to Element
+
 500 \\ - Color: Corresponds to Color
+
 500 \\ - SoundType: Corresponds to SoundType
+
 500 \\ - LengthInFeet: Corresponds to LengthInFeet
+
 830 \0 – OriginalCollection: Describes the original collecting unit for each item. At this time, the field can be populated with five options: “SFC Film Collection,” “SHC Film Collection,” “UARMS Film Collection,” “NCC Film Collection” and “RBC Film Collection.”
 
 Once this data has been crosswalked to your satisfaction, it can be forwarded to RDM staff who will create the MARC records. After RDM staff verifies that the MARC records have been added to the catalog, we can start performing quality control. 
