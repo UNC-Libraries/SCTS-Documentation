@@ -46,6 +46,7 @@ Once the barcode data has been logged, the next step is to work with Resource De
 For the most part, the fields in the MARC template spreadsheet should correspond one-to-one with the fields in the metadata spreadsheet; however, there are a few things that might seem initially confusing, so we’ll go through the fields here from left to right. 
 
 **The first three fields are marked 949\\, 949 \1 $z and 915 \\:** these are strictly for MARC record formatting; the data in these fields should be pre-populated in the initial template document and can be cut and pasted as needed. 
+
 **949 \1 – CallNumber:** Corresponds to “CallNumber” in our original spreadsheet
 
 **949 \1 $i – Barcode:** Corresponds to “Barcode” in our original spreadsheet
