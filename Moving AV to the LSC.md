@@ -42,6 +42,7 @@ The process of barcoding films is relatively straightforward, but it does requir
 # Templating and Creating MARC Records
 Once the barcode data has been logged, the next step is to work with Resource Description and Management (RDM) staff to create MARC records for each film; as of this writing, our primary contacts are Wanda Gunther (authority control and database management librarian) and Thuy-Anh Dang (metadata librarian for media resources). A key part of this process is to move the data from our initial metadata spreadsheet downloaded from Jitterbug into a templated spreadsheet that RDM will use to import this information into Sierra (our current cataloging system); a blank copy of this templated spreadsheet can be found on the G drive by following this folder path: G>wilson>ts>archival_cataloging>Films_ToMARC-Template.xslx. 
 ![MARC data template spreadsheet](https://github.com/andrewdcrook/Photographs/blob/main/Picture5.jpg)
+
 For the most part, the fields in the MARC template spreadsheet should correspond one-to-one with the fields in the metadata spreadsheet; however, there are a few things that might seem initially confusing, so we’ll go through the fields here from left to right. 
 
 **The first three fields are marked 949\\, 949 \1 $z and 915 \\:** these are strictly for MARC record formatting; the data in these fields should be pre-populated in the initial template document and can be cut and pasted as needed. 
