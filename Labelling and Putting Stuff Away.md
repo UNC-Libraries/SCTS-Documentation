@@ -126,17 +126,19 @@ Let's say you are in charge of shelving Document Case 2 of the Howard W. Ketner 
 
 "What's a top container?," you might ask. Top containers typically refer to pageable units, such as record cartons, document cases, image boxes, or oversize boxes. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotapes and films.
 
-_Don't worry! Screenshots will be added the week of November 18!_
 
-<!-- Enter updated screenshot here -->
+![image](https://github.com/user-attachments/assets/5391a489-b4e1-4336-b206-c9309c0b3dd9)
+
 
 Click on the gear wheel on the top right hand portion of the screen and select "Manage Top Containers" from the drop menu. 
 
 
-<!-- Enter updated screenshot here -->
+![image](https://github.com/user-attachments/assets/daabfa70-4d34-4ede-b9e5-d629bc133230)
+
 Type the collection number (05774) in the "Resource" field and click on the search button. Doing so will return a list of all of the top containers associated with this collection.
 
-<!-- Enter updated screenshot here -->
+![image](https://github.com/user-attachments/assets/70dc358d-16fa-4b78-a30c-50467460a336)
+
 Scroll down and click on the check box for Document Case 2.
 > Note: In this example, we are adding a location to one top container. If you needed to add locations to multiple top containers within the same collection, you would check multiple boxes.
 
