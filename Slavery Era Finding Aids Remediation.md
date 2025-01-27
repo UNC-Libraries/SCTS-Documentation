@@ -188,6 +188,7 @@ Remediation goal: repair description to make it more accessible, equitable, and 
 *	Update `<processinfo>`
 	- [Conscious Editing Work](https://library.unc.edu/reckoning/conscious-editing-initiative/) by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
 	- Add racial identity statement if it is not already there.
+ 	- In [date], archivists reviewed this collection to uncover more information about the lives of enslaved and free people of color. Containers that include materials related to enslaved and free people of color during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement and free people of color" or "Records of Reconstruction." Researchers are advised that the collection may include more documentation of slavery, free people of color, and Reconstruction than has been identified in this finding aid.
 
 **Collection overview:** 
 This is a balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. In this phase of remediation we are decentering whiteness by removing venerative language, but not eliminating existing description about the white family that is still useful. 
@@ -234,7 +235,7 @@ This is a balancing act of centering what we know about Black people without mis
 *	Remediate language (see **Language Overview** below)
 *	Remove quotes that only add literary flourish or describe violence against Black people.
 *	Remove repetition of biographical information about white people unless crucial to understanding the rest of the scopenote.
-*	Add item/folder level information for materials about Black people (if possible) 
+*	Add item/folder level information for materials about people of color (if possible) 
 *	Lists, wills, and bills of sale often will have names of enslaved people
 *	Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the "neighborhood" (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
 
@@ -246,7 +247,7 @@ This is a balancing act of centering what we know about Black people without mis
 
 		Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
 
-* Make sure all content about Black people is represented at higher `<c0n>` levels (sub-series, series, and collection overview).
+* Make sure all content about people of color is represented at higher `<c0n>` levels (sub-series, series, and collection overview).
   
 **Language overview:**
 *	Remove dehumanizing and marginalizing language, Lost Cause mythology 
