@@ -31,29 +31,26 @@ Additional Resources from UNC Libraries:
 ### Finding aids remediation: 2025 (changes not live due to ArchivesSpace migration, February 2025)
 
 * 1301-z. Annie Laurie Harris Broidrick's A Recollection of Thirty Years Ago: updated abstract, subject headings, biographical note, collection overview.
-
+  
 * 5778. Brock Family Papers: updated abstract, subject headings, biographical note, collection overview, contents list.
 
 * 5067. Sam Thomas Papers: updated abstract, subject headings, biographical note, collection overview, contents list.
 
+
 ### Finding aids remediation: 2024
 
-The following remediation projects were prompted by Wilson Library researchers:
+The following remediation projects were prompted by Wilson Library researchers or staff:
 
+* [1494. Capehart Family Papers](https://finding-aids.lib.unc.edu/01494/): updated abstract, collection overview, contents list.
+* [1294. Manumission Papers](https://finding-aids.lib.unc.edu/01294/): updated abstract, subject headings, collection overview, contents list.
+* [0065. Mary E. Strayhorn Berry Papers](https://finding-aids.lib.unc.edu/00065/): updated abstract, subject headings, biographical note, collection overview, contents list.
 * [1052. William Eaton Papers](https://finding-aids.lib.unc.edu/01052/): updated abstract, subject headings, biographical note, collection overview, contents list.
-
-* [3075. Edenton Methodist Episcopal Church record book](https://finding-aids.lib.unc.edu/03075/): Updated abstract, subject headings, collection overview, contents list.
-
+* [3075. Edenton Methodist Episcopal Church record book](https://finding-aids.lib.unc.edu/03075/): updated abstract, subject headings, collection overview, contents list.
 * [5206. Sherrod Family Papers](https://finding-aids.lib.unc.edu/05206/): updated abstract, subject headings, biographical information, scope and content, and contents list.
-
 * [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/04370/): updated collection overview, subject headings, biographical note, scope and content note, and contents list.
-
 * [1468. Leak and Wall Family Papers](https://finding-aids.lib.unc.edu/01468/): updated abstract, subject headings, biographical note, scope and content note, and contents list.
-
 * [602. Philip Henry Pitts Papers](https://finding-aids.lib.unc.edu/00602/): updated abstract, biographical note, collection overview, contents list.
-
 * [4834. Daniel Shine Hill Papers](https://finding-aids.lib.unc.edu/04834/): updated abstract, subject headings, biographical information, scope and content, and contents list.
-
 * [2441. James T. Harrison Papers](https://finding-aids.lib.unc.edu/02441/): updated abstract, subject headings, biographical note, scope content note, contents list.
 
 The following remediation project was completed in the course of processing a new accession:
