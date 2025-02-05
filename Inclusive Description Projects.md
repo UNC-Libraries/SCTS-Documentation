@@ -2,7 +2,7 @@
 Compiled October 2020, updated June, 2021, November 2021, December 2021, February 2022, July 2023, February 2025
 
 ## Revised title of George Talmadge Grigsby Sr. Papers to include women creators represented in collection, Fall 2024
-* Renamed the collection as the [4703. McLean, Stinson, and Grigsby Family Papers](https://finding-aids.lib.unc.edu/04703/) to reflect the amount and significance of the materials that were created by Gladys Natal Stinson Grigsby, Alberta McLean Stinson, and Harriet Ragland McLean, respectively the wife, mother-in-law, and grandmother-in-law of George Talmadge Grigsby Sr., as well as his son George Talmadge Grigsby Jr.
+* Renamed the collection to [4703. McLean, Stinson, and Grigsby Family Papers](https://finding-aids.lib.unc.edu/04703/) to reflect the amount and significance of the materials that were created by Gladys Natal Stinson Grigsby, Alberta McLean Stinson, and Harriet Ragland McLean, respectively the wife, mother-in-law, and grandmother-in-law of George Talmadge Grigsby Sr., as well as his son George Talmadge Grigsby Jr.
 
 ## Removed bias by enhancing description of the community represented by the collection, Summer 2024
 * [70040. Ocean City Beach (N.C.) Community Records](https://finding-aids.lib.unc.edu/70040/): Added description to the abstract, biographical note, and collection overview to make more clear that the collection documented a vacation community that was created by and marketed to the Black professional class of the piedmont region of North Carolina.
