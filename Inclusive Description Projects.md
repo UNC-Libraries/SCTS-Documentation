@@ -12,6 +12,11 @@ Compiled October 2020, updated June, 2021, November 2021, December 2021, Februar
 
 As of July 2023, this statement has been added to the collection level processing information for the following collections: 3417, 3709, 4258, 4710, 4740, 5422, 5526, 40501, 70103. P0024, P0034, P0035, P0077, P0081, P0085, P0115.
 
+## Revision of description relating to the the Lowry Gang in [Wishart Family Papers](https://finding-aids.lib.unc.edu/04624/), November 2022
+
+* Revised collection, series, and item level description to acknowledge that the unidentified Lowry gang member in the tintype had been murdered (the digitized version of this image also was taken down from the internet); removed language that characterized the gang as terrorists; and removed and/or replaced "Croatan" with "Lumbee" or "Indigenous peoples," as the former is an incorrect identifier for Indigenous people of Robeson County, N.C.  
+
+   
 ## Enhanced description for videotapes in the WTVD Moving Image Collection, January 2022
 
 * Audiovisual Archivist added descriptions to 534 videotapes found in the [WTVD Moving Image Collection (04929)](https://finding-aids.lib.unc.edu/04929/). The finding aid previously listed only videotape titles and formats. The finding aid now includes detailed item descriptions and topics that the AV Archivist consciously edited from a tape inventory found in the collection control file. 
