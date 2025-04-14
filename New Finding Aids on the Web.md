@@ -25,16 +25,16 @@ Additions
 
 - **[American Association of University Women, Chapel Hill Branch Records, 1923-2023](https://finding-aids.lib.unc.edu/catalog/03840) Born digital newsletter, bylaws, and president’s messages 2012-2019.**
 
-- **[Asian American Center of the University of North Carolina at Chapel Hill Records, 2020-2025](https://finding-aids.lib.unc.edu/catalog/70102_aspace_a8334d40d652ff1b3a058efc040bfc77)Asian American Center event documents, 2024-2025.**
+- **[Asian American Center of the University of North Carolina at Chapel Hill Records, 2020-2025](https://finding-aids.lib.unc.edu/catalog/70102_aspace_a8334d40d652ff1b3a058efc040bfc77) Asian American Center event documents, 2024-2025.**
 
-- **[J. W. Umstead Papers, 1939-1965](https://finding-aids.lib.unc.edu/catalog/03910)
+- **[J. W. Umstead Papers, 1939-1965] (https://finding-aids.lib.unc.edu/catalog/03910)
 Added folders 54-69**
 
-- **[McKeithen Family Papers, circa 1800s-1927, 1950s-2013](https://finding-aids.lib.unc.edu/catalog/05679_aspace_3483fcdf1d31331c3f3e6391307fb8e8)Letters and emails from Marcella Folley McKeithen to Anne McKeithen and Other Family Papers, 1950s-2013**
+- **[McKeithen Family Papers, circa 1800s-1927, 1950s-2013](https://finding-aids.lib.unc.edu/catalog/05679_aspace_3483fcdf1d31331c3f3e6391307fb8e8) Letters and emails from Marcella Folley McKeithen to Anne McKeithen and Other Family Papers, 1950s-2013**
 
 - **[Michal Family Papers, 1824-2012](https://finding-aids.lib.unc.edu/catalog/05542) Photographic slides of family vacations, holidays, and other miscellaneous family events, 1940s-1960s.**
 
-- **[Terry Sanford Papers, 1920-2006](https://finding-aids.lib.unc.edu/catalog/03531)Born digital content from previously processed additions.**
+- **[Terry Sanford Papers, 1920-2006](https://finding-aids.lib.unc.edu/catalog/03531) Born digital content from previously processed additions.**
 
 
 
