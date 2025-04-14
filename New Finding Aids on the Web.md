@@ -22,11 +22,10 @@ Contains materials collected by white fabric sales representative Jenny Henderso
 
 Additions
 
-Additions 
 
-- **[American Association of University Women, Chapel Hill Branch Records, 1923-2023](https://finding-aids.lib.unc.edu/catalog/03840) Born digital newsletter, bylaws, and president’s messages 2012-2019. **
+- **[American Association of University Women, Chapel Hill Branch Records, 1923-2023](https://finding-aids.lib.unc.edu/catalog/03840) Born digital newsletter, bylaws, and president’s messages 2012-2019.**
 
-- **[Asian American Center of the University of North Carolina at Chapel Hill Records, 2020-2025] (https://finding-aids.lib.unc.edu/catalog/70102_aspace_a8334d40d652ff1b3a058efc040bfc77) Asian American Center event documents, 2024-2025.**
+- **[Asian American Center of the University of North Carolina at Chapel Hill Records, 2020-2025](https://finding-aids.lib.unc.edu/catalog/70102_aspace_a8334d40d652ff1b3a058efc040bfc77)Asian American Center event documents, 2024-2025.**
 
 - **[J. W. Umstead Papers, 1939-1965](https://finding-aids.lib.unc.edu/catalog/03910)
 Added folders 54-69**
