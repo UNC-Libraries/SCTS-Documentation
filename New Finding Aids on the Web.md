@@ -1,3 +1,32 @@
+# March 2025
+
+- **[Campus Safety Commission of the University of North Carolina at Chapel Hill Records, 2019-2022]
+(https://finding-aids.lib.unc.edu/catalog/70198)
+The collection includes minutes, reports, correspondence, and publicity materials related to the work of the Campus Safety Commission, 2019-2022. The Campus Safety Commission (CSC) was convened by then Interim Chancellor Kevin Guskiewicz in April 2019. The mission is to assess the campus climate and culture around campus safety. The CSC was born out of a concern to address a "crisis of trust" between members of the campus community and the campus police, largely associated with events surrounding protests and events related to the removal of the Confederate Memorial. Commission members include students, staff, faculty, and community members.**
+
+- **[Dorothy Battle Wilkinson Papers](https://finding-aids.lib.unc.edu/catalog/70202)
+Dorothy Battle Wilkinson (1909-1997) was a member of the white Battle family and one of several inheritors of Cool Spring plantation in Rocky Mount, N.C.. The collection contains material related to the family sites (such as Cool Spring and Old Town), including papers concerning finances, insurance, and land from the 1980s and 1990s. Also included are Dorothy Battle Wilkinson's journals, diaries, photo albums, and scrapbooks, as well as materials related to her work with a literary society in Rocky Mount and local preservation efforts. An additional box of miscellaneous materials contains documents on local history and Rocky Mount Mills, a cotton mill owned at various times by Dorothy's ancestors.**
+
+- **[Hunter Johnson Papers, 1928-1990s]
+(https://finding-aids.lib.unc.edu/catalog/70195)
+Hunter Johnson (1906-1998) was a white American composer and teacher and North Carolina's first composer laureate. The collection consists of sheet music of Johnson's compositions and those of other artists, correspondence, composition books and notes, writings, and clippings, as well as photographs and recordings of music of Johnson. Notably, Johnson's compositions include a piano sonata and the orchestral music for Martha Graham's ballets Letter to the World, based on the life and poetry of Emily Dickinson, and the collection includes correspondence with Martha Graham and materials of the Martha Graham Dance Company.**
+
+- **[James McGuire Student Notebook, 1884]
+(https://finding-aids.lib.unc.edu/catalog/70199)
+Student notebook of James McGuire (active 1884) a white college student from Davie County, N.C., for an 1884 political economy class taught by Kemp P. Battle at the University of North Carolina. Includes content on race and North Carolina's constitutional conventions in the 1860s.**
+
+- **[Jean Freisleben Letters, 1942]
+(https://finding-aids.lib.unc.edu/catalog/70204)
+Jean Freisleben took graduate courses in 1942 at the University of North Carolina's School of Social Work. She was active in Hillel and the Jewish community at UNC. The Jean Freisleben Letters contain 44 letters and 4 postcards written by Freisleben to her parents in Opelika, Ala., while she was a graduate student. They detail her social work courseload and field experience in Durham and Raleigh, her participation in UNC Hillel, her dorm in Kenan Hall, and her dating and social life in Chapel Hill. They offer insight into student life at UNC during World War II and address additional topics such as sugar rations, blackouts, and the presence of servicemen on campus.**
+
+- **[Jenny Henderson Collection on North Carolina Film and Television History, 1905-2000]
+(https://finding-aids.lib.unc.edu/catalog/70205)
+Contains materials collected by white fabric sales representative Jenny Henderson documenting the history of films and television programs filmed in North Carolina from 1905 through 2000. Henderson authored the book The North Carolina Filmography: Over 2000 Film and Television Works Made in the State, 1905 through 2000.**
+
+
+
+
+
 
 # October 2024
 
