@@ -28,13 +28,14 @@ Additional Resources from UNC Libraries:
 
 ## Remediation projects
 
-### Finding aids remediation: 2025 (changes not live due to ArchivesSpace migration, February 2025)
+### Finding aids remediation: 2025
+The following remediation projects were prompted by Wilson Library researchers or staff:
 
-* 1301-z. Annie Laurie Harris Broidrick's A Recollection of Thirty Years Ago: updated abstract, subject headings, biographical note, collection overview.
-  
-* 5778. Brock Family Papers: updated abstract, subject headings, biographical note, collection overview, contents list.
-
-* 5067. Sam Thomas Papers: updated abstract, subject headings, biographical note, collection overview, contents list.
+* [1301-z. Annie Laurie Harris Broidrick's A Recollection of Thirty Years Ago](https://finding-aids.lib.unc.edu/catalog/01301): updated abstract, subject headings, biographical note, collection overview.
+* [5778. Brock Family Papers](https://finding-aids.lib.unc.edu/catalog/05778): updated abstract, subject headings, biographical note, collection overview, contents list.
+* [5067. Sam Thomas Papers](https://finding-aids.lib.unc.edu/catalog/05067): updated abstract, subject headings, biographical note, collection overview, contents list.
+* [3272. Beverly Hutchinson Papers](https://finding-aids.lib.unc.edu/catalog/03272): updated abstract, subject headings, biographical note, collection overview, contents list.
+         
 
 
 ### Finding aids remediation: 2024
