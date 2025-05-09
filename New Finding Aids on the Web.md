@@ -4,7 +4,7 @@ New
 
 
 
-- **Dorothy Battle Wilkinson Papers, 1930s-1990s](https://finding-aids.lib.unc.edu/catalog/70202)
+- **[Dorothy Battle Wilkinson Papers, 1930s-1990s](https://finding-aids.lib.unc.edu/catalog/70202)
 Dorothy Battle Wilkinson (1909-1997) was a member of the white Battle family and one of several inheritors of Cool Spring plantation in Rocky Mount, N.C. The collection contains material related to the family sites (such as Cool Spring and Old Town), including papers concerning finances, insurance, and land from the 1980s and 1990s.**
 
 - **[Malvina Reynolds Collection, 1890s-2010s](https://finding-aids.lib.unc.edu/catalog/70197)
