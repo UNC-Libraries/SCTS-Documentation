@@ -20,6 +20,22 @@ The Theta Pi Chapter of Alpha Kappa Alpha Sorority, Incorporated, was officially
 Late 19th and early 20th-century financial papers and volumes comprise the bulk of the collection of the white Wood family of Edenton, N.C. Most financial materials represent the agricultural business interests of John Gilliam Wood (1853-1920) and his son John Gilliam Wood (1884-1956) in cotton, cotton oil, peanuts, herring, fertilizer, farm storage, and farm supplies.**
 
 
+Additions
+
+- **[Bob Carlin Collection, 1824-2003]
+(https://finding-aids.lib.unc.edu/catalog/20050_aspace_4202f91da458ad30451cdbdf4a8c241a)Includes 126 audio cassettes of interviews with musicians and live performances by Bob Carlin, Delaware Water Gap, and others.**
+
+- **[Carolina Union of the University of North Carolina at Chapel Hill Records, 1931-2014](https://finding-aids.lib.unc.edu/catalog/40128)
+Contains posters advertising events sponsored by the Carolina Union in the 1980s and 1990s, mostly held in Memorial Hall.**
+
+- **[Folkstreams, Inc. Collection, 1949-2019](https://finding-aids.lib.unc.edu/catalog/20384)
+Contains preservation copies for the documentary film Dink: A Pre-Blues Musician (1975) by Cheyney Hales and Cecelia Conway. These HDCam video tape and Blu-Ray disc transfers of the film were created by Colorlab.**
+
+- **[Graduate and Professional Student Government of the University of North Carolina at Chapel Hill Records, 1968-2022](https://finding-aids.lib.unc.edu/catalog/40156)
+Records include administrative files, including GPSF president reports, senate minutes, committee reports and resolutions, handbooks, survey data, advocacy materials, and financial statements.**
+
+- **[William Meade Prince and Lillian Hughes Prince Papers (#3660) 1890s-1996 (bulk 1890s-1962)](https://finding-aids.lib.unc.edu/catalog/03660)
+Correspondence, photographs, exhibit programs, and miscellaneous documents. Includes letters, telegrams, and postcards received by the Princes from various museums, art galleries, businesses, guilds and associations for writers and artists, and private individuals.**
 
 
 # March 2025
