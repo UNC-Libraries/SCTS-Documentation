@@ -22,8 +22,7 @@ Late 19th and early 20th-century financial papers and volumes comprise the bulk 
 
 Additions
 
-- **[Bob Carlin Collection, 1824-2003]
-(https://finding-aids.lib.unc.edu/catalog/20050_aspace_4202f91da458ad30451cdbdf4a8c241a)Includes 126 audio cassettes of interviews with musicians and live performances by Bob Carlin, Delaware Water Gap, and others.**
+- **[Bob Carlin Collection, 1824-2003](https://finding-aids.lib.unc.edu/catalog/20050_aspace_4202f91da458ad30451cdbdf4a8c241a) Includes 126 audio cassettes of interviews with musicians and live performances by Bob Carlin, Delaware Water Gap, and others.**
 
 - **[Carolina Union of the University of North Carolina at Chapel Hill Records, 1931-2014](https://finding-aids.lib.unc.edu/catalog/40128)
 Contains posters advertising events sponsored by the Carolina Union in the 1980s and 1990s, mostly held in Memorial Hall.**
