@@ -2,27 +2,27 @@
 
 New
 
-New: 
 
-- **[Dorothy Battle Wilkinson Papers, 1930s-1990s]
+
+- **Dorothy Battle Wilkinson Papers, 1930s-1990s]
 (https://finding-aids.lib.unc.edu/catalog/70202)
-Dorothy Battle Wilkinson (1909-1997) was a member of the white Battle family and one of several inheritors of Cool Spring plantation in Rocky Mount, N.C. The collection contains material related to the family sites (such as Cool Spring and Old Town), including papers concerning finances, insurance, and land from the 1980s and 1990s. **
+Dorothy Battle Wilkinson (1909-1997) was a member of the white Battle family and one of several inheritors of Cool Spring plantation in Rocky Mount, N.C. The collection contains material related to the family sites (such as Cool Spring and Old Town), including papers concerning finances, insurance, and land from the 1980s and 1990s.**
 
 - **[Malvina Reynolds Collection, 1890s-2010s]
 (https://finding-aids.lib.unc.edu/catalog/70197)
-The collection of white folksinger and songwriter Malvina Reynolds (1900-1978) contains extensive documentation of her musical career and social and political activism from the 1940s through the 1970s in California's San Francisco Bay Area. ** 
+The collection of white folksinger and songwriter Malvina Reynolds (1900-1978) contains extensive documentation of her musical career and social and political activism from the 1940s through the 1970s in California's San Francisco Bay Area.** 
 
 - **[S.A. Fidell Collection, 1963-1967]
 (https://finding-aids.lib.unc.edu/catalog/70175)
-The collection consists of 45 open reel audiotape recordings of bluegrass, old time, and folk music concerts recorded live by Sanford "Sandy" Fidell (1945-2023) between 1963 and 1967. Musical artists recorded by Fidell were Ramblin' Jack Elliott, Jim Kweskin, Bill Monroe, Mark Spoelstra, Ed Trickett, Penelope K. Trickett, and Doc Watson. Musical groups were Brown County Jamboree, New Lost City Ramblers, and Stanley Brothers. Fidell recorded at music venues in Ann Arbor, Mich., Beanblossum, Ind., Bloomington, Ind., Harrodsburg, Ind., West Lafayette, Ind., and Columbus, Ohio. Also included is a recording of Bill Monroe and Doc Watson performing at Ash Grove in Los Angeles, Calif. Acquired as part of the Southern Folklife Collection. **
+The collection consists of 45 open reel audiotape recordings of bluegrass, old time, and folk music concerts recorded live by Sanford "Sandy" Fidell (1945-2023) between 1963 and 1967. Musical artists recorded by Fidell were Ramblin' Jack Elliott, Jim Kweskin, Bill Monroe, Mark Spoelstra, Ed Trickett, Penelope K. Trickett, and Doc Watson. Musical groups were Brown County Jamboree, New Lost City Ramblers, and Stanley Brothers. Fidell recorded at music venues in Ann Arbor, Mich., Beanblossum, Ind., Bloomington, Ind., Harrodsburg, Ind., West Lafayette, Ind., and Columbus, Ohio. Also included is a recording of Bill Monroe and Doc Watson performing at Ash Grove in Los Angeles, Calif. Acquired as part of the Southern Folklife Collection.**
 
 - **[Theta Pi Chapter of Alpha Kappa Alpha Sorority of the University of North Carolina at Chapel Hill Records, 1974-2024]
 (https://finding-aids.lib.unc.edu/catalog/70203)
-The Theta Pi Chapter of Alpha Kappa Alpha Sorority, Incorporated, was officially chartered on 20 April 1974 as the second historically Black sorority established at the University of North Carolina at Chapel Hill. This collection contains photographs and videos that capture significant moments in the chapter's history and involvement in campus life. Events organized to celebrate the chapter's 50th anniversary are heavily represented. **
+The Theta Pi Chapter of Alpha Kappa Alpha Sorority, Incorporated, was officially chartered on 20 April 1974 as the second historically Black sorority established at the University of North Carolina at Chapel Hill. This collection contains photographs and videos that capture significant moments in the chapter's history and involvement in campus life. Events organized to celebrate the chapter's 50th anniversary are heavily represented.**
 
 - **[Wood Family of Edenton, N.C., Papers, 1772-1957 and 1982]
 (https://finding-aids.lib.unc.edu/catalog/70208)
-Late 19th and early 20th-century financial papers and volumes comprise the bulk of the collection of the white Wood family of Edenton, N.C. Most financial materials represent the agricultural business interests of John Gilliam Wood (1853-1920) and his son John Gilliam Wood (1884-1956) in cotton, cotton oil, peanuts, herring, fertilizer, farm storage, and farm supplies. **
+Late 19th and early 20th-century financial papers and volumes comprise the bulk of the collection of the white Wood family of Edenton, N.C. Most financial materials represent the agricultural business interests of John Gilliam Wood (1853-1920) and his son John Gilliam Wood (1884-1956) in cotton, cotton oil, peanuts, herring, fertilizer, farm storage, and farm supplies.**
 
 
 
