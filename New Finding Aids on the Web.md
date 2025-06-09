@@ -7,52 +7,40 @@ Series 10.3 (Videotapes and Film)**
 - **[Anne McKeithen Papers on Listening to Color, 1998-2000](https://finding-aids.lib.unc.edu/catalog/05701)
 Audiocassettes**
 
-- **[David Grisman Collection, 1960s-2010s]
-(https://finding-aids.lib.unc.edu/catalog/70145)
+- **[David Grisman Collection, 1960s-2010s](https://finding-aids.lib.unc.edu/catalog/70145)
 SFC Audio Open Reels**
 
-- **[David A. Less Collection, circa 1900s-2010s]
-(https://finding-aids.lib.unc.edu/catalog/70200)
+- **[David A. Less Collection, circa 1900s-2010s](https://finding-aids.lib.unc.edu/catalog/70200)
 Added papers, images, printed materials, and music licensing publishing files and production notes to the finding aid.**
 
-- **[Elizabeth Spencer Papers, 1911-2018 (bulk 1999-2003)]
-(https://finding-aids.lib.unc.edu/catalog/05145)
+- **[Elizabeth Spencer Papers, 1911-2018 (bulk 1999-2003)](https://finding-aids.lib.unc.edu/catalog/05145)
 4.4A. Manuscript Materials and Ephemera (Addition of June 2021)**
 
-- **[Guthrie T. Meade Collection, 1817-1991]
-(https://finding-aids.lib.unc.edu/catalog/20246)
+- **[Guthrie T. Meade Collection, 1817-1991](https://finding-aids.lib.unc.edu/catalog/20246)
 14A. Sound Recordings (Addition of March 2023)**
 
-- **[Jenny Henderson Collection on North Carolina Film and Television History, 1900-2018]
-(https://finding-aids.lib.unc.edu/catalog/70205)
+- **[Jenny Henderson Collection on North Carolina Film and Television History, 1900-2018](https://finding-aids.lib.unc.edu/catalog/70205)
 Added container listing.** 
 
-- **[Judith McWillie Collection, 1970s-2010s]
-(https://finding-aids.lib.unc.edu/catalog/20455)
+- **[Judith McWillie Collection, 1970s-2010s](https://finding-aids.lib.unc.edu/catalog/20455)
 Addition of January 2025**
 
-- **[McKeithen Family Papers, circa 1800s-1927, 1950s-2013]
-(https://finding-aids.lib.unc.edu/catalog/05679)
+- **[McKeithen Family Papers, circa 1800s-1927, 1950s-2013](https://finding-aids.lib.unc.edu/catalog/05679)
 Born-digital component of a recently processed accession**
 
-- **[Mound Bayou Collection, 1928-2003]
-(https://finding-aids.lib.unc.edu/catalog/05009)
+- **[Mound Bayou Collection, 1928-2003](https://finding-aids.lib.unc.edu/catalog/05009)
 Audiocassettes**
 
-- **[Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997]
-(https://finding-aids.lib.unc.edu/catalog/20290)
+- **[Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997](https://finding-aids.lib.unc.edu/catalog/20290)
 Updated Series 4. Audio Cassettes**
 
-- **[Southern Association of Women Historians, 1971-2011]
-(https://finding-aids.lib.unc.edu/catalog/04152)
+- **[Southern Association of Women Historians, 1971-2011](https://finding-aids.lib.unc.edu/catalog/04152)
 Born digital components of otherwise processed accessions.**
 
-- **[Steve Rathe Collection, 1926-2009]
-(https://finding-aids.lib.unc.edu/catalog/20518)
+- **[Steve Rathe Collection, 1926-2009](https://finding-aids.lib.unc.edu/catalog/20518)
 1.5A. Audio Recordings: Festival Recordings, 1976-1977 (Addition of April 2021)**
 
-- **[William Bradley Umstead and Merle Davis Umstead Papers (#4529) 1863-1987]
-(https://finding-aids.lib.unc.edu/catalog/04529)
+- **[William Bradley Umstead and Merle Davis Umstead Papers (#4529) 1863-1987](https://finding-aids.lib.unc.edu/catalog/04529)
 Addition of February 2015**
 
 
