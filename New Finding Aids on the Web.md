@@ -11,7 +11,7 @@ Audiocassettes**
 SFC Audio Open Reels**
 
 - **[David A. Less Collection, circa 1900s-2010s](https://finding-aids.lib.unc.edu/catalog/70200)
-Added papers, images, printed materials, and music licensing publishing files and production notes to the finding aid.**
+Papers, images, printed materials, and music licensing publishing files and production notes.**
 
 - **[Elizabeth Spencer Papers, 1911-2018 (bulk 1999-2003)](https://finding-aids.lib.unc.edu/catalog/05145)
 4.4A. Manuscript Materials and Ephemera (Addition of June 2021)**
