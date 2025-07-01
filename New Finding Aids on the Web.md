@@ -17,28 +17,22 @@ The collection of the Stancil family of Selma, N.C., contains letters and v-mail
 
 Additions and updates
 
-- **[Board of Trustees of the University of North Carolina at Chapel Hill Records, 1972-2022]
-(https://finding-aids.lib.unc.edu/catalog/40003)
+- **[Board of Trustees of the University of North Carolina at Chapel Hill Records, 1972-2022](https://finding-aids.lib.unc.edu/catalog/40003)
 Added digital objects to existing archival objects due to a digitization request**
 
-- **[Lee Family of Caswell County, N.C., Papers, 1889-2016]
-(https://finding-aids.lib.unc.edu/catalog/05592)
+- **[Lee Family of Caswell County, N.C., Papers, 1889-2016](https://finding-aids.lib.unc.edu/catalog/05592)
 Reprocessed to incorporate additions into original deposit to prepare for digitization.**
 
-- **[Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997]
-(https://finding-aids.lib.unc.edu/catalog/20290)
+- **[Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997](https://finding-aids.lib.unc.edu/catalog/20290)
 Added Series 8. Film.**
 
-- **[Roy Parker Papers, 1946-1997]
-(https://finding-aids.lib.unc.edu/catalog/04520)
+- **[Roy Parker Papers, 1946-1997](https://finding-aids.lib.unc.edu/catalog/04520)
 Adding a container list.**
 
-- **[Tom Davenport Papers, 1968-2018]
-(https://finding-aids.lib.unc.edu/catalog/20025)
+- **[Tom Davenport Papers, 1968-2018](https://finding-aids.lib.unc.edu/catalog/20025)
 One film added in to Series  3. The Shakers**
 
-- **[UNC Story Archive, 2020-2025]
-(https://finding-aids.lib.unc.edu/catalog/70096)
+- **[UNC Story Archive, 2020-2025](https://finding-aids.lib.unc.edu/catalog/70096)
 The finding aid was reorganized into series and interviews were added to the The Story of Us; Theta Pi’s 50th Anniversary; and the Carolina Latinx Center projects.**
 
 
