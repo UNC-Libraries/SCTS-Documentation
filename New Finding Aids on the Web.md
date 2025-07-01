@@ -6,22 +6,24 @@ The Department of City and Regional Planning at the University of North Carolina
 - **[Ivey Ellis Pleasant Papers, 1938-1964](https://finding-aids.lib.unc.edu/catalog/70215)
 The collection of white farmer Ivey Ellis Pleasant (1895-1983) of Person County, N.C., contains account books and financial papers documenting transactions with Black and white tenant farmers in the mid-20th century. Transactions include payments for flue-cured tobacco weighed in pounds and purchases of groceries, utility services, medicine, clothing, farm tools, and fertilizer. Notifications, letters, agreements, memorandum, and settlements from agencies within the United States Department of Agriculture pertain to acreage allotments for growing flue-cured tobacco, agricultural adjustments and subsidies, cooperative stabilization, production and marketing, crop insurance, home gardening, soil building, and food administration during the Second World War. Scattered family papers include Pleasant's American Legion membership card, a hospital bill, and grade reports for Nellie Pleasant, daughter of Ivey Pleasant and his spouse Anna Mae Pleasant, from Mars Hill College in Mars Hill, N.C.**
 
-- **[J. Lawrence Brasher Collection, 1950-1993(https://finding-aids.lib.unc.edu/catalog/20057)
+- **[J. Lawrence Brasher Collection, 1950-1993](https://finding-aids.lib.unc.edu/catalog/20057)
 The collection of author J. Lawrence Brasher (1947-) contains 39 field recordings on open-reel audiotape. Most of the recordings are untitled, some are labeled with the first names of individuals, and three are labeled "J.L.B. stories" and dated circa 1950, 1965, and 1967. "J.L.B." likely refers to Methodist minister and Brasher's ancestor, John Lakin Brasher (1868-1971), who is the subject of J. Lawrence Brasher's 1994 book The Sanctified South: John Lakin Brasher and the Holiness Movement, published in 1994**
 
-- **[Joan Little Press Photographs, 1975-1976(https://finding-aids.lib.unc.edu/catalog/70212)
+- **[Joan Little Press Photographs, 1975-1976](https://finding-aids.lib.unc.edu/catalog/70212)
 Black-and-white copy prints of wire photographs distributed by the Associated Press (AP) and United Press International (UPI) in 1975 and 1976 depict Joan Little a Black defendant who was on trial for murder in Raleigh, N.C., in the summer of 1975. Little asserted that she had killed Clarence Alligood a white corrections officer in self defense after he attempted to rape her in her jail cell in Beaufort County, N.C. Little was found not guilty by the jury composed of six white and six Black jurors.**
 
-- **[Stancil Family of Selma, N.C., Papers, 1928-1957(https://finding-aids.lib.unc.edu/catalog/70207)
+- **[Stancil Family of Selma, N.C., Papers, 1928-1957](https://finding-aids.lib.unc.edu/catalog/70207)
 The collection of the Stancil family of Selma, N.C., contains letters and v-mail written home to family by Willie T. Stancil, an enlisted Black private in the United States Army's 77th Coastal Artillery Unit during the Second World War. Stancil wrote from Fort Bragg, N.C., Marcus Hook, Pa., Manchester, Conn., and San Francisco, Calif., from June 1941 through 1945. Most letters were addressed to Willie T. Stancil's father Walter Preston Stancil, a Black tenant farmer who grew long leaf tobacco in Johnston County, N.C. Content of letters is generally limited to comments about pay, letters received from family and friends, and well wishes for his family.**
+
 Additions and updates
+
 - **[Board of Trustees of the University of North Carolina at Chapel Hill Records, 1972-2022]
 (https://finding-aids.lib.unc.edu/catalog/40003)
 Added digital objects to existing archival objects due to a digitization request**
 
 - **[Lee Family of Caswell County, N.C., Papers, 1889-2016]
 (https://finding-aids.lib.unc.edu/catalog/05592)
-Reprocessed to incorporate additions into original deposit to prepare for digitization. **
+Reprocessed to incorporate additions into original deposit to prepare for digitization.**
 
 - **[Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997]
 (https://finding-aids.lib.unc.edu/catalog/20290)
@@ -29,7 +31,7 @@ Added Series 8. Film.**
 
 - **[Roy Parker Papers, 1946-1997]
 (https://finding-aids.lib.unc.edu/catalog/04520)
-Adding a container list. **
+Adding a container list.**
 
 - **[Tom Davenport Papers, 1968-2018]
 (https://finding-aids.lib.unc.edu/catalog/20025)
@@ -37,7 +39,6 @@ One film added in to Series  3. The Shakers**
 
 - **[UNC Story Archive, 2020-2025]
 (https://finding-aids.lib.unc.edu/catalog/70096)
-20230413.1 and 20250530.4
 The finding aid was reorganized into series and interviews were added to the The Story of Us; Theta Pi’s 50th Anniversary; and the Carolina Latinx Center projects.**
 
 
