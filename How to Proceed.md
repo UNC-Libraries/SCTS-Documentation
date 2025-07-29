@@ -11,7 +11,8 @@ Created July 2025 -- in progress!
     - [Overview of Processing](#overview-of-processing)
     
 
-
+ - [7. Additions](#additions)
+   
 # 1. Introduction
 
 If you process manuscript collections and archival record groups at the University of North Carolina at
@@ -195,6 +196,8 @@ the two of you are satisfied with the draft, you will submit a <a href="https://
 # 6. Finishing the Job 
 
 # 7. Additions
+
+For documentation about additions, please visit the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md">Additions</a> page.
 
 # 8. Appendices
 
