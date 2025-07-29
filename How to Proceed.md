@@ -3,18 +3,14 @@ Created July 2025 -- in progress!
 # How to Proceed: Special Collections Technical Services Archival (SCTS-Archival) Processing Manual
 
 # Overview
-
   - [1. Introduction](#introduction)
     - [Who We Are](#who-we-are)
     - [What We Do](#what-we-do)
     - [Basic Premises](#basic-premises)
     - [Overview of Processing](#overview-of-processing)
-   
   - [2. Preparing to Process](#preparing-to-process)
     - [Preliminary Research and Survey](#preliminary-research)
     - [Writing a Processing Plan](#writing-a-processing-plan)
-    
-
  - [7. Additions](#additions)
    
 # 1. Introduction
