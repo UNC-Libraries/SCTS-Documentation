@@ -4,9 +4,9 @@ Created July 2025
 
 # Overview
 
-  - [1. Introduction] (# introduction)
+  - [1. Introduction](#introduction)
     
-    - [Who We Are] (# who-we-are)
+    - [Who We Are](#who-we-are)
 
 In Progress!
 
