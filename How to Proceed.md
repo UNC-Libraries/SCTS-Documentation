@@ -9,6 +9,10 @@ Created July 2025 -- in progress!
     - [What We Do](#what-we-do)
     - [Basic Premises](#basic-premises)
     - [Overview of Processing](#overview-of-processing)
+   
+  - [2. Preparing to Process](#preparing-to-process)
+    - [Preliminary Research and Survey](#preliminary-research)
+    - [Writing a Processing Plan](#writing-a-processing-plan)
     
 
  - [7. Additions](#additions)
@@ -136,7 +140,7 @@ bags. Because of this variety, there can be few hard and fast rules for processi
 There are, however, standards, policies, and procedures that must be applied with common sense and
 flexibility.
 
-UNIVERSITY ARCHIVES (UA) includes records documenting every stage in the growth of the nation’s first
+UNIVERSITY ARCHIVES includes records documenting every stage in the growth of the nation’s first
 state university and its response to local and national issues, from slavery to evolution to freedom of
 speech. These records are important not only to researchers specifically interested in the history of the
 University of North Carolina but to those interested in any aspect of the history of higher education.
@@ -187,6 +191,165 @@ the two of you are satisfied with the draft, you will submit a <a href="https://
 
 # 2. Preparing to Process
 
+## Preliminary Research and Survey
+
+Getting an overview of your collection and preparing a plan are the first major steps in processing. You
+will begin by preparing the plan on the form provided. Throughout the project, you will meet with your
+supervising archivist to review and modify this plan as appropriate.
+
+The first thing you need to determine is whether you are processing a new collection or adding to an
+already established collection. Additions to established collections will be discussed <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md">elsewhere</a>; this
+section deals primarily with new collection processing as well as information useful when reprocessing.
+
+**Where to Begin**
+
+Before you start processing, you will want to get a sense of the history of both the collection and the
+creator of the materials, be it an individual, family, organization, or university department.
+
+  _Administrative History_
+
+When processing a manuscript collection (SHC, SFC, RBC, or NCC), a good place to start the search for
+information about the history of the collection is with the paper control file and/or the accession record in ArchivesSpace. Control files often contain
+information essential to satisfactory processing: collection descriptions; notes on the original
+arrangement of the papers and how they were transferred; a gift agreement noting special conditions of
+gift or loan/deposit, access restrictions, and disposition of discards; letters from researchers concerning
+the papers; and other material that provides biographical or historical information about the creator.
+Information in the control files should also provide a sense of why this particular collection was acquired
+and if there is content or items that should be highlighted in the description. You will apply some
+information, such as restrictions on access and disposition of dispersals, to your processing plan.
+If your collection has restrictions, you will need to determine whether they apply to all or part of your
+collection. In the course of processing you will need to segregate restricted material and label it to
+ensure that restrictions on use will be clear to R&IS staff and to researchers. In the finding aid, you will
+let researchers know what restrictions to expect.
+
+Control files must stay in the file cabinets near the administrative offices, so you may wish to photocopy
+some pages from the control file and keep them, along with your processing plan, in the processing
+room for ready reference. 
+
+> Control file locations: SHC: Level 7-77; SFC: Level 9-29; UARMS/NCC/RBC: consult curatorial staff
+
+When processing a UA record group, there is no need to consult the control file, altough taking a look at the accession record is still recommended. You will often find basic
+information attached to the first box of the transfer. This will include a records transfer form submitted
+by the department that transferred the records and a list of the files in each box. You do not need to
+worry about donor-imposed restrictions, since the records in UA are public records. A good way to start
+familiarizing yourself with the records is to compare the list to what is actually in the boxes. Are folders
+labeled consistently? Do you discern an order, or do the files seem to have been boxed randomly? Do
+you notice any files that might help you to trace the history of the department?
+
+ _Historical Context_
+
+ To process effectively, you need enough information about the creator of the materials to answer basic
+questions about the collection: who, what, when, and where. If you exhaust the possible sources and
+still come up empty, the materials themselves become the chief resource. In such cases, it is not unusual
+to feel somewhat mystified as to who is who and what is what. Often the mists are at least partially
+lifted in the normal course of processing, but you should not feel that you have been derelict in your
+duty if you leave some of the investigative work to future researchers.
+
+Usually, some information about collection creators can be found, sometimes without leaving the fourth
+floor, but you may need to go further with your background research. How deeply you go will be greatly
+influenced by the research value of your collection. Try to get the basics down before you start. More
+research can be done later to address questions that arise during processing.
+The following are some of the immediately available tools for background research:
+
+ - Control files/accession record: may hold a considerable amount of information on the historical context in which
+the papers were generated. Control files often contain newspaper clippings relating to
+important persons in the papers and notes written by the curator during negotiations with the
+donor. In some cases, donors have supplied information about the creators of the papers they
+have given.
+   - University Archives and Records Management Services has its own version of control
+files, but they are unlikely to provide any information that is not on the records transfer
+form and box list that are attached to the first box of the transfer.
+
+ - The online catalog: if the entity you are investigating has been cataloged, this may lead you to
+useful information.
+   - Remember that you can also search WorldCat and ArchiveGrid for related collections.
+     
+- Basic printed sources: including the Dictionary of North Carolina Biography, the Encyclopedia of
+Southern History, Encyclopedia of Southern Culture, Webster's Biographical Dictionary, The Civil
+War Day by Day, Biographical Directory of the American Congress, American Authors and Books,
+and A Bibliographical Guide to the Study of Southern Authors.
+   - For information on individuals and institutions on the state and local level, be sure to
+consult the resources of the North Carolina Collection (NCC).
+
+ - Alumni directories: if the collection's creator was a UNC graduate (the 1924 edition, for
+instance, has useful biographical sketches).
+
+ - Online sources: University Library website resources include biographical indexes, newspapers,
+encyclopedias, Ancestry Library, American Civil War Research Database, and America: History and Life. Outside of
+University resources, Google Scholar, Heritage Quest, and Find a Grave are typically trustworthy,
+and depending on the kind of information you are seeking, Wikipedia might also be an
+appropriate source. 
+
+**Processing Levels**
+
+In the past, we were much more apt to engage in what is called "item-level" processing. This means that
+we would examine collection materials item-by-item and remove duplicates, printed material, and
+materials we considered sensitive. We might also make preservation photocopies and routinely wrap
+acidic newspaper clippings. We would typically arrange materials in strict chronological or alphabetical
+order within folders. While this type of processing is still warranted in some instances, it is not
+appropriate for every collection.
+
+In our current approach, we expend our processing resources more strategically. We take a triage
+approach to arrangement, description, and preservation. All collections (and all parts of a given
+collection) do not need the same level of arrangement, description, and preservation attention. Many
+collections can be made accessible without arranging materials into multiple series, refoldering, or
+removing duplicates. Part of the beauty of this practice is its flexibility. Should it come to our attention
+through patrons or R&IS staff that a collection (or parts thereof) would benefit from additional
+arrangement, description, or preservation because it is more heavily researched than was originally
+anticipated, we can reprocess to meet revised collection needs. In short, we provide broad, if not always
+deep, access to all of our collections in a timely fashion rather than intensive processing for just a few
+collections.
+
+Our goal is to make materials usable in the reading room as quickly and efficiently as possible. Since
+what constitutes usable is different for each collection, we spend time analyzing the material and
+thinking about the most appropriate arrangement, description, and preservation treatment for each
+collection. This manual often discusses more intensive processing procedures than you are likely to use
+routinely. We do this so that you will know what the possibilities are and how to apply them when they
+are necessary. Discussing the collection as it has been received, the perceived research value of the
+materials, and the priority level assigned by the curator with your supervising archivist before you start
+processing will give you guidance on how in-depth your processing treatment should be.
+
+**The Survey**
+
+Having gained some sense of the administrative history and historical context, you are ready to examine
+the collection itself. To survey, you must try to see the collection as a whole. If space allows, spread out
+all of the boxes and open them. Scan the papers to get a feeling for their scope and content. Skim. Do
+not spend too much time on any one item. Resist the temptation to begin arranging and describing. At
+this point, just try to get a picture of what the collection is about.
+
+As you begin to look through the containers, remember to handle the materials gently. Folder labels
+often flake off and delicate manuscripts can easily tear. Slowly remove small handfuls of papers; after
+examining them, return them carefully to their proper place. Books, bound volumes, photographs,
+tapes, discs, and other material in an archival collection deserve the same care.
+
+ _On the Lookout_
+
+Since your survey and analysis of the collection will form the basis of your processing plan, you will want
+to look for certain things in the materials as you go along. Look at the processing plan form and see what
+elements are needed. Take particular note of the following features of the collection:
+
+**Provenance:** The control file, or the records transfer form, should tell you from whom we received the
+papers or records.
+
+ - What person, organization, or office actually generated and/or accumulated the material?
+ - Have the papers passed through a series of hands?
+ - Check the accuracy of the name given to the collection (collection creator), remembering that,
+especially with new collections, the name assigned at accessioning is a preliminary judgment call
+and may not reflect the true nature of the papers or records.
+    - For example, if you are processing the Hamilton Patton Copeland Papers, check to see if
+the papers focus in some way on H. P. Copeland. It could be that a better name for this
+collection would be the Copeland Family Papers
+
+UNIVERSITY ARCHIVES: You might discover that there are personal papers of a department
+administrator intermingled with departmental records. While this will not change what we call the
+group of records, it is something to note. You might also discover that the department that transferred
+the records had inherited the records of another department.
+
+
+
+
+
+
 # 3. Arranging
 
 # 4. Describing
@@ -201,8 +364,8 @@ For documentation about additions, please visit the <a href="https://github.com/
 
 # 8. Appendices
 
-  - [Style Guide](#style-guide)
-  - 
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
+    
     
     
 
