@@ -799,7 +799,7 @@ odd arrangement schemes. If this happens in your collection, you owe researchers
 However, remember that the more logical your series ordering, the easier your collection will be for you
 to describe and for researchers to use.
 
-**Files**
+## Files
 
 
   
