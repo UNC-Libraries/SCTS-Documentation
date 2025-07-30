@@ -762,6 +762,46 @@ Correspondence, explains how the series is organized. No such explanation is nee
 Writings, so there is no overall series description for it. In other collections, you might establish a series
 and subseries for which it is more appropriate to provide an overall description of the series and list the
 contents of the subseries without additional description.
+
+**Sequence of Series**
+
+It would be grand to have hard and fast rules governing the sequence in which series and subseries
+appear. However, collections contain such a wide variety of materials and types of materials are of
+varying degrees of significance within collections, so no predetermined order would be satisfactory in all
+cases.
+
+Still, some guidelines can be established. Chief among these is to sequence series in order of research
+value. Displaying a collection's strengths assists researchers in determining a collection's potential value
+to their work. You will find that in a great number of collections the correspondence series contains the
+most valuable research materials. In these cases, the correspondence series comes first, followed by
+other series in descending order of importance. Sometimes, however, another series will take
+precedence over correspondence. In the Walker Percy Papers (#4294), Series 1. Novels and Series 2.
+Other Works come before correspondence.
+
+UNIVERSITY ARCHIVES: In many collections, the first series is called Administrative Files or General Files.
+These files pertain to the overall administration or operation of the department that created the
+records; they include administrative correspondence, annual reports, budget documents, and self-
+studies, among other materials. The other series are based on specific function or activities of the
+department, such as Collections or Programs.
+
+For series and subseries not determined by type of material or format, choose an order that clearly
+displays the collection's contents. If there is a series that is obviously more significant within the
+collection than the others, place it up front. If no single series stands out, ordering the series
+alphabetically by series title is a quite satisfactory arrangement.
+Collections of organizational records: the sequence of series usually follows that of the files as
+maintained by the organization. Sequence may also be related to the organization's structure.
+Alphabetical and/or chronological series ordering may come into play depending on the materials
+present.
+
+You can explain the overall arrangement scheme, including the sequencing of series, in the scope and
+content section of the finding aid. There are many reasons for maintaining (or even creating) somewhat
+odd arrangement schemes. If this happens in your collection, you owe researchers an explanation.
+However, remember that the more logical your series ordering, the easier your collection will be for you
+to describe and for researchers to use.
+
+**Files**
+
+
   
 # 4. Describing
 
