@@ -20,7 +20,6 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
     - [Separated Material](#separated-material)
     - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
     - [Arranging Additions](#arranging-additions)
-    
 - [7. Additions](#additions)
 - [8. Appendices](#appendices)
 - [9. History of _How to Proceed_](#history)
