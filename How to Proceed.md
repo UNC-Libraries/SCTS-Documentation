@@ -3,27 +3,27 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
 # How to Proceed: Special Collections Technical Services Archival (SCTS-Archival) Processing Manual
 
 # Overview
-  - [1. Introduction](#introduction)
-    - [Who We Are](#who-we-are)
-    - [What We Do](#what-we-do)
-    - [Basic Premises](#basic-premises)
-    - [Overview of Processing](#overview-of-processing)
-  - [2. Preparing to Process](#preparing-to-process)
-    - [Preliminary Research and Survey](#preliminary-research)
-    - [Writing a Processing Plan](#writing-a-processing-plan)
-   - [3. Arranging](#arranging)
-     - [Basic Premises for Arranging](#basic-premises-arranging)
-     - [If It Ain't Broke, Don't Fix It](#if-it-aint-broke)
-     - [The Break Down](#the-break-down)
-     - [Series and Subseries](#series-and-subseries)
-     - [Files](#files)
-     - [Separated Material](#separated-material)
-     - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
-     - [Additions](#arranging-additions)
+- [1. Introduction](#introduction)
+  - [Who We Are](#who-we-are)
+  - [What We Do](#what-we-do)
+  - [Basic Premises](#basic-premises)
+  - [Overview of Processing](#overview-of-processing)
+- [2. Preparing to Process](#preparing-to-process)
+  - [Preliminary Research and Survey](#preliminary-research)
+  - [Writing a Processing Plan](#writing-a-processing-plan)
+  - [3. Arranging](#arranging)
+    - [Basic Premises for Arranging](#basic-premises-arranging)
+    - [If It Ain't Broke, Don't Fix It](#if-it-aint-broke)
+    - [The Break Down](#the-break-down)
+    - [Series and Subseries](#series-and-subseries)
+    - [Files](#files)
+    - [Separated Material](#separated-material)
+    - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
+    - [Arranging Additions](#arranging-additions)
     
- - [7. Additions](#additions)
- - [8. Appendices](#appendices)
- - [9. History of _How to Proceed_](#history)
+- [7. Additions](#additions)
+- [8. Appendices](#appendices)
+- [9. History of _How to Proceed_](#history)
    
 # 1. Introduction
 
@@ -754,7 +754,15 @@ function and some on format.
 - 2.4 Station Logs
  - 2.5 Audio Recordings
 
+You have an opportunity to describe at each level, if needed. You will not necessarily write a description
+for every level. If a series-level description would add nothing to the subseries descriptions, then leave it
+out.
 
+For example, in the finding aid for the Edwin Yoder Papers, a series description for Series 1,
+Correspondence, explains how the series is organized. No such explanation is needed for Series 2,
+Writings, so there is no overall series description for it. In other collections, you might establish a series
+and subseries for which it is more appropriate to provide an overall description of the series and list the
+contents of the subseries without additional description.
   
 # 4. Describing
 
