@@ -1,4 +1,4 @@
-Created July 2025 -- in progress!
+Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*" for more information about this manual.
 
 # How to Proceed: Special Collections Technical Services Archival (SCTS-Archival) Processing Manual
 
@@ -11,7 +11,19 @@ Created July 2025 -- in progress!
   - [2. Preparing to Process](#preparing-to-process)
     - [Preliminary Research and Survey](#preliminary-research)
     - [Writing a Processing Plan](#writing-a-processing-plan)
+   - [3. Arranging](#arranging)
+     - [Basic Premises for Arranging](#basic-premises-arranging)
+     - [If It Ain't Broke, Don't Fix It](#if-it-aint-broke)
+     - [The Break Down](#the-break-down)
+     - [Series and Subseries](#series-and-subseries)
+     - [Files](#files)
+     - [Separated Material](#separated-material)
+     - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
+     - [Additions](#arranging-additions)
+    
  - [7. Additions](#additions)
+ - [8. Appendices](#appendices)
+ - [9. History of _How to Proceed_](#history)
    
 # 1. Introduction
 
@@ -187,7 +199,7 @@ the two of you are satisfied with the draft, you will submit a <a href="https://
 
 # 2. Preparing to Process
 
-## Preliminary Research and Survey
+ ## Preliminary Research and Survey
 
 Getting an overview of your collection and preparing a plan are the first major steps in processing. You
 will begin by preparing the plan on the form provided. Throughout the project, you will meet with your
@@ -412,8 +424,338 @@ parties represented unknowingly in the collection;
 Retain whatever information you gather; it will be helpful in making decisions about arranging your
 collection and will also be useful in processing plan discussions with your supervising archivist.
 
-# 3. Arranging
+**Taking Note**
 
+Take notes from beginning to end. Your notes will help you make better processing decisions and will
+also help when you write the finding aid throughout but especially at the end of the project. Writing
+down information as you see it can save much time later. Use your judgment about how much to write,
+but err on the side of taking more rather than fewer notes. Backtracking to locate something you forgot
+to note can be extremely frustrating.
+
+Processing notes tend to fall into one of two categories:
+ - Content notes: Help in writing the finding aid and in cataloging the materials through name and
+subject access points.
+ - Sorting notes: Aid in arranging the papers--clues, facts, perceptions, and hunches that might
+help in determining a workable order for the collection.
+   - Examples include reminders to yourself about locations of individual items in the papers
+and hunches about the name the creator gave to a certain file.
+
+Each note, whether content or sorting, should take no more than a sentence or two. You may wish to
+write down particularly telling, witty, or otherwise special direct quotations from the papers to spice up
+your finding aid, but these should be few.
+
+Leave tracks as you go. Label the boxes, your stacks of material, and your notes. Document your work so
+that someone else could carry on in your absence. Leave notes to yourself if you know that you will be
+leaving this project to work on another or be away for any extended period of time. Do not lose sight of
+the idea that your task at this point is to survey. Pace yourself accordingly. Although every collection is
+different, a very thorough overview of a medium-sized collection (10 to 15 record center boxes) should
+not take more than a few days; as your experience grows, a relatively small collection may reveal its
+salient points to you within minutes.
+
+ ## Writing a Processing Plan
+
+Your analysis of the collection will result in a processing plan. This plan should be completed in
+consultation with your supervising archivist. The plan becomes an important document, providing a
+framework and continuity for the project. You and your supervising archivist will refer to it regularly and
+adjust it as necessary throughout the course of the processing work. You will need to be familiar with
+the ideas set forth in chapters 4 and 5 of this manual before you can write a processing plan. As you
+read these sections, bear in mind that you will have to make decisions on the following points:
+
+ - **Overall arrangement scheme:** List proposed series and subseries, if any.
+   - **Arrangement:** within series and subseries.
+ - **Levels of processing for each series:** Should material be arranged to the box, file, or item level?
+How much refoldering and relabeling is appropriate? How extensive should you make each
+series description (narrative plus folder/file listings)?
+ - **Biographical/historical note:** How extensive will it be? What form will it take? How accessible is
+pertinent information?
+ - **Use of team members:** Optimally, what tasks (refoldering, labeling, etc.)
+could less-experienced workers carry out? Approximately how much time should each task
+take? Could the project be completed more efficiently if other more experienced processors
+were involved? How would they be involved?
+ - **Supplies:** Are there any unusual needs for supplies--large numbers of folders (thousands) or
+large numbers of boxes (50 or more), or other special needs?
+ - **Duration:** How many total hours will the project require? What is a realistic project completion
+date?
+ - **Other considerations:** Are special indexes or unusually detailed cataloging warranted? Are there
+unusual conservation needs? There may have been promises made to the donor (for
+photocopies, digitization, etc.), how will these affect the project? What else needs to be kept in
+mind as the work proceeds?
+
+The more information you can provide up front, the clearer will be the task ahead. Remember that your
+entire career is not riding on how accurately your plan predicts the actual processing of your collection.
+The plan is a working document; you should expect changes and modifications to occur. A sample form
+follows:
+
+**PROCESSING PLAN**
+
+**_Basic information_** 
+
+Collection number:    
+
+Collection name:
+
+New or addition (circle one)
+
+Processor name:
+
+Date of plan:
+
+**_Control file/accession record_**
+
+Provenance:
+
+Received from:
+
+Gift/transfer (circle one)
+
+Donor restrictions:
+
+Special considerations or notes from curator:
+
+**_Historical context_** 
+ 
+ (briefly note who, what, when, and where)
+
+ 
+**_Survey of the Collection_**
+
+Received arrangement:
+  
+Content:
+  
+Physical condition (formats, condition):
+  
+Inclusive dates:
+  
+Pontential restrictions:
+  
+Lanaguages other than English:
+  
+Potential discards:
+
+**_Plan:_**
+
+List potential series and subseries and note how each will be handled, or
+note here if series are not needed and how you will treat the files.
+
+Supplies:
+
+Use of team members:
+
+Projected completion date:
+
+**_Notes:_**
+
+Add any other notes here.
+
+
+ # 3. Arranging
+
+ ## Basic Premises
+
+After survey, analysis, and background research, it is time to consider the collection’s arrangement: Is
+there a discernible order? Is the order meaningful? Does it facilitate or inhibit access? A good
+arrangement groups together like materials so researchers do not have to look in several places for
+closely related things. The arrangement can also reflect the way in which the materials were used by the
+creator, thus making the original order important to preserve. Making decisions about arrangement is
+the crucial first step in structuring a collection and creating access to it.
+
+In this manual, we have separated the topics arrangement and description, but you will find as you
+process that the two functions are very much intertwined. As you begin organizing a collection, try to
+picture the finding aid that you plan to write. Doing this forces you to make some tentative decisions
+about grouping the papers into series and helps impose some initial order on the collection. Think also
+about the materials themselves and about future users.
+ 
+## If It Ain't Broke, Don't Fix It
+
+When you surveyed your collection, you paid special attention to the order of the materials. A basic
+archival principle is "respect pour l'ordre primitif," which is French for "if it ain't broke, don't fix it."
+Maintaining the original order established by the creator of a collection preserves contextual
+information that may be important to researchers. The original order itself may also make an important
+statement about its creator. Using the original arrangement scheme, moreover, may save the processing
+staff valuable time and energy. Retaining the basic arrangement as received, when possible, is part of
+the archivist's responsibility to preserve historical documents in as close to original form as possible.
+Keep in mind that respect pour l'ordre primitif does not preclude tidying up the materials or adding a
+supporting superstructure to aid in description and cataloging.
+
+If no discernible order exists, or if it is apparent that hands other than the creator's have forged an order
+that is counterproductive to using and understanding the collection, or if the original order makes the
+collection difficult to use, then you must impose a workable arrangement on the collection.
+
+## The Break Down
+
+Archival papers and records are usually accessioned in groups called collections. Collections usually
+divide into logical units of some sort. When arranging a collection, we want to establish a framework
+that will enable the researcher to see the various parts of a collection without losing sight of the whole.
+The parts are usually established as series, which may be further divided into subseries. Keep in mind,
+there is no rule that says you must have series. There are times, particularly with small collections
+consisting chiefly (but not necessarily exclusively) of materials of one type or format, you can simply list
+the files.
+
+As you investigate the contents of your collection, think ahead to the finding aid you will write. The chief
+reason for doing this is that each series and subseries offers you an opportunity to describe. Good
+description leads to good cataloging. The combination of good description and good cataloging are the
+means through which researchers find the materials pertinent to their research. Careful consideration of
+what blocks of materials lend themselves to clear description can be of great assistance in determining
+how to divide the collection.
+
+A brief discussion of several general arrangement possibilities follows. Remember that while many
+collections will fit into a "standard" arrangement, there will always be exceptions and that even the
+tamest collection generally contains some materials that just will not fit neatly into your scheme. There
+is no one best arrangement scheme--every collection is different in its own way--but generally speaking,
+intellectual arrangements trump format arrangements because the former conveys more information
+about what is going on in the collection. Oftentimes you will find that your collection requires a hybrid
+arrangement that groups material by type, format, activity, and function. Do not try to fight the flow of
+the materials. Challenges like these just come with the territory. Remember, you can always resolve
+complex and/or unusual arrangements in description.
+
+## Series and Subseries
+
+Most collections of papers or record groups can be adequately handled by series, with or without
+subseries. A series is a body of files or documents kept together because of some connection arising out
+of their creation or use. A series might be a body of records arranged under a single filing system, or
+kept together as a unit because it relates to a particular function or has a particular physical form.
+Identifying the series will be straightforward in a well-kept collection, where files arranged as a single
+unit constitute a series. In other cases, series must be constructed on the basis of other unifying
+characteristics--their genre or form or their relationship to some subject or activity. Thus, series and
+subseries may be type or format-based or they may be based on the separate activities or functions of
+the creator of the papers, or they may be a hybrid of all of these. Remember that complex arrangements
+can always be explained in the description.
+
+Although series can be many and varied, a certain amount of restraint, largely guided by common sense,
+should be applied. Each different format of material does not necessarily need its own series. If you
+have audiotapes, for example, they might form their own series or become part of a series when they fit
+intellectually with other materials or they might wind up in an “other materials” series with other
+materials that don't relate to anything else.
+
+The following list shows some standard type/format-based series (along with a few of the many types of
+items that may be appropriately placed in these series):
+
+ - correspondence (letters; telegrams; valentines, greeting cards, postcards with substantial
+messages);
+ - writings (by the creator of the papers);
+ - writings by others;
+ - organizational records (minutes, proceedings, bylaws);
+ - financial material (bills and receipts, bank statements, account books);
+ - legal material (indentures, contracts, deeds, wills, case files);
+ - subject files (materials grouped around distinct areas of interest to the creator);
+ - research notes;
+ - clippings (directly relating to the creator or vital to the creator's interests);
+ - printed material (pamphlets, circulars, broadsides);
+ - other materials (certificates, awards, items from other standard series when there are only a
+few items of a given type);
+ - pictures (photographic prints, negatives, drawings, paintings);
+ - audiodiscs and tapes;
+ - films;
+ - videotapes;
+ - microforms;
+ - electronic media;
+ - museum items.
+
+This list does not exhaust the possibilities by any means. A series called "Correspondence and Related
+Materials" is often the best solution for materials of many types that are best kept in a chronological
+run. You may have a series of general correspondence and several series of correspondence relating to
+specific topics. A collection that chiefly contains drawings would call for a drawings series; a collection
+with a great number of maps would require a maps series.
+
+The following are examples of series lists for actual collections:
+
+<a href="https://finding-aids.lib.unc.edu/catalog/04963">Edwin Yoder Papers (#4963)</a>
+
+1. Correspondence
+   
+- 1.1. Early Years, 1946-1958
+- 1.2. Charlotte News, 1958-1960
+- 1.3. Greensboro Daily News, 1961-1975
+- 1.4. Washington Star, 1975-1981
+- 1.5. Washington Post Writers Group, 1981-1996
+- 1.6. 1997-1998
+- 1.7. Undated
+
+2. Writings and Related Materials
+   
+- 2.1. Articles and Essays
+- 2.2. Books and Related Materials
+- 2.3. Book Reviews
+- 2.4. Columns and Editorials
+- 2.5. Diaries and Journals
+- 2.6. Speeches
+
+3. Writings by Others
+   
+4. Professional Papers
+   
+- 4.1. Subject Files
+- 4.2. Conferences and Professional Associations
+- 4.3. Teaching
+
+5. Other Materials
+   
+- 5.1. School Materials
+- 5.2. Biographical and Genealogical Information
+- 5.3. Financial Records
+- 5.4. Miscellaneous
+
+Second, different formats are collected under the cities where the collection creator lived, worked, and
+participated in civic life:
+
+<a href="https://finding-aids.lib.unc.edu/catalog/04968">Don Shoemaker Papers (#4968)</a>
+
+1. Asheville, N.C.
+   
+- 1.1. Correspondence
+- 1.2. Writings
+- 1.3. Clippings and Other Printed Material
+  
+2. Nashville, Tenn.
+   
+- 2.1. Correspondence
+- 2.2. Writings
+- 2.3. Clippings and Other Printed Material
+  
+3. Miami, Fla.
+- 3.1. Correspondence
+- 3.2. Writings
+- 3.3. Clippings and Other Printed Material
+
+Third, from UA, series are based on the functions or activities of the department that created the
+records.
+
+Although university records come to us in a variety of formats, we generally do not use strict
+type/format arrangements for them. We do sometimes segregate formats such as audiotapes or
+videotapes if the records contain a large number of them. Other files are usually arranged in series that
+are based on the functions (or areas of responsibility) of the office or department that created them. A
+group of records might be arranged in a single series or in multiple series depending on their volume
+and on the number and complexity of the functions to which they relate.
+
+<a href="https://finding-aids.lib.unc.edu/catalog/40064">Ackland Art Museum Records (#40064)</a>
+
+1. Administrative Files
+   
+2. Collections
+   
+3. Programs and Services
+
+Fourth, another UA example shows a hybrid arrangement, with some series and subseries based on
+function and some on format.
+
+<a href="https://finding-aids.lib.unc.edu/catalog/40278">WUNC Records (#40278)</a>
+
+1. Administrative Files
+- 1.1 Development and Publicity
+- 1.2 Licensing
+- 1.3 Facilities
+- 1.4 Financial
+  
+2. Programming
+- 2.1 Human Affairs
+- 2.2 Listener Mail
+- 2.3 Special Events
+- 2.4 Station Logs
+ - 2.5 Audio Recordings
+
+
+  
 # 4. Describing
 
 # 5. Housing and Preservation
@@ -430,7 +772,7 @@ For documentation about additions, please visit the <a href="https://github.com/
 
 # 9. History of _How to Proceed_ 
 
-The first edition of _How to Proceed: A Procedures Manual for the Southern Historical Collection and General and Literary Manuscripts_ was wriiten by Tim West and Lynn Holdzkom in 1989. It was revised by Lynn Holdzkom in May 1990 and December 1994, by Lynn Holdzkom and Linda Sellars in August 2000, and by Nancy Kaiser and Technical Services Friends in October 2006. This version of _How to Proceed_, created in GitHub by Dawne Lucas in 2025, is based on a revision captured by the <a href="https://web.archive.org/web/20180105011034/https:/library.unc.edu/wp-content/uploads/2017/05/UNC-CH-Library-Archival-Processing-Manual.pdf">Internet Archive in January 2018</a>, and has been modified to document current procedures.
+The first edition of _How to Proceed: A Procedures Manual for the Southern Historical Collection and General and Literary Manuscripts_ was wriiten by Tim West and Lynn Holdzkom in 1989. It was revised by Lynn Holdzkom in May 1990 and December 1994, by Lynn Holdzkom and Linda Sellars in August 2000, and by Nancy Kaiser and Technical Services Friends in October 2006. This version of _How to Proceed_, created in GitHub by Dawne Lucas in 2025, is based on a revision captured by the <a href="https://web.archive.org/web/20180105011034/https:/library.unc.edu/wp-content/uploads/2017/05/UNC-CH-Library-Archival-Processing-Manual.pdf">Internet Archive</a> in January 2018, and has been modified to document current procedures.
     
     
 
