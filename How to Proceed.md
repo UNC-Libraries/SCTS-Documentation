@@ -341,10 +341,76 @@ administrator intermingled with departmental records. While this will not change
 group of records, it is something to note. You might also discover that the department that transferred
 the records had inherited the records of another department.
 
+**Names:** Look out also for basic identifying information about the collection creator and other major
+players in the collection. In particular, take note of essential names and dates.
 
+ - Did your collection creator sign his name Robert Richardson Jones, Robert R. Jones, or simply
+Robert Jones?
+ - If Robert Jones had a grandfather, an uncle, and a son with the same name (all too common), it
+will be very helpful to know birth and death dates in order to distinguish one Robert Jones from
+another.
+   - If birth and death dates are unavailable, some indication of when the person lived
+should be given, even if only in terms of an active date, which shows the years
+when the person is known to have been active.
 
+UNIVERSITY ARCHIVES: You may find that the current name of the department that transferred the
+records is different from the name reflected in the records. This might be simply the result of a name
+change, or it might reflect an administrative reorganization that changed some of the functions of the
+department. Always take note of name changes and the dates at which they occurred, if you can
+determine them.
 
+**Arrangement:** Observe the arrangement of the materials:
 
+ - Can you discern a purposeful order?
+ - Are the materials in file folders?
+ - If so, do the folder headings appear to be accurate and meaningful?
+ - Are there lists of folder headings at the beginning of a file?
+ - Is there an index?
+ - Does the collection seem to be in its original order or has someone, either the creator or
+someone else, imposed another order?
+ - How well does the current arrangement provide access to the information in the papers?
+ - Look for related groupings of material. Sets of material are the basis of series and subseries--the
+building blocks of every arrangement scheme.
+ - Is the current arrangement of the materials usable?
+ - If not, what arrangement might be appropriate?
+ - If the materials seem to be in no particular order, are there series that you can create to
+facilitate use of the collection?
+
+**Content:** As you scan the materials and briefly examine selected items, try to form an impression of
+what the collection is about:
+ - What are the major subjects and research strengths?
+ - How well do the materials document the various aspects of a person's or an organization's history?
+ - Is there anything missing?
+ - Do some materials seem not to fit with the rest of the collection?
+   
+**Format and Physical Condition:** These aspects of the materials are almost as important as the content in
+deciding what to process and what levels of processing will be used.
+ - Are most of the items letter, legal, or oversized?
+ - Are there duplicates?
+ - Are there photocopies?
+ - What condition is the paper in?
+ - Is mold visible?
+ - Are there peculiar odors?
+ - Is the handwriting legible?
+ - What formats other than paper are in the collection?
+ - What condition are these other materials in?
+
+In addition, you will want to note:
+ - Approximate earliest and latest dates of the materials (inclusive dates);
+ - Approximate earliest and latest dates of the bulk of the materials (bulk dates);
+ - Frequent or prominent correspondents;
+ - Major figures and major events in the life of an individual or in the history of an organization;
+ - Major occupations of individuals; major functions of an organization; major events and issues in
+   the history of the university, such as controversies, the recruitment of minorities, the
+establishment of new programs, etc.
+ - Towns, counties, or other locations that are well-documented;
+ - Confidential or sensitive materials, such as transcripts, medical records, and case files of third
+parties represented unknowingly in the collection;
+ - Bibliographies, histories, genealogies present in the papers;
+ - Languages (other than English).
+
+Retain whatever information you gather; it will be helpful in making decisions about arranging your
+collection and will also be useful in processing plan discussions with your supervising archivist.
 
 # 3. Arranging
 
@@ -361,7 +427,10 @@ For documentation about additions, please visit the <a href="https://github.com/
 # 8. Appendices
 
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
-    
+
+# 9. History of _How to Proceed_ 
+
+The first edition of _How to Proceed: A Procedures Manual for the Southern Historical Collection and General and Literary Manuscripts_ was wriiten by Tim West and Lynn Holdzkom in 1989. It was revised by Lynn Holdzkom in May 1990 and December 1994, by Lynn Holdzkom and Linda Sellars in August 2000, and by Nancy Kaiser and Technical Services Friends in October 2006. This version of _How to Proceed_, created in GitHub by Dawne Lucas in 2025, is based on a revision captured by the <a href="https://web.archive.org/web/20180105011034/https:/library.unc.edu/wp-content/uploads/2017/05/UNC-CH-Library-Archival-Processing-Manual.pdf">Internet Archive in January 2018</a>, and has been modified to document current procedures.
     
     
 
