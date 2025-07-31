@@ -801,8 +801,207 @@ to describe and for researchers to use.
 
 ## Files
 
+File is the next level of intellectual grouping beneath series or subseries. Files can also exist on their
+own, not nested beneath series or subseries. In the example below “Letters from Jackie Dean, 1996-
+2000” and “Letters from Nancy Kaiser, 1997-2001” are files in the Correspondence series.
 
-  
+Series 1. Correspondence
+
+ - Letters from Jackie Dean, 1996-2000 (Folders 1-2)
+ - Letters from Nancy Kaiser, 1997-2001 (Folders 3-5)
+
+Once you have identified the intellectual order, you must decide how the files will be ordered within
+each series and how the items in each folder will be arranged (if they are to be arranged at all). The
+most important considerations in an arrangement scheme are the collection's original order and the
+ease of intellectual access to information in the collection. If the materials are in relatively good order
+when they come in, there may be no need for further arrangement below the series level. In some
+cases, however, the anticipated improvement in access justifies the cost in time taken to arrange within
+series.
+
+In theory, arrangement methods can be applied at any level, though we rarely arrange at the item level.
+Combinations of arrangement schemes may also be used. For example, within the same collection, a
+series of subject files may be arranged alphabetically by topic while a series of correspondence may be
+arranged in chronological order. As always, the overriding principle is that the arrangement must
+logically fit the materials. Think about how the materials will be used and proceed from there.
+
+**Alphabetical Order** 
+
+Subject files are commonly arranged alphabetically by topic. A writings series may also be alphabetically
+arranged by title (or it might be arranged by type of writing, then alphabetically by title).
+While most correspondence is filed chronologically, letters in a literary collection may be best arranged
+alphabetically by correspondent last name because literary research typically emphasizes who over
+when. Most literary researchers would prefer an alphabetical listing of correspondents that they can
+scan for names of interest to searching through chronological files to determine who wrote what to
+whom.
+
+**Chronological Order**
+
+Correspondence, invoices, annual reports, reminiscences, and other types of material are often
+arranged by date. Because historians are often concerned with a process of events in the life or an
+individual or corporate body, most non-literary manuscript series are arranged in this way.
+Files that arrive in reverse chronological order are normally left that way.
+When you are imposing chronological order, order from earliest to latest date. Undated items should
+follow all dated items. If an item can only be placed in a year, it should follow more completely dated
+items for that year (e.g. 1946 after December 1946). The same procedure should be used for months
+within years (e.g. December 1946 after 15 December 1946.
+
+*Multiple Dates*: Items having multiple dates (usually financial or legal items) should be filed by the latest
+date.
+
+*Undated:* Help with dating undated items sometimes comes from clues found on envelopes, on
+enclosures, or in the item's content (e.g., the mention of a datable historical event in a letter). Before
+pursuing any but the quickest dating investigations, however, you must consider your collection's
+research value and review discussions you may have had with your supervising archivist about the level
+of control to be attained. Protracted research may not be warranted.
+
+*Same date:* When arranging incoming and outgoing letters that have the same date, place the incoming
+letters before the outgoing ones. If you have a large amount of correspondence with the same date and
+your collection is extremely valuable, consider arranging each day`s items alphabetically by
+correspondent. Enclosures should be retained with correspondence, even if the dates do not match.
+Watch out, for spurious enclosures (e.g., the document is dated 15 December 1946 and the "enclosure"
+is dated 6 August 1977).
+
+*Partially dated:* A note on the filing of partially dated items: An item dated [187?] should be filed
+following other items dated 1870-1879, but before all items dated 1880. Similarly, an item dated
+[1871?] should be filed after all other items dated 1871, but before all items dated 1872.
+
+*Alternate forms:* On occasion, you will find alternate forms of original items, such as transcripts or
+photocopies, in your collection. The date of the alternate form is the date the alternate form was
+created, not the date of the original item. You may file these alternate forms with the original, or where
+the original would be filed, but the date of the alternate form should never change the earliest date of
+the collection date span.
+
+## Other Orders
+
+A geographical arrangement scheme may be useful for items such as travel files, data files, fund-raising
+material, and some subject files. For instance, a file might be arranged by state and further subdivided
+by county and city. If you have unidentified folders, make sure that the names you choose are
+appropriate to the period (e.g., a complete listing by state, territories, and possessions in the 1940s
+would list Hawaii as a territory).
+
+Sometimes files or items arrive with a pre-existing numbering scheme. If this scheme is still viable, it
+should be maintained, but be sure to include an explanation of the creator-generated arrangement in
+the appropriate descriptive passage.
+
+**Separated Material**
+
+In the course of arranging the materials, you may find that there are some items that, for preservation
+reasons, cannot be physically stored where they intellectually belong. Size, format, and condition often
+call for separate storage. Materials that are not stored in the main run of collections are called Items
+Separated.
+
+Another category of materials which may need to be stored separately is Restricted Materials. When
+you prepared your processing plan, you should have consulted the accession record and the control file
+to determine whether any restrictions apply to all or part of your collection. We aim at promoting free
+and equal access to the collections we hold, but access by researchers to materials may be restricted for
+several reasons. For example, we sometimes accept materials with strings attached. Donors may impose
+restrictions due to the personal nature of the papers they give or may seek to limit use of materials,
+particularly writings, they, or others represented in their papers, have produced. If only part of your
+collection is restricted, those materials will need to be stored in separate folders and/or boxes so that
+R&IS staff can alert patrons to the limits of the restriction or withhold the materials altogether,
+depending on the nature of the restriction.
+
+## Some Arrangement Concepts Explored
+
+You can judge whether or not an arrangement is satisfactory by thinking ahead to the finding aid you
+will write. Will arranging one way or another (or a mix of two or more different ways) allow you to
+describe the collection in a meaningful way or does it risk lumping together diverse elements that will be
+difficult to describe and catalog (and understand)?
+
+Remember that you are trying to accommodate the materials that make up the collection in an
+arrangement that clearly displays its components and also weaves those components together into a
+cohesive whole. Your arrangement also should promote ease of access and retrieval.
+
+**Identifying and/or constructing groupings by types or format**
+
+Type/format arrangements dictate that materials of the same type or in like formats be grouped
+together. Most often, these groups are established as series or subseries. The distinction between type
+and format can be blurry because both can include multiple formats. In a type arrangement, the
+content is likely to be more important than the format of the material. For example, in a
+correspondence series, the content is more important than whether the correspondence is loose papers
+or bound in a volume or on a floppy disc. In a format arrangement, the format is likely to be as
+important as the content of the material. For example, in a pictures series, the documentation of cotton
+picking in the 19th century in visual form may be as important as the information the picture conveys
+about cotton picking.
+
+ - Some examples of type arrangements are series of correspondence, writings, and financial
+materials. A variety of formats may be found within each of these types.
+ - Some examples of format arrangements are series of pictures, scrapbooks, and audiovisual
+materials. A variety of subformats also may be found within each of these formats.
+
+Type/format arrangements are often used when a collection of personal papers arrives in no discernible
+order; in many cases, arranging according to type or format of material is perfectly adequate to meet a
+collection's needs. Format arrangements are also used to highlight a format, such as pictures or
+audiovisual materials, that researchers might be interested in regardless of the collection from which
+they come.
+
+**Identifying and/or constructing groupings by activity or function**
+
+If arrangement based on type of material and/or format was always satisfactory, arranging would be
+pretty dry. The naturally messy world of manuscripts, however, abhors such easy answers. The need to
+consider other arrangement possibilities when planning a collection's order livens things up
+considerably.
+
+Activity/function arrangement is no respecter of type of material or format. It prefers that central ideas
+rather than physical attributes provide the rallying points for grouping papers in a collection.
+Type/format arrangement wants all letters together in a correspondence series. Activity/function
+arrangement wants the personal correspondence of United States Representative Ike Andrews filed
+separately from the correspondence he generated in his official capacity. A researcher interested in Ike's
+political career may be interested in his private life, but would have an easier time using Ike's papers if
+public and private aspects of his life were clearly defined by the arrangement scheme. Likewise,
+researchers looking at Jackson Mathews's correspondence about St. John Perse would be unhappy
+slogging through mounds of Mathews's correspondence about Paul Valéry. Those interested in Archie
+Davis's notes on the Civil War will find them more useful if they are grouped with other Civil War
+materials than if they are lumped together in a notes series that may also include items relating to the
+Wachovia National Bank and the United States Chamber of Commerce.
+
+As a wise ex-SHC processor once said, "The rhyme of the papers themselves and the reasons of those
+who come to use them are always the key considerations in arrangement."
+
+**Granularity**
+
+Granularity is a key concept in arrangement. The chief activities in arranging are grouping collection
+materials into logical units and deciding how granular those units should be. For example, a unit
+consisting of correspondence could be further arranged employing varying degrees of granularity. You
+might arrange by era, by decade, or by year, or by individual dates. For collections with low anticipated
+use, we're more likely to arrange materials in larger chunks. However, we need to be thoughtful about
+how we construct our groupings because larger groupings can mean that access to the materials is more
+difficult, with researchers having to wade through boxes of materials to find what they want.
+
+**Control**
+
+The idea of granularity relates directly to the concept of "control" in processing. The more granular our
+arrangements are the more control we have over the materials in the collection.
+The basic levels of control are described below. Keep in mind that you can have several different levels
+of control in one collection.
+It's important to understand that what we're talking about here is intellectual rather than physical
+arrangement. Whatever the level of control, we always list the physical containers (boxes, folders, etc.).
+See examples below.
+
+*Collection-level control*
+
+This is the least granular level of control. The materials are not further intellectually arranged into series
+or files.
+
+In the abbreviated finding aid example below you willl notice that the collection has no intellectual
+arrangement beyond the collection level. The folder listing is a physical representation of the contents;
+it does not indicate that there has been any more intellectual arrangement beyond the collection level.
+
+Collection Number: 6000
+
+Collection Title: Roslyn P. Holdzkom Papers
+
+Size: 5.0 feet of linear shelf space (approximately 300 items)
+
+Abstract: Roslyn P. Holdzkom was acknowledged by Walker Percy as
+a "pretty good archivist." The collection contains papers of
+Roslyn P. Holdzkom including correspondence, diaries, and
+materials relating to her work on Describing Archives: A Content
+Standard.
+
+Contents List
+ - Folders 1-12: Papers
+
 # 4. Describing
 
 # 5. Housing and Preservation
@@ -810,6 +1009,8 @@ to describe and for researchers to use.
 # 6. Finishing the Job 
 
 # 7. Additions
+
+We often receive material that is related to collections that are already here. Instead of making a new collection, we add this material to the existing collection. Additions are maintained separately in a physical sense, but we try to integrate them intellectually with materials received previously to facilitate discovery. Sometimes this is easily done; sometimes it is better to append new description to the end of the finding aid.
 
 For documentation about additions, please visit the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md">Additions</a> page.
 
