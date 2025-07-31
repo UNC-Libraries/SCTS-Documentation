@@ -23,6 +23,9 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
 - [4. Describing](#describing)
   - [The "Typical" Finding Aid](#the-typical-finding-aid)
   - [Finishing the Finding Aid](#finishing-the-finding-aid)
+- [5. Housing and Preservation](#housing-and-preservation)
+  - [Preservation/Conservation](#preservation-conservation)
+  - [Procedures](#procedures) 
 - [7. Additions](#additions)
 - [8. Appendices](#appendices)
 - [9. History of _How to Proceed_](#history)
@@ -958,7 +961,7 @@ Davis's notes on the Civil War will find them more useful if they are grouped wi
 materials than if they are lumped together in a notes series that may also include items relating to the
 Wachovia National Bank and the United States Chamber of Commerce.
 
-As a wise ex-SHC processor once said, "The rhyme of the papers themselves and the reasons of those
+A wise processor once said, "The rhyme of the papers themselves and the reasons of those
 who come to use them are always the key considerations in arrangement."
 
 **Granularity**
@@ -1251,18 +1254,146 @@ related intellectually to the abstract.
 Here is an example of identifying information:
 
 Title and dates: Richardson Preyer Papers, circa 1900-2004 (#5111)
+
 Creator: Preyer, Richardson
+
 Size: 96.5 feet of linear shelf space (approximately 65,600 items)
 
 Use the links below to learn more about each <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md">descriptive element</a>:
 
 - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#title">Title</a>
 - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#date">Date</a>
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#creator">Creator</a>
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#extent">Extent</a>
 
+**Administrative Information**
+
+ - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#restrictions">Access and Usage Restrictions</a>
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#acquisition">Provenance/Acquisitions Information</a>
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#processing-information">Processing Information</a>
+- *Add Items Separated and Related Materials*
+
+**Biographical/Historical Note**
+
+*DACS 2.7 Administrative/Biographical History Element and Chapter 10 Administrative/Biographical
+History*
+
+This section of the finding aid is headed biographical note when its focus is the life of one or more
+individuals and historical note when it deals with the history of an organization or University
+department. The biographical/historical note provides a rudimentary context for the descriptions that
+follow. It is not a biography or a history, but a ready reference that presents an overview of the creator’s
+life or history and details those aspects critical to a researcher's work with the papers. The
+biographical/historical note typically is boiled down to one or two sentences to become the first part of
+the abstract, which then becomes the 545 field in the MARC record.
+
+The biographical/historical note should be brief--from a few sentences to no a few paragraphs. A narrative biographical/historical note may be warranted by the complex
+or multi-dimensional career of the subject. Often, however, this information can be presented
+chronologically in list form. Remember that the purpose of the note is to provide the researcher with a
+ready reference to the subject's activities so that information in the rest of the finding aid will have
+greater meaning. A statement in the series description to the effect that there is correspondence for a
+certain span of years, for example, is made much more effective if the biographical note indicates that
+during those years the subject was in school or running a business or retired and engaged in community
+social work. Emphasis should be on that portion of the subject's career to which the bulk of the
+collection relates.
+
+It is sometimes possible simply to lift or adapt a note from another source (be sure to credit the
+original). Biographical or historical data may be abbreviated when the reader can be referred to
+standard sources such as the Dictionary of American Biography, the Dictionary of North Carolina
+Biography, or to other readily available biographical or historical directories. Minimally, however, basic
+data should be included in the finding aid even when such abbreviation takes place.
+The nature of the collection may help to determine the structure of the biographical/historical note. Not
+all collections relate to only one person or organization. Some consist of letters of two correspondents,
+family papers, autograph collections, subject collections, or other forms.
+
+To clarify your own understanding of the context of the collection, it may be useful to write a draft or
+outline of the biographical/historical note before you begin to process the collection. Wait, however, to
+complete the note until after the papers have been arranged and described. Your knowledge of the
+collection may allow you to add information if your preliminary research had turned up little and will
+help you focus the note to insure that it provides useful context for the materials in the collection.
+
+Example biographical note:
+
+The first African-American woman undergraduate to attend the University of North Carolina at
+Chapel Hill, Karen L. Parker was born in Salisbury, N.C., and grew up in Winston-Salem, N.C.
+Parker worked for the Winston-Salem Journal before attending UNC-Chapel Hill. She majored in
+journalism and was elected vice-president of the UNC Press Club and served as editor of the
+UNC Journalist, the School of Journalism's newspaper, in 1964. After graduating in 1965, Parker
+was a copy editor for the Grand Rapids Press in Grand Rapids, Mich. She has also worked for the
+Los Angeles Times and other newspapers before returning to the Winston-Salem Journal. Ellyn
+Bache used Parker's diary when conducting research for her 1997 novel The Activist's Daughter
+about student activists at the University of North Carolina at Chapel Hill in 1963.
+
+Example historical note 1:
+
+Rose's Stores, Inc., owned by Variety Wholesalers, Inc., of Henderson, N.C., is a southeastern
+chain of discount retail stores that began in 1915 with the founding of the first store by Paul H.
+Rose in Henderson, N.C. Rose's Stores were most common in North Carolina and South Carolina,
+but, at various times, the company had stores in Virginia, Georgia, Alabama, Maryland,
+Mississippi, Louisiana, and West Virginia.
+
+Example historical note 2 (UA short):
+
+The Center for Urban and Regional Studies of the University of North Carolina at Chapel Hill was
+established in 1957 as the Urban Studies Program of the university's Institute for Research in
+Social Science. In 1969, it became a separately administered center, and in 1988, it became a
+part of the Department of City and Regional Planning. The Center for Urban and Regional
+Studies conducts and supports both basic and applied research on urban, regional, and rural
+planning and policy issues. It is one of the oldest university-based centers of its kind, and its
+research is focused throughout North Carolina and the United States.
+
+Example historical note 3 (UA long):
+
+Although Louis Round Wilson began teaching summer courses in library science at the University
+of North Carolina in Chapel Hill in 1904, the School of Library Science did not open its doors until
+17 September 1931. Its first director was Dr. Wilson, who had at that point been the university
+librarian for thirty years. The school was originally funded by a $100,000 Carnegie Corporation
+grant, and during that first fall in 1931, thirty-seven students took courses from five faculty
+members of the school. For many of the early years of the School of Library Science, only an
+undergraduate degree in Library Science was offered. Dr. Wilson carried the school through its
+first full accreditation by the American Library Association (ALA) in December 1934, before Dr.
+Susan Grey Akers took over the directorship in 1935.
+
+Dr. Akers had earned her doctorate in library science from the University of Chicago in 1932,
+making her the fourth person and the second woman in the nation to receive this doctoral
+degree. Dr. Akers served as the school's director for seven years before her title changed to
+dean in 1942. Upon the acquisition of this new title, Dr. Akers became the first woman to hold
+an academic deanship at the University of North Carolina. Under Dr. Akers's leadership, the
+bachelor of arts degree that was offered by the school became a bachelor of science degree in
+library science in 1941.
+
+In March 1951, the university approved the creation of the master of science in library science
+program, and the first MSLS degrees were awarded in 1953. In 1955 the bachelor of science
+program was abolished. In September 1970, the School moved to Manning Hall; and in
+November 1972, the first issue of the School of Library Science newsletter, News from Chapel
+Hill, was published. In 1980 the first Ph.D. from the School of Library Science was awarded to
+JoAnn Hardison Bell. In 1987 the faculty of the school voted to include "information science" in
+the school's name, and in 1988 the name officially became School of Information and Library
+Science (SILS). The information and library science program continued to expand its degree
+offerings and began offering an undergraduate minor in information systems in 1997.
+SILS had always held high rankings in most academic evaluations; but in 1999, U.S. News and
+World Report selected it as the top program in the country, a ranking the school has held more
+often than not since that year. In 2001 the first dual-degree programs were announced, a
+master's program with the Kenan-Flagler Business School and another with the School of Public
+Health. In 2003 the bachelor of science degree was revived, and the first two certificate
+programs were initiated.
+
+Since its creation in 1931, the School of Information and Library Science has graduated more
+than 4,000 librarians who have gone on to serve in library capacities throughout the world. The
+goal of the school continues to be "to conduct inquiry devoted to information generation and
+use, to prepare reflective, adaptive information professionals for action in the present and the
+future, and to transfer to them an uncompromising advocacy for knowledge" (from its mission
+statement).
+
+**Scope and Content Note/Abstract**
 
 ## Finishing the Finding Aid
 
+Let your supervising archivist know when you have completed your finding aid in ArchivesSpace so they can review it and give feedback. When the finding aid is done to everyone's satisfaction, submit a <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Ticketing.md#blue-sheets-and-merge-requests">Blue Sheet ticket</a> so that the finding aid can be published online and statistics can be recorded. The departmental cataloger will then prepare a MARC record and load it into the online catalog. 
+
+
 # 5. Housing and Preservation
+
+## Preservation/Conservation
 
 # 6. Finishing the Job 
 
