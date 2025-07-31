@@ -751,7 +751,7 @@ function and some on format.
 - 2.2 Listener Mail
 - 2.3 Special Events
 - 2.4 Station Logs
- - 2.5 Audio Recordings
+- 2.5 Audio Recordings
 
 You have an opportunity to describe at each level, if needed. You will not necessarily write a description
 for every level. If a series-level description would add nothing to the subseries descriptions, then leave it
@@ -989,18 +989,171 @@ it does not indicate that there has been any more intellectual arrangement beyon
 
 Collection Number: 6000
 
-Collection Title: Roslyn P. Holdzkom Papers
+Collection Title: Lynn Holdzkom Papers
 
 Size: 5.0 feet of linear shelf space (approximately 300 items)
 
-Abstract: Roslyn P. Holdzkom was acknowledged by Walker Percy as
-a "pretty good archivist." The collection contains papers of
-Roslyn P. Holdzkom including correspondence, diaries, and
-materials relating to her work on Describing Archives: A Content
-Standard.
+Abstract: Lynn Holdzkom (1946-2013) was a white archivist and technical services librarian at the University of North Carolina at Chapel Hill from 1989 to 2013. The collection contains papers of Lynn Holdzkom, including correspondence, diaries, and materials relating to her work on *Describing Archives: A Content
+Standard (DACS)*.
 
 Contents List
  - Folders 1-12: Papers
+
+*Series-level control*
+
+Within a collection, we may control materials at the series level. These groupings may be determined,
+for example, by subject, date, creator, function, or even format. There must always be more than one
+series.
+
+The abbreviated finding aid below is an example of controlling at the series level. As with collection-level
+control, the folder listing is a physical representation of the contents; it does not indicate that there has
+been any more intellectual arrangement beyond the series level.
+
+Collection Number: 6000
+
+Collection Title: Lynn Holdzkom Papers
+
+Size: 5.0 feet of linear shelf space (approximately 300 items)
+
+Abstract: Abstract: Lynn Holdzkom (1946-2013) was a white archivist and technical services librarian at the University of North Carolina at Chapel Hill from 1989 to 2013. The collection contains papers of Lynn Holdzkom, including correspondence, diaries, and materials relating to her work on *Describing Archives: A Content
+Standard (DACS)*.
+
+Contents List
+ - Series 1. Correspondence (folders 1-5)
+ - Series 2. Diaries (folders 6-10)
+ - Series 3. Materials relating to *Describing Archives: A Content Standard* (folders 11-12)
+
+*File-level control*
+
+Collection Number: 6000
+
+Collection Title: Lynn Holdzkom Papers
+
+Size: 5.0 feet of linear shelf space (approximately 300 items)
+
+Abstract: Lynn Holdzkom (1946-2013) was a white archivist and technical services librarian at the University of North Carolina at Chapel Hill from 1989 to 2013. The collection contains papers of Lynn Holdzkom, including correspondence, diaries, and materials relating to her work on *Describing Archives: A Content
+Standard (DACS)*.
+
+Contents List
+
+Series 1. Correspondence
+ - Letters from Jackie Dean, 1996-2000 (folders 1-2)
+ - Letters from Nancy Kaiser, 1997-2001 (folders 3-5)
+   
+Series 2. Diaries
+ - Childhood diaries (folders 6-8)
+ - Adult diaries (folders 9-10)
+   
+Series 3. Materials relating to *Describing Archives: A Content
+Standard*
+ - Correspondence relating to DACS (folder 11)
+ - Drafts of *DACS* (folder 12)
+
+*Item-level control*
+
+This is the most granular level of control wherein items are arranged into a logical order and described
+individually. What constitutes an item varies--the item may be a scrapbook or could be a photograph on
+a page in a scrapbook. We typically use item-level control for small, 19th century collections or for
+collections with particular items that we want to describe individually.
+
+Collection Number: 6000
+
+Collection Title: Lynn Holdzkom Papers
+
+Size: 6.0 feet of linear shelf space (approximately 4,800 items)
+
+Abstract: Lynn Holdzkom (1946-2013) was a white archivist and technical services librarian at the University of North Carolina at Chapel Hill from 1989 to 2013. The collection contains papers of Lynn Holdzkom, including correspondence, diaries, and materials relating to her work on *Describing Archives: A Content
+Standard (DACS)*.
+
+Contents List
+
+Series 1. Correspondence
+ - Letter from Jackie Dean, 8 September 1996, Chapel Hill,
+N.C. (folder 1)
+ - Letter from Jackie Dean, 15 May 1998, Carrboro, N.C.
+(folder 1)
+ - Letter from Jackie Dean, 22 December 2000, Boston, Mass
+(folder 2)
+ - Letter from Nancy Kaiser, 22 November 1997, Chicago, Ill.
+(folder 3)
+ - Letter from Nancy Kaiser, 15 December 2001, Durham, N.C.
+(folder 4)
+ - Letter from Nancy Kaiser, 21 November 2004, Durham, N.C.
+(folder 5)
+
+Series 2. Diaries
+ - Diary, 1951 (folder 6)
+ - Diary, 1952 (folder 7)
+ - Diary, 1953 (folder 8)
+ - Diary, 1981 (folder 9)
+ - Diary, 1995 (folder 10)
+
+Series 3. Materials relating to *Describing Archives: A Content
+Standard*
+ - Letter from Michael Fox, 17 April 2001 (folder 11)
+ - Letter from Kris Kiesling, 17 April 2001 (folder 11)
+ - Letter from Bill Landis, 17 April 2001 (folder 11)
+ - Draft of *DACS*, 15 April 2001 (folder 12)
+ - Draft of *DACS*, 16 April 2001 (folder 12)
+
+*Multiple control levels*
+
+It's possible, even expected, to use different levels of control in one finding aid as in the example below.
+The correspondence is controlled at the file level, the diaries at the item level, and the materials relating
+to DACS are controlled at the series level.
+
+Collection Number: 6000
+
+Collection Title: Lynn Holdzkom Papers
+
+Size: 6.0 feet of linear shelf space (approximately 4,800 items)
+
+Abstract: Lynn Holdzkom (1946-2013) was a white archivist and technical services librarian at the University of North Carolina at Chapel Hill from 1989 to 2013. The collection contains papers of Lynn Holdzkom, including correspondence, diaries, and materials relating to her work on *Describing Archives: A Content
+Standard (DACS)*.
+
+Series 1. Correspondence
+ - Letters from Jackie Dean, 1996-2000 (folders 1-2)
+ - Letters from Nancy Kaiser, 1997-2001 (folders 3-5)
+   
+Series 2. Diaries 
+ - Diary, 1951 (folder 6)
+ - Diary, 1952 (folder 7)
+ - Diary, 1953 (folder 8)
+ - Diary, 1981 (folder 9)
+ - Diary, 1995 (folder 10)
+   
+Series 3. Materials relating to *Describing Archives: A Content
+Standard*
+ - Materials relating to *Describing Archives: A Content
+Standard* (folders 11-12)
+
+## Additions
+
+We often receive material that is related to collections that are already here. Instead of making a new
+collection, we add this material to the existing collection, hence the name Addition. When faced with an
+addition, the first decision that must be made is whether to incorporate the addition into the
+arrangement of the original deposit or to add the additional materials at the end of the original deposit’s
+arrangement in what we call a separately maintained addition.
+
+In some cases, it may be very easy to drop materials into the appropriate places in the original deposit
+without changing the arrangement or description. However, before integrating materials consider how
+the collection has already been used. Some collections are heavily used by repeat researchers who may
+find confusing the intermingling of new material with old. Also, for some collections, it might make
+sense to highlight new material, even if it is just one letter. It is a good idea to consult with your
+supervising archivist for help with the decision to interfile or to create a separate addition. If you do
+interfile, be sure to put a note in the control file indicating what, where, and when new material was
+interfiled.
+
+More frequently, you will opt for creating separately maintained additions; these can come in many
+styles. If the materials in the addition mimic the materials in the original deposit you can use the same
+arrangement in your addition. The materials do not have to correspond exactly. For example, in your
+original deposit, you might have Series 1. Correspondence, Series 2. Diaries, and Series 3. Pictures. It is
+fine for your addition to have a diaries series; a pictures series; and a new series of audio-visual
+materials. Of course, materials in the addition may not have anything to do with the original deposit. In
+that case, it is completely fine to devise a new arrangement for them.
+
+For documentation about additions, please visit the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md">Additions</a> page.
+
 
 # 4. Describing
 
