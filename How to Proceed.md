@@ -20,6 +20,9 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
   - [Separated Material](#separated-material)
   - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
   - [Arranging Additions](#arranging-additions)
+- [4. Describing](#describing)
+  - [The "Typical" Finding Aid](#the-typical-finding-aid)
+  - [Finishing the Finding Aid](#finishing-the-finding-aid)
 - [7. Additions](#additions)
 - [8. Appendices](#appendices)
 - [9. History of _How to Proceed_](#history)
@@ -775,7 +778,7 @@ value. Displaying a collection's strengths assists researchers in determining a 
 to their work. You will find that in a great number of collections the correspondence series contains the
 most valuable research materials. In these cases, the correspondence series comes first, followed by
 other series in descending order of importance. Sometimes, however, another series will take
-precedence over correspondence. In the Walker Percy Papers (#4294), Series 1. Novels and Series 2.
+precedence over correspondence. In the <a href="https://finding-aids.lib.unc.edu/catalog/04294">Walker Percy Papers (#4294)</a>, Series 1. Novels and Series 2.
 Other Works come before correspondence.
 
 UNIVERSITY ARCHIVES: In many collections, the first series is called Administrative Files or General Files.
@@ -1156,6 +1159,108 @@ For documentation about additions, please visit the <a href="https://github.com/
 
 
 # 4. Describing
+
+The finding aid you create will lead researchers to and into collections that may be of interest to them.
+Throughout processing, put yourself in the researchers’ shoes and be sure you are creating a guide that
+will help them find the collections they need and the pertinent material within those collections.
+Although describing is the focus of this section, arrangement underpins every description. Arranging
+establishes the intellectual and physical contours of the collection. While arranging, you anticipate
+describing your collection in terms of its arrangement scheme. Get the arrangement down, and
+description will follow.
+
+What is a good finding aid? In 1926, Robert B. House of the North Carolina State Historical Commission
+(and later, Chancellor of the University and namesake of the Undergraduate Library) said, "Write pithily
+and attractively, but with absolute truth and unchangeable regard for historical truth and accuracy."
+That's a good start. Finding aids are written communications, and they should be approached with the
+same care that goes into any well-written document. Attention to syntax and vocabulary are important;
+consistency and correctness of punctuation count. While a finding aid can be witty, it should never be
+chatty. Clarity is essential.
+
+Lean and lucid prose is important, but so is House's "historical truth and accuracy." By becoming familiar
+with the collection in its historical context, you can supply the researcher with an evaluation of the
+quality of the information it contains. The researcher, however, does not care if you think the creator of
+the papers was a jerk or a hero. Keep your prejudices out of the finding aid and be sure that statements
+you make about the papers are true. Strive to maintain a balanced, analytical tenor.
+
+Along with clear, concise, and carefully written prose, modern day finding aids should be characterized
+by adherence to current standards for archival description. Since the days of House, there has been a
+steady march toward standardization of collection descriptions in order to improve intellectual access to
+archival materials. In 1994, the SHC received a grant from NEH to create MARC online catalog records so
+that all of its collections would have uniform representation in the University Library’s online catalog. In
+1998, the SHC began implementing Encoded Archival Description (EAD), a non-proprietary standard for
+the encoding of finding aids for use in an online environment. EAD uses a tagging language that encodes
+collection information in finding aids to facilitate searching within and across repositories. In 2004, the
+Society of American Archivists published Describing Archives: A Content Standard (DACS), guidelines
+which standardize the content of finding aids and MARC records. Whereas EAD and MARC address how
+and where the collection information should be presented in finding aids and catalog records, DACS
+speaks to what information should be present in these descriptive structures as well as in others. When
+appropriate, our house protocols for description cite the corresponding DACS rules.
+
+Go forth and describe.
+
+## The "Typical" Finding Aid
+
+If you knew, even without benefit of the telltale quotation marks, that the title of this section is a joke,
+you have understood a basic fact about manuscript and archival materials. In the messy world of
+manuscripts and archives, nothing is typical. There are, however, finding aid formats that can be
+established, standards that can be set, and procedures that can be followed. The key, of course, is to
+apply the formats, standards, and procedures with flexibility.
+
+The following sections lay out the finding aid format used in the Wilson Technical Services Department
+and get down to the basic procedures for describing a collection's arrangement. Because every
+collection calls for a tailored arrangement scheme, every collection also calls for tailored description.
+You can use some of the parts of the finding aid all of the time, and you can use all of the parts of the
+finding aid some of the time, but you cannot use all of the parts of the finding aid all of the time. Review
+the following sections with an eye to picking out which parts of the finding aid apply to different kinds of
+collections.
+
+DACS articulates the idea of levels in archival description. For hierarchical descriptions like finding aids,
+DACS identifies three levels: multilevel minimum, multilevel optimum, and multilevel added value. *See
+DACS Chapter 1.*
+
+We almost always use multilevel added value records for our finding aids. Our finding aids will always
+include:
+
+- descriptive summary (typically includes creator, always includes collection title, size and
+language of materials);
+ - abstract;
+ - administrative information;
+ - subject headings;
+ - biographical note;
+ - scope and content note;
+ - contents list.
+
+Our finding aids may also include:
+
+ - list of series;
+ - series descriptions;
+ - items separated;
+ - related collections.
+
+While styles have changed over the years, be assured that the goal has remained constant: the chief
+function of the document you are producing is to tell researchers about your collection. With these
+researchers in mind, you have arranged the collection in a clear and logical fashion; now describe it in a
+similar way.
+
+**Descriptive Summary**
+
+The descriptive summary contains basic identifying information--title, dates, creator, extent--and an
+abstract of the collection. The online catalog terms will also be discussed because they are so closely
+related intellectually to the abstract.
+
+Here is an example of identifying information:
+
+Title and dates: Richardson Preyer Papers, circa 1900-2004 (#5111)
+Creator: Preyer, Richardson
+Size: 96.5 feet of linear shelf space (approximately 65,600 items)
+
+Use the links below to learn more about each <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md">descriptive element</a>:
+
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#title">Title</a>
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#date">Date</a>
+
+
+## Finishing the Finding Aid
 
 # 5. Housing and Preservation
 
