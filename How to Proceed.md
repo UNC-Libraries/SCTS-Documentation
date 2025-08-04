@@ -2,35 +2,38 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
 
 # How to Proceed: Special Collections Technical Services Archival (SCTS-Archival) Processing Manual
 
+***
+
 # Overview
-- [1. Introduction](#introduction)
+- [Introduction](#introduction)
   - [Who We Are](#who-we-are)
   - [What We Do](#what-we-do)
   - [Basic Premises](#basic-premises)
   - [Overview of Processing](#overview-of-processing)
-- [2. Preparing to Process](#preparing-to-process)
-  - [Preliminary Research and Survey](#preliminary-research)
+- [Preparing to Process](#preparing-to-process)
+  - [Preliminary Research and Survey](#preliminary-research-and-survey)
   - [Writing a Processing Plan](#writing-a-processing-plan)
-- [3. Arranging](#arranging)
-  - [Basic Premises for Arranging](#basic-premises-arranging)
-  - [If It Ain't Broke, Don't Fix It](#if-it-aint-broke)
+- [Arranging](#arranging)
+  - [Basic Premises for Arranging](#basic-premises-for-arranging)
+  - [If It Ain't Broke, Don't Fix It](#if-it-aint-broke-dont-fix-it)
   - [The Break Down](#the-break-down)
   - [Series and Subseries](#series-and-subseries)
   - [Files](#files)
   - [Separated Material](#separated-material)
   - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
   - [Arranging Additions](#arranging-additions)
-- [4. Describing](#describing)
+- [Describing](#describing)
   - [The "Typical" Finding Aid](#the-typical-finding-aid)
   - [Finishing the Finding Aid](#finishing-the-finding-aid)
-- [5. Housing and Preservation](#housing-and-preservation)
+- [Housing and Preservation](#housing-and-preservation)
   - [Preservation/Conservation](#preservation-conservation)
-  - [Procedures](#procedures) 
-- [7. Additions](#additions)
-- [8. Appendices](#appendices)
-- [9. History of _How to Proceed_](#history)
+  - [Procedures](#procedures)
+- [Finishing the Job](#finishing-the-job)
+- [Additions](#additions)
+- [Appendices](#appendices)
+- [History of *How to Proceed*](#history-of-how-to-proceed)
    
-# 1. Introduction
+# Introduction
 
 If you process manuscript collections and archival record groups at the University of North Carolina at
 Chapel Hill, this manual is for you. How to Proceed was written to be used. It was designed to serve both as a training manual for new staff
@@ -202,9 +205,9 @@ note and abstract last.
 When you have finished the draft of the finding aid in ArchivesSpace, your supervising archivist will review it. When
 the two of you are satisfied with the draft, you will submit a <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Ticketing.md#blue-sheets-and-merge-requests">Blue Sheet request</a> for your finding aid to be published.
 
-# 2. Preparing to Process
+# Preparing to Process
 
- ## Preliminary Research and Survey
+## Preliminary Research and Survey
 
 Getting an overview of your collection and preparing a plan are the first major steps in processing. You
 will begin by preparing the plan on the form provided. Throughout the project, you will meet with your
@@ -554,9 +557,9 @@ Projected completion date:
 Add any other notes here.
 
 
- # 3. Arranging
+ # Arranging
 
- ## Basic Premises
+## Basic Premises for Arranging
 
 After survey, analysis, and background research, it is time to consider the collection’s arrangement: Is
 there a discernible order? Is the order meaningful? Does it facilitate or inhibit access? A good
@@ -1161,7 +1164,7 @@ that case, it is completely fine to devise a new arrangement for them.
 For documentation about additions, please visit the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md">Additions</a> page.
 
 
-# 4. Describing
+# Describing
 
 The finding aid you create will lead researchers to and into collections that may be of interest to them.
 Throughout processing, put yourself in the researchers’ shoes and be sure you are creating a guide that
@@ -1391,23 +1394,23 @@ statement).
 Let your supervising archivist know when you have completed your finding aid in ArchivesSpace so they can review it and give feedback. When the finding aid is done to everyone's satisfaction, submit a <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Ticketing.md#blue-sheets-and-merge-requests">Blue Sheet ticket</a> so that the finding aid can be published online and statistics can be recorded. The departmental cataloger will then prepare a MARC record and load it into the online catalog. 
 
 
-# 5. Housing and Preservation
+# Housing and Preservation
 
 ## Preservation/Conservation
 
-# 6. Finishing the Job 
+# Finishing the Job 
 
-# 7. Additions
+# Additions
 
 We often receive material that is related to collections that are already here. Instead of making a new collection, we add this material to the existing collection. Additions are maintained separately in a physical sense, but we try to integrate them intellectually with materials received previously to facilitate discovery. Sometimes this is easily done; sometimes it is better to append new description to the end of the finding aid.
 
 For documentation about additions, please visit the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md">Additions</a> page.
 
-# 8. Appendices
+# Appendices
 
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
 
-# 9. History of _How to Proceed_ 
+# History of *How to Proceed* 
 
 The first edition of _How to Proceed: A Procedures Manual for the Southern Historical Collection and General and Literary Manuscripts_ was wriiten by Tim West and Lynn Holdzkom in 1989. It was revised by Lynn Holdzkom in May 1990 and December 1994, by Lynn Holdzkom and Linda Sellars in August 2000, and by Nancy Kaiser and Technical Services Friends in October 2006. This version of _How to Proceed_, created in GitHub by Dawne Lucas in 2025, is based on a revision captured by the <a href="https://web.archive.org/web/20180105011034/https:/library.unc.edu/wp-content/uploads/2017/05/UNC-CH-Library-Archival-Processing-Manual.pdf">Internet Archive</a> in January 2018, and has been modified to document current procedures.
     
