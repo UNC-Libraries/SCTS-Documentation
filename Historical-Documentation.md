@@ -10,7 +10,7 @@ Updated August 2025
      - [XML to TXT script](#xml-to-txt-script)
    - [Excel formulas/tips](#excel-formulastips) 
 - [EAD Documentation](#ead-documentation)
-   -[Additions](#additions) 
+   - [Additions](#additions) 
    
 
 
