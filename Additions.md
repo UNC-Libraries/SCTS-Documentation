@@ -1,10 +1,11 @@
-Updated June 2020
+Updated August 2025
 
 # Overview
 
 - [Arrangement](#arrangement)
 - [Revising the XML](#revising-the-xml)
 - [Other Unusual Situations](#other-unusual-situations)
+- [Historical Documentation](#historical-documentation)
 
 ***
 
@@ -253,3 +254,7 @@ of October 2016 (Acc. 102664).</p></acqinfo>
 ```
 
 Sometimes not all the materials in the addition will be made usable at the same time, especially when there are born digital materials. Be sure to add one of the Access Restriction statements if that is the case. 
+
+# Historical Documentation
+
+Documentation pertaining to EAD encoding for additions can be found on the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Historical-Documentation.md#additions">Historical Documentation</a> page.
