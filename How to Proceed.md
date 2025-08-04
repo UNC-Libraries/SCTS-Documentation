@@ -20,14 +20,14 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
   - [Series and Subseries](#series-and-subseries)
   - [Files](#files)
   - [Separated Material](#separated-material)
-  - [Some Arrangement Concepts Explored](#some-arrangement-concepts)
+  - [Some Arrangement Concepts Explored](#some-arrangement-concepts-explored)
   - [Arranging Additions](#arranging-additions)
 - [Describing](#describing)
   - [The "Typical" Finding Aid](#the-typical-finding-aid)
   - [Finishing the Finding Aid](#finishing-the-finding-aid)
 - [Housing and Preservation](#housing-and-preservation)
   - [Preservation/Conservation](#preservation-conservation)
-  - [Procedures](#procedures)
+  - [Conservation Workflow](#conservation-workflow)
 - [Finishing the Job](#finishing-the-job)
 - [Additions](#additions)
 - [Appendices](#appendices)
@@ -880,7 +880,7 @@ created, not the date of the original item. You may file these alternate forms w
 the original would be filed, but the date of the alternate form should never change the earliest date of
 the collection date span.
 
-## Other Orders
+**Other Orders**
 
 A geographical arrangement scheme may be useful for items such as travel files, data files, fund-raising
 material, and some subject files. For instance, a file might be arranged by state and further subdivided
@@ -892,7 +892,7 @@ Sometimes files or items arrive with a pre-existing numbering scheme. If this sc
 should be maintained, but be sure to include an explanation of the creator-generated arrangement in
 the appropriate descriptive passage.
 
-**Separated Material**
+## Separated Material
 
 In the course of arranging the materials, you may find that there are some items that, for preservation
 reasons, cannot be physically stored where they intellectually belong. Size, format, and condition often
@@ -1136,7 +1136,7 @@ Standard*
  - Materials relating to *Describing Archives: A Content
 Standard* (folders 11-12)
 
-## Additions
+## Arranging Additions
 
 We often receive material that is related to collections that are already here. Instead of making a new
 collection, we add this material to the existing collection, hence the name Addition. When faced with an
@@ -1397,6 +1397,136 @@ Let your supervising archivist know when you have completed your finding aid in 
 # Housing and Preservation
 
 ## Preservation/Conservation
+
+**Preservation** consists of those actions that retard or prevent damage to materials. Among these are
+controlling the macroenvironment (temperature, relative humidity, light, etc.), providing a safe
+microenvironment (archivally sound housing in terms of boxes, folders, etc.), imposing preservation-
+wise rules for the handling of materials by staff and researchers, devising and implementing a disaster
+plan, and other measures. **Conservation**, on the other hand, is chiefly defined as bench work and is
+described in terms of treatments performed on individual items. These include cleaning, deacidification,
+tear repair, encapsulation, and other procedures. Whether or not you ever become involved in
+conservation, preservation is undeniably an important part of your work as a processor.
+
+Most conservators (conservationists protect wetlands and whales, not library materials) agree that the
+macroenvironment is the most significant element in any preservation effort. We know, because of a
+monitoring program that for years took readings throughout the building, that the renovated parts of
+Wilson Library (the original 1929 building and the 1952 addition) are pretty satisfactory in terms of
+temperature and relative humidity and that the 1977 addition to the library still suffers from poor
+environmental controls. The macroenvironment has further been enhanced by the application of
+ultraviolet-filtering film to all of our windows and light sources.
+
+So the macroenvironment is pretty much under control for part of our holdings and pretty much out of
+our control for the other part. As the 1977 addition requires work far beyond our ability to fund, we
+need to focus on what we can, in fact, control: the microenvironment--the immediate environment
+enclosed by the boxes and folders in which our materials are housed. This is not the place to go into the
+complex relations between various elements of paper, glue, etc., many of which are still only partially
+understood by chemists and other science types. Those wishing further information can start with
+Ritzenthaler's Archives & Manuscripts: Conservation and work their way through the many other
+publications on this topic. Suffice it to say that boxes and folders made of acidic materials tend to
+transfer their acids to the materials they hold, thereby accelerating the destruction of the materials they
+are supposed to protect.
+
+Your preservation activities chiefly have to do with ensuring that materials are appropriately housed in
+alkaline (non-acidic) microenvironments. You are also charged with producing clear and accurate box,
+folder, and item labels that promote quick and easy retrieval and refiling and prevent unnecessary
+handling of items. You may also be responsible for certain other procedures--such as preservation photocopying--and for identifying
+items that are candidates for professional conservation work.
+
+Be aware, however, that the volume of materials involved makes it possible to perform intensive
+conservation treatments on only a small number of items. Especially with large 20th- and 21st-century
+collections, it is entirely possible that your preservation activities will be the only such efforts made in
+behalf of your collection for many, many years (if not forever). When you process, be aware that your preservation consciousness is a big factor in the survival potential of the
+materials you handle.
+
+## Conservation Workflow
+
+All staff share in preservation responsibilities. The conservators monitor the macroenvironment, but
+staff should always be on the lookout for water leaks, dramatic changes in temperature, and other signs
+that may signal macroenvironmental trouble. The conservator also is responsible for evaluating
+conservation requests from staff and for performing conservation treatments. Research and
+Instructional Services staff observe careful handling procedures and instruct researchers on how to do
+the same. Both R&IS staff and researchers occasionally find individual items that require conservation
+treatments; they are also in the best position to identify collections that need rehousing. Curators alert
+Conservation and Technical Services staff to collection conditions and items needing special attention during processing, including
+moldy materials, born digital materials, and audiovisual materials. Tech Services has responsibility for processing all materials in a preservation-conscious
+way and consulting with Conservation staff as needed.
+
+**Outside Assistance**
+
+The difference between preservation and conservation has already been discussed. As a processor, you
+are chiefly involved in preservation. While you may occasionally do some simple work on individual
+items (inner foldering, preservation photocopying), for the most part, your
+duties in this area will involve selecting items as candidates for conservation treatments by others. Even
+though your role in conservation is pretty peripheral, you should be aware that conservation is serious
+business, and those who are good at it have learned to proceed with caution. Remember that almost all
+of our items are unique and many of them are quite valuable.
+
+As you handle materials in different collections, you will most likely encounter some items that have
+been "repaired" by loving but unskilled hands. Typically, these "repairs" cause a great deal more harm
+than good. Those brown stains indicate that the pieces of pressure-sensitive tape applied thirty years
+ago by some well-intentioned descendent are destroying the ancestral letters they were meant to
+preserve.
+
+Conservation is not a do-it-yourself job. The Library's conservators (Preservation & Conservation Services, or P&CS), in consultation with curators and Technical Services
+staff, decide what treatments specific items require. The possibilities include tear repair using
+heat-set or Japanese tissue, encapsulation in archivally approved plastic, cleaning, ironing,
+deacidification, adhesive removal, and other treatments, all of which require the services of a highly
+trained conservation professional. This Library is fortunate to have top-rate conservation personnel and
+facilities. The Department takes full advantage of these capabilities to the extent of paying the salary of
+a student who is trained by the conservators to work exclusively on our materials.
+
+**What to Send to Preservation & Conservation Services (P&CS)**
+
+If it’s unclear whether something should come to conservation, send the Senior Conservator 
+(Adrienne) a Teams message to ask questions.
+
+If it can be safely processed or housed by TS-Archival but may not be perfectly stable for reading 
+room use, it generally does not need to come to Conservation right away. It can be routed to 
+Conservation through another use-driven workflow: exhibits, digitization, or research room / class 
+use.
+
+Send materials that...
+ - Cannot be safely processed by TS-Archival
+ - Cannot be safely housed by TS-Archival, including oversized items that need a custom 
+housing
+ - Need to be unframed
+ - Are being called out specifically in the finding aid, so anticipated use is great, and cannot be 
+safely used in the reading room 
+ - Are moldy or appear to have active pest infestations
+   
+If a damaged page is part of a larger document, the whole document (including undamaged pages) 
+can be routed to Conservation so it can be housed as one unit. 
+
+**How to Send it to Preservation & Conservation Services (P&CS)**
+
+ - TS-Archival uses individual account to create Aeon transaction for the item
+   - If there is not a preexisting record for the item to use to generate the Aeon request, 
+create a placeholder record
+   - Aeon placeholder records for Archival materials may include: collection number, 
+accession number, brief description of what’s being sent and quantity (i.e. 1 rolled 
+item, 10 framed items, etc.)
+   - Staff may need to use reading room to complete the transaction and print slips
+  
+ - TS-Archival prints Aeon slips
+   - ½ of the Aeon slip stays with the item
+   - If the item is processed, the other half goes on the shelf where the item would be
+   - If the item is not processed, the other half stays in the folder on the shelves next to 
+the vault, or with the materials in the processing room
+
+ - TS-Archival staff completes a conservation form (located on the shelf above the Level 9 conservation cart)
+
+ - TS-Archival places item on cart on level 9
+   - Change location in Aeon to “In conservation review area (9)”
+   - If the item is a vault item, or there are too many items to fit on the cart, TS-Archival 
+contacts P&CS staff to coordinate getting items to the lab
+
+- P&CS picks up items from carts on the first and third Mondays of each month
+
+
+**What Happens Once it's in Preservation and Conservation Services (P&CS)**
+
+**How to Return Items to Technical Services after Conservation**
+
 
 # Finishing the Job 
 
