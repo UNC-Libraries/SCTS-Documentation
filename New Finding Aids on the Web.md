@@ -2,10 +2,10 @@
 
 Processing projects in progress
 
--Rearrangement and re-description of Leah Wise Papers
--First pass processing on Cooleemee Historical Society
--Container list added to Bernard Greenberg Papers
--Enhanced description for constellation of Hairston/Wilson family collections and for the Manigault Family Paper
+- **Rearrangement and re-description of Leah Wise Papers
+- **First pass processing on Cooleemee Historical Society
+- **Container list created for Bernard Greenberg Papers
+- **Enhanced description for constellation of Hairston/Wilson family collections and for the Manigault Family Paper
 
 New 
 
