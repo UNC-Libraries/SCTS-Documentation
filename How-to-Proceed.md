@@ -28,6 +28,7 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
 - [Housing and Preservation](#housing-and-preservation)
   - [Preservation and Conservation](#preservation-and-conservation)
   - [Conservation Workflow](#conservation-workflow)
+  - [What You Can Do](#what-you-can-do)
 - [Finishing the Job](#finishing-the-job)
 - [Additions](#additions)
 - [Appendices](#appendices)
@@ -1475,7 +1476,76 @@ trained conservation professional. This Library is fortunate to have top-rate co
 facilities. The Department takes full advantage of these capabilities to the extent of paying the salary of
 a student who is trained by the conservators to work exclusively on our materials.
 
+**Removing Items for Conservation Treatment**
+
 Consult the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Preservation-and-Conservation-Services.md">Preservation and Conservation Services (P&CS) + Special Collections Technical Services Archival (TS-Archival) Workflow</a> to learn more about how to send materials to P&CS.
+
+## What You Can Do
+
+Like everything else in processing work, no hard and fast rules can be applied to determine the
+preservation requirements of the collections you process. Once again, it is important to understand the
+relationship among the chief processing procedures. A lighter treatment, in terms of arranging,
+describing, and cataloging usually implies minimal attention to preservation. Our baseline requirements
+for preservation are that, with some exceptions, all materials are housed in folders (whether new or the
+ones the materials came in), the folders are numbered, and audio/visual media is separated from the
+paper-based items. When particularly intensive processing is to be carried out, equally intensive
+preservation and conservation measures may be indicated.
+
+As the depth and intensity of arranging, describing, and cataloging largely depend on the collection's
+perceived research value, so the extent of preservation work actually performed on a collection is
+determined, to a large degree, by how valuable the material is for our researchers. Value here is chiefly
+in terms of research value, although many of our items also have great artifactual value (autographs,
+etc.). It would make little sense to apply extensive, time-consuming preservation or conservation
+measures to materials that are of minimal research value. On the other hand, it makes a great deal of
+sense to devote considerable effort to a collection containing materials of great value, whose loss would
+have serious consequences for research in one or more subject areas.
+
+Another important consideration in determining preservation work is the degree of use we expect the
+materials to experience in the reading room. If we don't expect a collection to be heavily used, we may
+not worry too much about the potential wear and tear. A good example involves letters in envelopes.
+We typically remove letters from envelopes during processing to keep them from being damaged when
+they are taken out of and placed back into envelopes. Invitations printed on sturdy paper and not
+anticipated to be used heavily, however, might not be de-enveloped. Of course, if we have guessed
+wrong about use, we might revisit this decision. As with processing decisions, we rely on our R&IS
+colleagues to let us know when more preservation work might be needed.
+
+Besides research value and expected use, the extent of preservation activities is also influenced by the
+volume of materials in a collection. For large collections, the sheer bulk of materials involved requires
+that we take a hard look at the preservation/conservation work we undertake. Archival preservation
+work sometimes looks at artifactually valuable items, but most commonly proceeds on the basis of
+groups of materials. This is, of course, consistent with other procedures--arranging, describing, and
+cataloging--that treat materials in the aggregate. You will find that housing collections in archivally
+sound boxes and folders and carefully labeling them to make retrieval easier (and thereby discouraging
+unnecessary handling) are the most frequently prescribed measures for an intensive processing
+project.
+
+Sometimes we can go further than that. Particularly with smaller collections containing potentially
+significant materials, you are likely to carry out more procedures like unfolding and unrolling,
+humidifying and flattening, inner foldering, removing fasteners, preservation photocopying, and, as
+discussed above, sending items for conservation treatment.
+
+The following preservation activities may not be indicated for every collection that you process and
+often are predicated on item-level processing. Depending on factors like research value and size, you
+and your supervising archivist may decide that all, some, or none of these measures are appropriate.
+Your collection may not warrant these more intensive measures for reasons of physical condition, size,
+or research value. Whatever the reason, do not assume that your collection is doomed to a short life. In
+truth, we do not really know how much extra time we are buying for original materials above and
+beyond their preordained lifespan when we take these preservation steps. Ease your mind with the
+knowledge that you are serving the researchers of today and tomorrow, if not the forever future, by
+speeding a collection along the path from accession to open for research. Should it later come to our
+attention that the collection is handled much more than anticipated, the application of more intensive
+preservation is always an option.
+
+Before you get very far into the initial stages of processing your collection, make sure that you and your
+supervising archivist are in agreement about how much preservation work the collection will receive in
+addition to routine housing and labeling. It is a real waste of time to have to go back through a collection
+to remove acidic materials that should have been dealt with the first time through. It is also somewhat
+demoralizing to have spent your valuable time worrying over rusty fasteners in a collection that will only
+see a few researchers over time.
+
+**Unfolding**
+
+
 
 
 # Finishing the Job 
@@ -1489,6 +1559,9 @@ For documentation about additions, please visit the <a href="https://github.com/
 # Appendices
 
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Photographs.md">Photographs</a>
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md">Audiovisual Materials (including Jitterbug)</a>
+  - Finding Aids in ArchivesSpace
 
 # History of *How to Proceed* 
 
