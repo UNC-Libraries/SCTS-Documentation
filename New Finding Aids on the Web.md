@@ -1,3 +1,20 @@
+# July 2025
+
+Processing projects in progress
+
+-Rearrangement and re-description of Leah Wise Papers
+-First pass processing on Cooleemee Historical Society
+-Container list added to Bernard Greenberg Papers
+-Enhanced description for constellation of Hairston/Wilson family collections and for the Manigault Family Paper
+
+New 
+
+Revised description 
+
+Additions 
+
+
+
 # June 2025
 
 - **[Department of City and Regional Planning Records, 1944-2018](https://finding-aids.lib.unc.edu/catalog/40364)
