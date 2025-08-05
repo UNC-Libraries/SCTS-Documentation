@@ -7,7 +7,7 @@ Updated February 2025
 # Overview
  - [What to Send to Conservation](#what-to-send-to-conservation)
  - [How to Send It to Conservation](#how-to-send-it-to-conservation)
- - [What Happens Once It's in Conservation](#what-happens-once-its-in-conservation]
+ - [What Happens Once It's in Conservation](#what-happens-once-its-in-conservation)
  - [How to Return Items to Technical Services](#how-to-return-items-to-technical-services)
 
 ## What to Send to Conservation
