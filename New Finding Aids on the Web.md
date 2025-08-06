@@ -1,11 +1,5 @@
 # July 2025
 
-Processing projects in progress
-
-- Rearrangement and re-description of Leah Wise Papers
-- First pass processing on additions to  Cooleemee Historical Society Records
-- Container list created for Bernard Greenberg Papers
-- Enhanced description for constellation of Hairston/Wilson family collections and for the Manigault Family Papers
 
 New 
 
