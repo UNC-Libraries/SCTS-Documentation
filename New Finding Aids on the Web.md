@@ -1,6 +1,6 @@
 # July 2025
 
-July 2025
+
 New
 
 - **[Tommy Edwards Collection, 1930-2021](https://finding-aids.lib.unc.edu/catalog/70165)
