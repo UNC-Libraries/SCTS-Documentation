@@ -1,11 +1,55 @@
 # July 2025
 
+July 2025
+New
 
-New 
+- **[Tommy Edwards Collection, 1930-2021](https://finding-aids.lib.unc.edu/catalog/70165)
+The collection of North Carolina bluegrass musical artist Tommy Edwards (1945-2021) contains audio recordings, video recordings, photographs, posters, flyers, calendars, clippings from publications, project files, song folios, unpublished and incomplete song lyrics written by hand, set lists for performances, and other papers.** 
 
-Revised description 
+- **[Robbie Fulks Audio Recordings, 1982-2017](https://finding-aids.lib.unc.edu/catalog/70213)
+This collection contains 71 audio recordings of white alternative country recording artist Robbie Fulks, including songs from albums Country Love Songs (1996), South Mouth (1997), 13 Hillbilly Giants (2001), and Couples in Trouble (2001), as well as other recordings. A folder of tracking sheets, lyric sheets, and session notes is included. Acquired as part of the Southern Folklife Collection. **
+
+- **[Tony Trischka Collection, 1946-2025](https://finding-aids.lib.unc.edu/catalog/70214)
+This collection contains the recordings and papers of white bluegrass musician Tony Trischka. Papers include a festival program from the 1967 Roanoke Bluegrass Music Festival at Watermelon Park, Berryville, Va; a 2-page newspaper illustration "The Breakdown" from Harper's Weekly; posters; publication manuscripts (text and banjo tablature); promotional materials, including a sticker, concert flyer, concert program, Christmas card, and band photo; and a box of Banjo all-star trading cards. **
+
+Expanded from collection-level records
+- **[Rex Miller Collection, 1988-2003](https://finding-aids.lib.unc.edu/catalog/70001)
+Collection of photographer and cinematographer Rex Miller, focusing primarily on African American musicians, blues culture in the Mississippi Delta, and the conditions, culture, and lives of inmates and guards at Mississippi State Penitentiary. **
+
+- **[Self-Help Credit Union Records, circa 1974-2020](https://finding-aids.lib.unc.edu/catalog/70187)
+Contains administrative records, newsletters, speeches, grant applications, photographs, and audiovisual materials documenting Self-Help Credit Union's history and activities from 1974 to 2020. Self-Help Credit Union is a community development financial institution (CDFI) headquartered in Durham, N.C. **
 
 Additions 
+
+- **[Bill Herron Papers, 1969-1982](https://finding-aids.lib.unc.edu/catalog/04224)
+Addition of August 1982**
+
+- **[Elizabeth Fox-Genovese Papers, 1956-2005](https://finding-aids.lib.unc.edu/catalog/04851)
+Addition of October 2022**
+
+- **[Gamma Lambda Chapter of Phi Mu Fraternity of the University of North Carolina at Chapel Hill Records, 1960-2024](https://finding-aids.lib.unc.edu/catalog/40419)
+Addition of November 2024**
+
+- **[George C. Stoney Papers, circa 1900-2011](https://finding-aids.lib.unc.edu/catalog/04970)
+Addition of September 2024**
+
+- **[Howard Thomas Papers, 1888, 1895, 1899-1980](https://finding-aids.lib.unc.edu/catalog/04000)
+Addition of November 2024**
+
+- **[Joe Hackney Papers, 1981-2012](https://finding-aids.lib.unc.edu/catalog/70128_aspace_b66b1a39f57e7377e9db11541f69cad8)
+Added DF-70128/1**
+
+- **[Philip Meyer Papers, 1951-2014](https://finding-aids.lib.unc.edu/catalog/05567)
+Addition of 2025**
+
+- **[Roger Hannay Papers, 1890-2006](https://finding-aids.lib.unc.edu/catalog/04829_aspace_be195506e4f0ce0a0af291cafd7402d0)
+Added Acc. 20240304.5**
+
+Redescription 
+- **[Sarah Frances Hicks Williams Letters, 1838-1868](https://finding-aids.lib.unc.edu/catalog/03210) **
+
+- **[Wilson and Hairston Family Papers, circa 1750-1950](https://finding-aids.lib.unc.edu/catalog/04134) **
+
 
 
 
