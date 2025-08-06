@@ -3,7 +3,7 @@ Updated August 2025
 # Overview
 
 - [Arrangement](#arrangement)
-- [Revising the XML](#revising-the-xml)
+- [Revising the Finding Aid](#revising-the-finding-aid)
 - [Other Unusual Situations](#other-unusual-situations)
 - [Historical Documentation](#historical-documentation)
 
@@ -83,11 +83,13 @@ the additions and move on.
 We have a long and complicated history with additions so you might encounter all kinds of variations on the above examples. Usually it is most expedient to follow the arrangement that already exists, though sometimes it makes sense to do minor re-coding to bring clarity. 
 
 
-# Revising the XML
+# Revising the Finding Aid
 
-This section deals with revisions to finding aids that have already been encoded in EAD. Some may have originally been SGML documents from back in the old days of EAD. These SGML documents have now been converted to XML. Documents that started out in XML will have commented-out revision tags that you can activate. Finding aids converted from SGML won't have those commented-out tags.
+This section deals with revisions to finding aids that have already been published in Archy. 
 
-The `<revisiondesc>` tag in the `<eadheader>` is where EAD keeps track of revisions. However, the information coded in the `<eadheader>` section doesn't show up on the screen. Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the `<revisiondesc>` tags in the `<eadheader>` and the `<processinfo>` section in `<archdesc>`. In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
+The "Revision Statements" field is where ArchivesSpace keeps track of revisions. However, the information coded in the "Revision Statements" field doesn't show up in Archy.* Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the "Revision Statements" field and in a "Processing Information Note." In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
+
+*You'll notice that this field includes a "Publish?" button, suggesting that it could show up in Archy, but we're intentionally preventing information in that field from appearing even if the "Publish?" box is checked. Here's why: In EAD, we encoded revision information in the <revisiondesc> field, which didn't appear to the public. Since it didn't appear to the public, information recodrded in that field often read as internal-only notes. Since cleaning up the language in these notes isn't a priority, we have chosen not to publish any of them. **However, filling out this field is still very important and should not be overlooked.**
 
 ## Adding revision statements to `<revisiondesc>` in the `<eadheader>`:
 
