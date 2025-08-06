@@ -231,18 +231,17 @@ Remediation goal: repair description to make it more accessible, equitable, and 
 *	Equitable:  we will center what we know of the enslaved people as best we can and remove venerative language about white people.  
 *	Helpful: sources about enslaved people are featured prominently 
 
-**EAD tag revisions**
-*	Update `<revision>`: Updated for Conscious Editing of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
+**ASpace Revisions**
+*	Add a revision statement: Updated for remediation of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
 
-*	Update `<processinfo>`
-	- [Conscious Editing Work](https://library.unc.edu/reckoning/conscious-editing-initiative/) by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
+*	Add processing notes:`
+	- Remediation by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
 	- Add racial identity statement if it is not already there.
  	- In [date], archivists reviewed this collection to uncover more information about the lives of enslaved and free people of color. Containers that include materials related to enslaved and free people of color during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement and free people of color" or "Records of Reconstruction." Researchers are advised that the collection may include more documentation of slavery, free people of color, and Reconstruction than has been identified in this finding aid.
 
-**Collection overview:** 
+**Collection overview (Abstract):** 
 This is a balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. In this phase of remediation we are decentering whiteness by removing venerative language, but not eliminating existing description about the white family that is still useful. 
-*	Move biographical info from 545 tags to the 520; delete 545 tags. 
-*	Reduce/remove as much biographical information as possible. In family papers, individual names should be few if any (they can still appear in the subject headings). Remove venerative language (e.g., prosperous, prominent, planter) and edit as needed. If "prominence" should be conveyed, try "politically and socially influential," or other language that speaks more directly to the power than "prominence."
+*	Reduce/remove as much biographical information as possible. In family papers, individual names should be few if any (they can still appear in the subject headings). Remove venerative language (e.g., prosperous, prominent, planter) and edit as needed. If "prominence" should be conveyed, try "politically and socially influential," or other language that speaks more directly to the type of power than "prominence."
 *	Add racial identity to the white family.
 *	Acknowledge existence of enslaved people and their relationship to the white family that they are living alongside of in the first sentence.
    
@@ -266,13 +265,13 @@ This is a balancing act of centering what we know about Black people without mis
     For now, just do some basic editing
 *	Add racial identity.
 *	Remove venerative language (e.g., planter, prominent, prosperous) and edit as needed.
-*	Add slave schedule information, if available.
-*	Add information about individual enslaved/Black people who are documented in the collection: Name, dates, locations, enslavers
+*	Add U.S. federal census slave schedule information, if available.
+*	Add information about individual enslaved/Black people who are documented in the collection: Name, dates, locations, enslavers.
     - [George Hairston Papers](https://finding-aids.lib.unc.edu/04477/): Enslaved people documented in the collection include Elizabeth, a house servant, and her daughter by her enslaver Robert Hairston, probably in Lowndes County, Miss.; Frank, a child of 2 months who was sold from the estate of Absalom Powell in Columbus County, N.C., to Richard L. Byrne; Nancy, who attended to women enslaved by George Hairston and who herself was enslaved by Mary J. Cabaniss, probably in Pittsylvania County, Va.; and Roda, a girl enslaved by George Hairston (location unknown).
 
         Some genealogical research of people enslaved at Hairston family plantations has been done by descendent family members and is available at [Hairston Family Genealogy](https://www.hairstonfamilygenealogy.com).
 
-**Scope and Content:** Sometimes you will copy and paste the collection overview; often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
+**Scope and Content:** Sometimes you will copy and paste the collection overview (abstract); often there is enhanced description that may be remediated. As in the collection overview, this is a careful balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. We also want to decenter whiteness, but not eliminate existing description that is still useful. Below is an example of a non-traditional remediation of a collection level scope and content notes to highlight information about Black lives that was previously only at the file level.  
 
 * [Blackford Family Papers](https://finding-aids.lib.unc.edu/01912/): this collection has a lot of description about Black people, but too much for an easily readable paragraph. See the collection level scope and content note for a list that preserves all of the keywords for searching while being slightly easier to read. 
 
@@ -280,12 +279,12 @@ This is a balancing act of centering what we know about Black people without mis
 
 **Contents list**
 *	Can the subseries be compressed to eliminate sub-sub-series? 
-*	Add meaningful titles to all `<unittitle>`at the `<c02>`, `<c03>`, `<c04>` levels. Many antebellum finding aids have just dates at the subseries and folder levels. Add a format or other descriptor to the date.
+*	Add meaningful titles to all archival objects (series, subseries, folders, items). Many antebellum finding aids have just dates at the subseries and folder levels. Add a format or other descriptor to the date.
 *	Remediate language (see **Language Overview** below)
-*	Remove quotes that only add literary flourish or describe violence against Black people.
+*	Remove quotes that only add literary flourish or sensationalize violence against Black people.
 *	Remove repetition of biographical information about white people unless crucial to understanding the rest of the scopenote.
 *	Add item/folder level information for materials about people of color (if possible) 
-*	Lists, wills, and bills of sale often will have names of enslaved people
+*	Lists, wills, and bills of sale often will have names of enslaved people: highlight these formats and include names of enslaved people if possible
 *	Overseer-plantation owner correspondence sometimes has names of enslaved people; description of the work performed by enslaved people, which may give some indication of occupation; descriptions of acts of resistance; and sometimes includes a characterization of conditions in the "neighborhood" (community) of the enslaved people. When describing acts of resistance by enslaved people, be thoughtful of what is essential to put in the finding aid and what can introduce bias.
 
 	- [Hayes Collection](https://finding-aids.lib.unc.edu/00324/): (see folder 582 scopenote): August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, stole money from him and later confessed.
@@ -294,9 +293,9 @@ This is a balancing act of centering what we know about Black people without mis
 
 		August 12: William S. Pettigrew described the circumstances in which Wilson, who worked in the house and was enslaved to Pettigrew at Magnolia, allegedly stole money from him.
 
-		Pettigrew's letter says that Wilson confessed, but we should be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. We really don’t know if Wilson stole the money, if a confession was coerced, or even if a confession happened. This is a white enslaver writing to another white enslaver. The hook for (most?) researchers is not the confession, but the act of resistance. 
+		Pettigrew's letter says that Wilson confessed, but it is fair to be skeptical of this report and we are not obligated to report everything Pettigrew says in the finding aid. This is a white enslaver writing to another white enslaver. From this letter alone we do not know if Wilson stole the money, if a confession was coerced, or even if a confession happened. What we do know is that William S. Pettigrew perceived an act of resistance from Wilson.
 
-* Make sure all content about people of color is represented at higher `<c0n>` levels (sub-series, series, and collection overview).
+* Make sure all content about people of color is represented in sub-series and series descriptions and in the collection overview.
   
 **Language overview:**
 *	Remove dehumanizing and marginalizing language, Lost Cause mythology 
@@ -309,22 +308,22 @@ This is a balancing act of centering what we know about Black people without mis
 *	Plantation life-->note that it is plantation life for white people 
 *	Supervising slaves-->overseeing the forced labor of enslaved people
 *	Enslaved labor-->expand to enslaved labor, skills, and knowledge
-*	Characterizing enslaved people of a plantation as a community where possible  
-*	Trafficking-->can be used to describe hiring out and transfer of people claimed as property
+*	Characterizing enslaved people of a plantation as a community if appropriate  
+*	Hiring out-->trafficking through the hiring out of labor, skills, and knowledge (provide names of traffickers and locations)
+*	Buying and selling slaves-->trafficking through purchase / sale from (name and location) to (name and location)
 *	List of slaves-->list of enslaved people
-*	Hiring out, buying and selling-->trafficking through hiring out / buying / selling
 
 **Helpful antebellum finding aids are accessible to a broad, general audience:**
 *	Describe sources about enslaved people near the listing of volumes and folders; coordinate description to page-able units  
 *	Facilitate searching by geographic markers, genre types, source types, and topics.  
 *	Describe the types of information that are available for researching Black family history  
-*	Facilitate jumping in and out of the finding aid with a google keyword search; would not make understanding of the materials dependent on reading the finding aid linearly.  
-*	Highlight materials about enslaved people but does not distort the density and accessibility of this data and how it shows up in a large bulky collection.   
+*	Facilitate jumping in and out of the finding aid with a google keyword search; do not make understanding of the materials dependent on reading the finding aid linearly.  
+*	Highlight materials about enslaved people but do not distort the density and accessibility of this data and how it shows up in a large bulky collection.   
 *	Support genealogical research by providing information about the families represented.
 *	Note correspondents beyond the other family members.   
-*	Historicize and contextualize racist content   
-*	Characterize the content i.e. say if the diaries and letters are descriptive and not routine  
-*	Explain specialized information e.g. defining the terms manumission and indenture; explaining "race problem"; and defining source types like daybook
+*	Historicize and contextualize racist content.   
+*	Characterize the content i.e. say if the diaries and letters are descriptive and not routine.  
+*	Explain specialized information, e.g. define the terms manumission and indenture; explain "race problem"; and define source types like daybook.
 
 ## Slavery Era Subject Headings
 
