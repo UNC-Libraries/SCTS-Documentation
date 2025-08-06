@@ -43,8 +43,8 @@ Created by Dawne Lucas in August 2025
    - [Finding Aid Checklist](#finding-aid-checklist)
   
    ***
-
-   # Introduction: ArchivesSpace, ArcLight (Archy), and Pipette
+   
+# Introduction: ArchivesSpace, ArcLight (Archy), and Pipette
 
 These are instructions for creating finding aids using ArchivesSpace, Pipette, and ArcLight (Archy).
 
