@@ -4,7 +4,7 @@ Created by Dawne Lucas in August 2025 (in progress)
 
 # Overview
 
- - [Introduction: ArchivesSpace, ArcLight (Archy), and Pipette](#introduction-archivesspace)
+ - [Introduction: ArchivesSpace, ArcLight (Archy), and Pipette](#introduction-archivesspace-arclight-archy-and-pipette)
  - [ArchivesSpace Terminology](#archivesspace-terminology)
  - [Finding Aid Creation](#finding-aid-creation)
    - [Resource Record Structure](#resource-record-structure)
