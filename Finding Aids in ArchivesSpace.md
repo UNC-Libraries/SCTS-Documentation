@@ -46,16 +46,22 @@ Created by Dawne Lucas in August 2025 (in progress)
    
 # Introduction: ArchivesSpace, ArcLight (Archy), and Pipette
 
-These are instructions for creating finding aids using ArchivesSpace, Pipette, and ArcLight (Archy) at the Wilson Special Collections Library at UNC-Chapel Hill. 
+These are instructions for creating finding aids using ArchivesSpace, Pipette, and ArcLight (Archy) at the Wilson Special Collections Library at UNC-Chapel Hill. This documentation is supplemental to the documentation provided by ArchivesSpace, and has been adapted for use at the Wilson Special Collections Library.
 
 Here’s the very tl;dr summary of the difference between the three:
 
  - **ArchivesSpace:** Staff-only interface used to create finding aids.
- - **ArcLight (Archy):** Public-facing interface used to display finding aids. 
+   - Staff interface: https://aspace.lib.unc.edu:4433/
+   - Login using your ONYEN password.
+   - Don't have an account? Contact Dawne.
+ - **ArcLight (Archy):** Public-facing interface used to display finding aids.
+   - https://finding-aids.lib.unc.edu/
    - UNC's version of ArcLight was named "Archy" (ArcLight at UNC-Chapel Hill) by Library Software Applications Developer Dean Farrell. "Archy" is UNC-specific, and the name is not used by other institutions using ArcLight.
- - **Pipette:** Staff-only interface used to preview and publish finding aids in ArcLight. 
-   - NB: Content published to ArcLight is tracked via Git/Sourcetree, but TS-Archival does not interact with it. 
-   - This is a UNC-specific application.
+ - **Pipette:** Staff-only interface used to preview and publish finding aids in ArcLight.
+    - Preview: https://finding-aids-qa.lib.unc.edu/admin
+    - Contact Dawne if you need access.   
+    - NB: Content published to ArcLight is tracked via Git/Sourcetree, but TS-Archival does not interact with it. 
+    - This is a UNC-specific application.
      
 Remember: these are merely new tools for creating and displaying finding aids and do not replace our best practices for archival description, including:
 
@@ -84,6 +90,7 @@ There are two ways to create resource records in ArchivesSpace. One way is to cr
 
 NB: Since we are using ArcLight instead of the ArchivesSpace Public User Interface, edits made to resource records will not automatically appear to the public. However, lengthy edits should be worked on outside of ArchivesSpace in order to avoid merge conflicts. More about that later!
  
+
 **Resource Record Structure**
 
 Information in resource records is recorded in 18 different sections. You can see the sections listed in a menu on the left side of each resource record.
@@ -135,8 +142,33 @@ When applicable, the <ead> tags that fields map to are included in these instruc
 
 <img width="693" height="320" alt="Picture2" src="https://github.com/user-attachments/assets/0a550fd0-4989-414c-b4f8-6955652859a5" />
 
- - **Title**: Collection title.
+ - **Title:** Collection title.
   - **Maps to:** <unittitle>
   - **Example**: G. K. Butterfield Papers, 1942-2021
   - **Required to save record**
   - Note: Include the date, even though you will repeat it in the "Date" sub-record.
+
+ - **Identifier:** Collection number. This number must be unique. You cannot create more than one resource record with the same identifier.
+  - **Maps to:** <unitid>
+  - **Example:** 60010
+  - **Required to save record**
+
+- **Automatically Generate Slug?:** This box should already be checked.
+
+- **Level of Description:** This value is automatically set to "Collection." If needed, you can change this value from the drop menu, although "Collection" should almost always suffice.
+ - **Maps to:** <archdesc>
+ - **Required to save record**
+
+ - **Resource Type:** Select "Collection," "Papers," or "Records" from the drop menu, as appropriate.
+  - Generally speaking, SFC = "Collection"; SHC = "Papers"; UARMS = "Records"
+
+  - **Publish?:** This box needs to be checked in order for the finding aid to be indexed and published in ArcLight, including previewing on finding-aids-qa.
+
+  - 
+
+
+
+  
+
+
+
