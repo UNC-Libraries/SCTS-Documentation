@@ -191,7 +191,66 @@ Maps to: ```<langmaterial>```
   
 ### Dates
 
+Maps to: ```<unitdate>```
+
+<img width="698" height="242" alt="Picture4" src="https://github.com/user-attachments/assets/38630575-ed31-41ab-9a5a-a4eaf5ba5075" />
+
+ - **Label:** This field defaults to "Creation," but can be changed via the drop menu if needed.
+   - Required to save record
+  
+- **Expression:** The date or date range.
+  - **Typically maps to:** ```<unitdate type="inclusive">```
+  - Required to save record if the "Begin" and "End: fields are blank (see below). It is strongly recommended that you fill out the "Expression" field in addition to the "Begin" and "End" dates.
+  - **Examples:**
+    - 1985
+    - November 1985
+    - 1985-1990
+    - circa 1985
+
+- **Type:** This field defaults to "Inclusive," but can be changed via the drop menu if needed.
+  - Required to save record.
+ 
+ - **Begin and End:** Use these fields to record normalized dates.
+  - **Maps to:** ```<unitdate type="normal">```
+  - Required to save record if the “Expression” field is blank (see above). It is strongly recommended that you fill out the “Begin” and “End” dates as well as the “Expression” field.
+  - Record single dates in the “Begin” field and leave the “End” field blank.
+  - **Examples:**
+    - 1985
+      - Record in “Begin” field and leave “End” field blank.
+    - 1985-1990
+      - Record 1985 in the “Begin” field and 1990 in the “End” field.
+        
+**Pro tip:** You can add a bulk date by clicking the “Add Date” button in the top right corner OR the "+" at the bottom of the "Dates" section. You might have to hover to see the "+" at the bottom. Select "Bulk Date" for the "Type.”" 
+
+**Note:** It's important to add the date, even though you are also recording the date in the “Title” field under “Basic Information.” 
+  
+
 ### Extents
+
+Maps to: ```<extent>```
+
+<img width="714" height="242" alt="Picture5" src="https://github.com/user-attachments/assets/46e8c1d6-acad-4c88-a443-01824b237247" />
+
+ - **Portion:** This field defaults to "Whole," but can be changed to "Part" via the drop menu if needed.
+   - Required to save record.
+
+- **Number:** The extent of the collection. It does not have to be a whole number.
+  - Required to save record.
+  - To be consistent with the nearly 6,200+ finding aids ingested into ArchivesSpace, it is strongly recommended to record the number of items in this field.
+    - **Examples:**
+      - 1
+      - 3600
+  
+
+ - **Type:** Recommend setting to "items," but other values can be used as needed (say, "Gigabytes" if the collection is digital only).
+   - Required to save record.
+  
+- **Container Summary:** Add additional extent information here. This will usually be the number of linear feet.
+  - **Example:** 0.5 linear feet
+  - Not required to save record, but strongly suggested to <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#extent">conform to our practices.</a> 
+
+
+**Pro tip:** You can add more extents by clicking the "Add Extent" button in the top right corner OR the "+" at the bottom of the "Extents" section. You might have to hover to see the "+" at the bottom.  Select "Part" for the "Portion." 
 
 ### Finding Aid Data
 
@@ -207,21 +266,42 @@ Maps to: ```<langmaterial>```
 
 #### Abstract
 
+> Required!
+
 #### Processing Information
+
+> Required!
 
 #### Biographical and Historical Note
 
+> Required!
+
 #### Scope and Content
+
+> Required!
 
 #### Restrictions to Access
 
+> Required! 
+
 #### Restrictions to Use
+
+> Delete if not needed.
 
 #### Copyright Notice
 
+> Required for NCC, RBC, SFC, and SHC. Delete for UARMS.
+
+This note contains the following boilerplate text:
+
+```Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.```
+
+Unless otherwise specified in the accession record, you do not need to do anything to this field.
+
+
 #### Preferred Citation
 
-<span style="color:red">*Required!*</span>
+> Required!
 
 This note contains the following boilerplate text:
 
