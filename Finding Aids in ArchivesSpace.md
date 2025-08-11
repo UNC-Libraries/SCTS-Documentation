@@ -37,8 +37,8 @@ Created by Dawne Lucas in August 2025 (in progress)
      - [Collection Management](#collection-management)
      - [Classifications](#classifications)
      - [User Defined](#user-defined)
-   - [Adding Series, Subseries, and File Level Archival Objects](#adding-series)
-   - [Revising Series, Subseries, and File Level Archival Objects](#revising-series)
+   - [Adding Series, Subseries, and File Level Archival Objects](#adding-series-subseries-and-file-level-archival-objects)
+   - [Revising Series, Subseries, and File Level Archival Objects](#revising-series-subseries-and-file-level-archival-objects)
    - [Finding Aid Publication Workflow](#finding-aid-publication-workflow)
    - [Finding Aid Checklist](#finding-aid-checklist)
   
@@ -73,7 +73,7 @@ Remember: these are merely new tools for creating and displaying finding aids an
 ArchivesSpace comes with its own jargon that might be new to you. Here are some terms that you should learn to love:
 
  - **Archival object:** Unit of archival description, such as a folder title.
-   - Archival objects map to components (<c0x>) in EAD. 
+   - Archival objects map to components (```<c0x>```) in EAD. 
  - **Instances:** Instances link archival objects to their physical containers (container instance) or digital files (digital object). 
    - ArchivesSpace is not a digital content repository and does not store digital files (just as it doesn’t store physical boxes). Digital objects merely serve as a link between ArchivesSpace and CONTENTdm, the DCR, or anywhere else digitized content might be stored.
  - **Resource:** Another term for "collection." Finding aids are generated from ArchivesSpace resource records.
@@ -91,7 +91,7 @@ There are two ways to create resource records in ArchivesSpace. One way is to cr
 NB: Since we are using ArcLight instead of the ArchivesSpace Public User Interface, edits made to resource records will not automatically appear to the public. However, lengthy edits should be worked on outside of ArchivesSpace in order to avoid merge conflicts. More about that later!
  
 
-**Resource Record Structure**
+## Resource Record Structure
 
 Information in resource records is recorded in 18 different sections. You can see the sections listed in a menu on the left side of each resource record.
 
@@ -118,13 +118,13 @@ Information in resource records is recorded in 18 different sections. You can se
 
 We will discuss each one of these sections in more detail later in this documentation. First, let’s discuss the fields that must be filled out in order to create a collection level record (CLR).
 
-**Collection-level fields and notes**
+## Collection-level fields and notes
 
 All resource records must have the following data, which contain red asterisks in ArchivesSpace:
 
  - Title
  - Identifier (a.k.a. Collection Number)
- - Level of Description (defaults to “Collection”)
+ - Level of Description (defaults to "Collection")
  - Languages sub-record
  - Date sub-record
  - Extents sub-record
@@ -136,39 +136,156 @@ Let’s go through each section of the collection level resource record. **Pleas
 
 You'll notice some fields in ArchivesSpace that aren't mentioned in these instructions. Rest assured that you don't have to worry about them.
 
-When applicable, the <ead> tags that fields map to are included in these instructions. This information is useful to staff members who have used EAD in the past. Don’t worry about them if you’re not familiar with EAD.
+When applicable, the EAD tags that fields map to are included in these instructions. This information is useful to staff members who have used EAD in the past. Don’t worry about them if you’re not familiar with EAD.
 
-*1. Basic Information*
+### Basic Information
 
 <img width="693" height="320" alt="Picture2" src="https://github.com/user-attachments/assets/0a550fd0-4989-414c-b4f8-6955652859a5" />
 
  - **Title:** Collection title.
-  - **Maps to:** <unittitle>
-  - **Example**: G. K. Butterfield Papers, 1942-2021
-  - **Required to save record**
-  - Note: Include the date, even though you will repeat it in the "Date" sub-record.
+   - **Maps to:** ```<unittitle>```
+   - **Example**: G. K. Butterfield Papers, 1942-2021
+   - **Required to save record**
+   - Note: Include the date, even though you will repeat it in the "Date" sub-record.
 
  - **Identifier:** Collection number. This number must be unique. You cannot create more than one resource record with the same identifier.
-  - **Maps to:** <unitid>
-  - **Example:** 60010
-  - **Required to save record**
+   - **Maps to:** ```<unitid>```
+   - **Example:** 60010
+   - **Required to save record**
 
 - **Automatically Generate Slug?:** This box should already be checked.
 
 - **Level of Description:** This value is automatically set to "Collection." If needed, you can change this value from the drop menu, although "Collection" should almost always suffice.
- - **Maps to:** <archdesc>
- - **Required to save record**
+  - **Maps to:** ```<archdesc>```
+  - **Required to save record**
 
- - **Resource Type:** Select "Collection," "Papers," or "Records" from the drop menu, as appropriate.
+- **Resource Type:** Select "Collection," "Papers," or "Records" from the drop menu, as appropriate.
   - Generally speaking, SFC = "Collection"; SHC = "Papers"; UARMS = "Records"
 
-  - **Publish?:** This box needs to be checked in order for the finding aid to be indexed and published in ArcLight, including previewing on finding-aids-qa.
+ - **Publish?:** This box needs to be checked in order for the finding aid to be indexed and published in ArcLight, including previewing on finding-aids-qa.
 
-  - 
+ - **Restrictions Apply?**: Check this box if the collection has any access or use restrictions.
+
+ - **Repository Processing Note:** This is an optional field to record internal notes. It will not be seen by the public, even if the record is published.
+
+### Languages 
+Maps to: ```<langmaterial>```
+
+ - **Language:** The language(s) represented in the materials. This value is automatically set to "English." This is usually correct!
+   - **Maps to:** ```<langmaterial><language>```
+   - **Required to save record**
+   - For the small number of times when the default is not adequate, you can do one of the following: 
+   - Change the language from "English" to whatever the appropriate language is. 
+   - Add additional languages/scripts using the "Add Language" button available in the top right corner OR the bottom of the "Languages" section. You might have to hover to see the button at the bottom.
 
 
+<img width="690" height="300" alt="Picture3" src="https://github.com/user-attachments/assets/ef1fdd00-06e4-450f-9aeb-2d0025dbcd55" />
 
+ - **Language of Materials Note**: This value is automatically set to "Materials in English." This is usually correct!
+   - **Maps to:** ```<langmaterial><language>```
+   - For the small number of times when the default is not adequate, you can change the language from “English” to whatever the appropriate language(s) is/are.
   
+ - **Script:** The script(s) represented in the materials (i.e., Latin, Gothic, Greek, etc.). This value is automatically set to "Latin." This is usually correct!
+   - **Maps to:** ```<language>```
+   - For the small number of times when the default is not adequate, you can change the script from “Latin” to whatever the appropriate script is.
+  
+### Dates
 
+### Extents
+
+### Finding Aid Data
+
+### Revision Statements
+
+### Related Accessions
+
+### Agent Links
+
+### Subjects
+
+### Notes
+
+#### Abstract
+
+#### Processing Information
+
+#### Biographical and Historical Note
+
+#### Scope and Content
+
+#### Restrictions to Access
+
+#### Restrictions to Use
+
+#### Copyright Notice
+
+#### Preferred Citation
+
+<span style="color:red">*Required!*</span>
+
+This note contains the following boilerplate text:
+
+```[Identification of item], in the [collection name and number], Wilson Special Collections Library, University of North Carolina at Chapel Hill.```
+
+You do not need to do anything to this field.
+
+
+#### Acquisitions Information
+
+#### Separated Materials
+
+### External Documents
+
+Don’t worry about these fields, at least for right now. They can be used to link to information in other description management tools, such as donor files or processing plans. Maybe we’ll decide to use them in the future, but we’re not ready to experiment with it yet.
+
+### Rights Statements
+
+Don’t worry about these fields. We are not using them at this time.
+
+### Metadata Rights Declarations
+
+No need to worry about these fields. We are not using them at this time. Should we decide to start using them, the information will likely become part of the template that is automatically generated with new resource records.
+
+### Instances
+
+Instances refer to physical containers and digital objects.  **See Adding Series, Subseries, and File Level Archival Objects (below) for how to add instances to resource records.**
+
+> *Please note the current workflow for adding instances to resource records differs from the workflow used during the ArchivesSpace implementation period (2020-2024). Please do not attempt to use the old workflow. Doing so will cause a lot of confusion in Archy and to our R&IS colleagues.*
+
+
+### Deaccessions
+
+These fields are used to record information about deaccessions, and should only be used by the Technical Services Archivist for Collection Management.
+
+### Collection Management
+
+Leave these fields blank. These fields are used to record processing information. Since we record this information on the accession records, this information does not need to be filled out here.
+
+### Classifications
+
+### User Defined
+
+These fields are used to record additional information not accounted for in other fields. They are for internal purposes only and will not display in the finding aid.
+At this time, we are using the following User Defined fields for resource records. More fields might be added in the future:
+
+ - **Contains harmful content?:** Check this box if a collection contains materials with harmful content.
+   - Examples:
+    - Photographs of lynchings
+    - Letters that contain hate speech
+ - **Requestable?**
+   - Check this box if materials should be requestable in Archy.
+ - **Description of harmful content:** Use this box to describe the materials with harmful content. 
+   - Examples:
+     - Image folder 7 contains photographs of lynchings.
+     - Folder 10 contains letters that contain racist language.
+
+
+# Adding Series, Subseries, and File Level Archival Objects
+
+# Revising Series, Subseries, and File Level Archival Objects
+
+# Finding Aid Publication Workflow
+
+# Finding Aid Checklist
 
 
