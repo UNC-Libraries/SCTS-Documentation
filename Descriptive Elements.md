@@ -148,7 +148,7 @@ The collection level scope and content note is often distilled or partially dupl
 
 Example collection level scope and content notes:
 
-_The collection of the Stancil family of Selma, N.C., contains letters and v-mail written home to family by Willie T. Stancil, an enlisted Black private in the United States Army's 77th Coastal Artillery Unit during the Second World War. Stancil wrote from Fort Bragg, N.C., Marcus Hook, Pa., Manchester, Conn., and San Francisco, Calif., from June 1941 through 1945. Many letters indicate that U.S. Army officers had screened Stancil's letters for confidential or sensitive military information, but the letters show no signs of redaction. Most letters were addressed to Willie T. Stancil's father Walter Preston Stancil, a Black tenant farmer who grew long leaf tobacco in Johnston County, N.C., and sold it at warehouses across eastern North Carolina. Content of letters is generally limited to comments about pay, letters received from family and friends, and well wishes for his family, especially his younger sibling Beulah Mae Stancil. Willie describes army life in broad terms mentioning photographs taken for army yearbooks, all night camps, shooting targets, rifle ranges, training for distance shooting, pay days, and socializing with civilians. He comments more than once that he likes the army where he gets three meals a day, works half days, and gets plenty of sleep. Other documents related to the Second World War are a 1943 selective service notice of classification for Walter Preston Stancil, ration cards for mileage and gasoline, and a 1942 sugar purchase certificate from the U.S. Office of Price Administration._
+_The Jean Freisleben Letters contain 44 letters and 4 postcards written by Freisleben to her parents in Opelika, Ala., while she was a graduate student at the University of North Carolina's School of Social Work. They detail her social work courseload and field experience in Durham and Raleigh, her participation in UNC Hillel, her dorm in Kenan Hall, and her dating and social life in Chapel Hill. They offer insight into student life at UNC during World War II and address additional topics such as sugar rations, blackouts, and the presence of servicemen on campus._
 
 _The records of the Department of City and Regional Planning, 1944-2018, consist of administrative files detailing its continuous accreditation; minutes from faculty meetings and committee files; annual reports, strategic plans, publications, and faculty and alumni surveys; curriculum and degree program documentation; and a smaller number of masters papers and projects, theses, and dissertations. The collection also contains event files, alumni association files, departmental history, and files related to the New East building which houses the department._
 
@@ -320,14 +320,22 @@ _This collection is not available for immediate or same day access._ Please cont
 _This collection contains materials that are not available for immediate or same day use._ The Library has digitized original documents in this collection that are vulnerable to theft and stored them separately. The original physical documents are not available for immediate or same day use. To access the content of the documents, researchers should use the digital facsimiles. To discuss other options, please contact staff at wilsonlibrary@unc.edu. 
 
 
-
 # Languages
 #### [DACS 4.5.](https://adminliveunc-my.sharepoint.com/:w:/g/personal/jmberkow_ad_unc_edu/EUREsDoN13xOhxbkuE_pLtYB5hZXPRXNlsLSltSpfAbhLw?email=athomp%40live.unc.edu&e=4%3a0IkaS8&at=9&CID=3caf459d-3fc9-182e-ab41-26946d11c6d3)
 
 
 # Biographical/Historical Note
-#### [DACS 2.7.](https://www2.archivists.org/standards/DACS/part_I/chapter_2/7_administrative_biographical_history)
+#### [DACS 2.7.](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
 
+The biographical/historical note provides context for the descriptions of collection materials and presents information critical to researchers work with the materials. Since the note is designed to be a ready reference aid to the researcher, it should emphasize the aspects of the biography or history that relate to the collection materials. When the creator(s) are well-known, the note can be brief. It is possible to lift a biographical note from another source and credit the source. 
+
+Examples of Biographical/Historical Notes: 
+
+_Jean Freisleben took graduate courses in 1942 at the University of North Carolina's School of Social Work. She was active in Hillel and the Jewish community at UNC._
+
+_The University of North Carolina at Chapel Hill Department of City and Regional Planning was founded in 1946. It was the first such department with a foundation in the social sciences rather than architecture or landscape design. The department is housed in the New East building on the campus of UNC._
+
+_Malvina Reynolds (1900-1978), a white woman from Berkeley, Calif., was a folksinger, songwriter, and performer at folk festivals and on children's television. Reynold's original songs, especially those she wrote in the 1960s, reflected her social justice causes and concerns including civil rights for Black people in the American South, labor unions, women's reproductive health rights, environmental justice, and peace in the age of the Vietnam War and nuclear power. Malvina Reynolds was the daughter of David and Abagail Milder and a three time graduate of the University of California, Berkeley (B.A., M.A., and Ph.D.). In 1934 she married William "Bud" Reynolds (d. 1972), a carpenter and labor organizer, and with him had a daughter, Nancy Reynolds Schimmel (1935- ) who was also a songwriter. Before her music career took off, Reynolds was a political and social activist and wrote a column for the American leftist newspaper People's Daily World founded in San Francisco, Calif., in the 1930s._
 
 # Access Points
 #### [DACS Overview](https://www2.archivists.org/standards/DACS/overview_of_archival_description)
