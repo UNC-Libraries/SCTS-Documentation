@@ -27,7 +27,7 @@ This is a local unique identifier code. Typically, we use the collection number 
 
 Collection numbers are assinged during accessioning. They are a five digit string. Z collections will have –z appended to the end of the code. 
 
-Our former practice was to assign collection numbers based on collecting unit. We discontinued that practice in 2019 and the numbers no longer refer to collecting units with the exception of some legacy North Carolina Collection Photographic Archives collections. 
+Our former practice was to assign collection numbers based on collecting unit. We discontinued that practice in 2019 and the numbers no longer refer to collecting units with the exception of some legacy North Carolina Collection Photographic Archives collections. They have a P as part of the collection number.  
 
 
 
