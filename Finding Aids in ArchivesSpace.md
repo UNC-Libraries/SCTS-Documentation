@@ -388,34 +388,146 @@ Subjects (```<subject>```, ```<geogname>```, ```<genreform>```) are the finding 
 To add personal, family, or corporate names as subject headings, see the "Agent Links" section above. For more details about creating new agent records, visit the <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1942945864/Agent+Record+Fields+from+3.0">Agent Record Fields</a> page in the ArchivesSpace Help Center.
 
 ### Notes
+The 10 notes fields we use the most often appear automatically in all new resource records:
+- Abstract
+- Processing Information (includes the Identity Statement)
+- Biographical and Historical Note
+- Scope and Content
+- Restrictions to Access
+- Restrictions to Use (delete if not needed)
+- Copyright Notice
+- Preferred Citation
+- Acquisitions Information
+- Separated Materials (delete if not needed)
+
+**Pro tip:** If you need to add another note that's not listed here, you can do so by clicking the "Add Note" button. \
+
+<img width="624" height="496" alt="Picture14" src="https://github.com/user-attachments/assets/b034676f-124e-440b-9428-686fc7d0a5c5" />
+
+You need to fill in each of these fields with collection-specific content (or delete if not needed). While in edit mode, click on the note you want to edit. The Persistent ID, Label, and Type fields will be pre-populated.
+
+**Pro tip:** If you create a new note, you will need to fill in the "Label" field. Make sure to click on the "Publish?" box(es) or the note will not appear in Archy.
+
 
 #### Abstract
 
 > Required!
 
+Fill in abstract information after the collection-level scope and content note is written!
+
+Need tips on how to write a good abstract? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md#abstracts-and-collection-overviews">documentation</a> for that!
+
+<img width="729" height="175" alt="Picture15" src="https://github.com/user-attachments/assets/1150d84d-b4e6-4a9c-bbd3-0572c88f86b9" />
+
+- **To create an abstract for a new resource record,** click on the automatically created **Abstract** note and either type directly into the "Content" field OR copy and paste from another file (Word doc, etc.).  Make sure to remove the boilerplate text!
+
+- **To make a quick edit to an existing abstract,** simply make the change directly in the "Content" field.
+
+- **To make major revisions (i.e., a more extensive rewrite that is not quick),** type revisions in another file (Word doc, etc.), and then copy and paste the new version into the "Content" field.
+
+
 #### Processing Information
 
 > Required!
+
+<img width="695" height="232" alt="Picture16" src="https://github.com/user-attachments/assets/555a6eb6-5d70-4449-8b5d-eaef3f002021" />
+
+**To create a processing information note for a new resource record,** click on the automatically created **Processing Information** note.
+
+You will see the following boilerplate text:
+
+```Processed by: [NAME], [MONTH YEAR]```
+  
+```Finding aid created by: [NAME], [MONTH YEAR]```
+  
+```In 2017, we began using "white" as an ethnic and racial identity for individual and families, in addition to "Black," "African American," "Jewish," and other familiar identity terms that we have used for decades in collection descriptions. We use this identity term so that whiteness is no longer the presumed default of the people represented in our collections. To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identity information to be excluded from description. When we have misidentified, please let us know at wilsonlibrary@unc.edu.```
+
+Replace [NAME], [MONTH YEAR] with the correct information. 
+
+- Examples: 
+  - Processed by: Davia Webb, November 2024
+  - Finding aid created by Laura Smith, February 2025
+    
+- **To make a quick edit to an existing processing information note,** simply make the change directly in the "Content" field. 
+
+- **To make major revisions (i.e., a more extensive rewrite that is not quick),** type revisions in another file (Word doc, etc.), and then copy and paste the new version into the "Content" field.
+
 
 #### Biographical and Historical Note
 
 > Required!
 
+Need tips on how to write a good biographical and historical note? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md#bioghist-versus-scopecontent">documentation</a> for that!
+
+<img width="728" height="204" alt="Picture18" src="https://github.com/user-attachments/assets/a9ce2d56-3d68-4b94-a137-2cb9ea1f9af8" />
+
+- **To create a biographical and historical note for a new resource record,** click on the automatically created Biographical and Historical note and either type directly into the “Content” field OR copy and paste from another file (Word doc, etc.). Make sure to remove the boilerplate text!
+
+- **To make a quick edit to an existing biographical and historical note,** simply make the change directly in the “Content” field. 
+
+- **To make major revisions (i.e., a more extensive rewrite that is not quick),** type revisions in another file (Word doc, etc.), and then copy and paste the new version into the “Content” field.
+
+
 #### Scope and Content
 
 > Required!
 
+Need tips on how to write a good scope and content note? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md#bioghist-versus-scopecontent">documentation</a> for that!
+
+<img width="728" height="204" alt="Picture19" src="https://github.com/user-attachments/assets/ecf80eaa-a65f-4c92-8950-9fd1b3cbfbb5" />
+
+**To create a scope and content note for a new resource record,** click on the automatically created Scope and Content note and either type directly into the "Content" field OR copy and paste from another file (Word doc, etc.). Make sure to remove the boilerplate text!
+
+- **To make a quick edit to an existing scope and content note,** simply make the change directly in the "Content" field. 
+
+- **To make major revisions (i.e., a more extensive rewrite that is not quick),** type revisions in another file (Word doc, etc.), and then copy and paste the new version into the "Content" field.
+
+
 #### Restrictions to Access
 
-> Required! 
+> Required!
+
+<img width="626" height="258" alt="Picture20" src="https://github.com/user-attachments/assets/4c401423-05b3-46c3-8ec2-209e8719b737" />
+
+- **To create a "Restrictions to Access" note for a new resource record,** click on the automatically created Restrictions to Access note and either type directly into the "Content" field OR copy and paste from another file (Word doc, etc.). Make sure to remove the boilerplate text!
+  - *If there are no restrictions,* the correct statement is:  ```No restrictions. Open for research.```
+  - *If restrictions apply,* refer to our <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#boilerplate-access-restriction-statements">Boilerplate Access Restriction Statements.</a>
+     - *If the entire collection is not requestable*, also make sure that the "Requestable?" box is unchecked in the User Defined fields is unchecked. This ensures that the request buttons will not appear in Archy.
+
+If applicable, select the appropriate access restriction type(s) from the “Local Access Restriction Type” box. To select more than one option or to deselect an option, hold down CTRL (Windows)/Command (Mac). The options are:
+
+- 1 – Donor/university imposed access restriction 
+- 2 – Repository imposed access restriction
+- 3 – Restricted fragile
+- 4 – Restricted in-process
+- 5 – Other
+  
+You can also enter "Restriction Begin" and "Restriction End" dates.
+
+- **To make a quick edit to an existing "Restrictions to Access" note,** simply make the change directly in the "Content" field. If applicable, change the "Restriction Begin" and "Restriction End" dates, as well as the access restriction type(s) from the "Local Access Restriction Type" box. To select more than one option or to deselect an option, hold down CTRL (Windows)/Command (Mac).
+
+- **To make major revisions** (i.e., a more extensive rewrite that is not quick), type revisions in another file (Word doc, etc.), and then copy and paste the new version into the "Content" field. If applicable, change the "Restriction Begin" and "Restriction End" dates, as well as the access restriction type(s) from the "Local Access Restriction Type" box. To select more than one option or to deselect an option, hold down CTRL (Windows)/Command (Mac).
 
 #### Restrictions to Use
 
 > Delete if not needed.
 
+<img width="624" height="324" alt="Picture21" src="https://github.com/user-attachments/assets/93204355-84a6-4f0b-a6f3-bc516674809a" />
+
+To create a "Restrictions to Use" note for a new resource record, click on the automatically created Restrictions to Use note and either type directly into the "Content" field OR copy and paste from another file (Word doc, etc.). Make sure to remove the boilerplate text!
+
+Add this field **ONLY** if there are use restrictions. Do not add a note saying that there are no restrictions. 
+
+- **To make a quick edit to an existing “Restrictions to Use” note (i.e., correcting a typo),** simply make the change directly in the “Content” field. If applicable, change the "Restriction Begin" and "Restriction End" dates.
+
+- **To make major revisions (i.e., a more extensive rewrite that is not quick),** type revisions in another file (Word doc, etc.), and then copy and paste the new version into the "Content" field. If applicable, change the "Restriction Begin" and "Restriction End" dates.
+
+  
 #### Copyright Notice
 
-> Required for NCC, RBC, SFC, and SHC. Delete for UARMS.
+> Required for NCC, RBC, SFC, and SHC.
+>
+> Copyright does not apply to records in University Archives, since they are public records. However, copyright might still apply to some UARMS collections that aren't University Records, such as the <a href="https://finding-aids.lib.unc.edu/catalog/70204">Jean Freisleben Letters</a>.
 
 This note contains the following boilerplate text:
 
@@ -437,7 +549,29 @@ You do not need to do anything to this field.
 
 #### Acquisitions Information
 
+> Required!
+
+
+Need tips on how to fill out this field? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#acquisition">documentation</a> for that!
+
+<img width="685" height="213" alt="Picture22" src="https://github.com/user-attachments/assets/dfda1670-8a54-46e4-be51-19de106e4168" />
+
+- **To create acquisitions information for a new resource record,** click on the automatically created Acquisitions Information note and either type directly into the "Content" field OR copy and paste from another file (Word doc, etc.). Make sure to remove the boilerplate text!
+
+- **To make a quick edit to an existing acquisitions information note,** simply make the change directly in the "Content" field. 
+
+- **To make major revisions (i.e., a more extensive rewrite that is not quick),** type revisions in another file (Word doc, etc.), and then copy and paste the new version into the "Content" field.
+
 #### Separated Materials
+
+> Delete if note needed.
+
+<img width="1310" height="579" alt="Picture24" src="https://github.com/user-attachments/assets/a1a84d25-a551-4ea1-bae8-89726c49351e" />
+
+- **To create a “Separated Materials” note for a new resource record,** click on the automatically created Separated Materials note and either type directly into the "Items" field. Make sure to remove the boilerplate text! Click "Add Item" to add more than one item.
+
+- **To make a quick edit to an existing separated materials note,** simply make the change directly in the "Item" or "Content" field.
+  - This information might be stored in a "Content" field in finding aids created before August 2025.
 
 ### External Documents
 
@@ -453,7 +587,7 @@ No need to worry about these fields. We are not using them at this time. Should 
 
 ### Instances
 
-Instances refer to physical containers and digital objects.  **See Adding Series, Subseries, and File Level Archival Objects (below) for how to add instances to resource records.**
+Instances refer to physical containers and digital objects.  **See <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#adding-series-subseries-and-file-level-archival-objects">Adding Series, Subseries, and File Level Archival Objects (below) for how to add instances to resource records</a>.**
 
 > *Please note the current workflow for adding instances to resource records differs from the workflow used during the ArchivesSpace implementation period (2020-2024). Please do not attempt to use the old workflow. Doing so will cause a lot of confusion in Archy and to our R&IS colleagues.*
 
