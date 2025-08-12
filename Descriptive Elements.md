@@ -102,14 +102,29 @@ Sample collection titles and dates include:
 The creator element consists of the authorized form of the creator’s name. This may be a personal name, family name, or a name of a corporate body. Consulting the [Library of Congress Name Authority File](https://authorities.loc.gov/) is a good place to start to see if an authorized form of the name exists. If not, construct the name by following the authorized form pattern, and feel free to consult the departmental cataloger (?) for assistance. 
 
 
-# Scope and Content Note and Abstract 
-#### [DACS 3.1.](https://www2.archivists.org/standards/DACS/part_I/chapter_3/1_scope_and_content)
+# Abstract 
 
-Wilson Library uses both the scope and content note and the abstract. The abstract often duplicates the scope and content note, particularly for small and medium size collections.  For large and complex collections, the abstract will be a distilled version of the scope and content note, which may include more details and offer more specificity about the range of material types, individuals and groups documented, geographical and chronological scope, and topics. 
+Required at the collection level. The abstract does not repeat in lower levels of description. Abstract is not an element in DACS. We record the abstract in the 520/Summary note of the online catalog record. 
 
-The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking.[^1] An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history.  
+The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking.[^1] An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history. 
 
-An abstract (scope and content note) should identify, summarize, and contextualize the following elements of content in a collection: 
+The first sentence of the abstract should generally use the following pattern: [Content descriptor from title statement] of [description of person] [person] including [type(s) of material].[^2]
+
+The next sentences can elaborate briefly on the contents. 
+
+Keep in mind that access points will be derived from the content of the abstract. 
+
+Example abstracts: 
+
+
+We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description. Historically our finding aid description has centered on the creators and collectors, often valorizing white individuals or families who owned enslaved individuals. Guided by our section's [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md) and [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes), we aspire to re-envision our abstract descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible to those outside of the academy, and description does not obscure collection material that documents the lives of enslaved people.[^3] 
+
+# Scope and Content Note
+
+#### [DACS 3.1.](https://www2.archivists.org/standards/DACS/part_I/chapter_3/1_scope_and_content
+
+
+A scope and content note should identify, summarize, and contextualize the following elements of content in a collection: 
 
 - **People.** Individuals and groups (i.e., organizations or corporate bodies) who created or assembled the collection materials and those represented in the collection’s content, including enslaved people whose voices typically are not heard in the collection, but whose lives nevertheless are documented. 
 
@@ -119,10 +134,17 @@ An abstract (scope and content note) should identify, summarize, and contextuali
 
 - **Format and genre.** Physical and digital forms of material (e.g., photographs, audio recordings, moving images, database) and document types in relation to their purpose and content (e.g., correspondence, diaries, ledgers, zines) held in the collection. Note that in trying to surface the lives of enslaved people, it is especially important to record types of legal and financial materials, such as estate papers, wills, deeds, and bills of sale, as the names of enslaved people may appear here.
 
-- **Topics.** Subject matter addressed or documented in the collection materials. 
+- **Topics.** Subject matter addressed or documented in the collection materials.
 
-We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description. As an embodiment of the history of the Southern United States, archival collections at the University of North Carolina at Chapel Hill include a vast range of white supremacist content that is deeply offensive and disturbing.[^2] Historically our finding aid description has centered on the creators and collectors, often valorizing white individuals or families who owned enslaved individuals. Guided by our section's [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md) and [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes), we aspire to re-envision our abstract descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible to those outside of the academy, and description does not obscure collection material that documents the lives of enslaved people.[^3] We strive to surface the names, stories, and lived experiences of underrepresented and marginalized individuals and groups, in particular those in the Black community, documented in UNC's collections. This work is influenced and inspired by the conversation happening around ethical archival description in the profession.[^4] We recognize and acknowledge the influence that they have on our work.
+- **Materials that aren't present.** The scope and content note is also a place to describe materials that the researcher would expect to find in the collection but are not included.
 
+The collection level scope and content note is often distilled or partially duplicated in the abstract element.
+
+Example collection level scope and content notes:
+
+At the file level, the scope and content note is often used to describe the contents of a container or to highlight specific items of research interest. 
+
+Example file level scope and content notes: 
 
 # Extent 
 #### [DACS 2.5](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent)
@@ -494,7 +516,7 @@ Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Cultura
 
 [^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
-[^2]: Patrick Cullom and others, "Guidance for Creating AltText for Archival Images" project documentation, 2020.
+[^2]: Thank you to the Collection Services Manual at Rose Library, Emory University for this helpful articulation. https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6110-abstract
 
 [^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill.” Journal for the Society of the North Carolina Archivists, vol. 16 (2019): 41. http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf
 
