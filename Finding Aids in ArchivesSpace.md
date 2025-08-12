@@ -40,6 +40,8 @@ These are instructions for creating finding aids using ArchivesSpace, Pipette, a
      - [Classifications](#classifications)
      - [User Defined](#user-defined)
    - [Adding Series, Subseries, and File Level Archival Objects](#adding-series-subseries-and-file-level-archival-objects)
+     - [Rapid Data Entry](#rapid-data-entry)
+     - [Load via Spreadsheet](#load-via-spreadsheet) 
    - [Revising Series, Subseries, and File Level Archival Objects](#revising-series-subseries-and-file-level-archival-objects)
    - [Finding Aid Publication Workflow](#finding-aid-publication-workflow)
    - [Finding Aid Checklist](#finding-aid-checklist)
@@ -340,6 +342,9 @@ Maps to: ```<origination>``` and ```<controlaccess>```
 
 Agents are person (```<persname>```), family (```<famname>```) or corporate (```<corpname>```) names that are associated with the collection as creators or subject headings (geographic names are entered as Subjects).
 
+Need tips to create good agent links? There's <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#access-points">documentation</a> for that!
+
+
 **Pro tip:** You can add more Agents by clicking the "Add Agent Link" button in the top right corner OR the "+" at the bottom of the "Agent Links" section. You might have to hover to see the "+" at the bottom.
 
 - **Role:** Select "Creator" or "Subject."
@@ -374,6 +379,8 @@ Agents are person (```<persname>```), family (```<famname>```) or corporate (```
 ### Subjects
 
 Subjects (```<subject>```, ```<geogname>```, ```<genreform>```) are the finding aid's topical subject headings. Adding subject headings is similar to adding agent links.
+
+Need tips to create good subject headings? There's <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#access-points">documentation</a> for that!
 
 **Pro tip:** You can add more Subjects by clicking the "Add Subject" button in the top right corner OR the "+" at the bottom of the "Subjects" section. You might have to hover to see the "+" at the bottom.
 
@@ -457,7 +464,7 @@ Replace [NAME], [MONTH YEAR] with the correct information.
 
 > Required!
 
-Need tips on how to write a good biographical and historical note? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md#bioghist-versus-scopecontent">documentation</a> for that!
+Need tips on how to write a good biographical and historical note? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#biographicalhistorical-note">documentation</a> for that!
 
 <img width="728" height="204" alt="Picture18" src="https://github.com/user-attachments/assets/a9ce2d56-3d68-4b94-a137-2cb9ea1f9af8" />
 
@@ -472,7 +479,7 @@ Need tips on how to write a good biographical and historical note? There’s <a 
 
 > Required!
 
-Need tips on how to write a good scope and content note? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md#bioghist-versus-scopecontent">documentation</a> for that!
+Need tips on how to write a good scope and content note? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#scope-and-content-note">documentation</a> for that!
 
 <img width="728" height="204" alt="Picture19" src="https://github.com/user-attachments/assets/ecf80eaa-a65f-4c92-8950-9fd1b3cbfbb5" />
 
@@ -602,6 +609,74 @@ Leave these fields blank. These fields are used to record processing information
 
 ### Classifications
 
+> Required!
+
+We are using the Classifications field to record the curatorial unit. This field allows the curatorial units to appear as facets in Archy.
+
+- **Maps to:** '''<repository>'''
+- Required for indexing in Archy
+- Select one (and only one) classification per resource record.
+  -  The list of classifications tends to load very slowly. Never fear...it’s there. You’ll get to it eventually.
+  -  Some existing resource records have two classifications: one indicating the curatorial unit and another indicating that it is an "Antebellum" collection. The "Antebellum" classification does not create a facet in Archy. *Do not* add the "Antebellum" classification to any additional records.
+ 
+ <img width="1452" height="658" alt="Picture25" src="https://github.com/user-attachments/assets/8b708518-bb4b-48ec-870e-3a9dd564ce1d" />
+
+In most cases, you will select SHC, SFC, UA, or NCCPA. However, there are a total of 10 options:
+
+- **General Archival Collections (ULGAC)**
+  - Examples:
+    - Zbigniew Bujak Orange Revolution Photographs (60001)
+    - Rebun Kayo Hiroshima Landslide Recovery Photographs, Videos, and Related Materials (60002)
+  - You are unlikely to use this option.
+    
+- **North Carolina Central University Collections (NCCU)**
+  - Examples:
+    - James E. Shepard Papers (50001)
+    - North Carolina Central University Faculty and Staff Photograph Records (50007)
+  - These materials are owned by and are housed at NCCU. You are unlikely to use this option.
+ 
+- **North Carolina Collection (NCC)**
+  - Examples:
+    - Wolfe Family Papers (70003)
+    - North Carolina City, County, and Regional Ephemera Collection (70023)
+  - To be used for NCC collections that are not NCCPA.
+
+- **North Carolina Collection Photographic Archives (NCCPA)**
+  - Examples:
+    - North Carolina County Photographic Collection (P0001)
+    - Virginia Omega Collier Photograph Album (70146)
+      
+- **Rare Book Collection (RBC)**
+  - Examples:
+    - American and English Playbills (70027)
+    - A. P. Watt Records (11036)
+      
+- **Southern Folklife Collection (SFC)**
+  - Examples:
+    - William R. Ferris Collection (20367)
+    - Roland L. Freeman Photograph Collection (70147)
+   
+- **University Archives (UA)**
+  - Examples:
+    - Board of Trustees of the University of North Carolina Records (40001)
+    - Asian American Center of the University of North Carolina at Chapel Hill Records (70102)
+
+- **North Carolina Central University/Southern Historical Collection (NCC/SHC)**
+  - Examples:
+    - Floyd B. McKissick Papers (04930)
+    - Alan McSurely Papers (04928)
+  - These materials are jointly held collections between North Carolina Central University and the Southern Historical Collection. You are unlikely to use this option.
+
+- **Southern Historical Collection (SHC)**
+  - Examples:
+    - Hayes Collection (00324)
+    - G. K. Butterfield Papers (70106)
+   
+- **Antebellum (Antebellum)**
+  - Used for internal purposes only to track collections previously identified as having "antebellum" or "slavery-era" content.
+  - Do not assign this classification to any collection unless specifically instructed to do so by Jackie Dean.
+
+
 ### User Defined
 
 These fields are used to record additional information not accounted for in other fields. They are for internal purposes only and will not display in the finding aid.
@@ -620,6 +695,66 @@ At this time, we are using the following User Defined fields for resource record
 
 
 # Adding Series, Subseries, and File Level Archival Objects
+
+Now it's time to add your series/subseries/files/etc. to the resource record. There are two ways to create new archival objects in ArchivesSpace: manually using "Rapid Data Entry (RDE)," and via the "Load via Spreadsheet" option:
+
+- "Rapid Data Entry (RDE)" is a convenient way to enter information if you only have one series AND have time to enter all your information in one sitting (you could still use it if you have more than that, but the word "Rapid" is in there for a reason.)
+  - You can also enter components manually without using the Rapid Data Entry option, but I only recommend doing so if you’re making minor edits to existing components (see documentation about revisions below). Otherwise, it’s really not worth the hassle.
+- "Load via Spreadsheet" is a good option if you have more than one series, have multiple subseries, OR don’t have time to do all your data entry in one sitting.
+
+**Pro tip:** IMO the spreadsheet is easier to use regardless, but feel free to experiment to determine what works best for you.
+
+## Rapid Data Entry
+
+> <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/893976919/Using+the+Rapid+Data+Entry+RDE+Tool+to+Create+Multiple+Resource+Component+Records">ArchivesSpace Help Center</a>
+
+First, you need to create a new series:
+
+ - In edit mode, click on the collection title at the top of the tree structure and click on "Add child."
+
+<img width="626" height="67" alt="Picture26" src="https://github.com/user-attachments/assets/f37550d2-e0ab-47ae-b7a2-734215368963" />
+
+- Fill out the following fields:
+  - **Title:** The series title
+  - **Level of Description:** Select “Series” from the drop menu
+  - **Publish?"**: Make sure this box is checked
+  - **Dates:** Follow the instructions under <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#dates">Collection-level Fields and Notes</a> (above)
+  - **Extents:** Follow the instructions under <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#extents">Collection-level Fields and Notes</a> (above)
+  - Notes: Create a scopecontent note. You will need to create it yourself; it will not automatically appear as it does on the collection-level record.
+    - Make sure the "Publish?" checkbox is checked. 
+- Click “Save.”
+
+In edit mode, click on your newly created series and select the "Rapid Data Entry" option.
+
+The following screen will appear:
+
+<img width="624" height="230" alt="Picture27" src="https://github.com/user-attachments/assets/65964309-2e3a-4599-9b21-1b5a75d4292d" />
+
+The notes in the gray box are helpful!
+
+<img width="624" height="229" alt="Picture28" src="https://github.com/user-attachments/assets/47271f65-b6f7-46b3-a1b4-a8a78c9c8a61" />
+
+Enter desired data. The "Level of Description" element (in this case, probably "File") and either "Title" or one of the "Dates" sub-record elements is required. You can add other information, such as "Extent," as appropriate. Always make sure to check the "Publish?" checkbox.
+
+Make sure to add a Top Container and at least one Child Type and Child Indicator so that we’ll be able to page the materials later. [Note that you cannot link to locations to top containers from the Rapid Data Entry screen. You will link locations to the top containers via <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#linking-to-locations-in-archivesspace">Manage Top Containers</a> after you are done adding archival objects.]
+
+- Example: Let’s say we are adding Image Folder 1, which is in Image Box 1 to collection 90001. You will fill out the fields like this:
+  - **Instance Type:** Mixed materials (this is the only "Instance Type" we are using.)
+  - **Top Container:** If Image Box IB-90001/1 already exists, begin typing it into the Top Container field. The box should appear as an option that you can select. If it does not already exist, click on “Create,” enter "Image Box" into the "Container Type" field and "IB-90001/1" into the "Indicator" field. You can scan the barcode at this time, but it’s not necessary to do so – it's easy to go back and do that later.
+  - **Child Type:** Image Folder
+  - **Child Indicator:** PF-90001/1
+  - You can also enter **grandchild** information if needed
+
+<img width="585" height="228" alt="Picture29" src="https://github.com/user-attachments/assets/5c5dd44d-1319-4f4b-8af3-19e46e571e47" />
+
+Add as many rows as needed to record additional archival objects, then click “Save” when you are done.
+
+The new archival objects are now part of the record:
+
+<img width="701" height="156" alt="Picture30" src="https://github.com/user-attachments/assets/129f2a42-eb98-4b66-b9a1-cde422e92692" />
+
+
+## Load via Spreadsheet
 
 # Revising Series, Subseries, and File Level Archival Objects
 
