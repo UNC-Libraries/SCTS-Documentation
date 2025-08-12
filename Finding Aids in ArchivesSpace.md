@@ -2,6 +2,8 @@ Created by Dawne Lucas in August 2025 (in progress)
 
 # Creating Finding Aids in ArchivesSpace at UNC-Chapel Hill
 
+These are instructions for creating finding aids using ArchivesSpace, Pipette, and ArcLight (Archy) at the Wilson Special Collections Library at UNC-Chapel Hill. This documentation is supplemental to the documentation provided by ArchivesSpace, and has been adapted for use at the Wilson Special Collections Library. Some of the procedures described in this documentation differ from procedures followed at other institutions. It is therefore important that you read these procedures carefully, even if you already have experience using ArchivesSpace.
+
 # Overview
 
  - [Introduction: ArchivesSpace, ArcLight (Archy), and Pipette](#introduction-archivesspace-arclight-archy-and-pipette)
@@ -46,9 +48,7 @@ Created by Dawne Lucas in August 2025 (in progress)
    
 # Introduction: ArchivesSpace, ArcLight (Archy), and Pipette
 
-These are instructions for creating finding aids using ArchivesSpace, Pipette, and ArcLight (Archy) at the Wilson Special Collections Library at UNC-Chapel Hill. This documentation is supplemental to the documentation provided by ArchivesSpace, and has been adapted for use at the Wilson Special Collections Library.
-
-Here’s the very tl;dr summary of the difference between the three:
+Here’s the very tl;dr summary of the difference between ArchivesSpace, ArcLight (Archy), and Pipette:
 
  - **ArchivesSpace:** Staff-only interface used to create finding aids.
    - Staff interface: https://aspace.lib.unc.edu:4433/
@@ -254,13 +254,138 @@ Maps to: ```<extent>```
 
 ### Finding Aid Data
 
+Maps to: ```<eadheader>```
+
+Information in these fields will not be seen by the public, even if the rest of the record is published. 
+
+<img width="707" height="367" alt="Picture6" src="https://github.com/user-attachments/assets/29ee8188-392d-4033-b576-da6278890e7c" />
+
+You can ignore any field not mentioned below.
+
+- **EAD ID:** The EAD ID is the same as the collection number. 
+  - **Maps to:** ```<eadid>```
+  - Not required to save record, **but please do fill it out.** You cannot upload spreadsheets or index in Archy without this field (more on that later).
+  - **Example:** 60010
+
+- **Finding Aid Title:** The Finding Aid Title is the same as the collection title.
+  - **Maps to:** ```<titleproper>```
+  - **Example:** Dawne Howard Lucas Papers
+
+- **Finding Aid Date:** The date the finding aid was completed.
+  - **Maps to:** ```<profiledesc><creation>```
+  - **Example:** August 2021
+ 
+- **Finding Aid Author:** The name of the person who completed the finding aid.
+  - **Maps to:** ```<profiledesc><creation>```
+  - **Example:** Nancy Kaiser
+ 
+ - **Description Rules:** Please don’t populate this field. At the moment it causes display issues in Archy.
+
+ - **Language of Description Note:** This field defaults to "English." Unless you are creating a finding aid in another language (unlikely!), you will never need to change this default.
+   - **Maps to:** ```<langusage><language>```
+   - Required to save record
+
+- **Sponsor:** This field will usually be blank. It can be used to record sponsor information when applicable.
+  - **Maps to:** ```<sponsor>```
+  - **Example from finding aid ingested from EAD:** Funding from the State Library of North Carolina supported the encoding of this finding aid. Funding from the Terry and Laurie Sanford Library Fund supported the digitization of this collection.
+ 
+- **Finding Aid Status:** Use the drop menu to choose the correct status. Make sure to set it to "Completed" once it is done!
+  - **Maps to:** ```<eadheader findaidstatus>```
+  - If working on a new finding aid, use the status "In Progress." When a resource record is set to this status, it cannot be published via Pipette.
+  - If revising an existing finding aid, use the status "Under Revision." When a resource record is set to this status, it cannot be published via Pipette.
+  - Make sure to set the status to "Completed" once you are done! Changing the status will allow the resource record to be published via Pipette.
+ 
+- **Finding Aid Status Published?:** This box should remain unchecked.
+
+- **Finding Aid Note:** You can use this note to record any extraneous internal information about the finding aid. Remember, these notes will not be seen by the public. 
+  - **Maps to:** ```<notestmt>```
+  - For finding aids ingested from EAD, this field is populated with "This finding aid is NCEAD compliant."
+    
 ### Revision Statements
+
+Maps to: ```<revisiondesc>```
+
+This field is also part of the ```<eadheader>``` and will not be seen by the public, even if the rest of the record is published. But it's still very important!
+When you revise a resource record, add a Revision Statement by clicking the "Add Revision Statement" button.
+
+You will then see the following fields:
+
+- **Revision Date:** The date the revisions were made. You can use this format: ```MONTH YEAR```
+  - Required to save record.
+  - **Example:** August 2025
+
+- **Revision Description:** An explanation of who made the revision and why.
+  - Required to save record
+  - **Example:** Revised by Jodi Berkowitz to correct biographical information.
+
+- **Publish?:** Since this field won’t display regardless, there’s no need to worry about this box.
+
+<img width="711" height="165" alt="Picture7" src="https://github.com/user-attachments/assets/a7364b7b-fb0c-4f18-a651-b9136975df66" />
+
+**Pro tip:** You can add more Revision Statements by clicking the "Add Revision Statement" button in the top right corner OR the "+" at the bottom of the "Revision Statements" section. You might have to hover to see the "+" at the bottom.  
 
 ### Related Accessions
 
+This field will list any accessions linked to this resource record. These links do not appear in the published finding aid in Archy. They are usually linked from the accession record, so you shouldn't have to do anything here.
+
+<img width="751" height="127" alt="Picture8" src="https://github.com/user-attachments/assets/22d561a4-a14a-45d2-bd74-9e20d8d6e0b4" />
+
+IF you do need to link an accession record for some reason, click on the "Add Related Accession" button, search for the accession, and link it to the resource record. 
+
+**Pro tip:** You can add more Related Accessions by clicking the "Add Related Accession" button in the top right corner OR the "+" at the bottom of the "Related Accessions" section. You might have to hover to see the "+" at the bottom. 
+
 ### Agent Links
 
+Maps to: ```<origination>``` and ```<controlaccess>```
+
+Agents are person (```<persname>```), family (```<famname>```) or corporate (```<corpname>```) names that are associated with the collection as creators or subject headings (geographic names are entered as Subjects).
+
+**Pro tip:** You can add more Agents by clicking the "Add Agent Link" button in the top right corner OR the "+" at the bottom of the "Agent Links" section. You might have to hover to see the "+" at the bottom.
+
+- **Role:** Select "Creator" or "Subject."
+  - Required to save record
+  - Agents linked with the "creator" role will appear as the creator (```<origination>```).
+  - Agents linked with the "subject" role will appear in the finding aid's subject headings ```<controlaccess>```).
+  - If an agent is both the creator and a subject, link it twice, once with the "creator" role and once with the "subject" role.
+
+<img width="530" height="135" alt="Picture9" src="https://github.com/user-attachments/assets/07aa6c9d-b80a-44ec-9d95-f1e6ed6d1539" />
+
+ - **Agents:**
+   - Required to save record
+   - To link an existing agent record, you can either begin typing in the name and select from a list of autocomplete options presented by ArchivesSpace OR use the "Browse" option.
+     - Autocomplete:
+      <img width="528" height="152" alt="Picture10" src="https://github.com/user-attachments/assets/0d2fcb70-0852-42bc-9eb6-da117aa40635" />
+   - If using the "Browse" option, search for and select the desired agent, and then click "Link."
+     - Browse:
+       
+        <img width="530" height="146" alt="Picture11" src="https://github.com/user-attachments/assets/15a74c45-3e9f-48a9-bb70-07021f5c12e0" />
+        <img width="578" height="326" alt="Picture12" src="https://github.com/user-attachments/assets/61cb8694-7e96-4f7a-9f76-ce95fe2d9563" />
+        
+   - Many agent records that were ingested into ArchivesSpace from EAD are not formatted correctly. Don’t worry...they’re fine as they are right now.
+  
+   - To create a new agent record, select "Create" and then select the type of agent record you wish to create (Person, Family, or Corporate Entity). A minimal agent record may be created by filling in only the required fields. The minimal record can be enhanced later by adding additional information in other fields and sub-records. For more details about creating new agent records, visit the <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1942945864/Agent+Record+Fields+from+3.0">Agent Record Fields</a> page in the ArchivesSpace Help Center.
+     
+     - Create:
+       
+    <img width="530" height="197" alt="Picture13" src="https://github.com/user-attachments/assets/b57903b4-99b6-4340-8ef4-e40f2ad1c9f0" />
+    
+     - If an agent is listed in <a href="https://authorities.loc.gov/">LCNAF</a>, paste the "LCCN Permalink" in the "Authority ID" field.
+
 ### Subjects
+
+Subjects (```<subject>```, ```<geogname>```, ```<genreform>```) are the finding aid's topical subject headings. Adding subject headings is similar to adding agent links.
+
+**Pro tip:** You can add more Subjects by clicking the "Add Subject" button in the top right corner OR the "+" at the bottom of the "Subjects" section. You might have to hover to see the "+" at the bottom.
+
+- **Subjects:**
+  - Required to save record.
+  - To link an existing subject record, you can either begin typing in the subject and select from a list of autocomplete options presented by ArchivesSpace OR use the "Browse" option.
+  - If using the "Browse" option, search for and select the desired subject, and then click "Link."
+  - Many subject records that were ingested into ArchivesSpace from EAD are probably not formatted correctly. Don’t worry...they’re fine as they are right now.
+  - To create a new subject record, select "Create" and fill in the "Term" and "Type" fields. For more details about creating new subject records, visit the <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894664812/Subject+Record+Fields">Subject Record Fields</a> page in the ArchivesSpace Help Center.
+    - If a subject heading is listed in <a href="https://authorities.loc.gov/">LCSH</a>, enter the "LCCN Permalink" in the "Authority ID" field.
+
+To add personal, family, or corporate names as subject headings, see the "Agent Links" section above. For more details about creating new agent records, visit the <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1942945864/Agent+Record+Fields+from+3.0">Agent Record Fields</a> page in the ArchivesSpace Help Center.
 
 ### Notes
 
