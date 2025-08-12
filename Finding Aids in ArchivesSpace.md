@@ -415,7 +415,7 @@ You need to fill in each of these fields with collection-specific content (or de
 
 Fill in abstract information after the collection-level scope and content note is written!
 
-Need tips on how to write a good abstract? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md#abstracts-and-collection-overviews">documentation</a> for that!
+Need tips on how to write a good abstract? There’s <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#abstract">documentation</a> for that!
 
 <img width="729" height="175" alt="Picture15" src="https://github.com/user-attachments/assets/1150d84d-b4e6-4a9c-bbd3-0572c88f86b9" />
 
