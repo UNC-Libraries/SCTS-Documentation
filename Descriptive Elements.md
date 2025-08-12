@@ -6,7 +6,7 @@ Updated July 2020
 - [Title](#title)
 - [Date](#date)
 - [Creator](#creator)
-  [Abstract](#abstract)
+- [Abstract](#abstract)
 - [Scope and Content Note](#scope-and-content-note)
 - [Extent](#extent)
 - [Restrictions](#restrictions)
