@@ -21,7 +21,7 @@ Updated July 2020
 
 
 # Reference code
-#### [DACS 2.1](https://www2.archivists.org/standards/DACS/part_I/chapter_2/1_reference_code)
+#### [DACS 2.1](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/01_reference_code.html)
 
 This is a local unique identifier code. Typically, we use the collection number as this code.  
 
@@ -31,7 +31,7 @@ North Carolina Collection codes will be alphanumeric and begin with ncc, and Nor
 
 
 # Title 
-#### [DACS 2.3](https://www2.archivists.org/standards/DACS/part_I/chapter_2/3_title)
+#### [DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
 The collection title contains the name of the collection creator, the nature of the archival unit, and sometimes a third topical segment.  
 
@@ -67,7 +67,7 @@ Sample collection titles include:
 
 
 # Date 
-####  [DACS 2.4](https://www2.archivists.org/standards/DACS/part_I/chapter_2/4_date)
+####  [DACS 2.4](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/04_date.html)
 
 - **Collection dates:** We most frequently use the collection’s inclusive dates, showing the earliest and latest dates of the materials.  In some collections, you will find material from a range of years, but a large majority from a smaller range of years. For example, the Cyrus Aydlett Papers (#4907) contain material dating from 1941 through 1994, but most of the collection concerns Aydlett’s experiences during World War II and dates from 1943 through 1945. Thus, the inclusive dates of this collection are 1941-1994 and the bulk dates are 1943-1945: Cyrus Aydlett Papers, 1941-1994 (bulk 1943-1945). Occasionally a collection has a few items with dates significantly outside the range of the majority of the items. In this case the outlying date(s) may be appended to the range. For example, a collection with materials dated 1793 through 1822, but with a few items from 1988, would be listed: 1723-1822, 1988. 
 
@@ -98,22 +98,20 @@ Sample collection titles and dates include:
 
 
 # Creator
-#### [DACS 2.6](https://www2.archivists.org/standards/DACS/part_I/chapter_2/6_name_of_creators)
+#### [DACS 2.6](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/06_name_of_creators.html)
 
 The creator element consists of the authorized form of the creator’s name. This may be a personal name, family name, or a name of a corporate body. Consulting the [Library of Congress Name Authority File](https://authorities.loc.gov/) is a good place to start to see if an authorized form of the name exists. If not, construct the name by following the authorized form pattern, and feel free to consult the departmental cataloger (?) for assistance. 
 
 
 # Abstract 
 
-Required at the collection level. The abstract does not repeat in lower levels of description. Abstract is not an element in DACS. We record the abstract in the 520/Summary note of the online catalog record. 
+The abstract occurs only at the collection level and does not repeat in lower levels of description. Abstract is not an element in DACS. We record the abstract in the 520/Summary note of the online catalog record. Keep in mind that access points will be derived from the content of the abstract.  
 
 The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking.[^1] An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history. 
 
-The first sentence of the abstract should generally use the following pattern: [Content descriptor from title statement] of [description of person] [person] including [type(s) of material].[^2]
+The first sentence of the abstract should generally use the following pattern: [Content descriptor from title statement] of [description of person] [person] including [type(s) of material].[^1]
 
 The next sentences can elaborate briefly on the contents. 
-
-Keep in mind that access points will be derived from the content of the abstract. 
 
 Example abstracts: 
 
@@ -158,7 +156,7 @@ For examples of file level scope and content notes see [Dorothy Battle Wilkinson
 
 
 # Extent 
-#### [DACS 2.5](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent)
+#### [DACS 2.5](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/05_extent.html)
 
 We record the extent or size of a collection in both item counts and tallies of linear footage. An exception is the case of z collections (collections of five folders or fewer), where only item count is listed. 
 
@@ -189,10 +187,11 @@ _ENTIRELY DIGITAL COLLECTION_:
     Extent: 27 GB (4,825 digital files)
 
 # Restrictions
-#### [DACS 4.](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/00_conditions_of_access_and_use_elements.html)
+#### [DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)
 ### Conditions Governing Access
 In local practice, we define access as having the permission and ability to view, hear, or handle original documents or facsimiles in person and to make or receive photoduplicates for reference and research.
 
+#### [DACS 4.4]https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html
 ### Conditions Governing Use
 In local practice, we define use as the permission to publish, broadcast, exhibit, display, or present a collection’s content and to receive photoduplicates for publication, broadcast, exhibit, display, and online presentation.
 
@@ -321,13 +320,19 @@ _This collection contains materials that are not available for immediate or same
 
 
 # Languages
-#### [DACS 4.5.](https://adminliveunc-my.sharepoint.com/:w:/g/personal/jmberkow_ad_unc_edu/EUREsDoN13xOhxbkuE_pLtYB5hZXPRXNlsLSltSpfAbhLw?email=athomp%40live.unc.edu&e=4%3a0IkaS8&at=9&CID=3caf459d-3fc9-182e-ab41-26946d11c6d3)
+#### [DACS 4.5.](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html)
+
+We use the following template for the Languages element: 
+
+Materials in [list the languages present in the materials]. 
+
+_Materials in English._
 
 
 # Biographical/Historical Note
 #### [DACS 2.7.](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/07_administrative_biographical_history.html)
 
-The biographical/historical note provides context for the descriptions of collection materials and presents information critical to researchers work with the materials. Since the note is designed to be a ready reference aid to the researcher, it should emphasize the aspects of the biography or history that relate to the collection materials. When the creator(s) are well-known, the note can be brief. It is possible to lift a biographical note from another source and credit the source. 
+The biographical/historical note provides context for the descriptions of collection materials and presents information critical to researchers' work with the materials. Since the note is designed to be a ready reference aid to the researcher, it should emphasize the aspects of the biography or history that relate to the collection materials. When the creator(s) are well-known, the note can be brief. It is possible to lift a biographical note from another source and credit the source. 
 
 Examples of Biographical/Historical Notes: 
 
@@ -338,7 +343,7 @@ _The University of North Carolina at Chapel Hill Department of City and Regional
 _Malvina Reynolds (1900-1978), a white woman from Berkeley, Calif., was a folksinger, songwriter, and performer at folk festivals and on children's television. Reynold's original songs, especially those she wrote in the 1960s, reflected her social justice causes and concerns including civil rights for Black people in the American South, labor unions, women's reproductive health rights, environmental justice, and peace in the age of the Vietnam War and nuclear power. Malvina Reynolds was the daughter of David and Abagail Milder and a three time graduate of the University of California, Berkeley (B.A., M.A., and Ph.D.). In 1934 she married William "Bud" Reynolds (d. 1972), a carpenter and labor organizer, and with him had a daughter, Nancy Reynolds Schimmel (1935- ) who was also a songwriter. Before her music career took off, Reynolds was a political and social activist and wrote a column for the American leftist newspaper People's Daily World founded in San Francisco, Calif., in the 1930s._
 
 # Access Points
-#### [DACS Overview](https://www2.archivists.org/standards/DACS/overview_of_archival_description)
+#### [DACS Overview](https://saa-ts-dacs.github.io/dacs/05_overview_of_archival_description.html#access-points)
 
 Access points are controlled vocabulary terms used to facilitate machine searching in library catalogs. Wilson Library primarily uses Library of Congress Name Authority Files and Library of Congress Subject Headings. 
 
@@ -376,7 +381,7 @@ Collection records have a minimum of two to three access points.
   
   
 # Acquisition
-#### [DACS 5.1.](https://www2.archivists.org/standards/DACS/part_I/chapter_5/1_custodial_history)
+#### [DACS 5.2.](https://saa-ts-dacs.github.io/dacs/06_part_I/06_chapter_05/02_immediate_source_of_acquisition.html)
 
 Wilson Library uses the acquisition element to convey the following information. 
 
@@ -400,7 +405,7 @@ Typically, the acquisition element is structured as follows:
 
 
 # Citation
-#### [DACS 7.1.5.](https://www2.archivists.org/standards/DACS/part_I/chapter_7/1_notes)
+#### [DACS 7.1.5.](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#citation)
 
 Wilson Special Collections provides a preferred citation format for researchers. Ultimately, researchers, writers, editors, and publishers will adjust the format for their purposes, but the citation element outlines the information needed for archivists, researchers, and others to find the archival material cited.  
 All citations should contain the following information: 
@@ -448,7 +453,7 @@ The privacy statement is included in all Wilson Library finding aids.
 _Manuscript collections and archival records may contain materials with sensitive or confidential information that is protected under federal or state right to privacy laws and regulations, the North Carolina Public Records Act (N.C.G.S. § 132 1 et seq.), and Article 7 of the North Carolina State Personnel Act (Privacy of State Employee Personnel Records, N.C.G.S. § 126-22 et seq.). Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g., a cause of action under common law for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of North Carolina at Chapel Hill assumes no responsibility._
 
 # Processing Information
-
+#### [DACS 7.1.8.](https://saa-ts-dacs.github.io/dacs/06_part_I/08_chapter_07/01_notes.html#processing-information)
 - [Current processing statements](#current-processing-statements)
 - [Historical processing statements](#historical-processing-statements)
 
@@ -532,8 +537,6 @@ Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Cultura
 
 
 # Endnotes
-
-
 
 [^1]: Thank you to the Collection Services Manual at Rose Library, Emory University for this helpful articulation. https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6110-abstract
 
