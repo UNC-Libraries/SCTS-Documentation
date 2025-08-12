@@ -25,9 +25,10 @@ Updated July 2020
 
 This is a local unique identifier code. Typically, we use the collection number as this code.  
 
-For Southern Folklife Collection, Southern Historical Collection, and University Archives collections, the code will consist of 5 numeric digits, e.g., 20460, 00517, or 40131. Z collections will have –z appended to the end of the code. 
+Collection numbers are assinged during accessioning. They are a five digit string. Z collections will have –z appended to the end of the code. 
 
-North Carolina Collection codes will be alphanumeric and begin with ncc, and North Carolina Collection Photographic Archives collection codes will also be alphanumeric and begin with P, e.g., NCC0001 or P0081. 
+Our former practice was to assign collection numbers based on collecting unit. We discontinued that practice in 2019 and the numbers no longer refer to collecting units with the exception of some legacy North Carolina Collection Photographic Archives collections. 
+
 
 
 # Title 
