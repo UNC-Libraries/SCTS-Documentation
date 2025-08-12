@@ -116,12 +116,17 @@ Keep in mind that access points will be derived from the content of the abstract
 
 Example abstracts: 
 
+_This collection contains the recordings and papers of white bluegrass musician Tony Trischka. Papers include a festival program from the 1967 Roanoke Bluegrass Music Festival at Watermelon Park, Berryville, Va; a 2-page newspaper illustration "The Breakdown" from Harper's Weekly; posters; publication manuscripts (text and banjo tablature); promotional materials, including a sticker, concert flyer, concert program, Christmas card, and band photo; and a box of Banjo all-star trading cards._
+
+_The collection of white farmer Ivey Ellis Pleasant (1895-1983) of Person County, N.C., contains account books and financial papers documenting transactions with Black and white tenant farmers in the mid-20th century. Transactions include payments for flue-cured tobacco weighed in pounds and purchases of groceries, utility services, medicine, clothing, farm tools, and fertilizer. Notifications, letters, agreements, memorandum, and settlements from agencies within the United States Department of Agriculture pertain to acreage allotments for growing flue-cured tobacco, agricultural adjustments and subsidies, cooperative stabilization, production and marketing, crop insurance, home gardening, soil building, and food administration during the Second World War. Scattered family papers include Pleasant's American Legion membership card, a hospital bill, and grade reports for Nellie Pleasant, daughter of Ivey Pleasant and his spouse Anna Mae Pleasant, from Mars Hill College in Mars Hill, N.C._
+
+_Records of the University of North Carolina System, primarily from the Office of the President and Board of Governors. Materials cover several different time periods: the majority of the materials were created from roughly 2010 to 2015, with some materials dating from the late 1960s through the 1980s and 2004-2005. Materials include correspondence, speeches, records of bond referendums, and subject files, as well as records on each of the UNC System schools. Contains records that span the administrations of several UNC System Presidents: William C. Friday (1956-1986), C. D. Spangler, Jr. (1986-1997), Molly Corbett Broad (1997-2005), Erskine Bowles (2006-2010), and Thomas W. Ross (2011-2016)_
 
 We strive for conscious language and ethical description in our abstracts, both for new finding aid description and for our reparative work of legacy description. Historically our finding aid description has centered on the creators and collectors, often valorizing white individuals or families who owned enslaved individuals. Guided by our section's [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md) and [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes), we aspire to re-envision our abstract descriptive practice so that whiteness is no longer the presumed default, language is inclusive and accessible to those outside of the academy, and description does not obscure collection material that documents the lives of enslaved people.[^3] 
 
 # Scope and Content Note
 
-#### [DACS 3.1.](https://www2.archivists.org/standards/DACS/part_I/chapter_3/1_scope_and_content
+#### [DACS 3.1.](https://saa-ts-dacs.github.io/dacs/06_part_I/04_chapter_03/01_scope_and_content.html)
 
 
 A scope and content note should identify, summarize, and contextualize the following elements of content in a collection: 
@@ -142,9 +147,14 @@ The collection level scope and content note is often distilled or partially dupl
 
 Example collection level scope and content notes:
 
+_The collection of the Stancil family of Selma, N.C., contains letters and v-mail written home to family by Willie T. Stancil, an enlisted Black private in the United States Army's 77th Coastal Artillery Unit during the Second World War. Stancil wrote from Fort Bragg, N.C., Marcus Hook, Pa., Manchester, Conn., and San Francisco, Calif., from June 1941 through 1945. Many letters indicate that U.S. Army officers had screened Stancil's letters for confidential or sensitive military information, but the letters show no signs of redaction. Most letters were addressed to Willie T. Stancil's father Walter Preston Stancil, a Black tenant farmer who grew long leaf tobacco in Johnston County, N.C., and sold it at warehouses across eastern North Carolina. Content of letters is generally limited to comments about pay, letters received from family and friends, and well wishes for his family, especially his younger sibling Beulah Mae Stancil. Willie describes army life in broad terms mentioning photographs taken for army yearbooks, all night camps, shooting targets, rifle ranges, training for distance shooting, pay days, and socializing with civilians. He comments more than once that he likes the army where he gets three meals a day, works half days, and gets plenty of sleep. Other documents related to the Second World War are a 1943 selective service notice of classification for Walter Preston Stancil, ration cards for mileage and gasoline, and a 1942 sugar purchase certificate from the U.S. Office of Price Administration._
+
+_The records of the Department of City and Regional Planning, 1944-2018, consist of administrative files detailing its continuous accreditation; minutes from faculty meetings and committee files; annual reports, strategic plans, publications, and faculty and alumni surveys; curriculum and degree program documentation; and a smaller number of masters papers and projects, theses, and dissertations. The collection also contains event files, alumni association files, departmental history, and files related to the New East building which houses the department._
+
 At the file level, the scope and content note is often used to describe the contents of a container or to highlight specific items of research interest. 
 
-Example file level scope and content notes: 
+For examples of file level scope and content notes see [Dorothy Battle Wilkinson Papers](https://finding-aids.lib.unc.edu/catalog/70202) and [Sarah Frances Williams Hicks Letters](https://finding-aids.lib.unc.edu/catalog/03210_aspace_64bc106a2399ebb0d0627925e6891ba1)
+
 
 # Extent 
 #### [DACS 2.5](https://www2.archivists.org/standards/DACS/part_I/chapter_2/5_extent)
@@ -514,10 +524,8 @@ Annie Tang, Dorothy Berry, Kelly Bolding, and Rachel Winston, “Towards Cultura
 
 # Endnotes
 
-[^1]: Laura Hart, “Abstracts for Collection Records” powerpoint, 2020.
 
-[^2]: Thank you to the Collection Services Manual at Rose Library, Emory University for this helpful articulation. https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6110-abstract
 
-[^3]: Jackie Dean, “Conscious Editing of Archival Description at UNC-Chapel Hill.” Journal for the Society of the North Carolina Archivists, vol. 16 (2019): 41. http://www.ncarchivists.org/wp-content/uploads/2020/02/jsnca_vol16_dean.pdf
+[^1]: Thank you to the Collection Services Manual at Rose Library, Emory University for this helpful articulation. https://github.com/rose-collectionservices/collection-services-manual/tree/master/06-DESCRIPTION#6110-abstract
 
-[^4]: Archives for Black Lives in Philadelphia’s (A4BLiP) Anti-Racist Description Working Group, "Anti-Racist Description Resources", October 2019. Accessed November 2019. https://archivesforblacklives.wordpress.com/
+
