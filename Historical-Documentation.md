@@ -10,7 +10,8 @@ Updated August 2025
      - [XML to TXT script](#xml-to-txt-script)
    - [Excel formulas/tips](#excel-formulastips) 
 - [EAD Documentation](#ead-documentation)
-   - [Additions](#additions) 
+   - [Additions](#additions)
+- [Identity Statement](#identity-statement)
    
 
 
@@ -120,7 +121,9 @@ To break apart by first space so you can have "T-40328/1" in one column and "Mix
 
 ```=LEFT(A1,FIND(" ",A1)-1) and =RIGHT(A1,LEN(B1)-FIND(" ",A1))``` 
 
-# Additions
+# EAD Documentation 
+
+## Additions
 
 **Revising the XML**
 
@@ -168,7 +171,7 @@ Patrick Cullom, January 2020; (your name, date).</p>
 
 When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive processing info statements <link> that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
 
-## Other parts of the finding aid that may or may not require updates:
+**Other parts of the finding aid that may or may not require updates:**
 
 [Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
@@ -209,20 +212,20 @@ normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 20
 <physdesc><extent>1.0 linear feet (1000 paper items) / 1 gigabyte (17 digital files).</extent>
 </physdesc><did>
 ```
-### Arrangement: if archivist imposed any arrangement, put that information in a processing note
+**Arrangement: if archivist imposed any arrangement, put that information in a processing note**
 
 Most likely you are just rehousing into 
 archival boxes
 ```
 <arrangement><p>Arrangement: as received.</p></arrangement>
 ```
-### Acquisitions
+**Acquisitions**
 
 Include all accession numbers at the series level.
 ```
 <acqinfo><p>Acquisitions Information: Accession 20200124.2</p></acqinfo>
 ```
-### Processing Note
+**Processing Note**
 
 Sometimes we want to communicate to researchers 
 that we really do not know what is in the addition we are making available for use. 
@@ -232,7 +235,7 @@ appraised out of the addition.
 ```
 <processinfo><p>Processing Note: </p></processinfo>
 ```
-### Scope and Content
+**Scope and Content**
 
 Probably this will be same brief description
 as you added to the Collection Overview
@@ -241,7 +244,7 @@ as you added to the Collection Overview
 ```
 <scopecontent><p>Overview of the addition.</p></scopecontent>
 ```
-### Container list
+**Container list**
 ```
 <c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle>
 </did></c02></c01>
@@ -294,5 +297,9 @@ of October 2016 (Acc. 102664).</p></acqinfo>
 
 Sometimes not all the materials in the addition will be made usable at the same time, especially when there are born digital materials. Be sure to add one of the Access Restriction statements if that is the case. 
 
+# Identity Statement
 
+Older version of the statement to acknowledge ethnic and racial identities for individuals and families represented in collections (discontinued in July 2025):
+
+Since August 2017, we have added ethnic and racial identities for individuals and families represented in collections. To determine identity, we rely on self-identification; other information supplied to the repository by collection creators or sources; public records, press accounts, and secondary sources; and contextual information in the collection materials. Omissions of ethnic and racial identities in finding aids created or updated after August 2017 are an indication of insufficient information to make an educated guess or an individual's preference for identity information to be excluded from description. When we have misidentified, please let us know at wilsonlibrary@unc.edu.
 
