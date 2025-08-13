@@ -24,6 +24,15 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
   - [Arranging Additions](#arranging-additions)
 - [Describing](#describing)
   - [The "Typical" Finding Aid](#the-typical-finding-aid)
+    - [Descriptive Summary](#descriptive-summary)
+    - [Administrative Information](#administrative-information)
+    - [Items Separated](#items-separated)
+    - [Related Materials](#related-materials)
+    - [Biographical/Historical Note](#biographical-historical-note)
+    - [Scope and Content Note](#scope-and-content-note)
+    - [Series Descriptions](#series-descriptions)
+    - [Abstract](#abstract)
+    - [Access Points](#access-points) 
   - [Finishing the Finding Aid](#finishing-the-finding-aid)
 - [Housing and Preservation](#housing-and-preservation)
   - [Preservation and Conservation](#preservation-and-conservation)
@@ -1249,7 +1258,7 @@ function of the document you are producing is to tell researchers about your col
 researchers in mind, you have arranged the collection in a clear and logical fashion; now describe it in a
 similar way.
 
-**Descriptive Summary**
+### Descriptive Summary**
 
 The descriptive summary contains basic identifying information--title, dates, creator, extent--and an
 abstract of the collection. The online catalog terms will also be discussed because they are so closely
@@ -1270,17 +1279,67 @@ Use the links below to learn more about each <a href="https://github.com/UNC-Lib
 - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#creator">Creator</a>
 - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#extent">Extent</a>
 
-**Administrative Information**
+### Administrative Information 
 
- - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#restrictions">Access and Usage Restrictions</a>
-  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#acquisition">Provenance/Acquisitions Information</a>
-  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#processing-information">Processing Information</a>
-- *Add Items Separated and Related Materials*
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#restrictions">Access and Usage Restrictions</a>
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#acquisition">Provenance/Acquisitions Information</a>
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#processing-information">Processing Information</a>
 
-**Biographical/Historical Note**
+### Items Separated
+The items separated section of the finding aid indicates which items have been filed separately from the
+main part of the collection. An items separated list should include the various formats and number of
+items/container units that have been separated. Items separated are not necessarily more important
+than other items in a collection, but we alert researchers to their existence because some formats,
+especially audiovisual materials, can be of research interest regardless of subject content. If there are
+items separated in your collection, be sure to include this list in the finding aid for your collection.
 
-*DACS 2.7 Administrative/Biographical History Element and Chapter 10 Administrative/Biographical
-History*
+Items separated may be listed by item number or container number (box, folder, etc.). The first example
+lists individually numbered items that have been separated. Notice that we list the individually
+numbered items and also indicate their physical folder. The second lists folders of unnumbered items
+that have been separated.  
+
+- Items Separated
+    - Oversize Papers (OP-4240/1-12 in OPF-4240/1 of 1)
+    - Extra oversize Papers (XOP-4240/1 in XOPF-4240/1 of 1)
+    - Pictures (P-42420/1-624 in PF-4240/1-12)
+    - Oversize Pictures (OP-P-4240/1-5 in OP-PF-4240/1 of 1)
+    - Special Format Pictures (SF-P-4240/1-4)
+    - Picture Albums (PA-4240/1-12)
+    - Audiodisc (D-4240/1)
+    - Videotapes (VT-4240/1-8)
+    - Oversize Volumes (SV-4240/1-3)
+
+- Items Separated
+    - Oversize Papers (OPF-4344/1-2)
+    - Extra oversize Papers (XOPF-4344/1)
+    - Pictures (PF-4344/1-16)
+ 
+### Related Materials
+
+The related collections section lists other collections within The Wilson Library, in other campus
+departments, or in other institutions that contain materials complementing or in some way connected
+to the collection in hand. This connection must be a close and substantial one for collections to be
+considered related. If you stick around here long enough, you will realize that most of the people in
+most of our collections are related and/or knew one another in some way. Family relationship or
+acquaintance is not sufficient grounds for listing a collection as related; for that, the material in the two
+collections must have some real relationship.
+
+Names of in-house related collections usually are listed first, followed by their collection number in
+parentheses.
+
+Examples:
+- H. Smith Richardson Papers (#4283).
+- Southern Oral History Program Collection, Interview C-1 (#4007).
+- Henry Groves Connor Papers (#175); Thaddeus Shaw Page Papers (#3848). See also official records in the North
+Carolina Division of Archives and History and the National Archives.
+- The manuscripts of two of the Cleavers's
+books are in other repositories as follows: Ellen Grace at the
+Kerlan Collection, University of Minnesota; Where the Lilies
+Bloom in the Appalachian Collection, Appalachian State
+University, Boone, N.C.
+
+
+### Biographical/Historical Note
 
 This section of the finding aid is headed biographical note when its focus is the life of one or more
 individuals and historical note when it deals with the history of an organization or University
@@ -1290,24 +1349,7 @@ life or history and details those aspects critical to a researcher's work with t
 biographical/historical note typically is boiled down to one or two sentences to become the first part of
 the abstract, which then becomes the 545 field in the MARC record.
 
-The biographical/historical note should be brief--from a few sentences to no a few paragraphs. A narrative biographical/historical note may be warranted by the complex
-or multi-dimensional career of the subject. Often, however, this information can be presented
-chronologically in list form. Remember that the purpose of the note is to provide the researcher with a
-ready reference to the subject's activities so that information in the rest of the finding aid will have
-greater meaning. A statement in the series description to the effect that there is correspondence for a
-certain span of years, for example, is made much more effective if the biographical note indicates that
-during those years the subject was in school or running a business or retired and engaged in community
-social work. Emphasis should be on that portion of the subject's career to which the bulk of the
-collection relates.
-
-It is sometimes possible simply to lift or adapt a note from another source (be sure to credit the
-original). Biographical or historical data may be abbreviated when the reader can be referred to
-standard sources such as the Dictionary of American Biography, the Dictionary of North Carolina
-Biography, or to other readily available biographical or historical directories. Minimally, however, basic
-data should be included in the finding aid even when such abbreviation takes place.
-The nature of the collection may help to determine the structure of the biographical/historical note. Not
-all collections relate to only one person or organization. Some consist of letters of two correspondents,
-family papers, autograph collections, subject collections, or other forms.
+The biographical/historical note provides context for the descriptions of collection materials and presents information critical to researchers' work with the materials. Since the note is designed to be a ready reference aid to the researcher, it should emphasize the aspects of the biography or history that relate to the collection materials. When the creator(s) are well-known, the note can be brief. It is possible to lift a biographical note from another source and credit the source.
 
 To clarify your own understanding of the context of the collection, it may be useful to write a draft or
 outline of the biographical/historical note before you begin to process the collection. Wait, however, to
@@ -1315,84 +1357,89 @@ complete the note until after the papers have been arranged and described. Your 
 collection may allow you to add information if your preliminary research had turned up little and will
 help you focus the note to insure that it provides useful context for the materials in the collection.
 
-Example biographical note:
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#biographicalhistorical-note">Examples</a>
 
-The first African-American woman undergraduate to attend the University of North Carolina at
-Chapel Hill, Karen L. Parker was born in Salisbury, N.C., and grew up in Winston-Salem, N.C.
-Parker worked for the Winston-Salem Journal before attending UNC-Chapel Hill. She majored in
-journalism and was elected vice-president of the UNC Press Club and served as editor of the
-UNC Journalist, the School of Journalism's newspaper, in 1964. After graduating in 1965, Parker
-was a copy editor for the Grand Rapids Press in Grand Rapids, Mich. She has also worked for the
-Los Angeles Times and other newspapers before returning to the Winston-Salem Journal. Ellyn
-Bache used Parker's diary when conducting research for her 1997 novel The Activist's Daughter
-about student activists at the University of North Carolina at Chapel Hill in 1963.
+### Scope and Content Note
 
-Example historical note 1:
+A <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#scope-and-content-note">scope and content note</a> should identify, summarize, and contextualize the content in a collection.
 
-Rose's Stores, Inc., owned by Variety Wholesalers, Inc., of Henderson, N.C., is a southeastern
-chain of discount retail stores that began in 1915 with the founding of the first store by Paul H.
-Rose in Henderson, N.C. Rose's Stores were most common in North Carolina and South Carolina,
-but, at various times, the company had stores in Virginia, Georgia, Alabama, Maryland,
-Mississippi, Louisiana, and West Virginia.
+### Series Descriptions
 
-Example historical note 2 (UA short):
+A series description is composed of three parts: the heading (title, inclusive dates, size, arrangement
+scheme); the narrative description; and the folder/box/container list.
 
-The Center for Urban and Regional Studies of the University of North Carolina at Chapel Hill was
-established in 1957 as the Urban Studies Program of the university's Institute for Research in
-Social Science. In 1969, it became a separately administered center, and in 1988, it became a
-part of the Department of City and Regional Planning. The Center for Urban and Regional
-Studies conducts and supports both basic and applied research on urban, regional, and rural
-planning and policy issues. It is one of the oldest university-based centers of its kind, and its
-research is focused throughout North Carolina and the United States.
+Here are some points towards writing good narrative descriptions:
 
-Example historical note 3 (UA long):
+- Prepare the folder/box/container list for the series before writing the description. Remember
+that your description will be used by researchers in conjunction with that list. When
+appropriate, refer the reader to the list for details. It is often the case that very little description
+is necessary when folder titles/box lists/container lists are descriptive.
 
-Although Louis Round Wilson began teaching summer courses in library science at the University
-of North Carolina in Chapel Hill in 1904, the School of Library Science did not open its doors until
-17 September 1931. Its first director was Dr. Wilson, who had at that point been the university
-librarian for thirty years. The school was originally funded by a $100,000 Carnegie Corporation
-grant, and during that first fall in 1931, thirty-seven students took courses from five faculty
-members of the school. For many of the early years of the School of Library Science, only an
-undergraduate degree in Library Science was offered. Dr. Wilson carried the school through its
-first full accreditation by the American Library Association (ALA) in December 1934, before Dr.
-Susan Grey Akers took over the directorship in 1935.
+- Describe the material in a simple, straightforward way. Clarity and accuracy count. If you need
+help identifying exact terms for the material you have (is it a cash book or a daybook? a
+pamphlet or a leaflet?), consult the <a href="https://www.getty.edu/research/tools/vocabularies/aat/">Art and Architecture Thesaurus</a> or the <a href="https://id.loc.gov/vocabulary/graphicMaterials.html">Thesaurus of Graphic Materials</a>. Keep sentences and paragraphs as short as possible; keep in mind, though, that you
+may end up with some longer sentences with serial lists. Succinct descriptions facilitate use of
+the materials in the collection and they are far easier to transform into scope and content notes
+and ultimately into abstracts than are descriptions containing florid prose and extraneous
+matter.
 
-Dr. Akers had earned her doctorate in library science from the University of Chicago in 1932,
-making her the fourth person and the second woman in the nation to receive this doctoral
-degree. Dr. Akers served as the school's director for seven years before her title changed to
-dean in 1942. Upon the acquisition of this new title, Dr. Akers became the first woman to hold
-an academic deanship at the University of North Carolina. Under Dr. Akers's leadership, the
-bachelor of arts degree that was offered by the school became a bachelor of science degree in
-library science in 1941.
+- Begin with a brief, but comprehensive, statement about the contents of the series. This usually
+will be a statement, not a complete sentence, in the following form: Chiefly correspondence
+between A and B, with a few letters each from C and D, and a small number of other letters.
+Note that every item in the series is covered by this statement. Many such statements will end
+with a phrase like "and a few other letters" or "and a small amount of other material." When
+appropriate, follow this statement with a sentence noting principal subjects, functions, or
+activities to which the material relates; relative amounts of different kinds of material;
+significant gaps; and other important information about the series. It is okay if this sentence
+ends up being a longish serial list.
 
-In March 1951, the university approved the creation of the master of science in library science
-program, and the first MSLS degrees were awarded in 1953. In 1955 the bachelor of science
-program was abolished. In September 1970, the School moved to Manning Hall; and in
-November 1972, the first issue of the School of Library Science newsletter, News from Chapel
-Hill, was published. In 1980 the first Ph.D. from the School of Library Science was awarded to
-JoAnn Hardison Bell. In 1987 the faculty of the school voted to include "information science" in
-the school's name, and in 1988 the name officially became School of Information and Library
-Science (SILS). The information and library science program continued to expand its degree
-offerings and began offering an undergraduate minor in information systems in 1997.
-SILS had always held high rankings in most academic evaluations; but in 1999, U.S. News and
-World Report selected it as the top program in the country, a ranking the school has held more
-often than not since that year. In 2001 the first dual-degree programs were announced, a
-master's program with the Kenan-Flagler Business School and another with the School of Public
-Health. In 2003 the bachelor of science degree was revived, and the first two certificate
-programs were initiated.
+- Organize the remainder of the description to parallel the arrangement of the series. A series
+need not be broken into subseries to have several descriptive paragraphs. The description of a
+series of chronologically arranged correspondence, for example, might consist of four
+paragraphs successively treating letters from the periods 1800-1820, 1821-1860, 1861-1865,
+and 1866-1900. A writings series might be described in a set of paragraphs, each dealing with
+one type of writing--essays, book reviews, short stories, poems. When arrangement is
+alphabetical (and sometimes when it is by subject), describe categories of material in order of
+research value instead of in order of physical arrangement.
 
-Since its creation in 1931, the School of Information and Library Science has graduated more
-than 4,000 librarians who have gone on to serve in library capacities throughout the world. The
-goal of the school continues to be "to conduct inquiry devoted to information generation and
-use, to prepare reflective, adaptive information professionals for action in the present and the
-future, and to transfer to them an uncompromising advocacy for knowledge" (from its mission
-statement).
+- Determine the appropriate degree of detail according to the research value for each part of the
+contents. A single valuable letter may warrant its own description, whereas two hundred
+applications might be handled by a single sentence.
 
-**Scope and Content Note/Abstract**
+- Describe the material, not the creator(s). In most cases, the biographical/historical note is the
+appropriate place for background information that provides context for the documents. The
+series descriptions refer to the documents themselves.
+
+- Note the arrangement, if appropriate. If the arrangement is simple (alphabetical or
+chronological, for example) say so in the series heading. If the series is small, but the
+arrangement complex, there may be no need to refer to arrangement, since a quick scan of the
+folder/box/container list will tell a researcher all he or she needs to know. If the series is large
+and the arrangement complex, a discussion of arrangement should be included following the
+description of the materials in the series.
+
+**When There Are No Series**
+
+Sometimes a small collections consisting chiefly (but not necessarily exclusively) of materials of one type or
+format can be adequately arranged without organizing into series. Don't try to create series if they're not needed!
+
+### Abstract
+
+The purpose of an abstract is to suggest avenues for discovery and use of collection materials and to provide a general audience with the information they need to determine the usefulness of the collection in answering their research questions or in making the connections they are seeking. An abstract should be brief, ideally fewer than 300 words, and should focus almost entirely on the collection materials rather than the creator or collector’s biography or organizational history. 
+
+<a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#abstract">More about abstracts</a>
+
+### Access Points 
+
+Access points are controlled vocabulary terms used to facilitate machine searching in library catalogs. Wilson Library primarily uses Library of Congress Name Authority Files and Library of Congress Subject Headings. Any name or subject that will be listed as an access point MUST appear in some form in the abstract. This eliminates "blind" references (a name or subject access point exists, but the abstract does not say how it is related to the collection) that are extremely frustrating to researchers. 
+
+<a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#access-points">More about access points</a>
+
 
 ## Finishing the Finding Aid
 
 Let your supervising archivist know when you have completed your finding aid in ArchivesSpace so they can review it and give feedback. When the finding aid is done to everyone's satisfaction, submit a <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Ticketing.md#blue-sheets-and-merge-requests">Blue Sheet ticket</a> so that the finding aid can be published online and statistics can be recorded. The departmental cataloger will then prepare a MARC record and load it into the online catalog. 
+
+> Students who do not have access to the ticketing system should work with their supervising archivist to submit the ticket.
 
 
 # Housing and Preservation
@@ -1478,7 +1525,7 @@ a student who is trained by the conservators to work exclusively on our material
 
 **Removing Items for Conservation Treatment**
 
-Consult the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Preservation-and-Conservation-Services.md">Preservation and Conservation Services (P&CS) + Special Collections Technical Services Archival (TS-Archival) Workflow</a> to learn more about how to send materials to P&CS.
+Consult the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Preservation-and-Conservation-Services.md">Preservation and Conservation Services (P&CS) + Special Collections Technical Services Archival (TS-Archival) Workflow</a> to learn more about when and how to send materials to P&CS.
 
 ## What You Can Do
 
@@ -1520,8 +1567,7 @@ unnecessary handling) are the most frequently prescribed measures for an intensi
 project.
 
 Sometimes we can go further than that. Particularly with smaller collections containing potentially
-significant materials, you are likely to carry out more procedures like unfolding and unrolling,
-humidifying and flattening, inner foldering, removing fasteners, preservation photocopying, and, as
+significant materials, you are likely to carry out more procedures like unfolding, removing fasteners, preservation photocopying, and, as
 discussed above, sending items for conservation treatment.
 
 The following preservation activities may not be indicated for every collection that you process and
@@ -1545,8 +1591,218 @@ see a few researchers over time.
 
 **Unfolding**
 
+Unfolding items is not always as easy as you might think, since materials that have been
+folded for many years may be difficult to flatten without damaging them. If your processing
+project calls for unfolding, follow the guidelines below.
 
+If the paper is quite flexible, it may be possible to unfold an item and gently and briefly fold it in the
+opposite direction to flatten it. No attempt should be made to eradicate fold lines; since folding
+generally results in broken paper fibers, fold lines must be considered permanent markings. It is a good
+idea to press very gently against fold lines with a bone folder to minimize the fold ridge. 
 
+When paper is not flexible or is in some other way damaged, items may be difficult to unfold. These materials should be sent to Preservation & Conservation Services for further review. 
+
+**Removing Fasteners**
+
+Fasteners--staples, paper clips, pins, rubber bands--are the most common type of damaging materials
+found in collections. Except for those made of brass, all metal fasteners rust, leaving permanent stains
+on papers. Fasteners often tear manuscripts as paper is flexed against them over long periods of time.
+Rubber bands dry out, disintegrate, and discolor paper. Not only do fasteners damage the paper they
+bind, they can abrade and stain adjacent items.
+
+In the best of all possible worlds, all fasteners would be removed from all collections. In reality,
+however, it is rarely practical to remove them all. It is counterproductive to invest time in removing
+them and reestablishing the relationship among leaves of materials. When your collection does call for
+intensive processing, most of the time it is possible to remove rubber bands and to transfer materials
+from binders with metal parts to folders. Often you also can remove metal paper clips (almost ALWAYS
+if they are rusty). Staples are frequently left intact because of the time and effort it would take to
+remove them and because the damage they might do as they are removed exceeds the damage they
+may do over time.
+
+Removal of fasteners should proceed gingerly so that no damage results.
+
+- Safe removal of staples means lifting each folded prong with a microspatula and then using the
+microspatula to lift the staple out.
+- Rusted paper clips should be gently pried up from the surface of the paper with the
+microspatula and then slipped off.
+- Remnants of desiccated rubber bands should be lifted off the paper's surface with a
+microspatula.
+- Brass studs or grommets should be left intact since their removal is certain to cause more
+damage than their presence.
+- Note that you should not attempt to separate glued or taped items that do not come apart
+easily. If separation is called for, remove these items from the collection for evaluation as
+conservation candidates.
+
+> A note about the microspatula: If you have one in your possession, guard it with your life. They have a habit of disappearing. If you borrowed one from someone else, please return it promptly.
+
+Removal of fasteners should proceed so that the relationship between the leaves that had been
+fastened together is preserved. Often the relationship between one leaf and another is clear without
+fasteners or other aids. When the relation is evident from the materials themselves, you may simply let
+them lie there together (e.g., page two of a letter may be obviously related to page one since the
+stationery is the same for the two pages, but different from other leaves in the file; all pages of a
+typescript may already be clearly marked to show that they are from the same manuscript).
+
+When fastener removal makes relationships among previously linked leaves unclear, one of three
+techniques may be employed to insure that the relationships are not lost. Consult with your supervising
+archivist to determine which of these options is best for your collection:
+
+- Materials may be annotated in the upper right hand corners to mark them as belonging
+together. Annotating is the most satisfactory option for preserving the relationship of one piece
+of paper to another, but it is also the most time consuming.
+- Plastic-coated paper clips may be used.
+- Inner folders may be created. Inner folders are made from large sheets of alkaline paper that
+are folded in half. Several sizes of paper are available. If appropriate, stamp the inner folder in
+red with "FRAGILE" and/or "PLEASE HANDLE CAREFULLY."
+
+**Handling Highly Acidic Materials**
+
+When highly acidic materials are interfiled with other items in a collection, acid can migrate from the
+acidic materials to their neighbors. The transferred acid may not only stain materials over time, but also
+may accelerate their embrittlement. Newspaper clippings are the most frequently encountered acidic
+materials. Others include pulpy (usually brown or yellow) papers from the early 20th century and
+organic materials like pressed flowers or locks of hair ("hairlooms" is the technical term).
+
+There are several options for handling highly acidic materials; three of the most common are listed
+below. Note that organic materials should always be removed, but if these materials have informational
+value, you may use option three below.
+
+- Remove all highly acidic materials and place them in their own series or subseries. This works
+when the highly acidic materials can logically be grouped in a format-based series or subseries
+(e.g., a clippings series) or in a separate folder or folders within a series or subseries (e.g., a
+folder in a writings series). When highly acidic materials are closely related to other items,
+however, that relationship should be maintained (e.g., a clipping enclosed and referred to in a
+letter).
+- Enclose highly acidic materials in inner folders made of alkaline paper and interfile the foldered
+materials in the regular order. Inner folders are made from large sheets of alkaline paper that
+are folded in half. Several sizes of paper are available. Inner folders are annotated with their
+contents on the front top right-hand corner (in a chronological run, just the date will suffice)
+and, if appropriate, stamped in red with "FRAGILE" and/or "PLEASE HANDLE CAREFULLY." If the
+acidic materials are newspaper clippings, you may group them together in one inner folder filed
+at the back of the folder. It is not necessary to annotate the inner folder with the contents.
+- Preservation photocopy highly acidic materials, interfile the photocopies, and remove the
+originals or place them in inner folders. Photocopying a document onto alkaline paper is also an
+excellent way to preserve its contents and to shield the original from future handling.
+Preservation photocopying requires skills that most processors already possess--handling
+documents with great care and operating photocopiers. Preservation photocopying proceeds
+like any other photocopying except that you must use only alkaline paper (available in Tech
+Services). After photocopying, newspaper clippings are often put in the discard or return pile.
+Documents other than clippings, however, are often retained. In this case, place the original in
+an inner folder annotated to reflect its contents and stamped in red with "VERY FRAGILE."
+
+Highly acidic materials may be handled in various ways within the same collection. You may remove the
+bulk of the clippings to a clippings series, subseries, or folders within a series or subseries, and
+photocopy or inner-folder those clippings that need to remain with particular letters. It is important to
+think about if this work is necessary and perform it strategically. You might opt to do nothing at all
+because it would be too time consuming to separate highly acidic materials and/or an overkill of effort
+given the research and artifactual value of the collection.
+
+**Housing and Labeling**
+
+Conservation professionals have come to consider rehousing in alkaline folders and boxes the most
+significant collection-level step that an archival repository can take to retard paper deterioration. Highly
+acidic containers actually accelerate the decay of their contents by transferring acid to the papers they
+touch and by emitting peroxides and other harmful by-products into the microenvironment enclosed by
+the boxes. When you take materials out of acidic liquor cartons, manila folders, kraft-paper envelopes,
+and place them in alkaline housing, you are taking an important step in preserving them. Likewise, when
+you take the additional step of segregating oversize items and special-format materials (pictures,
+audiotapes, etc.) and housing them with other such materials, you are not only protecting the special-
+format materials, but avoiding the damage they can cause to other materials when they are interfiled
+with a relatively uniform run of foldered papers. When you clearly label the contents of a collection, you
+decrease the need to rifle through other materials in search of the desired items, thus reducing the wear
+and tear materials must endure.
+
+Researchers of the future will bless the unknown hands that made possible the survival of the raw
+materials of history. Those hands are yours.
+
+**Boxes**
+
+Several styles of boxes are used in Tech Services. Historically, SHC and SFC collections have typically, though not
+always, been housed in gray document cases ("Hollingers") while University Archives materials have been housed in
+cardboard record center cartons ("Paige boxes"). In recent years, we have tended to house more modern SHC and SFC collections in Paige boxes instead of Hollingers. These are special boxes that have been engineered to house archival materials. Note that these boxes do not come cheap; we do not retire them to the recycle dumpster until they are totally worn out.
+
+You should consult with your supervising archivist about what type of box is right for your collection. In
+any case, be sure to neither overfill nor underfill boxes. Overfilling means that materials will become
+distorted over time and/or risk being damaged when they are removed and refiled. Underfilling means
+that folders will lean at an unhealthy angle that causes them and their contents to curl at the top or
+bottom. Cardboard spacers should be used to fill unused space to prevent this from happening.
+
+**Folders**
+
+Folders offer support and protection to the materials they house. Clear and accurate folder labels
+promote quick and easy retrieval and refiling, which prevents unnecessary handling of items. Letter-size
+folders hold items up to 8-1/2 by 11 inches or so; legal-size folders hold items up to 8-1/2 by 14 inches
+or so. Larger items, except those that can be SAFELY folded ONCE to fit in letter-size or legal-size folders,
+call for oversize housing.
+
+We almost always use legal-size folders for materials in the Southern Historical Collection and the
+Southern Folklife Collection. We typically use letter-size folders for materials in University Archives. To
+prevent dangerous shifting of materials, folders must snugly fit their box both in length and in width.
+Follower blocks take care of the slack when there are not enough folders to fill a box. Document cases
+require legal-size folders to fill the length requirement. You may use either legal- or letter-size folders in
+record center boxes, depending on which size better accommodates the materials you are housing.
+When only a few legal-size items are present in a collection destined for a records center box, these
+items may be stored folded so that the contents of the box can be housed in letter-size folders. What
+you cannot do is mix legal- and letter-size folders in the same box. If you do that, the letter-size folders
+will slide around in an unhealthy fashion.
+
+The amount of material that can safely be placed in a folder depends upon the condition of the material
+and its value. When items are brittle, only a few should be placed in a folder to avoid excessive abrasion
+and each item may need its own inner folder. The occasional fragile, acidic, or slightly-torn item in an
+otherwise stable folder should be protected by enclosing it in an inner folder.
+
+Except for folders containing only one or two leaves, all folders should be "squared." Use the pre-scored
+lines to "square" the edge of a folder to allow papers to stand vertically along the bottom. Place as many
+items as can fit easily into a folder with the bottom squared.
+
+Each document should be able to stand up straight along the bottom of the folder without curling on the
+edge. Sturdier or thicker items (multipage reports, for example) may fill a folder more fully. Volumes
+that can comfortably fit in folders should be placed, spine down, in folders and added in the correct
+order within the collection’s folder numbering system. Length and width are primary considerations, but
+thickness also counts. You may decide that a volume of greater thickness than that provided by the pre-
+scored lines on folder bottoms is too large for normal foldering, although wide volumes can sometimes
+be comfortably accommodated by creating your own folds along the folder bottom. More than one
+volume occasionally may be housed in one folder, depending, of course, on the dimensions of the
+volumes involved.
+
+Volumes housed in bulky looseleaf binders may be removed from the binders and placed in a folder or
+folders if doing so does not affect the artifactual value of the item. In some cases, information of value
+appearing on the binder may be photocopied onto acid-free paper and preserved with the inner pages.
+Any volume that cannot be foldered, whether too large in height, width, or depth, is treated as a
+"separated" volume. 
+
+How much information appears on the folder label depends on the particular situation. Consult with
+your supervising archivist if you have difficulty determining how specific your folder labels need to be.
+When foldering chronologized items, try to make reasonable folder breaks. Group by months, half-
+months, three-month spans, six-month spans, years, but avoid strange breaks like "3 January-13
+February 1903." The same rule holds for alphabetized runs, where single letters or letter spans are fine,
+but "A-Cun" then "Cuo-Di" should be avoided. Note that a folder holding all material for the period April-
+July 1946 should be labeled "April-July 1946" even if there is no material for some days (even days in
+early April or late July). If one folder holds materials dated January-June 1888 and the next item is dated
+October 1888, start the next folder with October, not July. You may want to note in the description that
+there are no items for July-September 1888.
+
+If the collection's original folders are in good condition and
+labeled clearly, we may opt not to re-folder. We always re-
+folder collections that arrive in hanging folders because hanging
+folders do not fit comfortably in our boxes. Consult with your
+supervising archivist to determine if your collection can be left in
+its original folders.
+
+Whether or not the collection is re-foldered, you will number the folders in the collection. Begin at
+Series 1 with Folder 1 and continue in one run of numbers through all of the series until you reach the
+end. We do not always list folder numbers in the finding aid, but we do always number the folders
+themselves.
+
+Restricted materials should be isolated in their own folders and labeled "RESTRICTED." Restricted folders
+do not necessarily need to be isolated in their own boxes if the restriction does not prohibit all access by
+researchers.
+
+**Boxes and Folders for Additions**
+
+Both folders and boxes should be labeled sequentially after the original collection or most recent
+addition. So, if the last box in the series was 29, the first box of the addition will be 30. Same goes for
+folders. If possible, folders and boxes that comprise an addition should include the addition name on the
+label.
 
 # Finishing the Job 
 
