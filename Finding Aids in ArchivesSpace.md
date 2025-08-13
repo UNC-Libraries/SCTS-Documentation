@@ -1,4 +1,4 @@
-Created by Dawne Lucas in August 2025 (in progress)
+Created by Dawne Lucas in August 2025 
 
 # Creating Finding Aids in ArchivesSpace at UNC-Chapel Hill
 
