@@ -870,6 +870,33 @@ This option is ideal for making quick, easy edits that don't require the spreads
 
 ## Bulk Update Spreadsheet
 
+You can use the Bulk Update Spreadsheet plug-in to edit existing archival objects. This is a great feature for updating existing date ranges, container information, etc. You cannot use it to create new archival objects.
+From the resource record, click on "More," and then "Bulk Update Spreadsheet."
+
+<img width="568" height="214" alt="Picture36" src="https://github.com/user-attachments/assets/13332753-5788-4d32-8dbd-8514e60aa2ba" />
+
+You will now see a screen with all of the resource's archival objects. Select the archival objects you wish to edit, then click "Download Spreadsheet" (not pictured below, in the bottom left corner of your screen). 
+
+<img width="568" height="196" alt="Picture37" src="https://github.com/user-attachments/assets/9b57fa57-44e2-45a3-a012-c0a95b93abf2" />
+
+Save the file to your computer and then open it (you can then click the "Cancel" button next to the "Download Spreadsheet" button to return to the resource record). The file looks like a scaled down version of the "Load via Spreadsheet" template. Make your edits and save.
+
+<img width="626" height="215" alt="Picture38" src="https://github.com/user-attachments/assets/2f5f91b5-e880-4b22-9a10-72c0ed8da218" />
+
+To upload the edited data, select Create > Background Job > Spreadsheet Bulk Update Job.
+
+<img width="578" height="240" alt="Picture39" src="https://github.com/user-attachments/assets/674b8915-b47e-4a6f-8d2a-086203ecd992" />
+
+Select your spreadsheet file, and then click "Start Job."
+
+<img width="578" height="140" alt="Picture40" src="https://github.com/user-attachments/assets/9920505e-05dc-4d9c-a555-52a50a0509cf" />
+
+You will see a Background Job status screen that will go through several job status steps. If the spreadsheet successfully imports, you should see a screen that looks something like this:
+
+<img width="614" height="238" alt="Picture41" src="https://github.com/user-attachments/assets/8384a7d8-6999-4d92-b45e-5a0ea447154e" />
+
+Your archival objects have now been edited. If the import fails, and you can’t figure out why it failed, contact Dawne and we’ll try to figure it out together!
+
 # Finding Aid Publication Workflow
 
 **In pipette-qa**
