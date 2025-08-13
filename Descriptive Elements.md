@@ -192,7 +192,7 @@ _ENTIRELY DIGITAL COLLECTION_:
 ### Conditions Governing Access
 In local practice, we define access as having the permission and ability to view, hear, or handle original documents or facsimiles in person and to make or receive photoduplicates for reference and research.
 
-#### [DACS 4.4]https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html
+#### [DACS 4.4](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
 ### Conditions Governing Use
 In local practice, we define use as the permission to publish, broadcast, exhibit, display, or present a collection’s content and to receive photoduplicates for publication, broadcast, exhibit, display, and online presentation.
 
