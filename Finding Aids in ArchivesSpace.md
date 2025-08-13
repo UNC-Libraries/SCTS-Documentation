@@ -753,12 +753,44 @@ The new archival objects are now part of the record:
 
 <img width="701" height="156" alt="Picture30" src="https://github.com/user-attachments/assets/129f2a42-eb98-4b66-b9a1-cde422e92692" />
 
-
 ## Load via Spreadsheet
+
+
 
 # Revising Series, Subseries, and File Level Archival Objects
 
 # Finding Aid Publication Workflow
+
+**In pipette-qa**
+
+- Use pipette-qa to preview changes before submitting a ticket for them to go live.
+- Login to https://finding-aids-qa.lib.unc.edu/admin using your Onyen.
+- Select the finding aid you’d like to index from the list on the "Collections" screen. If your finding aid does not appear:
+  - Click on the green "Pull in Latest Aspace Updates" button.
+  - If that doesn't work, Make sure that the resource record has a classification linked to it and the "Publish?" checkbox is checked.
+  - If that doesn’t work, let Dawne know.
+- Click on the blue “Index selected collections” button. A dashboard will appear showing the status of three tasks: downloading the XML from ArchivesSpace, indexing in Archy, and creating the PDF. Once these tasks are complete, you can view the finding aid at https://finding-aids-qa.lib.unc.edu/.
+  - NB: The status board will stop updating after 5 minutes, although usually that is more than enough time to index your updates.
+  - DO NOT click on the blue "Display all Resources" button. Nothing bad will happen, but it will take a very long time for that task to complete.
+- Repeat these steps until you are ready for the finding aid to go live.
+
+**In ArchivesSpace**
+
+- Make sure that all fields that should be published are in fact published. If there are fields that shouldn’t be published, make sure the “Publish?” box is unchecked.
+- Make sure that you have linked a classification.
+- Change the "Finding Aid Status" field to "Completed."
+- Remember to save your work!  
+
+**In Teams**
+
+- Submit a "Blue Sheet" or "Merge Request" ticket (form is pinned to the top of the Wilson TS-Archival General channel). Laura Smith will make the changes go live.
+  - Students who are not assigned to TS-Archival might not have access to this Teams channel. If this scenario applies to you, work with Dawne to submit the ticket. 
+
+
+
+
+
+
 
 # Finding Aid Checklist
 
