@@ -43,6 +43,8 @@ These are instructions for creating finding aids using ArchivesSpace, Pipette, a
      - [Rapid Data Entry](#rapid-data-entry)
      - [Load via Spreadsheet](#load-via-spreadsheet) 
    - [Revising Series, Subseries, and File Level Archival Objects](#revising-series-subseries-and-file-level-archival-objects)
+     - [Manual data entry](#manual-data-entry)
+     - [Bulk Update Spreadsheet](#bulk-update-spreadsheet) 
    - [Finding Aid Publication Workflow](#finding-aid-publication-workflow)
    - [Finding Aid Checklist](#finding-aid-checklist)
   
@@ -755,9 +757,118 @@ The new archival objects are now part of the record:
 
 ## Load via Spreadsheet
 
+> <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/1173913646/Importing+Archival+Objects+from+Excel+or+CSV+File+from+v2.8.1-3.3.)">ArchivesSpace Help Center</a>
 
+Use the spreadsheet located in Teams: Wilson SCTS-Archival > ArchivesSpace > Files > FREEZE > bulk_import_template_2024.xlsx. Make sure to save the copy you're editing to your desktop (or "save as" with a different filename) to make sure someone else doesn"t overwrite your work! 
+> This file will probably move to LOUIS in the near future. These instructions will change when/if that happens.
+
+You can also download a new spreadsheet from the resource record by clicking on the gear wheel, selecting "Bulk Import Templates," and then "Bulk Import AO XLSX."
+
+There’s A LOT of fields, but don’t panic…you can ignore most of them. The spreadsheet is trying to account for every field that you can possibly use. 
+> Just as we didn't use most of these fields when we were encoding EAD finding aids, we're not going to use most of them now, either.
+
+<img width="576" height="300" alt="Picture31" src="https://github.com/user-attachments/assets/0eacb59d-e3e0-4b18-a5ae-b30faa3717ae" />
+
+Here’s the fields you are most likely to use (note that many of the fields have drop menus). Some fields, such as "EADID" and "Title," will be used for every archival object that you enter. Other fields, such as the extent fields and the note fields, should be filled out for series-level archival objects, but can also be added to lower-level archival objects as applicable. 
+
+- **Basic Information (Columns C-M):**
+  - **EADID (Column C, required):** This should be the same as the collection number and should match the “EAD ID” field in the resource record.
+  - **Title (Column F, required):** The title of the archival object. This is typically and folder title or box title. Add the date, too, even though this will also be recorded in the date field.
+    - **Maps to:**  ```<unittitle>``` 
+  - **Hierarchical Relationship (Column H, required):** In most cases, series will have a hierarchical relationship of “1,” while folder or box titles will have a hierarchical relationship of “2.” If you add a second series, it will also have a hierarchical relationship of “1.”
+    - This is like nesting ```<c0x>```s in EAD.
+  - **Description Level (Column I, required):** Select appropriate level from the drop list ("Series," "File," etc.). 
+  - **Publish? (Column K):** In most cases, you will set to "True."
+  - **Restrictions Apply? (Column L):** Select if applicable.
+
+- **Dates (Columns V-AG):**
+  - Columns W-X are for normalized dates. Column Z is for inclusive dates.
+  - **Date(1) label (Column V, required if entering a date):** Should almost always be "creation."
+  - **Date(1) Begin (Column W):** Beginning of the date range
+    - Normalized date
+  - **Date(1) end (Column X):** End of the date range
+    - Normalized date
+  - **Date(1) Type (Column Y, required if entering a date):** Select from drop menu.  Will usually be "inclusive."
+  - **Date (1) expression (Column Z, required if entering a date):** Enter date expression
+    - Inclusive date
+    - Examples: 1980-1981; 1950s-2000s; circa 1945-1982
+
+- **Extent Information (Columns AH-AS):**
+  - **Extent Number (Column AI)**
+  - **Extent Type (Column AJ)**
+
+- **Container information (Columns AT-BI):**
+  - **Container Instance Type (Column AT):** Should always be ```mixed_materials```
+    - ```mixed_materials```, *not* "mixed materials" or "Mixed_Materials," or other variations
+  - Top Container type (Column AU): Most likely "Document Case," "Record Carton," "Image Box," or "Oversize Box."
+    - Make sure to capitalize the "D" and "C" in “Document Case” and the "R" and "C" in "Record Carton."
+  - **Top Container Indicator (Column AV):** The container number.
+  - **Barcode (Column AW)**: DON'T enter this information here. It tends to cause problems. The stacks manager (Margaret) will enter it later (see <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#linking-locations-in-archivesspace">Linking to Locations in ArchivesSpace</a>)
+  - **Child type (Column AX):** Subcontainer type, if used. Most likely “folder,” “Image Folder,” or “Oversize Paper.”
+    - In most cases, you will capitalize the first letter of each word ("Image Folder," "Oversize Paper," etc.)
+    - There are two exceptions: ```folder``` and ```box``` (and you're probably not going to use "box.")
+  - **Child indicator (Column AY):** The subcontainer (folder, image folder, etc.) number.
+  - **Grandchild type (Column AZ):** The sub-subcontainer type, if used. Most likely "Image," or "Oversize Paper."
+  - **Grandchild indicator (Column BA):** The sub-subcontainer (image, oversize paper, etc.) number.
+
+- **Notes (Columns ED-GE):**
+  - **Access Restrictions (Column EG):** Add as applicable.
+  - **Publish Access Restrictions (Column EH):** To be used if filling out Column EG. In most cases, you will set to "True."
+  - **Acquisition Information (Column EM):** Add as applicable.
+  - **Publish Acquisition Information? (Column EN):** To be used if filling out Column EM. In most cases, you will set to "True."
+  - **Scope and Contents (Column FW):** Add as applicable.
+  - **Publish Scope and contents? (Column FX):** To be used if filling out Column FW. In most cases, you will set to "True."
+  - **Use Restrictions (Column GC):** Add as applicable.
+  - **Publish Use Restrictions? (Column GD):** To be used if filling out Column GC. In most cases, you will set to "True."
+ 
+Again, there’s A LOT more fields that you can use if needed (although most of the time you probably won’t).
+
+Once you’re done filling out the spreadsheet, navigate to the resource record you’re updating, and select where the new archival objects should be located within the existing tree structure.
+
+- If you are adding a new series, click on the collection-level archival object at the top of the tree structure.
+- If you are adding archival objects to an existing series, click on the series within the tree structure.
+
+**Pro tip:** If you accidentally add your new archival objects to the wrong place, you can either delete them and re-import them, or use the <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894140803/Reordering+Components+in+Resource+Records+from+version+3.5.0">Enable Reorder Mode</a> feature to move/rearrange. 
+
+While in edit mode, select the “Load via Spreadsheet” option.
+
+<img width="610" height="109" alt="Picture32" src="https://github.com/user-attachments/assets/f90bc9a9-1330-4cf5-bbc5-4435b04a38ed" />
+
+You will be prompted to select a file to import. Select your spreadsheet using the green "Select File" (you will need to save and close it first). Then click on the "Import from SpreadSheet" button (I don’t know why it’s spelled "SpreadSheet" and I wish someone would change it).
+
+<img width="609" height="168" alt="Picture33" src="https://github.com/user-attachments/assets/59492504-eda2-4d2f-bf91-823d76be2f56" />
+
+You will see a Background Job status screen that will go through several job status steps. If the spreadsheet successfully imports, you should see a screen that looks something like this:
+
+<img width="608" height="307" alt="Picture34" src="https://github.com/user-attachments/assets/dc36a988-05fe-411b-9cd0-77fee6a21666" />
+
+Your new archival objects are now part of the resource record. Note that the top containers now appear, but they will not have locations linked to them. You still need to do that manually via <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#linking-locations-in-archivesspace">Manage Top Containers</a>.
+
+<img width="609" height="287" alt="Picture35" src="https://github.com/user-attachments/assets/929ae933-a5aa-478f-a8ea-b7be31fee996" />
+
+If the import fails, and you can't figure out why it failed, contact Dawne and we'll try to figure it out together.
 
 # Revising Series, Subseries, and File Level Archival Objects
+
+> As the title suggests, this section is about revising **existing** archival objects. If you are adding new archival objects, please follow the instructions in the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#adding-series-subseries-and-file-level-archival-objects">Adding New Series, Subseries, and File Level Archival Objects</a> section above. This includes adding new archival objects to an existing series or subseries. Basically, if it’s an archival object that’s not already in ArchivesSpace, follow the instructions in the previous section. If you are revising an archival object that’s already in ArchivesSpace, follow the instructions below.
+> 
+> Unless the content is being removed from the collection, DO NOT DELETE existing archival objects if there is an associated digital object. Doing so will break the link to the digital object, meaning it will no longer appear in the finding aid. [All is not lost if you delete something that shouldn’t have been deleted, but it’s best to avoid doing so.]
+
+**If you are revising an existing resource record, change the "Finding Aid Status" field to "Under Revision." Make sure to change it to "Completed" once you are done.**
+
+There are two ways to revise existing archival objects in ArchivesSpace: manually, and via the "Bulk Update Spreadsheet" plug-in option:
+
+- Manual data entry is ideal for making quick, easy edits that don’t require the spreadsheet option mentioned below. 
+- This bulk update spreadsheet is a great feature for edits that aren’t as quick and easy, such as bulk editing existing date ranges and other folder titles.
+  - Did you make the same typo on every archival component in a series? This option is for you!
+
+> Technically speaking, you can also use the "Load via Spreadsheet" option detailed above to edit existing archival objects, BUT it will create another copy, meaning you will need to delete the older, unedited archival object. DO NOT DO THIS without good reason, as doing so will break the links to any associated digital objects, top containers, etc. (A large-scale reprocessing project resulting in enhanced description and a completely different arrangement is probably a good reason. A small-scale rearragement that can be accomplished by using the <a href="https://archivesspace.atlassian.net/wiki/spaces/ArchivesSpaceUserManual/pages/894140803/Reordering+Components+in+Resource+Records+from+version+3.5.0">Enable Reorder Mode</a> feature is not). 
+
+## Manual Data Entry
+
+This option is ideal for making quick, easy edits that don't require the spreadsheet options mentioned below. Need to fix a typo or edit a date range? Then this option is for you! In edit mode, simply click on the archival object that needs editing, make your edit, and click "Save."
+
+## Bulk Update Spreadsheet
 
 # Finding Aid Publication Workflow
 
