@@ -786,12 +786,8 @@ The new archival objects are now part of the record:
 - Submit a "Blue Sheet" or "Merge Request" ticket (form is pinned to the top of the Wilson TS-Archival General channel). Laura Smith will make the changes go live.
   - Students who are not assigned to TS-Archival might not have access to this Teams channel. If this scenario applies to you, work with Dawne to submit the ticket. 
 
-
-
-
-
-
-
 # Finding Aid Checklist
+
+See <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aid%20Checklist.md">Finding Aid Checklist</a>
 
 
