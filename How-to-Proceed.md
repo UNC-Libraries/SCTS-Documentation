@@ -1,4 +1,4 @@
-Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*" for more information about this manual.
+Created July 2025 by Dawne Lucas. See "History of *How to Proceed*" for more information about the evolution of this manual.
 
 # How to Proceed: Special Collections Technical Services Archival (SCTS-Archival) Processing Manual
 
@@ -40,7 +40,8 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
   - [What You Can Do](#what-you-can-do)
 - [Finishing the Job](#finishing-the-job)
     - [Shelving](#shelving)
-    - [Detritus](#detritus) 
+    - [Discards](#discards)
+    - [Other Detritus](#other-detritus) 
 - [Additions](#additions)
 - [Appendices](#appendices)
 - [History of *How to Proceed*](#history-of-how-to-proceed)
@@ -1849,7 +1850,7 @@ else in Tech Services.
 
 Place your newly processed materials on the shelves next to the TS-Biblio vault and submit a Physical Processing Planner ticket to the stacks manager (Margaret). Consult with your supervising archivist if you do not have access to this planner. The stacks manager will barcode the materials, shelve them, and enter their locations into ArchivesSpace.
 
-## Detritus
+## Discards
 
 Some materials cannot be retained with collections; other materials should not be kept. At this point in
 your processing project, you and your supervising archivist would likely have determined if you have
@@ -1871,6 +1872,22 @@ archivist will help you dispose of these items.
 
 DO NOT UNDER ANY CIRCUMSTANCES LEAVE UNLABELED BOXES OF DISCARDS ANYWHERE IN THE WILSON LIBRARY TO BE DEALT WITH AT A LATER DATE.
 
+## Other Detritus
+
+You can accumulate a lot of trash during processing, including old folders and containers. Please dicard your trash in one of the following ways:
+
+ - Keep in TS-Archival for reuse.
+     - Archival boxes and folders that could reasonably be reused for other collections. 
+ - Take it to the surplus room.
+     - Binders, hanging folders, and other materials not needed in TS-Archival but that could reasonably be used by someone else.   
+ - Recycle it.
+     - Cardboard goes in the cardboard recycling dumpster in the loading dock area (outside the building).
+     - Other paper goes in the blue recycling bins in the loading dock area (inside the building).
+         - Do not overfill the blue recycling bins. If the bin is already 1/2 - 3/4 full, use a different bin.    
+ - Throw it away.
+     - Rusty paper clips, rubber bands, and anything else that can't be reused or recycled.  
+
+Once you've removed all of your trash, please wipe down your work area so it will be clean for the next person/processing project. 
 
 # Additions
 
@@ -1882,6 +1899,7 @@ For documentation about additions, please visit the <a href="https://github.com/
 
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Descriptive Elements</a>
+  - <a href=""https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#items-separated">Items Separated</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Photographs.md">Photographs</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md">Audiovisual Materials (including Jitterbug)</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md">Finding Aids in ArchivesSpace</a>
