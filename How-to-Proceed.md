@@ -39,6 +39,8 @@ Created July 2025 by Dawne Lucas (in progress). See "History of *How to Proceed*
   - [Conservation Workflow](#conservation-workflow)
   - [What You Can Do](#what-you-can-do)
 - [Finishing the Job](#finishing-the-job)
+    - [Shelving](#shelving)
+    - [Detritus](#detritus) 
 - [Additions](#additions)
 - [Appendices](#appendices)
 - [History of *How to Proceed*](#history-of-how-to-proceed)
@@ -1258,7 +1260,7 @@ function of the document you are producing is to tell researchers about your col
 researchers in mind, you have arranged the collection in a clear and logical fashion; now describe it in a
 similar way.
 
-### Descriptive Summary**
+### Descriptive Summary
 
 The descriptive summary contains basic identifying information--title, dates, creator, extent--and an
 abstract of the collection. The online catalog terms will also be discussed because they are so closely
@@ -1804,7 +1806,71 @@ addition. So, if the last box in the series was 29, the first box of the additio
 folders. If possible, folders and boxes that comprise an addition should include the addition name on the
 label.
 
+**Items Separated**
+
+Most of the materials in our collections are housed in standard archival folders and boxes. Some items,
+however, because of their size or other physical characteristics, cannot be housed in such containers.
+When items are separated from their collections for storage elsewhere, they are known as "items
+separated." Separating these items not only protects them, it also protects other materials in their
+collections from the damage these items might otherwise cause.
+
+In the <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/How-to-Proceed.md#separated-material">Arranging section</a>, we discussed when and why to separate pictures. To recap, preservation points
+to isolating pictures. Isolated, they are subject to far less handling than they would receive were they
+interfiled with other materials. This is particularly important in the case of fragile pictures. The main of
+the collection can also benefit from the removal of pictures, especially when the pictures are
+photographic images. All forms of photography involve chemical processes that may continue, albeit at
+very slow rates, long after the image is set. Contact with these chemicals can seriously damage
+surrounding materials. Additionally, when the day comes that we have cold storage for photographs,
+separated photographs will be easier to identify and move to a better storage climate.
+
+Papers or photographs that do not fit into legal folders without folding are typically separated from their
+collections. Medium large materials are housed 16" x 20" or 2' x 3' folders in flat, grey boxes and very
+large sheets are housed in map and print folders in map cases. Note that folding large items is often
+permissible if the item is of low artifactual value. The decision to fold, however, should be made in
+consultation with your supervising archivist. **Cutting large items down to size is not acceptable.**
+
+> Volumes that fit in legal folders are typically housed in document cases or records cartons. If they do not fit, they are separated from the collection.
+
+Finally, audiovisual materials, are separated from the collection.
+
+Note that separating items physically has little impact on how you arrange or describe them. These
+items should be listed and discussed where they belong INTELLECTUALLY in your collection.
+
+More about <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#items-separated">Items Separated</a>.
+
 # Finishing the Job 
+
+You have arranged, described, and preserved. Now it is time to pass the materials off to the stacks manager and clear
+off your work area in preparation for your next job. It is **unacceptable** to call a processing job finished
+when you still have collection parts or collection detritus on, under, or around your desk or anywhere
+else in Tech Services.
+
+## Shelving
+
+Place your newly processed materials on the shelves next to the TS-Biblio vault and submit a Physical Processing Planner ticket to the stacks manager (Margaret). Consult with your supervising archivist if you do not have access to this planner. The stacks manager will barcode the materials, shelve them, and enter their locations into ArchivesSpace.
+
+## Detritus
+
+Some materials cannot be retained with collections; other materials should not be kept. At this point in
+your processing project, you and your supervising archivist would likely have determined if you have
+materials not appropriate for retention. TS-Archival consults with curatorial units to determine how to handle discards. Do not discard any collection materials without first consulting with the appropriate curator.
+
+Donors are asked to specify in the deed of gift what they want done with materials not appropriate for
+retention with the collections they give. The choices are typically to return these items to the donor or
+for the donor to give us permission to do with them what we wish. The gift agreement should state the
+donor’s preference for disposition of discards, but if there is any uncertainty please check with your
+supervising archivist.
+
+When a collection is a gift and the donor DOES want materials back, the curator will negotiate the return of items not included with the collection to the
+donor. It is our responsibility to clearly indicate why the items are being left out of the collection, i.e.
+duplicates, student grades are present, publications unrelated to the collection, etc.
+
+University Archives materials deemed not appropriate for retention are never returned to the donating department. They
+are recycled, confidentially recycled, or transferred to another library department. Your supervising
+archivist will help you dispose of these items.
+
+DO NOT UNDER ANY CIRCUMSTANCES LEAVE UNLABELED BOXES OF DISCARDS ANYWHERE IN THE WILSON LIBRARY TO BE DEALT WITH AT A LATER DATE.
+
 
 # Additions
 
@@ -1815,6 +1881,7 @@ For documentation about additions, please visit the <a href="https://github.com/
 # Appendices
 
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Descriptive Elements</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Photographs.md">Photographs</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md">Audiovisual Materials (including Jitterbug)</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md">Finding Aids in ArchivesSpace</a>
