@@ -10,6 +10,7 @@ Updated June 2020
 - [MODS requirements](#mods-requirements)
 - [CSV to MODS (the Patrick Cullom method)](#cvs-to-mods-the-patrick-cullom-method)
 - [Putting Stuff Away](#putting-stuff-away)
+- [Born Digital Lab Documentation](#born-digital-lab-documentation)
 
 ***
 
@@ -301,4 +302,6 @@ There are currently three locations to shelve physical born-digital materials:
    
    Locations for these materials are listed in the appropriate Resource record. Please note that some of the materials found in these legacy boxes are not listed in a collection finding aid. 
 
+# Born Digital Lab Documentation
 
+   For [processing](https://adminliveunc.sharepoint.com/sites/wilsonlibdigipres?xsdata=MDV8MDJ8fDcyNDZjMTk1ZDRkNDQ0NmFjOWY5MDhkZGRiNmViOGExfDU4YjNkNTRmMTZjOTQyZDNhZjA4MWZjYWJkMDk1NjY2fDB8MHw2Mzg5MDc5OTA3NDY5NzQ3MTN8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pSbVkyUTJZbU5tTFRNd1pEUXROREF4WVMxaVlqTmlMV0psTldGaVpUWTVZekkzTlY5aU5tVTRaVGsxWlMxa09HUm1MVFExWmpJdFlUQTFOUzB5TURRNU5XUmpaakU0TW1KQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjMU5USXdNakkzTXpFNE5BPT18MTVhY2Q2ZDExMTkzNDkyNmM5ZjkwOGRkZGI2ZWI4YTF8YzU3YWQ3M2E1YWY0NDcyMmE0YTdjMDIzMGJlZWE5NmI%3D&sdata=M2Zxc2wzaGdWLzFoRzNMWXQzcW1YSkFpZ0VRSHRNNy92RlJndENzanh2VT0%3D&ovuser=58b3d54f-16c9-42d3-af08-1fcabd095666%2Cdhoward%40AD.UNC.EDU&OR=Teams-HL&CT=1755202353156&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTA3MTcxNDgxNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) born digital files.
