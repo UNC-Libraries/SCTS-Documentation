@@ -9,7 +9,8 @@ Updated July 2020
 - [Abstract](#abstract)
 - [Scope and Content Note](#scope-and-content-note)
 - [Extent](#extent)
-- [Restrictions](#restrictions)
+- [Access restrictions](#access-restrictions)
+- [Use restrictions](#use-restrictions)
 - [Languages](#languages)
 - [Biographical/historical note](#biographicalhistorical-note)
 - [Access points](#access-points)
@@ -187,20 +188,9 @@ _ENTIRELY DIGITAL COLLECTION_:
 
     Extent: 27 GB (4,825 digital files)
 
-# Restrictions
+# Access Restrictions
 #### [DACS 4.1](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/01_conditions_governing_access.html)
-### Conditions Governing Access
 In local practice, we define access as having the permission and ability to view, hear, or handle original documents or facsimiles in person and to make or receive photoduplicates for reference and research.
-
-#### [DACS 4.4](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
-### Conditions Governing Use
-In local practice, we define use as the permission to publish, broadcast, exhibit, display, or present a collection’s content and to receive photoduplicates for publication, broadcast, exhibit, display, and online presentation.
-
-This is the copyright statement we use in our finding aids:
-
-_Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law._
-
-> Note: copyright does not apply to records in University Archives, since they are public records. 
 
 ### General Guidelines for Restriction Statements
 Restriction statements provide information about any limitations imposed on a collection’s availability for reference, research, duplication, and use. Restrictions are placed on collections by the Library or by the collection’s source (typically donor, but also seller). Wilson Library’s librarians and archivists champion open access and seek to minimize restrictions. However, we do have contractual obligations to donors, and we do recognize that preservation of original documents, which are at risk for loss, sometimes does necessitate reasonable limitations on handling.  
@@ -285,15 +275,7 @@ _This collection contains materials which are closed._ In accordance with the do
 
 _This collection contains materials which are closed._ Media removed from [this container] in [month year] is closed pending curatorial review. For further information about access to these materials, contact Research and Instructional Services staff at Wilsonlibrary@unc.edu.
 
-#### Duplication and digitization
-_This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, materials in this collection will not be duplicated or digitized without permission of the donor. Requests for copies of materials in this collection are evaluated after the requestor receives the express written permission of Kenny Dalsheimer of Durham, N.C., to obtain copies.
 
-
-_This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, photoduplication and digitization of any and all materials in this collection are prohibited without the explicit written permission of the literary agent firm McIntosh & Otis, Inc. 
-Permission request form 
-Mailing Address: 207 E. 37th Street, Suite BG New York, NY 10016 
-Tel: 212.687.7400 
-Email: info@mcintoshandotis.com.
 
 #### Digital Listening/Viewing Copies (ONYEN and Campus-only streaming)
 _This collection contains digital listening or viewing copies that are accessible only on the campus of the University of North Carolina at Chapel Hill or through authentication with an ONYEN._ Access to streaming audio or moving image materials is limited to the UNC Chapel Hill campus. University affiliates who can authenticate with an ONYEN can stream from off campus. For further information about access to audio and moving image materials contact Research and Instructional Services staff at Wilsonlibrary@unc.edu
@@ -319,6 +301,28 @@ _This collection is not available for immediate or same day access._ Please cont
 #### Items not available for same day access (e.g., vault)
 _This collection contains materials that are not available for immediate or same day use._ The Library has digitized original documents in this collection that are vulnerable to theft and stored them separately. The original physical documents are not available for immediate or same day use. To access the content of the documents, researchers should use the digital facsimiles. To discuss other options, please contact staff at wilsonlibrary@unc.edu. 
 
+
+# Use Restrictions
+#### [DACS 4.4](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/04_conditions_governing_reproduction_and_use.html)
+In local practice, we define use as the permission to publish, broadcast, exhibit, display, or present a collection’s content and to receive photoduplicates for publication, broadcast, exhibit, display, and online presentation.
+
+#### Copyright
+
+With a few exceptions, this is the boilerplate copyright statement that we use in our finding aids:
+
+_Copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law._
+
+> Note: copyright does not apply to records in University Archives, since they are public records. 
+
+
+#### Duplication and digitization
+_This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, materials in this collection will not be duplicated or digitized without permission of the donor. Requests for copies of materials in this collection are evaluated after the requestor receives the express written permission of Kenny Dalsheimer of Durham, N.C., to obtain copies.
+
+_This collection has restrictions on duplication and digitization._ In accordance with the donor agreement, photoduplication and digitization of any and all materials in this collection are prohibited without the explicit written permission of the literary agent firm McIntosh & Otis, Inc. 
+Permission request form 
+Mailing Address: 207 E. 37th Street, Suite BG New York, NY 10016 
+Tel: 212.687.7400 
+Email: info@mcintoshandotis.com.
 
 # Languages
 #### [DACS 4.5.](https://saa-ts-dacs.github.io/dacs/06_part_I/05_chapter_04/05_languages_and_scripts_of_the_material.html)
