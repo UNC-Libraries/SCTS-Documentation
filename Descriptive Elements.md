@@ -68,7 +68,16 @@ Sample collection titles include:
 
 - University of North Carolina at Chapel Hill American Studies 60/Folklore 195 Photographic Projects Collection 
 
-### Series and Subseries titles
+### Series, subseries, and file titles
+
+In the past, we tended not to form titles at lower levels using the creator, nature of the archival unit, and topic segments. There are legacy finding aids that just have dates at the lower levels and are missing a title element entirely. We are working towards adding or completing titles in legacy finding aids and using the appropriate segements in lower level titles going forward. That being said, we often leave out the name segment at lower levels if it is the same as the collection creator. 
+
+Series and subseries title examples: 
+_Song Sheets and Music Subject Files_
+_Correspondence and Related Materials_
+_Other Papers_
+_Olivia Fletcher Bailey Files_
+_Lee Family Book Files_
 
 
 
