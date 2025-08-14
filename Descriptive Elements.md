@@ -35,6 +35,8 @@ Our former practice was to assign collection numbers based on collecting unit. W
 # Title 
 #### [DACS 2.3](https://saa-ts-dacs.github.io/dacs/06_part_I/03_chapter_02/03_title.html)
 
+### Collection titles
+
 The collection title contains the name of the collection creator, the nature of the archival unit, and sometimes a third topical segment.  
 
 - **Name of collection creator:** The name of the collection creator may be a personal name, family name, organization name, or the name of a collector in the case of an intentionally assembled collection. Most often, you will use the authorized form of the name in the collection title, though there are occasional exceptions for certain personal names. The authorized form of a family name will appear in the creator entry but not in the title itself. 
@@ -43,7 +45,6 @@ The collection title contains the name of the collection creator, the nature of 
 
 
 - **Topic of the archival unit:** Occasionally, we add a third segement to the title to more precisely characterize the materials being described. 
-
 
 Sample collection titles include: 
 
@@ -66,6 +67,10 @@ Sample collection titles include:
 - Anderson Blanton Collection of Oral Roberts' Broadcast 
 
 - University of North Carolina at Chapel Hill American Studies 60/Folklore 195 Photographic Projects Collection 
+
+### Series and Subseries titles
+
+
 
 
 # Date 
@@ -244,13 +249,8 @@ _This collection has items which have been noted as missing and are not accessib
 #### Redaction
 _This collection contains materials that have been redacted by the Library to protect personally identifying information such as social security numbers._
 
-#### Removed or withdrawn
-_This collection contained materials that have been permanently withdrawn._
 
-#### Original material is not owned by UNC (e.g., microfilm only; digital objects only)
-_This collection contains [microfilm/digital] copies of original physical documents that are not owned by the Library or stored in Wilson Special Collections Library._
-
-#### Collection not available for same day access (e.g., unprocessed, flashers)
+#### Collection not available for same day access (e.g., unprocessed, collection level records)
 _This collection is not available for immediate or same day access._
 
 #### Additional material (e.g., unprocessed)
