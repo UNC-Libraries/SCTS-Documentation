@@ -193,9 +193,7 @@ _ENTIRELY DIGITAL COLLECTION_:
 In local practice, we define access as having the permission and ability to view, hear, or handle original documents or facsimiles in person and to make or receive photoduplicates for reference and research.
 
 ### General Guidelines for Restriction Statements
-Restriction statements provide information about any limitations imposed on a collection’s availability for reference, research, duplication, and use. Restrictions are placed on collections by the Library or by the collection’s source (typically donor, but also seller). Wilson Library’s librarians and archivists champion open access and seek to minimize restrictions. However, we do have contractual obligations to donors, and we do recognize that preservation of original documents, which are at risk for loss, sometimes does necessitate reasonable limitations on handling.  
-
-We record restrictions to access and restrictions to use in the finding aid in order to alert users and library staff to the limitations on a collection’s availability for reference, research, duplication, and use and to provide information about options they may have now or in the future to access and use a collection’s content.
+Restrictions are placed on collections by the collection’s source (typically donor, but also seller) and occassionally by the Library. Wilson Library’s librarians and archivists champion open access and seek to minimize restrictions. We do recognize that preservation of original documents, which are at risk for loss, sometimes does necessitate reasonable limitations on handling.  
 
 Restriction statements should be clear and concise and should indicate all of the following: 
 
