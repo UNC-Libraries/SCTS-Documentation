@@ -1854,7 +1854,7 @@ Place your newly processed materials on the shelves next to the TS-Biblio vault 
 
 Some materials cannot be retained with collections; other materials should not be kept. At this point in
 your processing project, you and your supervising archivist would likely have determined if you have
-materials not appropriate for retention. TS-Archival consults with curatorial units to determine how to handle discards. Do not discard any collection materials without first consulting with the appropriate curator.
+materials not appropriate for retention. TS-Archival consults with curatorial units to determine how to handle discards. 
 
 Donors are asked to specify in the deed of gift what they want done with materials not appropriate for
 retention with the collections they give. The choices are typically to return these items to the donor or
