@@ -1,23 +1,46 @@
-Updated June 2020
+Updated August 2025 by Dawne Lucas
 
 # Overview
 
-- [Acquisition Information](#acquisition-information)
 - [Dates](#dates)
 - [Extent](#extent)
-- [Items Separated](#items-separated)
-- [Processing and Revision Notes](#processing-and-revision-notes)
-- [Restrictions](#restrictions)
-- [Abstract](#abstract)
-- [Subject Headings](#subject-headings)
+- [Notes](#notes)
+    - [Acquisitions Information](#acquisitions-information)
+    - [Processing Note and Revision Statements](#processing-note-and-revision-statements)
+    - [Restrictions](#restrictions)
+    - [Separated Materials](#separated-materials)
+    - [Abstract](#abstract)
+- [Agent and Subject Headings](#agent-and-subject-headings)
+- [Finding Aid Status](#finding-aid-status)
+- [Publish Checkboxes](#publish-checkboxes)
 - [Capitalization and Punctuation](#capitalization-and-punctuation)
 - [People and Place Names](#people-and-place-names)
 - [Spell check](#spell-check)
-- [Transformation and Review](#transformation-and-review)
+- [Preview](#preview)
+- [Ticketing](#ticketing) 
+
+
 
 ***
+# Dates
 
-# Acquisition Information
+<a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#dates">ArchivesSpace documentation</a>
+
+- Date ranges cover entire collection, series, etc.
+- Formatted day month year: **3 June 1969**
+
+# Extent
+
+<a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#extents">ArchivesSpace documentation</a>
+
+- Check the math across series to ensure that extents add up. Rounding up or down is okay. 
+- For additions: add addition extent to collection level extent. 
+   
+# Notes
+
+## Acquisitions Information
+
+<a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#acquisitions-information">ArchivesSpace documentation</a>
 
 - Include all accession numbers for processed materials at the collection level. 
 
@@ -25,64 +48,26 @@ Updated June 2020
 
   - Other: **Received from donor name in month year (Acc. number).**
 
-- For additions: Also include RT and Acc. Numbers in Acquisitions Info tags at the series, file, or container levels, using the label “Acquisitions Information.” 
+- Remember to add this note to <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md#acquisitions">additions</a>! 
 
-`<acqinfo><p>Acquisitions Information: Accession 20200617.1</p></acqinfo>`
 
-# Dates
+## Processing Note and Revision Statements
 
-- Date ranges cover entire collection, series, etc.  
+### Processing Note
 
-- Make collection dates consistent in the following tags: 
-
-```
-<titlestmt> <titleproper encodinganalog="title"> 
-
-<frontmatter> <titlepage> <titleproper> 
-
-<unittitle label="Title" encodinganalog="245"> 
-```
-
-- Formatted day month year: **3 June 1969**
-
-# Extent
-
-- Round numbers or remove the word “approximately”: **approximately 50** OR **52 items**
-
-- Check the math across series to ensure that extents add up. Rounding up or down is okay. 
-
-- For additions: add addition extent to collection level extent. 
-
-# Items Separated
-
-- Include all materials housed separately in the stacks and stored digitally. 
-
-- For additions: Check existing numbering to make sure you start with the correct number. 
-
-  - **Audiocassettes (C-05700/1-84)**
-  - **Image Folders (PF-05723/1-/376)**
-  - **Photograph Albums (PA-00613/1-19)**
-  - **Oversize paper folders (XOPF-3824/1, OPF-3824/2-3)**
-  - **Digital folders (DF-40283/1-20)**
-
-# Processing and Revision Notes
-
-- Update when making revisions to existing finding aids. In the revision note, also record the last folder/format numbers used: 
-
-```
-<revisiondesc>
-<change>
-<date></date>
-<item>Updated for addition of DATE (Acc. XXXXXX) by NAME</item>
-</change>
-<revisiondesc> 
-```
-
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#processing-information">ArchivesSpace documentation</a>
 - See boiler plate processing statements in [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information).
+- Rememeber to update this note when adding [additions](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md#adding-revision-statements-to-processinfo-in-archdesc). 
 
-```<processinfo></processinfo> (viewable to public)```
+### Revision Statements
 
-# Restrictions
+- Create a new Revision Statement when making revisions to existing finding aids, including [additions](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Additions.md#adding-revision-statements-to-revisiondesc-in-the-eadheader).
+- <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#revision-statements">ArchivesSpace documentation</a>
+
+
+## Restrictions
+
+- [ArchivesSpace documentation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#restrictions-to-access)
 
 - Check control files and ArchivesSpace. 
 
@@ -94,8 +79,23 @@ Updated June 2020
 
 - Restrictions to Access statement for A/V: **Use of audio or moving image materials may require production of listening or viewing copies.**
 
+## Separated Materials
 
-# Abstract
+<a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#separated-materials">ArchivesSpace documentation</a>
+
+- Include all materials housed separately in the stacks and stored digitally. 
+
+- For additions: Check existing numbering to make sure you start with the correct number. 
+
+  - **Audiocassettes (C-05700/1-84)**
+  - **Image Folders (PF-05723/1-/376)**
+  - **Photograph Albums (PA-00613/1-19)**
+  - **Oversize paper folders (XOPF-3824/1, OPF-3824/2-3)**
+  - **Digital folders (DF-40283/1-20)**
+
+## Abstract
+
+- [ArchivesSpace documenation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#abstract)
 
 - Include contextual information in the first sentence of the 520 abstract, as appropriate. 
 
@@ -105,15 +105,25 @@ Updated June 2020
 
 - Conscious editing: When appropriate, re-frame the abstract narrative to surface and emphasize the lives of those historically left out of our description. Consult [Principles for Ethical Description](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Principles%20for%20Ethical%20Description%20in%20Special%20Collections%20Technical%20Services.md), [Style Guide](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Style%20Guide.md#abstracts-collection-overview-bioghist-notes), and [Descriptive Elements](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract) for further information. 
 
-# Subject Headings
+# Agent and Subject Headings
 
-- Be sure to include a heading for the creator
+- [ArchivesSpace documentation](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#agent-links)
+
+- Be sure to include a heading for the creator. If the creator is also a subject, make sure to link the name twice (once as a creator and once as a subject).
 
 - End with a period, with at least two exceptions: 
 
   - Open-ended dates, e.g., **Davis, Angela Y. (Angela Yvonne), 1944-** 
 
   - Information in parentheses, e.g., **Guitar music (Blues)**
+ 
+# Finding Aid Status
+
+Make sure the finding aid status is set to "Completed."
+
+# Publish Checkboxes
+
+Make sure "Publish?" checkboxes are checked as appropriate (this is the first thing you should check if you can't see information when you preview your finding aid).
 
 # Capitalization and Punctuation
 
@@ -150,10 +160,15 @@ Updated June 2020
 
 # Spell check
 
-Run it over your whole XML document.
+Unfortunately, there isn't a spell check function in ArchivesSpace. You might want to paste notes into another program to check spelling.
 
-# Transformation Review
+# Preview
 
-Take one last look at the HTML document to make sure you do not have any special characters interrupting the display. See Special Characters in [EAD](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/EAD.md#special-characters) for help.
+Use pipette-qa (https://finding-aids-qa.lib.unc.edu/) to preview your finding aid before making it go live.
 
-**This Finding Aid Checklist was modified from [Checklist Mock-up](https://adminliveunc-my.sharepoint.com/personal/ljcb_ad_unc_edu/Documents/Checklist%20Mockup.docx) in June 2020.**
+[How to use Pipette](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#finding-aid-publication-workflow)
+
+# Ticketing
+
+[Submitting blue sheets and merge requests]{https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Ticketing.md#blue-sheets-and-merge-requests)
+
