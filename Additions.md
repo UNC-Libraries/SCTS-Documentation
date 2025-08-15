@@ -1,5 +1,10 @@
 Updated August 2025
 
+# Additions
+
+These are instructions for adding materials to existing collections that have already been processed and described.
+
+
 # Overview
 
 - [Arrangement](#arrangement)
@@ -103,28 +108,28 @@ See [Processing Information](https://github.com/UNC-Libraries/SCTS-Documentation
 
 When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive [processing info statements](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#processing-information) that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
 
+If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers that they will need to look in the collection's additions to find all the materials of interest. 
+
+- **Example:** Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
+
 ## Other parts of the finding aid that may or may not require updates:
 
-[Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
+- [Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-- Don’t miss the collection level fields (and the series level) when editing date information:
+  - Don’t miss the collection level fields (and the series level) when editing date information:
     - [Finding Aid Title](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#finding-aid-data)
     - [Title](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#basic-information)
     
   
-[Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
+- [Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
 
-[Abstract and Collection Overview](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the [Processing Information note](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#processing-information).
+- [Abstract](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement to the [Processing Information note](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#processing-information).
   
-[Scope and Content Note](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#scope-and-content): This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description.
+- [Scope and Content Note](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#scope-and-content): This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description.
 
-[Acquisitions Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#acquisition): Information should be updated to include the donor, date, and accession information.
+- [Acquisitions Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#acquisition): Information should be updated to include the donor, date, and accession information.
 
-If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
-
-Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
-
-[Restriction](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#restrictions): Add or remove restrictions as needed. Be sure to add or remove the restriction at every level: collection, series, and container.
+- [Restrictions](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#restrictions): Add or remove restrictions as needed. Be sure to add or remove the restriction at every level: collection, series, and container.
 
 ## Series-level information:
 
@@ -137,13 +142,13 @@ When you add your new series, whether integrated intellectually or appended to t
     - linear feet and/or items / gigabytes and/or digital files
 
 - **Arrangement Note**
-    - If the archivist imposed any arrangement, put that information in a processing note
+    - If the archivist imposed any arrangement, put that information in an arrangement note
     - Most likely you are just rehousing into archival boxes
         - **Example:** As received.
 
 - **Acquisitions Information Note**
     - Include all accession numbers at the series level.
-    - **Example:** Accession 20200124.2</p></acqinfo>
+    - **Example:** Accession 20200124.2
     
 - **Processing Note**
 
@@ -154,18 +159,7 @@ appraised out of the addition.
 
 - **Scope and Content Note**
 
-Probably this will be same brief description
-as you added to the collection-level Scope and Content note.
-
-### Container list
-```
-<c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle>
-</did></c02></c01>
-
-<c02><did><container type=”digfolder”><extref href=”lettersandnumbers”>DF-90999/1</extref>
-</container><unittitle>Papers, 1990-2000</unittitle></did></c02>
-</c01>
-```
+This will probably be same brief description as you added to the collection-level Scope and Content note.
 
 # Other Unusual Situations
 
@@ -175,15 +169,11 @@ Occasionally it makes sense to drop a single item or two in with the original de
 
 In the finding aid:
 
-You still have to record the edits in a Revision Statement, and update the acquisitions information at the collection level. Because we do drop-ins only for items with low anticipated research value, it is less likely that you will need to amend title, collection dates, extent, and abstract. Of course you should make those changes as needed.
+You still have to record the edits in a **Revision Statement**, and update the acquisitions information at the collection level. Because we do drop-ins only for items with low anticipated research value, it is less likely that you will need to amend title, collection dates, extent, and abstract. Of course you should make those changes as needed.
 
-Also add an `<acqinfo>` statement at the container level:
+Also add an **Acquisitions Information Note** at the container level.
 
-```
-<c02><did><container type=”folder”>100</container><unittitle>
-Correspondence, 1865</unittitle></did><acqinfo><p>Acquisitions Information: 
-Letter, 10 April 1865, was received as Accession 109832</p></acqinfo></c02>
-```
+- **Example:** Letter, 10 April 1865, was received as Accession 109832
 
 > Note: drop-ins are not an option for collections/containers that have been microfilmed or digitized.
 
@@ -191,22 +181,16 @@ Letter, 10 April 1865, was received as Accession 109832</p></acqinfo></c02>
 
 Similarly, it occasionally makes sense to integrate a single folder into the original deposit rather than to create a new series. Unlike drop-ins, this addition likely will be filed physically at the end of the collection but will be listed with the original deposit where it fits intellectually. 
 
-Write "Addition of ___" and the accession number on the folder.
+- Write "Addition of ___" and the accession number on the folder.
 
-In the finding aid, add an `<acqinfo>` statement at the container level:
+In the finding aid, add an **Acquisitions Information** statement at the container level.
 
-```
-<c02><did><container type=”audiotape”>F-20025/934</container><unittitle>
-Bluegrass performance, 1978</unittitle></did><acqinfo><p>Acquisitions Information: 
-Accession 109832</p></acqinfo></c02>
-```
+- **Example:** Accession 109832
 
 And at the series level:
 
-```
-<acqinfo><p>Acquisitions Information: F-20025/934 received as Addition 
-of October 2016 (Acc. 102664).</p></acqinfo>
-```
+- **Example:** F-20025/934 received as Addition of October 2016 (Acc. 102664).</p></acqinfo>
+
 
 Sometimes not all the materials in the addition will be made usable at the same time, especially when there are born digital materials. Be sure to add one of the Access Restriction statements if that is the case. 
 
