@@ -89,121 +89,74 @@ This section deals with revisions to finding aids that have already been publish
 
 The "Revision Statements" field is where ArchivesSpace keeps track of revisions. However, the information coded in the "Revision Statements" field doesn't show up in Archy.* Therefore, to track revision information and to make the same information visible on the screen, you must enter the information in both the "Revision Statements" field and in a "Processing Information Note." In both places, how you enter the information is determined by whether or not you're the first one in with a revision.
 
-*You'll notice that this field includes a "Publish?" button, suggesting that it could show up in Archy, but we're intentionally preventing information in that field from appearing even if the "Publish?" box is checked. Here's why: In EAD, we encoded revision information in the <revisiondesc> field, which didn't appear to the public. Since it didn't appear to the public, information recodrded in that field often read as internal-only notes. Since cleaning up the language in these notes isn't a priority, we have chosen not to publish any of them. **However, filling out this field is still very important and should not be overlooked.**
+*You'll notice that this field includes a "Publish?" button, suggesting that it could show up in Archy, but we're intentionally preventing information in that field from appearing even if the "Publish?" box is checked. Here's why: In EAD, we encoded revision information in the <revisiondesc> field, which didn't appear to the public. Since it didn't appear to the public, information recorded in that field often read as internal-only notes. Since cleaning up the language in these notes isn't a priority, we have chosen not to publish any of them. **However, filling out this field is still very important and should not be overlooked.**
 
-## Adding revision statements to `<revisiondesc>` in the `<eadheader>`:
+## Adding Revision Statements:
 
-If you're revising an EAD-encoded finding aid that was written in the 2000s and later, the `<revisiondesc>` tags for entering revision information in the `<eadheader>` should be the first commented-out area you encounter:
+See [Revision Statements](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#revision-statements)
 
-```
-<!--OPTIONAL TAG: use only if revising EAD-encoded finding aid. 
-<revisiondesc><change><date>Date of change</date><item>
-Updated because of ?</item></change></revisiondesc>-->
-```
+## Updating Processing Information:
 
-If you're making the first revision to an EAD-encoded finding aid that was written in the 1990s-early 2000s, you may have to add the `<revisiondesc>` tags after `</profiledesc>` and before `</eadheader>`:
+For minor additions, you may just be adding another name and date to the processing information already there.
 
-```
-</profiledesc><revisiondesc><change><date>May 2020</date>
-<item>Updated because of addition (Acc. 20200224.1) 
-by Nancy Kaiser</item></change></revisiondesc> </eadheader>
-```
+See [Processing Information](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#processing-information)
 
-If yours is NOT the finding aid's first revision (there's already a `<revisiondesc>` section, just add a new set of <change> tags:
-
-```
-<change><date>February 2020</date><item>Updated for addition 
-(Acc. 20200110.4) by Nancy Kaiser</item></change>
-```
-
-## Adding revision statements to `<processinfo>` in `<archdesc>`:
-
-We are committed to transparency so you'll also need to add revision information to <archdesc> so that it will display in the finding aid. For minor additions, you may just be adding another name and date to the processing information already there.
-
-```
-<processinfo><head>Processing Information</head>
-<p>Processed by: Nancy Kaiser, January 2010</p>
-<p>Encoded by: Nancy Kaiser, January 2010</p>
-<p>Revisions by: Anne Wells, April 2017; 
-Patrick Cullom, January 2020; (your name, date).</p>
-</processinfo>
-```
-
-When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive processing info statements <link> that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
+When multiple people are involved in preparing a collection for discovery and use, it will be appropriate to use our more inclusive [processing info statements](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Descriptive%20Elements.md#processing-information) that acknowledge the expertise brought to bear by our collecting and format specialist colleagues. 
 
 ## Other parts of the finding aid that may or may not require updates:
 
 [Title and Date](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#title-and-date): Sometimes you will change a title from something narrow like Roslyn P. Holdzkom Diaries, to Roslyn P. Holdzkom Papers because the addition included other formats besides diaries.
 
-> Note: Don’t miss any of the 3 collection level places and the series level when editing date information.
-```
-<titlestmt> <titleproper encodinganalog="title">
-
-<frontmatter> <titlepage> <titleproper>
-
-<unittitle label="Title" encodinganalog="245">
-```
+- Don’t miss the collection level fields (and the series level) when editing date information:
+    - [Finding Aid Title](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#finding-aid-data)
+    - [Title](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#basic-information)
+    
   
 [Extent](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#extent): This will almost certainly change. 
 
-[Abstract and Collection Overview](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, 1) check to see if 545 tag is in use. If so, move content from the 545 to the 520 tags and then delete the 545; and 2) check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the <processinfo>.
+[Abstract and Collection Overview](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#scope-and-content-note-and-abstract): You may or may not need to edit this. If nothing else, check to be sure racial and ethnic identity have been updated. If you are adding identity information, be sure to add the identity statement <link> to the [Processing Information note](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#processing-information).
   
-Collection overview: This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description.
+[Scope and Content Note](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md#scope-and-content): This will change, even if the abstract does not. Typically you will add a sentence or two that begins with “The Addition of May 2020 consists of ….” You can use the same description in the series description.
 
-[Acquisition](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#acquisition): Information should be updated to include the donor, date, and accession information.
+[Acquisitions Information](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#acquisition): Information should be updated to include the donor, date, and accession information.
 
 If you have a separately maintained addition that has been appended to the end with little description, it’s good practice to warn researchers in the collection overview that they will need to look in the collection's additions to find all the materials of interest. 
+
 Example: Additions received after 1979 have not been integrated into the original deposit. Researchers should always check additions to be sure they have identified all files of interest to them.
 
 [Restriction](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#restrictions): Add or remove restrictions as needed. Be sure to add or remove the restriction at every level: collection, series, and container.
 
-## Between the `<dsc>`:
+## Series-level information:
 
-When you add your new series, whether integrated intellectually or appended to the end, it should look like this:
+When you add your new series, whether integrated intellectually or appended to the end, make sure to include the following:
 
-### Title, inclusive dates, (Addition of ____).
-```
-<c01 level="series"><did><unittitle>Papers and Digital Files, <unitdate 
-normal="1990/2000" type="inclusive">1990-2000</unitdate> (Addition of January 2020).
-</unittitle>
-```
-### Extent: linear feet and/or items / gigabytes and/or digital files
-```
-<physdesc><extent>1.0 linear feet (1000 paper items) / 1 gigabyte (17 digital files).</extent>
-</physdesc><did>
-```
-### Arrangement: if archivist imposed any arrangement, put that information in a processing note
+- **Title**
+    - Use this format: Title, inclusive dates, (Addition of ____).
 
-Most likely you are just rehousing into 
-archival boxes
-```
-<arrangement><p>Arrangement: as received.</p></arrangement>
-```
-### Acquisitions
+- **Extent**
+    - linear feet and/or items / gigabytes and/or digital files
 
-Include all accession numbers at the series level.
-```
-<acqinfo><p>Acquisitions Information: Accession 20200124.2</p></acqinfo>
-```
-### Processing Note
+- **Arrangement Note**
+    - If the archivist imposed any arrangement, put that information in a processing note
+    - Most likely you are just rehousing into archival boxes
+        - **Example:** As received.
+
+- **Acquisitions Information Note**
+    - Include all accession numbers at the series level.
+    - **Example:** Accession 20200124.2</p></acqinfo>
+    
+- **Processing Note**
 
 Sometimes we want to communicate to researchers 
 that we really do not know what is in the addition we are making available for use. 
-Be sure to use one of the boilerplate notes for [first pass processing](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information). This is also where 
-you will note any archivist interventions, such as arrangement imposed or materials 
+If applicable, be sure to use one of the boilerplate notes for [first pass processing](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/master/Descriptive%20Elements.md#processing-information). This is also where you will note any archivist interventions, such as arrangement imposed or materials 
 appraised out of the addition.
-```
-<processinfo><p>Processing Note: </p></processinfo>
-```
-### Scope and Content
+
+- **Scope and Content Note**
 
 Probably this will be same brief description
-as you added to the Collection Overview
-Probably this will be same brief description
-as you added to the Collection Overview
-```
-<scopecontent><p>Overview of the addition.</p></scopecontent>
-```
+as you added to the collection-level Scope and Content note.
+
 ### Container list
 ```
 <c02><did><container type=”box”>19</container><unittitle>Papers, 1990-2000</unittitle>
@@ -222,7 +175,7 @@ Occasionally it makes sense to drop a single item or two in with the original de
 
 In the finding aid:
 
-You still have to record the edits in the <revision> section, and to update the acquisitions information at the collection level. Because we do drop-ins only for items with low anticipated research value, it is less likely that you will need to amend title, collection dates, extent, and abstract. Of course you should make those changes as needed.
+You still have to record the edits in a Revision Statement, and update the acquisitions information at the collection level. Because we do drop-ins only for items with low anticipated research value, it is less likely that you will need to amend title, collection dates, extent, and abstract. Of course you should make those changes as needed.
 
 Also add an `<acqinfo>` statement at the container level:
 
