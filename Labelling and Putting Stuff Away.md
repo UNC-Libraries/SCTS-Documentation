@@ -1,287 +1,14 @@
-<!-- Updated July 2019 -->
+Updated August 2025
 
 # Overview
 
-- [Linking to locations in ArchivesSpace](#linking-locations-in-archivesspace)
 - [Labels](#labels)
+- [Barcodes](#barcodes)
 - [Items Separated](#items-separated)
+- [Linking to locations in ArchivesSpace](#linking-to-locations-in-archivesspace)
+
 
 ***
-
-# Linking to locations in ArchivesSpace
-
-_This section is in the process of undergoing extenstive revisions by Dawne Howard Lucas, November 2024. Revisions are not yet complete! Let Dawne know if you need assistance._
-
-## Why keep track of locations?
-
-In brief, recording locations allows staff--especially Research and Instructional Services staff--to locate collection materials in the stacks when patrons request them. Because collections are not shelved alphabetically or in call number order, it is impossible to browse for most material in the stacks. Using the locations table is the only way to find most materials in the stacks. 
-
-## Formats and Additions
-
-Many collections contain material in several different formats--folders of paper, photographs, oversize materials, audiotapes, videotapes, film, etc. Generally, each format is shelved in a different location in the stacks to maximize shelf space and to aid in preservation. Sometimes additions to collections are also housed apart from the original deposit even if they contain the same type or format of materials. Because additions are often acquired over many years, they are usually shelved wherever shelf space is currently available. 
-
-With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in ArchivesSpace! 
-
-
-
-
-<!-- It works best if you open Access first, and from Access open the Location Database. -->
-
-<!-- The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored -->
-
-<!-- ## Deciphering the Database
-
-<!-- With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. -->
-
-<!-- Each database field is described in detail below, including the purpose of each field, the type of information it should contain, and the way you should format data in each column. As you will see, some fields are more complicated than others. All of these column names use terminology from the Archivists' Toolkit, sometimes this is confusing. -->
-
-<!-- For materials in records cartons or document cases, each box is tracked in a separate row in the database. Yes, this is a lot of data entry. -->
-
-<!-- ## Resource ID -->
-
-<!-- The Resource ID column records the collection or record group number as a 5-digit number. (Add enough zeroes to make it 5 digits: 00234, for example.) You will enter the collection number for your collection every time you create a record (row) in the database. The Resource ID field can be sorted numerically to group all entries for a single collection together. This is helpful when you want to see all of the materials and formats for a collection together in one place. -->
-
-<!-- ##  A note on H1 and H2 -->
-
-<!-- This system is based on the idea of having numbered folders in numbered boxes, but can be adapted to most any of our locations situations. -->
-
-<!-- H1 stands for Hierarchy 1. H1 represents the container that is NOT listed in the finding aid. In the H1 columns, we record the information about the boxes in the box/folder scenario presented above. If you only have boxes and no folder numbers, you will record the information about the boxes to the H2 columns and record "Blank" in the H1 columns. -->
-
-<!-- The H2 or Hierarchy 2 columns record information about whatever container is listed in the finding aid. We typically record folder numbers in the finding aid, but not the numbers of the boxes that they live in. Information about the folders would go in the H2 columns. -->
-
-<!-- The H2 fields are never blank. If, for example, there are box numbers in the finding aid, record information about the boxes in H2 and leave the H1 columns blank. -->
-
-<!-- ### H1_Label -->
-
-<!-- The H1_Label column is for the container type (document case, record carton, oversize box, etc). If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. These values are constrained to a list. If you need to add a new label, see Jackie. -->
-
-<!-- ### H1_Value -->
-
-<!-- The H1_Value column records the container number. It will never be a span. Each container gets its own row in the database! If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. -->
-
-<!-- ### H2_Label -->
-
-<!-- The H2_Label column records the container type of whatever container is listed in the finding aid. This column will never be blank. These values are constrained to a list. If you need to add a new label, see Jackie. -->
-
-<!-- ### H2_Value_1 and H2_Value_2 -->
-
-<!-- These columns designate the range of container numbers. It will ALWAYS be a span--even if there is only one folder or box. Simply repeat the number in both columns. -->
-
-<!-- If your H2 label is a records box or document case, only record one box per line. DO NOT record a span of record boxes of 1 to 2. The span will be 1 to 1 in one line, and then 2 to 2 in the next line, and so on. -->
-
-## A note on the set-up of the Wilson Stacks
-
-The stacks are divided into color zones and lettered sections within those zones. Each row of shelves is identified by a color, a section letter and a range number. For example, Red U.11. Further, each row of shelves has two sides (side a and side b) and each individual shelf is numbered in sequence. Using the example above, a location might be Red U.11 a.2 (in other words the "a" side of "Row 11" and the second shelf on that side). Most shelves have identifying labels. If you shelve materials on a shelf without a label, find the nearest shelf with a label (usually the top shelf, or a shelf at the end of the range) and count up to your shelf number. This shelf numbering scheme will make more sense when you shelve your first collection. 
-
-To remember the layout of the building better, think of Wilson Library as a sandwich, ’29, ’52 and ’77. The parts of the building that were built in 1929 and 1977 act as the “bread” and the part of the building built in 1952 is the fixings in the middle. 
-
-| **1929**             | 1952     | 1977       | 
-| ---------------| ------------| --------------------- | 
-| 3. Sepia  | 3. Green          | 3. N/A      |
-| 4. Pink B | 4. N/A | 4. N/A |
-| 5. N/A  | 5. N/A          | 5. Purple      |
-| 6. Pink A  | 6. N/A          | 6. Black      |
-| 7. N/A  | 7. N/A          | 7. Teal      |
-| 9. Blue  | 9. Blue          | 9. Yellow      |
-| 10. Orange  | 10. Orange          | 10. Red      |
-
-
-It's always a good idea to take a pencil and notepaper into the stacks when shelving collections, or bring a phone to take pictures of the boxes you are shelving. 
-
-### Building
-
-For the time being, assume that all of the collections you'll be dealing with will be stored in Wilson, although we do have some collections stored at the Library Service Center (LSC) in Durham.
-
-### Floor
-
-Which floor is the container on? Typically 3, 5, 6, 7, 9 or 10. 
-
-### Room
-
-The color zone indicated by signage in the room: Red, Orange, Blue, Yellow, Purple, Black, Pink, Sepia, or Green. 
-
-### Area
-
-This column will be an uppercase letter from A-Z, describing an area within the color zone. Check the sign on the end of range to find the area. 
-
-### Coordinate range
-
-This will be a number describing a range within an area. Check the sign on the end of range to find the coordinate range number. 
-
-### Coordinate side
-
-This will be either a lowercase a or b, describing which side of the range the shelf is on. 
-
-### Coordinate shelf
-
-This is a number describing which shelf the container/item is on. 
-
-## Accessing ArchivesSpace
-
-To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password. 
-
-## Linking to location information
-
-Let's say you are in charge of shelving Document Case 2 of the Howard W. Ketner Papers (#05774). Once the box is safely on the shelf, you will link it to its location using "Manage Top Containers."
-
-"What's a top container?," you might ask. Top containers typically refer to pageable units, such as record cartons, document cases, image boxes, or oversize boxes. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotapes and films.
-
-
-![image](https://github.com/user-attachments/assets/5391a489-b4e1-4336-b206-c9309c0b3dd9)
-
-
-Click on the gear wheel on the top right hand portion of the screen and select "Manage Top Containers" from the drop menu. 
-
-
-![image](https://github.com/user-attachments/assets/daabfa70-4d34-4ede-b9e5-d629bc133230)
-
-Type the collection number (05774) in the "Resource" field and click on the search button. Doing so will return a list of all of the top containers associated with this collection.
-
-![image](https://github.com/user-attachments/assets/70dc358d-16fa-4b78-a30c-50467460a336)
-
-Scroll down and click on the check box for Document Case 2.
-> Note: In this example, we are adding a location to one top container. If you needed to add locations to multiple top containers within the same collection, you would check multiple boxes.
-
-<!-- Enter updated screenshot here -->
-Click on the "Bulk Operations" button in the bottom right corner, and then select "Update Locations: Single Location."
-> NOTE: If you are adding locations to multiple boxes with multiple locations, you can use "Update Locations: Multiple Locations."
-
-<!-- Enter updated screenshot here -->
-
-_Usually_, you can start typing the location in the "Location" box and the location will appear as an option. In this example, the location is Teal G8a5. Select the location and click the "Update" button (the update button will indicate how many records you are updating).
-> NOTE: The "Update" button will indicate how many top containers you are updating. Since we are updating one top container in this example, the button says "Update 1 records."
-
-<!-- Enter updated screenshot here -->
-
-If typing the location in doesn't bring up the correct location, you will have to browse for it by clicking on the arrow to the right of the "Location" box and selecting "Browse." Filter and/or facet until you find the correct location, and click on the "Link" button in the bottom left corner. The location will now appear in the "Location" box. Click the "Update" button to save the record. 
-> NOTE: The "Update" button will indicate how many top containers you are updating. Since we are updating one top container in this example, the button says "Update 1 records."
-
-If you still can't find the correct location, contact Dawne!
-
-<!-- 
-
-You will see the following form:
-
-![add_container_instance_form](https://user-images.githubusercontent.com/62356141/81591299-360fda80-938a-11ea-98c8-23e7a184ae04.png)
-
-### Type
-
-There's a lot of options to choose from, but for right now, always select the first option, "Mixed Materials." 
-
-![mixed_materials](https://user-images.githubusercontent.com/62356141/81591815-01505300-938b-11ea-8c88-bee88e04366c.png)
-
-### Top Container
-
-Top containers typically refer to pageable units, such as record cartons or document cases. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotape, SFC Audio Open Reel, and film.
-
-For those entering top containers for audiovisual materials, please note that there are distinct top container types for select Southern Folklife Collection audiovisual materials. These include: SFC Audio Open Reel, SFC Audiocassette box, SFC videotape box, SFC Digital Audiotape box, SFC Transcription disc box, FC Instantaneous disc box, SFC LP disc box, SFC 45-rpm disc box, SFC 78-rpm disc box, SFC 8-Track box, and SFC Minidisc box. 
-
-#### To select an existing top container (such as a shared oversize box or videotape box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
-
-![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
-
-Use the "Keyword" search box to enter the top container information, then scroll down and click the "Search" button (not pictured here).
-
-![browse_top_containers](https://user-images.githubusercontent.com/62356141/81593400-660cad00-938d-11ea-90df-2ad36f40ecbb.png)
-
-Now select the box and click "Link to Top Containers."
-![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
-
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
-![os_with_subcontainer](https://user-images.githubusercontent.com/62356141/81601208-96a61400-9398-11ea-8d7b-8d2ead7a7fdc.png)
-That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
--->
-
-<!-- Can reuse these instructions for adding to accession records? 
-
-#### To create a new top container, select the "Create" option instead of the browse option. 
-
-![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
-
-You will now see the "Create Top Container" screen. 
-
-![create_top_container](https://user-images.githubusercontent.com/62356141/81596233-b980fa00-9391-11ea-898c-2ca8e10b6fc3.png)
-
-Select the correct container type from the container type drop menu. The most commonly used container types appear at the top of the menu. Again, for those entering top containers for audiovisual materials, please note that there are distinct top container types for select Southern Folklife Collection audiovisual materials. These include: SFC Audio Open Reel, SFC Audiocassette box, SFC videotape box, SFC Digital Audiotape box, SFC Transcription disc box, FC Instantaneous disc box, SFC LP disc box, SFC 45-rpm disc box, SFC 78-rpm disc box, SFC 8-Track box, and SFC Minidisc box. 
-
-![create_top_container_record_carton](https://user-images.githubusercontent.com/62356141/81598696-b7b93580-9395-11ea-9b69-80f8a200f2c1.png)
-
-Once you've selected the correct container type, type the container number in the "Indicator" field, then click on "Add Location."
-![create_top_container_record_carton_9](https://user-images.githubusercontent.com/62356141/81598706-b982f900-9395-11ea-9cd4-4edea1e0e7a9.png)
-Scroll down to the "Location" drop menu and select "Browse."
-
-![location_browse_option](https://user-images.githubusercontent.com/62356141/81603318-21d4d900-939c-11ea-8c79-616428569d78.png)
-
-
-
-
-
-
-You will now see a list of all shelf locations. 
-
-![browse_locations_all](https://user-images.githubusercontent.com/62356141/81603177-eb975980-939b-11ea-97af-383445a704c6.png)
-
-Use the facets or "Filter by Text" box to find the correct shelf, then click on "Link to Locations."
-
-![browse_locations_selected](https://user-images.githubusercontent.com/62356141/81603181-edf9b380-939b-11ea-965f-443ca854d2d5.png)
-
-The location will now appear in the "Location" field. "Create and Link to Top Container."
-
-![location_linked](https://user-images.githubusercontent.com/62356141/81603213-ffdb5680-939b-11ea-9265-33f1bfe1e43a.png)
-
-If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
-![with_folders](https://user-images.githubusercontent.com/62356141/81601250-9c9bf500-9398-11ea-888d-1209650021b4.png)
-
-That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
-
--->
-<!-- ## ID number -->
-
-<!-- The ID number is automatically generated every time you add a record to the database. The number exists only to ensure that each row has a unique identifier in the database. This field can be sorted in order to track the order in which records have been entered into the database. -->
-
-<!-- Example: Doug and Hazel Storer Collection #5231 (with liberal changes, for example purposes) -->
-
-<!-- The sample table below is a snapshot of the (modified, for example purposes) database entries for one collection (Doug and Hazel Storer Collection #5231). Notice that this particular collection contains several different formats of material--folders, images, oversize papers, videotapes, etc. This collection contains more formats--and more database entries--than most collections you will process, but it should help you understand how to shelve your material and how to create location database records for all of the different formats you encounter in your collections. -->
-
-<!-- So, in this (heavily modified) example, let's say that the Storer Collection #5231 includes... -->
-
-<!-- - 3 document cases, containing 71 folders
-- 2 image boxes, containing 45 folders
-- 1 museum item
-- 1 SV volume
-- 2 oversize boxes, containing 14 oversize paper folders
-- 1 (additional) oversize box, contianing 2 oversize image folders -->
-
-<!-- Some things to note from the above list: -->
-
-<!-- - Only the contents of the H2 columns will be in the finding aid. -->
-
-<!-- - The H1 containers are simply to help us internally, to account for and locate the various parts of the collection. -->
-
-<!-- - For items that have no container, such as SV volumes and museum items, we leave the columns H1_Label and H1_Value blank. -->
-
-<!-- **But... the H2_Label, H2_Value_1, and H2_Value_2 columns will NEVER be blank!** -->
-
-<!-- Resource_ID H1_Label H1_Value H2_Label H2_Value_1 H2_Value_2 area coordinate range coordinate side coordinate shelf building floor room ID number -->
-
-<!-- | **Resource_ID** | **H1_Label**  | **H1_Value** | **H2_Label**          | **H2_Value_1** | **H2_Value_2** | **area** | **coordinate range** | **coordinate side** | **coordinate shelf** | **building** | **floor** | **room** | **ID number** |
-| --------------- | ------------- | ------------ | --------------------- | -------------- | -------------- | -------- | -------------------- | ------------------- | -------------------- | ------------ | --------- | -------- | ------------- |
-| **05231**       | document case | 1            | folder                | 1              | 30             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11260         |
-| **05231**       | document case | 2            | folder                | 31             | 62             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11261         |
-| **05231**       | document case | 3            | folder                | 63             | 71             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11262         |
-| **05231**       | image box     | 1            | image folder          | 1              | 22             | U        | 11                   | b                   | 48                   | Wilson       | 10        | Red      | 11263         |
-| **05231**       | image box     | 1            | image folder          | 23             | 45             | U        | 11                   | b                   | 48                   | Wilson       | 10        | Red      | 11264         |
-| **05231**       | blank         | blank        | museum item           | 1              | 1              | T        | 2                    | b                   | 4                    | Wilson       | 10        | Red      | 11265         |
-| **05231**       | blank         | blank        | sv volume             | 1              | 1              | O        | 10                   | b                   | 9                    | Wilson       | 10        | Red      | 11266         |
-| **05231**       | oversize box  | 200          | oversize paper folder | 1              | 7              | R        | 10                   | a                   | 1                    | Wilson       | 10        | Orange   | 11267         |
-| **05231**       | oversize box  | 201          | oversize paper folder | 8              | 14             | R        | 10                   | a                   | 2                    | Wilson       | 10        | Orange   | 11268         |
-| **05231**       | oversize box  | 200          | oversize image folder | 1              | 2              | R        | 7                    | a                   | 1                    | Wilson       | 10        | Orange   | 11269         |
-
---> 
-<!-- ## Other notes
-
-Some format types still have unusual exceptions to the above instructions, such as extra oversize papers that go in map cases. Just ask if you're unsure about how to handle a particular format, or have any other questions! -->
-
 
 # Labels
 
@@ -289,11 +16,11 @@ _Updated May 2021_
 
 Below is information on box and item labels used at Wilson Library. Label types covered include:
 
--[Manuscript box labels](#box-labels-include)  
+-[Box labels](#box-labels)  
 -[Oversize volume (SV-)](#oversize-volume-sv-collection-numberitem-number)  
--[Wrapped volume](wrapped-volume)  
--[Oversized papers (OP-), oversize paper folders (OPF-)](#oversized-papers-oversize-paper-folders-see-physical-processing-section-for-more-details)  
--[Photograph album (PA-)](#photograph-album-pa-)  
+-[Wrapped volume](#wrapped-volume)  
+-[Oversized papers (OP-), oversize paper folders (OPF-)](#oversized-papers-oversize-paper-folders-opf-collection-numberitem-number)  
+-[Photograph album (PA-)](#photograph-album-pa-collection-numberitem-number)  
 
 For information on box and item labels for audiovisual items, visit the the [Audiovisual Materials](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Audiovisual%20Materials.md#labeling-and-putting-stuff-away-work-in-progress) documentation page.  
 
@@ -406,6 +133,10 @@ Two options:
 Or
 
 ![Option 2](https://user-images.githubusercontent.com/58087302/79393074-8c802980-7f42-11ea-843b-073636cd0595.png "Option 2")
+
+# Barcodes
+
+
 
 # Items Separated
 
@@ -578,3 +309,280 @@ Special format photographs such as daguerreotypes, ambrotypes, and tintypes rece
 
 | ![Rolled items](https://user-images.githubusercontent.com/58087302/79492911-b4c56200-7fee-11ea-9d29-6357a37d6226.jpeg "Rolled items") | Rolled items should be marked clearly, starting with R-0000/1, where R (for rolled item) is followed by the collection number and the individual item number. Several drawers at the end of the extra-oversize papers in the map cases have been reserved for items that cannot or should not be unrolled. Consult with you supervising archivist about whether or not to unroll a questionable item |
 | ---------------------------------------------- | ---:|
+
+
+# Linking to locations in ArchivesSpace
+
+## Why keep track of locations?
+
+In brief, recording locations allows staff--especially Research and Instructional Services staff--to locate collection materials in the stacks when patrons request them. Because collections are not shelved alphabetically or in call number order, it is impossible to browse for most material in the stacks. Using the locations table is the only way to find most materials in the stacks. 
+
+## Formats and Additions
+
+Many collections contain material in several different formats--folders of paper, photographs, oversize materials, audiotapes, videotapes, film, etc. Generally, each format is shelved in a different location in the stacks to maximize shelf space and to aid in preservation. Sometimes additions to collections are also housed apart from the original deposit even if they contain the same type or format of materials. Because additions are often acquired over many years, they are usually shelved wherever shelf space is currently available. 
+
+With so many collections and so many formats dispersed throughout the stacks it is ESSENTIAL that we carefully track the exact location of all collection materials in ArchivesSpace! 
+
+
+
+
+<!-- It works best if you open Access first, and from Access open the Location Database. -->
+
+<!-- The database lives in G:\wilson\RI\Databases_and_shortcuts\archival_locations_restored -->
+
+<!-- ## Deciphering the Database
+
+<!-- With so many rows and columns and so many peculiar numbering schemes, the database can seem confusing. Be not afraid. The example and instructions below will guide you through the database madness. -->
+
+<!-- Each database field is described in detail below, including the purpose of each field, the type of information it should contain, and the way you should format data in each column. As you will see, some fields are more complicated than others. All of these column names use terminology from the Archivists' Toolkit, sometimes this is confusing. -->
+
+<!-- For materials in records cartons or document cases, each box is tracked in a separate row in the database. Yes, this is a lot of data entry. -->
+
+<!-- ## Resource ID -->
+
+<!-- The Resource ID column records the collection or record group number as a 5-digit number. (Add enough zeroes to make it 5 digits: 00234, for example.) You will enter the collection number for your collection every time you create a record (row) in the database. The Resource ID field can be sorted numerically to group all entries for a single collection together. This is helpful when you want to see all of the materials and formats for a collection together in one place. -->
+
+<!-- ##  A note on H1 and H2 -->
+
+<!-- This system is based on the idea of having numbered folders in numbered boxes, but can be adapted to most any of our locations situations. -->
+
+<!-- H1 stands for Hierarchy 1. H1 represents the container that is NOT listed in the finding aid. In the H1 columns, we record the information about the boxes in the box/folder scenario presented above. If you only have boxes and no folder numbers, you will record the information about the boxes to the H2 columns and record "Blank" in the H1 columns. -->
+
+<!-- The H2 or Hierarchy 2 columns record information about whatever container is listed in the finding aid. We typically record folder numbers in the finding aid, but not the numbers of the boxes that they live in. Information about the folders would go in the H2 columns. -->
+
+<!-- The H2 fields are never blank. If, for example, there are box numbers in the finding aid, record information about the boxes in H2 and leave the H1 columns blank. -->
+
+<!-- ### H1_Label -->
+
+<!-- The H1_Label column is for the container type (document case, record carton, oversize box, etc). If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. These values are constrained to a list. If you need to add a new label, see Jackie. -->
+
+<!-- ### H1_Value -->
+
+<!-- The H1_Value column records the container number. It will never be a span. Each container gets its own row in the database! If you do not have the double hierarchy (i.e. folders in boxes) you can record a "Blank" here. -->
+
+<!-- ### H2_Label -->
+
+<!-- The H2_Label column records the container type of whatever container is listed in the finding aid. This column will never be blank. These values are constrained to a list. If you need to add a new label, see Jackie. -->
+
+<!-- ### H2_Value_1 and H2_Value_2 -->
+
+<!-- These columns designate the range of container numbers. It will ALWAYS be a span--even if there is only one folder or box. Simply repeat the number in both columns. -->
+
+<!-- If your H2 label is a records box or document case, only record one box per line. DO NOT record a span of record boxes of 1 to 2. The span will be 1 to 1 in one line, and then 2 to 2 in the next line, and so on. -->
+
+## A note on the set-up of the Wilson Stacks
+
+The stacks are divided into color zones and lettered sections within those zones. Each row of shelves is identified by a color, a section letter and a range number. For example, Red U.11. Further, each row of shelves has two sides (side a and side b) and each individual shelf is numbered in sequence. Using the example above, a location might be Red U.11 a.2 (in other words the "a" side of "Row 11" and the second shelf on that side). Most shelves have identifying labels. If you shelve materials on a shelf without a label, find the nearest shelf with a label (usually the top shelf, or a shelf at the end of the range) and count up to your shelf number. This shelf numbering scheme will make more sense when you shelve your first collection. 
+
+To remember the layout of the building better, think of Wilson Library as a sandwich, ’29, ’52 and ’77. The parts of the building that were built in 1929 and 1977 act as the “bread” and the part of the building built in 1952 is the fixings in the middle. 
+
+| **1929**             | 1952     | 1977       | 
+| ---------------| ------------| --------------------- | 
+| 3. Sepia  | 3. Green          | 3. N/A      |
+| 4. Pink B | 4. N/A | 4. N/A |
+| 5. N/A  | 5. N/A          | 5. Purple      |
+| 6. Pink A  | 6. N/A          | 6. Black      |
+| 7. N/A  | 7. N/A          | 7. Teal      |
+| 9. Blue  | 9. Blue          | 9. Yellow      |
+| 10. Orange  | 10. Orange          | 10. Red      |
+
+
+It's always a good idea to take a pencil and notepaper into the stacks when shelving collections, or bring a phone to take pictures of the boxes you are shelving. 
+
+### Building
+
+For the time being, assume that all of the collections you'll be dealing with will be stored in Wilson, although we do have some collections stored at the Library Service Center (LSC) in Durham.
+
+### Floor
+
+Which floor is the container on? Typically 3, 5, 6, 7, 9 or 10. 
+
+### Room
+
+The color zone indicated by signage in the room: Red, Orange, Blue, Yellow, Purple, Black, Pink, Sepia, or Green. 
+
+### Area
+
+This column will be an uppercase letter from A-Z, describing an area within the color zone. Check the sign on the end of range to find the area. 
+
+### Coordinate range
+
+This will be a number describing a range within an area. Check the sign on the end of range to find the coordinate range number. 
+
+### Coordinate side
+
+This will be either a lowercase a or b, describing which side of the range the shelf is on. 
+
+### Coordinate shelf
+
+This is a number describing which shelf the container/item is on. 
+
+## Accessing ArchivesSpace
+
+To access ArchivesSpace, go to https://aspace.lib.unc.edu:4433/ and sign in using your Onyen and password. 
+
+## Linking to location information
+
+Let's say you are in charge of shelving Document Case 2 of the Howard W. Ketner Papers (#05774). Once the box is safely on the shelf, you will link it to its location using "Manage Top Containers."
+
+"What's a top container?," you might ask. Top containers typically refer to pageable units, such as record cartons, document cases, image boxes, or oversize boxes. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotapes and films.
+
+
+![image](https://github.com/user-attachments/assets/5391a489-b4e1-4336-b206-c9309c0b3dd9)
+
+
+Click on the gear wheel on the top right hand portion of the screen and select "Manage Top Containers" from the drop menu. 
+
+
+![image](https://github.com/user-attachments/assets/daabfa70-4d34-4ede-b9e5-d629bc133230)
+
+Type the collection number (05774) in the "Resource" field and click on the search button. Doing so will return a list of all of the top containers associated with this collection.
+
+<img width="1856" height="208" alt="Picture42" src="https://github.com/user-attachments/assets/125b9d9a-540f-4727-ae3a-d161cd95484a" />
+
+Scroll down and click on the check box for Document Case 2.
+> Note: In this example, we are adding a location to one top container. If you needed to add locations to multiple top containers within the same collection, you would check multiple boxes.
+
+<img width="1863" height="204" alt="Picture43" src="https://github.com/user-attachments/assets/ac35e9a6-649f-4858-ac8c-cbfcd50a23d2" />
+
+Click on the "Bulk Operations" button in the top or bottom right corner, and then select "Update Locations: Single Location."
+> NOTE: If you are adding locations to multiple boxes with multiple locations, you can use "Update Locations: Multiple Locations." If you use this option, you will have to add a location to every box that you've selected. I have found that it's easier to use "Update Locations: Single Location," repeating for each location.
+
+
+
+_Usually_, you can start typing the location in the "Location" box and the location will appear as an option. Select the location and click the "Update" button (the update button will indicate how many records you are updating).
+> NOTE: The "Update" button will indicate how many top containers you are updating. Since we are updating one top container in this example, the button says "Update 1 records."
+
+<img width="1863" height="437" alt="Picture44" src="https://github.com/user-attachments/assets/751e5398-e034-48a8-8535-2542d94b3c70" />
+
+
+If typing the location in doesn't bring up the correct location, you will have to browse for it by clicking on the arrow to the right of the "Location" box and selecting "Browse." Filter and/or facet until you find the correct location, and click on the "Link" button in the bottom left corner. The location will now appear in the "Location" box. Click the "Update" button to save the record. 
+> NOTE: The "Update" button will indicate how many top containers you are updating. Since we are updating one top container in this example, the button says "Update 1 records."
+
+If you still can't find the correct location, contact Dawne!
+
+<!-- 
+
+You will see the following form:
+
+![add_container_instance_form](https://user-images.githubusercontent.com/62356141/81591299-360fda80-938a-11ea-98c8-23e7a184ae04.png)
+
+### Type
+
+There's a lot of options to choose from, but for right now, always select the first option, "Mixed Materials." 
+
+![mixed_materials](https://user-images.githubusercontent.com/62356141/81591815-01505300-938b-11ea-8c88-bee88e04366c.png)
+
+### Top Container
+
+Top containers typically refer to pageable units, such as record cartons or document cases. Top containers also include non-circulating shared boxes and select audiovisual formats, such as audiotape, SFC Audio Open Reel, and film.
+
+For those entering top containers for audiovisual materials, please note that there are distinct top container types for select Southern Folklife Collection audiovisual materials. These include: SFC Audio Open Reel, SFC Audiocassette box, SFC videotape box, SFC Digital Audiotape box, SFC Transcription disc box, FC Instantaneous disc box, SFC LP disc box, SFC 45-rpm disc box, SFC 78-rpm disc box, SFC 8-Track box, and SFC Minidisc box. 
+
+#### To select an existing top container (such as a shared oversize box or videotape box), simply browse for the correct record and link it to the resource record. The location of the top container is already recorded in ArchivesSpace. 
+
+![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
+
+Use the "Keyword" search box to enter the top container information, then scroll down and click the "Search" button (not pictured here).
+
+![browse_top_containers](https://user-images.githubusercontent.com/62356141/81593400-660cad00-938d-11ea-90df-2ad36f40ecbb.png)
+
+Now select the box and click "Link to Top Containers."
+![select_top_container](https://user-images.githubusercontent.com/62356141/81593592-ae2bcf80-938d-11ea-9fe1-cc7af2864115.png)
+
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
+![os_with_subcontainer](https://user-images.githubusercontent.com/62356141/81601208-96a61400-9398-11ea-8d7b-8d2ead7a7fdc.png)
+That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons. 
+-->
+
+<!-- Can reuse these instructions for adding to accession records? 
+
+#### To create a new top container, select the "Create" option instead of the browse option. 
+
+![browse](https://user-images.githubusercontent.com/62356141/81592808-812aed00-938c-11ea-832b-20e966142632.png)
+
+You will now see the "Create Top Container" screen. 
+
+![create_top_container](https://user-images.githubusercontent.com/62356141/81596233-b980fa00-9391-11ea-898c-2ca8e10b6fc3.png)
+
+Select the correct container type from the container type drop menu. The most commonly used container types appear at the top of the menu. Again, for those entering top containers for audiovisual materials, please note that there are distinct top container types for select Southern Folklife Collection audiovisual materials. These include: SFC Audio Open Reel, SFC Audiocassette box, SFC videotape box, SFC Digital Audiotape box, SFC Transcription disc box, FC Instantaneous disc box, SFC LP disc box, SFC 45-rpm disc box, SFC 78-rpm disc box, SFC 8-Track box, and SFC Minidisc box. 
+
+![create_top_container_record_carton](https://user-images.githubusercontent.com/62356141/81598696-b7b93580-9395-11ea-9b69-80f8a200f2c1.png)
+
+Once you've selected the correct container type, type the container number in the "Indicator" field, then click on "Add Location."
+![create_top_container_record_carton_9](https://user-images.githubusercontent.com/62356141/81598706-b982f900-9395-11ea-9cd4-4edea1e0e7a9.png)
+Scroll down to the "Location" drop menu and select "Browse."
+
+![location_browse_option](https://user-images.githubusercontent.com/62356141/81603318-21d4d900-939c-11ea-8c79-616428569d78.png)
+
+
+
+
+
+
+You will now see a list of all shelf locations. 
+
+![browse_locations_all](https://user-images.githubusercontent.com/62356141/81603177-eb975980-939b-11ea-97af-383445a704c6.png)
+
+Use the facets or "Filter by Text" box to find the correct shelf, then click on "Link to Locations."
+
+![browse_locations_selected](https://user-images.githubusercontent.com/62356141/81603181-edf9b380-939b-11ea-965f-443ca854d2d5.png)
+
+The location will now appear in the "Location" field. "Create and Link to Top Container."
+
+![location_linked](https://user-images.githubusercontent.com/62356141/81603213-ffdb5680-939b-11ea-9265-33f1bfe1e43a.png)
+
+If applicable, use the "Child Type" and "Child Indicator" fields to record sub-containers such as folders. Make sure to put a " -- " between the subcontainer numbers as shown below. For those entering sub-containers for audiocassettes, please note that there is a distinct sub-container type for Southern Folklife Collection audiocassettes ("SFC Audio Cassette").
+![with_folders](https://user-images.githubusercontent.com/62356141/81601250-9c9bf500-9398-11ea-888d-1209650021b4.png)
+
+That's it! You have successfully added the top container to the resource record! Remember to save your work by clicking one of the "Save" or "Save Resource" buttons.
+
+-->
+<!-- ## ID number -->
+
+<!-- The ID number is automatically generated every time you add a record to the database. The number exists only to ensure that each row has a unique identifier in the database. This field can be sorted in order to track the order in which records have been entered into the database. -->
+
+<!-- Example: Doug and Hazel Storer Collection #5231 (with liberal changes, for example purposes) -->
+
+<!-- The sample table below is a snapshot of the (modified, for example purposes) database entries for one collection (Doug and Hazel Storer Collection #5231). Notice that this particular collection contains several different formats of material--folders, images, oversize papers, videotapes, etc. This collection contains more formats--and more database entries--than most collections you will process, but it should help you understand how to shelve your material and how to create location database records for all of the different formats you encounter in your collections. -->
+
+<!-- So, in this (heavily modified) example, let's say that the Storer Collection #5231 includes... -->
+
+<!-- - 3 document cases, containing 71 folders
+- 2 image boxes, containing 45 folders
+- 1 museum item
+- 1 SV volume
+- 2 oversize boxes, containing 14 oversize paper folders
+- 1 (additional) oversize box, contianing 2 oversize image folders -->
+
+<!-- Some things to note from the above list: -->
+
+<!-- - Only the contents of the H2 columns will be in the finding aid. -->
+
+<!-- - The H1 containers are simply to help us internally, to account for and locate the various parts of the collection. -->
+
+<!-- - For items that have no container, such as SV volumes and museum items, we leave the columns H1_Label and H1_Value blank. -->
+
+<!-- **But... the H2_Label, H2_Value_1, and H2_Value_2 columns will NEVER be blank!** -->
+
+<!-- Resource_ID H1_Label H1_Value H2_Label H2_Value_1 H2_Value_2 area coordinate range coordinate side coordinate shelf building floor room ID number -->
+
+<!-- | **Resource_ID** | **H1_Label**  | **H1_Value** | **H2_Label**          | **H2_Value_1** | **H2_Value_2** | **area** | **coordinate range** | **coordinate side** | **coordinate shelf** | **building** | **floor** | **room** | **ID number** |
+| --------------- | ------------- | ------------ | --------------------- | -------------- | -------------- | -------- | -------------------- | ------------------- | -------------------- | ------------ | --------- | -------- | ------------- |
+| **05231**       | document case | 1            | folder                | 1              | 30             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11260         |
+| **05231**       | document case | 2            | folder                | 31             | 62             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11261         |
+| **05231**       | document case | 3            | folder                | 63             | 71             | U        | 11                   | b                   | 47                   | Wilson       | 10        | Red      | 11262         |
+| **05231**       | image box     | 1            | image folder          | 1              | 22             | U        | 11                   | b                   | 48                   | Wilson       | 10        | Red      | 11263         |
+| **05231**       | image box     | 1            | image folder          | 23             | 45             | U        | 11                   | b                   | 48                   | Wilson       | 10        | Red      | 11264         |
+| **05231**       | blank         | blank        | museum item           | 1              | 1              | T        | 2                    | b                   | 4                    | Wilson       | 10        | Red      | 11265         |
+| **05231**       | blank         | blank        | sv volume             | 1              | 1              | O        | 10                   | b                   | 9                    | Wilson       | 10        | Red      | 11266         |
+| **05231**       | oversize box  | 200          | oversize paper folder | 1              | 7              | R        | 10                   | a                   | 1                    | Wilson       | 10        | Orange   | 11267         |
+| **05231**       | oversize box  | 201          | oversize paper folder | 8              | 14             | R        | 10                   | a                   | 2                    | Wilson       | 10        | Orange   | 11268         |
+| **05231**       | oversize box  | 200          | oversize image folder | 1              | 2              | R        | 7                    | a                   | 1                    | Wilson       | 10        | Orange   | 11269         |
+
+--> 
+<!-- ## Other notes
+
+Some format types still have unusual exceptions to the above instructions, such as extra oversize papers that go in map cases. Just ask if you're unsure about how to handle a particular format, or have any other questions! -->
+
+
