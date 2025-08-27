@@ -1899,7 +1899,7 @@ For documentation about additions, please visit the <a href="https://github.com/
 
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Style Guide</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Style%20Guide.md">Descriptive Elements</a>
-  - <a href=""https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#items-separated">Items Separated</a>
+  - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Labelling%20and%20Putting%20Stuff%20Away.md#items-separated">Items Separated</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Photographs.md">Photographs</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Audiovisual%20Materials.md">Audiovisual Materials (including Jitterbug)</a>
   - <a href="https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Finding%20Aids%20in%20ArchivesSpace.md">Finding Aids in ArchivesSpace</a>
