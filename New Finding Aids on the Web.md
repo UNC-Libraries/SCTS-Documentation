@@ -12,11 +12,11 @@ Additions
 Biographical files on Mack Brown (documenting his first tenure as football coach) and football player Harris Barton. Contains clippings, press releases, publications, and images.
 
 
-- **[Campus Y of the University of North Carolina at Chapel Hill Records, 1860-2005 (bulk 1950-2005)](https://finding-aids.lib.unc.edu/catalog/40126_aspace_3b77b98d2718885a701f10fc3f02a7ea)
-Materials related to the Seminars Abroad program.**
+- [Campus Y of the University of North Carolina at Chapel Hill Records, 1860-2005 (bulk 1950-2005)](https://finding-aids.lib.unc.edu/catalog/40126_aspace_3b77b98d2718885a701f10fc3f02a7ea)
+Materials related to the Seminars Abroad program.
 
-- **[David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/catalog/20504_aspace_c7d2652dbc78080acf4167ca43ec1760)
-Open reels added.**
+- [David L. Robert Collection, circa 1970s-2011](https://finding-aids.lib.unc.edu/catalog/20504_aspace_c7d2652dbc78080acf4167ca43ec1760)
+Open reels added.
 
 
 # July 2025
