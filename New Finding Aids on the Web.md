@@ -4,7 +4,7 @@ New
 
 - [Chapel Hill Garden Club Records, 1931-2025](https://finding-aids.lib.unc.edu/catalog/70211)
 This collection consists of scrapbooks documenting the history, members, and annual activities of Chapel Hill Garden Club from 1931 to 2016. Chapel Hill Garden Club is a group dedicated to education in the art of flower and landscape design, horticulture, civic beautification, and sound environmental practice. The Chapel Hill Garden Club Records reflect the Club's long commitment to community outreach by documenting the history of its longstanding events, such as the biennial Chapel Hill Garden Tour. The scrapbooks in the collection primarily contain photographs and ephemera, such as programs, flyers, and clippings. In addition to the scrapbooks, the collection contains a file with material related to the Chapel Hill Garden Club Flower Show in various years. This collection also includes a digital object, PDFs of 57 notebook summary sheets highlighting the key people and events of each year. A printed version of each of these sheets is included in their corresponding scrapbook.  
-Processed by new SCTS CALA Amanda Sentmanat-Perez. 
+**Processed by new SCTS CALA Amanda Sentmanat-Perez.** 
 
 Additions 
 
