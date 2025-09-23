@@ -232,10 +232,10 @@ Remediation goal: repair description to make it more accessible, equitable, and 
 *	Helpful: sources about enslaved people are featured prominently 
 
 **ASpace Revisions**
-*	Add a revision statement: Updated for remediation of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
+*	Add a revision statement: Updated for remediation of [all that apply: abstract, biographical/historical note, scope and content, indexed terms, and contents list] by [Your Name].
 
 *	Add processing notes:`
-	- Remediation by: [Name], [month year]. Updated [abstract, biographical/historical note, scope and content, indexed terms, and contents list].
+	- Remediation by: [Name], [month year]. Updated [all that apply: abstract, biographical/historical note, scope and content, indexed terms, and contents list].
 	- Add racial identity statement if it is not already there.
  	- In [date], archivists reviewed this collection to uncover more information about the lives of enslaved and free people of color. Containers that include materials related to enslaved and free people of color during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement and free people of color" or "Records of Reconstruction." Researchers are advised that the collection may include more documentation of slavery, free people of color, and Reconstruction than has been identified in this finding aid.
 
