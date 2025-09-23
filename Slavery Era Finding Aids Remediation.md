@@ -235,11 +235,11 @@ Remediation goal: repair description to make it more accessible, equitable, and 
 *	Add a revision statement: Updated for remediation of [all that apply: collection overview, subject headings, biographical note, scope and content, and contents list] by [Your Name].
 
 *	Add processing notes:`
-	- Remediation by: [Name], [month year]. Updated [collection overview, subject headings, biographical note, scope and content, and container list].
+	- Remediation by: [Name], [month year]. Updated [abstract, biographical/historical note, scope and content, indexed terms, and contents list].
 	- Add racial identity statement if it is not already there.
  	- In [date], archivists reviewed this collection to uncover more information about the lives of enslaved and free people of color. Containers that include materials related to enslaved and free people of color during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement and free people of color" or "Records of Reconstruction." Researchers are advised that the collection may include more documentation of slavery, free people of color, and Reconstruction than has been identified in this finding aid.
 
-**Collection overview (Abstract):** 
+**Abstract (Collection overview):** 
 This is a balancing act of centering what we know about Black people without misrepresenting the extent of the documentation available. In this phase of remediation we are decentering whiteness by removing venerative language, but not eliminating existing description about the white family that is still useful. 
 *	Reduce/remove as much biographical information as possible. In family papers, individual names should be few if any (they can still appear in the subject headings). Remove venerative language (e.g., prosperous, prominent, planter) and edit as needed. If "prominence" should be conveyed, try "politically and socially influential," or other language that speaks more directly to the type of power than "prominence."
 *	Add racial identity to the white family.
@@ -259,9 +259,9 @@ This is a balancing act of centering what we know about Black people without mis
 *   Add formats (deeds, indentures, wills, lists of enslaved people, estate papers, ledgers, whatever records document lives of enslaved people). 
 	- [Mary Hunter Kennedy](https://finding-aids.lib.unc.edu/03242/): Enslaved people are represented in bills of sale and work contracts that evidence human trafficking, and in the contested will of Christopher Houston (1737-1844), the anti-slavery patriarch who upon his death manumitted the people he enslaved. 
 
-**Subject headings:** See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/slavery%20era%20headings.md) for the universal heading that we are assigning to all slavery era collections, other suggested headings relating to formats and related topics, and instructions for plantation heading construction. 
+**Indexed terms (subject headings):** See [Slavery era headings](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/slavery%20era%20headings.md) for the universal heading that we are assigning to all slavery era collections, other suggested headings relating to formats and related topics, and instructions for plantation heading construction. 
 
-**Biographical note:** 
+**Biographical/Historical note:** 
     For now, just do some basic editing
 *	Add racial identity.
 *	Remove venerative language (e.g., planter, prominent, prosperous) and edit as needed.
