@@ -17,58 +17,42 @@ Expanded from collection level records
 
 Additions: 
 
-- **[Craig, Ferris, and Flowers Family Papers, 1841-2025]
-(https://finding-aids.lib.unc.edu/catalog/05323_aspace_08dcfe7c845ff1fb32c6ac27d1a07026)
-Processed by Amanda Sentmanat-Perez.**
+- [Craig, Ferris, and Flowers Family Papers, 1841-2025](https://finding-aids.lib.unc.edu/catalog/05323_aspace_08dcfe7c845ff1fb32c6ac27d1a07026)
+*Processed by Amanda Sentmanat-Perez.*
 
-- **[D. Kent Thompson Collection, 1965-2022]
-(https://finding-aids.lib.unc.edu/catalog/20479_aspace_8e5d615a54ff25f79c1440b1f7a9510)**
+- [D. Kent Thompson Collection, 1965-2022](https://finding-aids.lib.unc.edu/catalog/20479_aspace_8e5d615a54ff25f79c1440b1f7a9510)
 
+- [Duck Kee Studio Collection, 1976-2012](https://finding-aids.lib.unc.edu/catalog/20553)
+*Materials added to the finding aid after mold remediation.*
 
-- **[Duck Kee Studio Collection, 1976-2012]
-(https://finding-aids.lib.unc.edu/catalog/20553)
-Materials added to the finding aid after mold remediation.**
+- [FolkScene Collection, 1960-2000](https://finding-aids.lib.unc.edu/catalog/20517_aspace_ac3824d5ea01b9e339d2b95a0d0bc4e0)
 
-- **[FolkScene Collection, 1960-2000]
-(https://finding-aids.lib.unc.edu/catalog/20517_aspace_ac3824d5ea01b9e339d2b95a0d0bc4e0)**
+- [Freemasons. Eagle Lodge No. 19 (Hillsborough, N.C.) Records, 1791-circa 1950 (bulk 1819-1900)](https://finding-aids.lib.unc.edu/catalog/05194_aspace_55c492a9978dfe0935ee09e6f7092e47)
+*Processed by Amanda Sentmanat-Perez.*
 
-- **[Freemasons. Eagle Lodge No. 19 (Hillsborough, N.C.) Records, 1791-circa 1950 (bulk 1819-1900)]
-(https://finding-aids.lib.unc.edu/catalog/05194_aspace_55c492a9978dfe0935ee09e6f7092e47)
-Processed by Amanda Sentmanat-Perez.**
+- [George Watts Hill Papers, 1859-2000](https://finding-aids.lib.unc.edu/catalog/04202_aspace_716ada8121329ee0a5dc1548ce0b415e)
 
-- **[George Watts Hill Papers, 1859-2000]
-(https://finding-aids.lib.unc.edu/catalog/04202_aspace_716ada8121329ee0a5dc1548ce0b415e)**
+- [James Alexander Gray Papers (1889-1952), 1889-1991](https://finding-aids.lib.unc.edu/catalog/04441_aspace_48117a78a83997f34da8c2d6d50d0821)
 
-- **[James Alexander Gray Papers (1889-1952), 1889-1991]
-(https://finding-aids.lib.unc.edu/catalog/04441_aspace_48117a78a83997f34da8c2d6d50d0821)**
+- [Marcie Cohen Ferris Papers, 1960s-2020](https://finding-aids.lib.unc.edu/catalog/05177_aspace_1a48c5f67c7274115f97df2e33cbef3d)
+*Processed by Amanda Sentmanat-Perez.*
 
-- **[Marcie Cohen Ferris Papers, 1960s-2020]
-(https://finding-aids.lib.unc.edu/catalog/05177_aspace_1a48c5f67c7274115f97df2e33cbef3d)
-Processed by Amanda Sentmanat-Perez.**
+- [Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997](https://finding-aids.lib.unc.edu/catalog/20290)
+*Materials added to the finding aid after mold remediation.*
 
-- **[Opelika Pictures Records 1843-1961, 1986-1997; bulk 1986-1997]
-(https://finding-aids.lib.unc.edu/catalog/20290)
-Materials added to the finding aid after mold remediation.**
+- [R. Stanley Woodward Collection, 1932-2014](https://finding-aids.lib.unc.edu/catalog/20446_aspace_c504dc5f3e1ed7654c560f21a1f4fd69)
 
-- **[R. Stanley Woodward Collection, 1932-2014]
-(https://finding-aids.lib.unc.edu/catalog/20446_aspace_c504dc5f3e1ed7654c560f21a1f4fd69)**
+- [Richard J. Richardson Papers, 1930s-2010s](https://finding-aids.lib.unc.edu/catalog/04266_aspace_30411435855db2a31020468afbc43e50)
+*Processed by Amanda Sentmanat-Perez.*
 
-- **[Richard J. Richardson Papers, 1930s-2010s]
-(https://finding-aids.lib.unc.edu/catalog/04266_aspace_30411435855db2a31020468afbc43e50)
-Processed by Amanda Sentmanat-Perez.**
+- [Roy Thompson Papers, 1922-2002](https://finding-aids.lib.unc.edu/catalog/70196)
+*Added Series 4 and Series 5.*
 
-- **[Roy Thompson Papers, 1922-2002]
-(https://finding-aids.lib.unc.edu/catalog/70196)
-Added Series 4 and Series 5.** 
+- [Ted Outwater Papers, 1969-1990s](https://finding-aids.lib.unc.edu/catalog/70127_aspace_55ce225afbc026442da0198ad3e004b2)
 
-- **[Ted Outwater Papers, 1969-1990s]
-(https://finding-aids.lib.unc.edu/catalog/70127_aspace_55ce225afbc026442da0198ad3e004b2)**
-
-- **[University of North Carolina at Chapel Hill Ephemera Collection: 1.1A. Campus Life Ephemera, 1821-2016]
-(https://finding-aids.lib.unc.edu/catalog/40446_aspace_32d35ed2166e268f3d50634d67413dad)**
+- [University of North Carolina at Chapel Hill Ephemera Collection: 1.1A. Campus Life Ephemera, 1821-2016](https://finding-aids.lib.unc.edu/catalog/40446_aspace_32d35ed2166e268f3d50634d67413dad)
 			
-- **[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2023: 18. Materials found in Stacy Dorm, 1940-1942]
-(https://finding-aids.lib.unc.edu/catalog/40446_aspace_c45f9d16c59ea27e96e5055af043a63e)**
+- [University of North Carolina at Chapel Hill Ephemera Collection, 1918-2023: 18. Materials found in Stacy Dorm, 1940-1942](https://finding-aids.lib.unc.edu/catalog/40446_aspace_c45f9d16c59ea27e96e5055af043a63e)
 		
 
 
