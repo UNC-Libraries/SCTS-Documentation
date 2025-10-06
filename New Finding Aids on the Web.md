@@ -2,22 +2,18 @@
 
 New
 
-- **[Department of Linguistics of the University of North Carolina at Chapel Hill Records, 1970s-1990s](https://finding-aids.lib.unc.edu/catalog/70224)
-The Department of Linguistics of the University of North Carolina at Chapel Hill was first founded in 1967. The department was disbanded and regarded as a Curriculum from 1979-1989. In 1991, it was reestablished as a department. Records of the Department of Linguistics of University of North Carolina at Chapel Hill consist of reports and correspondence regarding the history of the department, including the dissolution of the department in the 1980s and its reinstatement in the 1990s; sample tests and degree requirements, and graduate student recruitment initiatives. There are also a few files pertaining to the development of an English as a Second Language (ESL) program, including faculty position inquiries and copies of letters from international students.
-Processed by Lydia Hendrick.**
+- [Department of Linguistics of the University of North Carolina at Chapel Hill Records, 1970s-1990s](https://finding-aids.lib.unc.edu/catalog/70224)The Department of Linguistics of the University of North Carolina at Chapel Hill was first founded in 1967. The department was disbanded and regarded as a Curriculum from 1979-1989. In 1991, it was reestablished as a department. Records of the Department of Linguistics of University of North Carolina at Chapel Hill consist of reports and correspondence regarding the history of the department, including the dissolution of the department in the 1980s and its reinstatement in the 1990s; sample tests and degree requirements, and graduate student recruitment initiatives. There are also a few files pertaining to the development of an English as a Second Language (ESL) program, including faculty position inquiries and copies of letters from international students.
+*Processed by Lydia Hendrick.*
 
-- **[Edward L. Rankin, Jr., Papers, 1960-1991]
-(https://finding-aids.lib.unc.edu/catalog/70206)
-Contains the papers of Edward Lee Rankin Jr. (1919-2006), a white public servant and business executive. Papers include a manuscript of Edward L. Rankin, Jr.'s reminiscences of his service in the U.S. Navy during World War II, including "Tales of Amphibious Warfare in World War II" and "History of the U.S.S. LST 356 in World War II: The Story of the Warwhoop." Also includes correspondence about Rankin's participation in a Southern Oral History Program (SOHP) project to record interviews with people involved with the Pearsall Plan, and Rankin's copy of a 1960 "transcription session" report where members of the Pearsall Plan committee participated in a roundtable session during which they narrated the history of their work. A
-Processed by Maliah Compaore.**
+- [Edward L. Rankin, Jr., Papers, 1960-1991](https://finding-aids.lib.unc.edu/catalog/70206)
+Contains the papers of Edward Lee Rankin Jr. (1919-2006), a white public servant and business executive. Papers include a manuscript of Edward L. Rankin, Jr.'s reminiscences of his service in the U.S. Navy during World War II, including "Tales of Amphibious Warfare in World War II" and "History of the U.S.S. LST 356 in World War II: The Story of the Warwhoop." Also includes correspondence about Rankin's participation in a Southern Oral History Program (SOHP) project to record interviews with people involved with the Pearsall Plan, and Rankin's copy of a 1960 "transcription session" report where members of the Pearsall Plan committee participated in a roundtable session during which they narrated the history of their work. 
+*Processed by Maliah Compaore.*
 
 Expanded from collection level records
 
-- **[Alfred Luther Purrington, Jr. and Nella Grimes Ward Purrington Papers, 1880s-1990s]
-(https://finding-aids.lib.unc.edu/catalog/05534)**
+- [Alfred Luther Purrington, Jr. and Nella Grimes Ward Purrington Papers, 1880s-1990s](https://finding-aids.lib.unc.edu/catalog/05534)
 
-- **[Gorham Anders Kindem Papers, 1987-2011]
-(https://finding-aids.lib.unc.edu/catalog/05564)**
+- [Gorham Anders Kindem Papers, 1987-2011](https://finding-aids.lib.unc.edu/catalog/05564)
 
 Additions: 
 
