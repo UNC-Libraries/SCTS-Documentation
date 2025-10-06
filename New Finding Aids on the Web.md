@@ -34,6 +34,9 @@ Additions:
 
 - [James Alexander Gray Papers (1889-1952), 1889-1991](https://finding-aids.lib.unc.edu/catalog/04441_aspace_48117a78a83997f34da8c2d6d50d0821)
 
+- [Lewis Black Papers, 1966-2022](https://finding-aids.lib.unc.edu/catalog/05792)
+*Additional papers, photographs, and A/V materials from the career of comedian Lewis Black.*
+
 - [Marcie Cohen Ferris Papers, 1960s-2020](https://finding-aids.lib.unc.edu/catalog/05177_aspace_1a48c5f67c7274115f97df2e33cbef3d)
 *Processed by Amanda Sentmanat-Perez.*
 
