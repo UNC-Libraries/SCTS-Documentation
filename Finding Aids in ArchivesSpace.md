@@ -44,7 +44,7 @@ These are instructions for creating finding aids using ArchivesSpace, Pipette, a
      - [Load via Spreadsheet](#load-via-spreadsheet) 
    - [Revising Series, Subseries, and File Level Archival Objects](#revising-series-subseries-and-file-level-archival-objects)
      - [Manual data entry](#manual-data-entry)
-     - [Bulk Update Spreadsheet](#bulk-update-spreadsheet) 
+     - [Bulk Archival Object Updater](#bulk-archival-object-updater) 
    - [Finding Aid Publication Workflow](#finding-aid-publication-workflow)
    - [Finding Aid Checklist](#finding-aid-checklist)
   
@@ -868,10 +868,10 @@ There are two ways to revise existing archival objects in ArchivesSpace: manuall
 
 This option is ideal for making quick, easy edits that don't require the spreadsheet options mentioned below. Need to fix a typo or edit a date range? Then this option is for you! In edit mode, simply click on the archival object that needs editing, make your edit, and click "Save."
 
-## Bulk Update Spreadsheet
+## Bulk Archival Object Updater
 
-You can use the Bulk Update Spreadsheet plug-in to edit existing archival objects. This is a great feature for updating existing date ranges, container information, etc. You cannot use it to create new archival objects.
-From the resource record, click on "More," and then "Bulk Update Spreadsheet."
+You can use the Bulk Archival Object Spreadsheet to edit existing archival objects. This is a great feature for updating existing date ranges, container information, etc. You cannot use it to create new archival objects.
+From the resource record, click on "More," and then "Bulk Archival Object Spreadsheet."
 
 <img width="568" height="214" alt="Picture36" src="https://github.com/user-attachments/assets/13332753-5788-4d32-8dbd-8514e60aa2ba" />
 
@@ -883,7 +883,7 @@ Save the file to your computer and then open it (you can then click the "Cancel"
 
 <img width="626" height="215" alt="Picture38" src="https://github.com/user-attachments/assets/2f5f91b5-e880-4b22-9a10-72c0ed8da218" />
 
-To upload the edited data, select Create > Background Job > Spreadsheet Bulk Update Job.
+To upload the edited data, select Create > Background Job > Bulk Archival Object Updater.
 
 <img width="578" height="240" alt="Picture39" src="https://github.com/user-attachments/assets/674b8915-b47e-4a6f-8d2a-086203ecd992" />
 
