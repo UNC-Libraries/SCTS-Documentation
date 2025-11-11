@@ -1,3 +1,72 @@
+# October 2025
+
+New:
+- [Dave Spilkia Collection](https://finding-aids.lib.unc.edu/catalog/70218)
+This collection contains photographic negatives and contact sheets, audio recordings, and notes taken primarily by white field recorder, photographer, and old-time musician Dave Spilkia between 1971 and 1990. The materials document performances by prominent American old-time, bluegrass, and Appalachian musicians, including Esker Hutchins, Tommy Jarrell, Fred Cockerham, Kyle Creed, Earnest East, and others. Interviews, daily lives, and music lessons are also recorded. Heavily featured in the materials is Ray Alden, musician, documentarian, and founder of the Field Recorders Collective (FRC), a nonprofit dedicated to the preservation and distribution of old-time music. Spilkia was a close collaborator of Alden's and frequently contributed photographs and recordings to the FRC. Events covered in the collection include the Old Fiddler's Convention in Galax, Va., and the Smithsonian Festival of American Folklife in Washington, D.C.
+*Processed by graduate student Camilla Crane.* 
+
+- [Erdman Family and Collins Family Photograph Album, circa 1890s]
+(https://finding-aids.lib.unc.edu/catalog/70210)
+Photograph album related to the white Erdman and Collins families of Asheville, N.C., in the 1890s suggesting what life might have looked like for upper-class white families in Asheville in the 19th century; also included are images of chiefly unidentified African American residents of the area, both adults and children, who were members of the Presbyterian Sunday school headed by the album creator's mother.
+*Processed by graduate student Jess Bazakas.* 
+
+- [Hazel Dickens Collection, 1924-2011]
+(https://finding-aids.lib.unc.edu/catalog/20548)
+The Hazel Dickens Collection, 1870s-2011, documents the singing and songwriting career of the pioneering white bluegrass and folk musician, as well as her ongoing support for working class concerns, labor unions, and the Appalachian coal-mining community.
+
+- [Spells Family Photograph Album, 1950-1957](https://finding-aids.lib.unc.edu/catalog/70201)
+Contains a photograph album from 1950 to 1957 showing a Black family's daily life, time with family, and vacations, including a trip to Washington, D.C. Many of the photographs are centered on the family's time at home with their children and friends. There are many photographs of birthdays, picnics, and dinner parties showing off the food and decor.*
+
+- [W. Horace Carter Papers, 1920s-1980s](https://finding-aids.lib.unc.edu/catalog/04565)
+W. Horace Carter (1921- ) of Tabor City, N.C., was a Pulitzer Prize-winning journalist, who was editor of the "Tabor City Tribune" and writer of books and articles on fresh-water fishing and deer and duck hunting. Office files containing correspondence, mostly with editors of outdoor recreation magazines; notes; drafts of writings; and other materials chiefly relating to W. Horace Carter's work as a free-lance writer specializing in works about fresh-water fishing and deer and duck hunting.
+
+Additions
+- [Board of Governors of the University of North Carolina (System) Records, 1972-2024]
+(https://finding-aids.lib.unc.edu/catalog/40004)
+*Accessions: 20250909.2; 20250606.1.*
+
+- [Campus Y of the University of North Carolina at Chapel Hill Records, 1860-2005 (bulk 1950-2005)]
+(https://finding-aids.lib.unc.edu/catalog/40126)
+*Addition of September 2025.*
+
+- [Dialectic Society of the University of North Carolina Records, 1795-1964]
+(https://finding-aids.lib.unc.edu/catalog/40152)
+*Added Series 2.1.7, which contains transcriptions of most of the materials in Series 2.1.2-2.1.6.*
+
+- [Division of Legal Affairs of the University of North Carolina (System) Records, 1927-1999 (bulk 1970-1981)]
+(https://finding-aids.lib.unc.edu/catalog/40015)
+*Accession: 20250909.*
+
+- [George C. Stoney Papers, circa 1900-2011]
+(https://finding-aids.lib.unc.edu/catalog/04970)
+*Additional items that were added to this collection after separating some picture and mag track items.*
+
+- [Jack Bernhardt Papers, 1943-2017]
+(https://finding-aids.lib.unc.edu/catalog/20061)
+*Series 2A and 6A.*
+
+- [John Edwards Memorial Foundation Records, circa 1930s-1980s (bulk 1960-1988)]
+(https://finding-aids.lib.unc.edu/catalog/20001)
+*Added some AV items to the finding aid that hadn't been previously listed.*
+
+- [Office of Chancellor of the University of North Carolina at Chapel Hill: James Moeser Records, 1940s-2021 (bulk 2000-2008)](https://finding-aids.lib.unc.edu/catalog/40228)
+*Addition of September 2025.*
+
+- [Office of the Dean of the Graduate School of the University of North Carolina at Chapel Hill Records, 1920-2022 (bulk 1955-2002)](https://finding-aids.lib.unc.edu/catalog/40107)
+*Addition of April 2025.*
+
+- [Student Health Coalition Project Collection, 1968-2019]
+(https://finding-aids.lib.unc.edu/catalog/05649)
+*Accession: 20250210.*
+
+- [William R. Ferris Collection, 1910s-2024](https://finding-aids.lib.unc.edu/catalog/20367_aspace_741be2aea38fd18cf2013d79b957d992)
+*Addition of October 2024.*
+
+
+
+
+
+
 # September 2025
 
 New
