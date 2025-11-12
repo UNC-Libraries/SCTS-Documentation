@@ -235,6 +235,7 @@ Remediation goal: repair description to make it more accessible, equitable, and 
 *	Add a revision statement: Updated for remediation of [all that apply: abstract, biographical/historical note, scope and content, indexed terms, and contents list] by [Your Name].
 
 *	Add processing notes:`
+	- This collection contains materials that document people claimed as property and reflect the violence and dehumanization of slavery in the U.S. South. [Learn more here](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Slavery%20Era%20Finding%20Aids%20Remediation.md#legacy-description-of-slavery-era-collections) about how we are revising finding aid descriptions for these materials at Wilson Special Collections Library.	
 	- Remediation by: [Name], [month year]. Updated [all that apply: abstract, biographical/historical note, scope and content, indexed terms, and contents list].
 	- Add racial identity statement if it is not already there.
  	- In [date], archivists reviewed this collection to uncover more information about the lives of enslaved and free people of color. Containers that include materials related to enslaved and free people of color during the antebellum period, the institution of slavery, or freed people after the Civil War are indicated as "Records of enslavement and free people of color" or "Records of Reconstruction." Researchers are advised that the collection may include more documentation of slavery, free people of color, and Reconstruction than has been identified in this finding aid.
