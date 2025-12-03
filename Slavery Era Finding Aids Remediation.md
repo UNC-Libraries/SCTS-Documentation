@@ -29,9 +29,17 @@ Additional Resources from UNC Libraries:
 ## Remediation projects
 
 ### Finding aids remediation: 2025
+The following remediation projects were prompted by a Wilson Library staff project to improve access to the interrelated Hairston and Wilson collections:
+
+* [1148. Robert Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01148): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
+* [1836. John Tyler Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01836): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
+* [2476. George Hairston Order Books](https://finding-aids.lib.unc.edu/catalog/02476): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
+* [3820. Samuel Hairston Papers](https://finding-aids.lib.unc.edu/catalog/03820): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
+* [4134. Wilson and Hairston Family Papers](https://finding-aids.lib.unc.edu/catalog/04134): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
+
 The following remediation projects were prompted by Wilson Library researchers or staff:
 
-* [3210. Sarah Frances Hicks Williams](https://finding-aids.lib.unc.edu/catalog/03210): updated abstract, subject headings, biographical note, collection overview, contents list.
+* [3210. Sarah Frances Hicks Williams Papers](https://finding-aids.lib.unc.edu/catalog/03210): updated abstract, subject headings, biographical note, collection overview, contents list.
 * [1301-z. Annie Laurie Harris Broidrick's A Recollection of Thirty Years Ago](https://finding-aids.lib.unc.edu/catalog/01301): updated abstract, subject headings, biographical note, collection overview.
 * [5778. Brock Family Papers](https://finding-aids.lib.unc.edu/catalog/05778): updated abstract, subject headings, biographical note, collection overview, contents list.
 * [5067. Sam Thomas Papers](https://finding-aids.lib.unc.edu/catalog/05067): updated abstract, subject headings, biographical note, collection overview, contents list.
