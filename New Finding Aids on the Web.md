@@ -1,3 +1,38 @@
+
+# November 2025
+
+New: 
+
+[Sue Byrd Thompson Mowry Collection, 1920-1966](https://finding-aids.lib.unc.edu/catalog/70227)
+Contains materials from Sue Byrd Thompson Mowry, a white writer, playwright, and a 1924 graduate of the University of North Carolina, and her son, Maxwell Mowry, Jr., who graduated from UNC in 1964. Mowry participated in the Carolina Playmakers during her time at the university and wrote a play named "The Younger." The collection contains photographs, documents, artifacts and ephemeral materials related to University of North Carolina graduate Sue Byrd Thompson Mowry (class of 1924) and her son Maxwell Mowry, Jr. (class of 1964). For Thompson, materials include photographs, clippings, and a scrapbook containing ephemeral material such as dance cards and programs. Also included are the script of "The Younger," and personal materials related to her youth in Norfolk, Va. The materials from her son include unframed certificates from his fraternity Phi Beta Kappa and his diploma.
+*Processed by graduate student Priya Dames.* 
+
+Reprocessing: 
+
+[Howard Thomas Papers, 1888, 1895, 1899-1980](https://finding-aids.lib.unc.edu/catalog/04000_aspace_20909324d4f6d5ed551ac9c77d24121e)
+Slides of Thomas’s work were digitized by the Art and Art History Department and made available through JSTOR. The slides were added to the finding aid. 
+
+Additions: 
+
+[Charles G. Zug III Collection, 1967-2019](https://finding-aids.lib.unc.edu/catalog/20514)
+Addition of 2025 was integrated into the collection’s existing arrangement. 
+
+[Friends of Old Carrboro, Inc. Collection, circa 1970s-2000](https://finding-aids.lib.unc.edu/catalog/70171)
+The Addition of November 2025 consists of a report titled, "Historic Districts Study, Carrboro, North Carolina: Architectural and Historic Resources of Old Carrboro."
+*Processed by graduate student Lucy Marous.* 
+
+[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2023](https://finding-aids.lib.unc.edu/catalog/40446_aspace_a822fdbb7c4cc54fc16c78e1c5d9c46a)
+Craige Dorm ephemera, 1970-1971. 
+*Processed by graduate student Priya Dames.* 
+
+Born digital additions: 
+
+[Board of Trustees of the University of North Carolina at Chapel Hill Records, 1972-2025](https://finding-aids.lib.unc.edu/catalog/40003)
+
+[Office of Allied Health Sciences of the University of North Carolina at Chapel Hill Records, 1969-1978](https://finding-aids.lib.unc.edu/catalog/40112)
+
+
+
 # October 2025
 
 New:
