@@ -1,3 +1,114 @@
+# December 2025
+
+New: 
+
+[Carolina Connection Radio Shows and Podcasts, 2004-2025]
+(https://finding-aids.lib.unc.edu/catalog/70225)
+This collection contains digital recordings from the news show Carolina Connection, produced by students at the University of North Carolina at Chapel Hill's Hussman School of Journalism and Media. There are approximately 500 audio files of Carolina Connection radio shows from 2004 to 2025. Accompanying the digital files is a spreadsheet that contains file names and dates for every audio file. There are descriptions for the Files from 2011 to 2025. There are an additional 40 audio files of the Carolina Connection podcast (CarolinaCast), 2019-2023, and an audio file of the podcast theme song.
+
+[Craig R. Evans Collection, 1880s-2020s]
+(https://finding-aids.lib.unc.edu/catalog/70221)
+This collection contains interviews and the accompanying administrative paperwork of white filmmaker Craig R. Evans created or used during the making of his eight-part documentary film series "Old-Time Conversations," which took place across the United States in the 2010s. This documentary series provides a history of American folk music through interviews with musicians and historians. Materials include photographs, correspondence, DVD mockups, documentation of the routes he travelled to meet subjects, the subjects' biographical information, and interview notes. Collected as part of the Southern Folklife Collection.
+
+[Hamrick, Harris, Boney, and Crump Family Papers, 1840s-2000s]
+(https://finding-aids.lib.unc.edu/catalog/70219)
+The Hamrick, Harris, Boney, and Crump Family Papers (1840s-2000s) is made up of papers of the white Hamrick, Harris, Boney, Crump, and related families of North Carolina and Virginia. The collection primarily contains personal correspondence between members of the Hamrick, Harris, Pettit, Boney, Crump, and Little families; personal and professional files related to the Hamrick family's law firm in Rutherfordton, N.C.; correspondence from David P. Harris, killed in France during World War I; and the personal and professional papers of Inez Crump Boney, a teacher, college administrator, and superintendent of public welfare in Rose Hill, N.C. Also included in the collection are scrapbooks documenting the lives of Eunice Boney Hamrick and Fred D. Hamrick Jr., as well as scrapbooks documenting the extended Crump and Little families of Anson County, N.C., and the extended Boney family of Duplin County, N.C. There is also a bill of sale for Belinda (possibly Berlinda), an enslaved woman who was trafficked by a member of the Crump family in Anson County, N.C. The materials in this collection offer insight into daily life, social, civic, and business activities in Duplin County, N.C., particularly the towns of Kenansville, Rose Hill, and Wallace; Rutherford County, N.C., particularly the town of Rutherfordton; and Anson County, N.C., particularly the town of Polkton; women's history, particularly related to women educators, college administrators, and civic participation in North Carolina; membership in the United Daughters of the Confederacy; military casualty in World War I; daily life in North Carolina, Miami, Fla., and Kansas City, Mo. during World War II; Navy service in World War II, the 1950s, and the 1960s; and life for a University of North Carolina student in the 1950s and 1960s.
+
+[Les Todd Photograph Collection, 1970-1974]
+(https://finding-aids.lib.unc.edu/catalog/70209)
+Contains a portion of the photographic archive of Les Todd, a white photographer who was an undergraduate student at the University of North Carolina at Chapel Hill from 1970 to 1974. The majority of the materials document campus events and individuals, captured by Todd in his role as a photographer for various student publications during that period. Subjects include student life; men's and women's athletics (both varsity and intramural); campus concerts; fraternities, sororities, and other student organizations, including the Black Student Movement, all of which were active on campus at the time. Most of the images include original descriptions provided by Todd, which have been retained in titles and descriptions. Many of the images appeared in student-edited university publications, including Yackety Yack and The Daily Tar Heel.
+
+[Student Action with Workers Records, 2010-2013]
+(https://finding-aids.lib.unc.edu/catalog/40394)
+The collection contains the records of Student Action with Workers (SAW), a student organization at the University of North Carolina at Chapel Hill dedicated to organizing labor solidarity campaigns and advocacy for workers' rights to freedom of association, collective bargaining, healthy working conditions, and a living wage.
+
+[Todd Lee Savitt Research Collection on African American Medical History, 1822-2013 and undated]
+(https://finding-aids.lib.unc.edu/catalog/70223)
+The Todd Lee Savitt Collection on African American Medical History consists of the collected research of white Professor Todd L. Savitt, including photocopies of articles, annual catalogs, and reports, as well as a smaller amount of related correspondence and notes. A significant portion of the collection documents historically Black medical schools that existed in the late 19th and early 20th centuries, such as Leonard Medical School (Raleigh), Louisville National Medical College (Louisville, KY), Hannibal Medical College (Memphis), Flint Medical College (New Orleans), Chattanooga National Medical College, Knoxville Medical College, and Meharry Medical College, as well as information about the development of these schools, including the Flexner Report. The collection also contains copies of Hospital Herald and the Journal of the National Medical Association, both published for a few years in the 1890s, along with other materials relating to the journals, as well as biographical files on African American medical professionals.
+
+Additions: 
+
+[Auman Family Papers, 1787-2014]
+(https://finding-aids.lib.unc.edu/catalog/04401_aspace_c35dd1c77fbd0c47b3152522d3d39ba6)
+*Addition of September 2010*
+
+[Cathy Fink and Marcy Marxer Collection, 1970s-2020s]
+(https://finding-aids.lib.unc.edu/catalog/70184)
+*Items from 20240510.2 that were discovered after initial processing on the accession was complete.*
+
+[Danny Bell Photographs, 1990s-2010s]
+(https://finding-aids.lib.unc.edu/catalog/40494_aspace_2f20429942fbb88b8e07dc54b9d643e5)
+*Addition of May 2024*
+
+[Dorothy Battle Wilkinson Papers, 1930s-2009]
+(https://finding-aids.lib.unc.edu/catalog/70202)
+*Added a box of materials that had been sent back to SHC for curatorial review during initial processing.*
+
+[Fiddler's Grove Collection, 1968-2010]
+(https://finding-aids.lib.unc.edu/catalog/20016_aspace_9eac6b7f3c5958f7e114d670bea3f880)
+*Papers and photographs from the Addition of March 2022.*
+
+[Health Sciences Library of the University of North Carolina at Chapel Hill Records, 1930s-2014]
+(https://finding-aids.lib.unc.edu/catalog/40247)
+*Addition of October 2025*
+
+[Malvina Reynolds Collection, 1890s-2010s]
+(https://finding-aids.lib.unc.edu/catalog/70197)
+*Audiovisual materials in series 6 and 8 added*
+
+[News Services of the University of North Carolina at Chapel Hill Records, 1924-2013]
+(https://finding-aids.lib.unc.edu/catalog/40139_aspace_7ce4e35a06d16e73e7bf8655ee877098)
+*Addition of October 2024*
+
+[North Carolina Music Teachers' Association Records, 1948-2016]
+(https://finding-aids.lib.unc.edu/catalog/04138_aspace_7a43955b4f4be420d9463f4ea92cc60c)
+*Addition of November 2025*
+
+[Office of the Dean of the School of Medicine of the University of North Carolina at Chapel Hill Records, 1905-2020 (bulk 1952-1996)]
+(https://finding-aids.lib.unc.edu/catalog/40118_aspace_023b06665344001dfcae298cf5ccf3f3)
+*Additions of October 2025*
+
+[Office of the Registrar of the University of North Carolina at Chapel Hill Records, 1795-2017]
+(https://finding-aids.lib.unc.edu/catalog/40131)
+*Accessions 20110906.3 and 20131121.4*
+
+[School of Education of the University of North Carolina at Chapel Hill Records, 1925-2010s]
+(https://finding-aids.lib.unc.edu/catalog/40043_aspace_dc82356bdf395fbf5e1f489a6b207fbf)
+*Addition of September 2024*
+
+William W. Dow Papers, 1940s-2016
+[Addition of 2025] (https://finding-aids.lib.unc.edu/catalog/05612_aspace_39520ef8e76dc078ca6bd9dd0c644cc7)
+[Added from backlog] (https://finding-aids.lib.unc.edu/catalog/05612_aspace_c7f8910a72bf354130590cd40fa8e6a6)
+
+Revised and enhanced description 
+
+
+[George Hairston Order-Books, 1813-1814]
+(https://finding-aids.lib.unc.edu/catalog/02476)
+George Hairston (1750-1827) was a captain in the American Revolution, an acting brigadier general during the War of 1812, and a wealthy white plantation owner and enslaver in Henry County, Va. 
+
+[George Hairston Papers, 1778-1919]
+(https://finding-aids.lib.unc.edu/catalog/04477)
+The collection documents George Hairston and Anne Elizabeth Lash Hairston George (1834-1925), white tobacco farmers of Pittsylvania County, Va., other family members, and people enslaved by them at family plantations in North Carolina, Virginia, and Mississippi.
+
+[John Tyler Hairston Papers, 1840s, 1856-1857, and undated]
+(https://finding-aids.lib.unc.edu/catalog/01836)
+The John Tyler Hairston Papers consist of a microfilm copy of an 1856 letter from, an 1857 letter concerning, and an undated (circa 1840s) letter from family members and in-laws to John Tyler Hairston (1811-1857) of the white Hairston family of Pittsylvania and Henry counties, Va. 
+
+[Robert Hairston Papers, 1799-1862 and undated]
+(https://finding-aids.lib.unc.edu/catalog/01148)
+The Robert Hairston Papers consist of miscellaneous items concerning various members of the white Hairston and Wilson families who were wealthy plantation owners and enslavers in Virginia, North Carolina, and Mississippi. 
+
+[Samuel Hairston Papers, 1877-1957]
+(https://finding-aids.lib.unc.edu/catalog/03820)
+Samuel Hairston (1865-1933) was a white dairy farmer, real estate broker, railroad director, and Virginia agricultural official, of "Oak Hill," Pittsylvania County, Va. The collection includes correspondence; business papers; family letters of Hairston, his wife, May Jopling Hairston, and their seven children; and photographs. 
+
+[Wilson and Hairston Family Papers, circa 1750s-1950s]
+(https://finding-aids.lib.unc.edu/catalog/04134)
+White members of the Wilson and Hairston families owned plantations, enslaved people, and were merchants of Henry and Pittsylvania counties, Va., and Davie, Rockingham, and Stokes counties, N.C. Enslaved people supplied labor at many of the family's plantations, possibly including Sauratown Hill in Stokes County, N.C.; Royal Oak, Oak Hill, Berry Hill near Danville, and Brierfield, all in Pittsylvania County, Va.; Bostick Lower Place, Upper Place, Muddy Creek, Terrell's Place, Bradley's Place, Town Place, all in Stokes County, N.C., or Pittsylvania County, Va.; Goose Pond in Rockingham County, N.C., and Pittsylvania County, Va.; Cooleemee Hill in Davie County, N.C.; and Smith's Place and Leatherwood Plantation in Henry County, Va. 
+
+
+
 
 # November 2025
 
