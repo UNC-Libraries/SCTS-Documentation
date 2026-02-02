@@ -879,7 +879,7 @@ You will now see a screen with all of the resource's archival objects. Select th
 
 <img width="568" height="196" alt="Picture37" src="https://github.com/user-attachments/assets/9b57fa57-44e2-45a3-a012-c0a95b93abf2" />
 
-Save the file to your computer and then open it (you can then click the "Cancel" button next to the "Download Spreadsheet" button to return to the resource record). The file looks like a scaled down version of the "Load via Spreadsheet" template. Make your edits and save.
+Save the file to your computer (**DO NOT** change the file name) and then open it (you can then click the "Cancel" button next to the "Download Spreadsheet" button to return to the resource record). The file looks like a scaled down version of the "Load via Spreadsheet" template. Make your edits and save.
 
 <img width="626" height="215" alt="Picture38" src="https://github.com/user-attachments/assets/2f5f91b5-e880-4b22-9a10-72c0ed8da218" />
 
