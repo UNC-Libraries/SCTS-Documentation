@@ -35,7 +35,7 @@ ProcRec Table in processing_database.mdb
 
 The Proc_Rec table in the access database processing_database.mdb tracks the majority of our processing statistics: 
 
-This access database is found here: G:\wilson\ts\archival\processing_database\processing_database.mdb 
+This access database is found here: LOUIS > My Sites > Departments > Wilson Technical Services > TS_Archival > proc_rec > processing_database
 
 The fields are as follows: 
 
