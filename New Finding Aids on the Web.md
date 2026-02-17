@@ -17,7 +17,7 @@ W. C. (William Clyde) Perdue was a white member of the class of 1924 of the Univ
 
 Additions: 
 
-[Anne Queen Papers, 1930-2000](https://finding-aids.lib.unc.edu/catalog/05214_ aspace_28d862df51e3100a88057c0e1cdabe30)
+[Anne Queen Papers, 1930-2000](https://finding-aids.lib.unc.edu/catalog/05214_aspace_28d862df51e3100a88057c0e1cdabe30)
 *Addition of December 2025*
 
 [Nelson Ferebee Taylor Papers, 1903-2002, 2016](https://finding-aids.lib.unc.edu/catalog/05113_aspace_771dd32e91312af928ab1a989b37f190)
