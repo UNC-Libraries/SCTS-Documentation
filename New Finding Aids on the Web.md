@@ -16,6 +16,7 @@ Jon Pankake (1938-2023) was a white scholar, performer, and enthusiast of old-ti
 W. C. (William Clyde) Perdue was a white member of the class of 1924 of the University of North Carolina. The W. C. Perdue Scrapbook documents student life at the University of North Carolina, 1920-1924. It is a prompted memory book, containing entries for over 100 classmates, each writing their name and hometown (and occasionally a nickname), and often including their birthday and a happy thought. 
 
 Additions: 
+
 [Anne Queen Papers, 1930-2000](https://finding-aids.lib.unc.edu/catalog/05214_ aspace_28d862df51e3100a88057c0e1cdabe30)
 *Addition of December 2025*
 
