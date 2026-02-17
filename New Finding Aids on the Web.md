@@ -1,3 +1,38 @@
+# January 2026
+
+[Bernard G. Greenberg Papers, 1948-1989](https://finding-aids.lib.unc.edu/catalog/04570)
+Bernard G. Greenberg (1919-1985) was a white, Jewish professor of biostatistics, founder and chair of the Department of Biostatistics, dean of the School of Public Health, and organizer of the Division of Community Health Service at the University of North Carolina at Chapel Hill. 
+
+[Charles Goldsmid Materials on the University of North Carolina at Chapel Hill Foodworkers' Strikes, 1968-1974](https://finding-aids.lib.unc.edu/catalog/70238)
+Charles Goldsmid is a white bookseller who was an instructor and then assistant professor of sociology at the University of North Carolina at Chapel Hill during the time of the campus foodworkers' strikes, 1969-1970. The Charles Goldsmid materials on the University of North Carolina at Chapel Hill foodworkers' strikes consist of remarks, notes, resolutions, statements, flyers, correspondence and printed material related to the campus events of 1969 and 1970.
+
+[Hattie Sue V. B. McClain Papers, 1958-2023](https://finding-aids.lib.unc.edu/catalog/70228)
+Contains a small personal archive of Hattie Sue V. B. McClain (1940-2023), a Black licensed practical nurse who worked at Duke University Hospital for 42 years. McClain was an active community member in Durham, N.C., and belonged to the Prince Hall Order of the Eastern Star. The collection documents McClain's personal and family history, including a book on the heritage of the Williams family of Chatham County, N.C., yearbooks from Central High School (Hillsborough, N.C.) and Hillside High School (Durham, N.C.), certificates, photographs, masonic journal, tobacco bills of sale, and 24 funeral programs dating from 1968 to 2022, many of which are from Union Grove Baptist Church in Hurdle Mills, N.C.
+
+[Jon Pankake Collection, 1960s-2010s](https://finding-aids.lib.unc.edu/catalog/70229)
+Jon Pankake (1938-2023) was a white scholar, performer, and enthusiast of old-time and folk music. The collection includes papers related to Pankake's folk music fan magazine The Little Sandy Review, including correspondence from subscribers, folk musicians, and music collectors
+
+[W. C. Perdue Scrapbook, 1920-1924](https://finding-aids.lib.unc.edu/catalog/70232)
+W. C. (William Clyde) Perdue was a white member of the class of 1924 of the University of North Carolina. The W. C. Perdue Scrapbook documents student life at the University of North Carolina, 1920-1924. It is a prompted memory book, containing entries for over 100 classmates, each writing their name and hometown (and occasionally a nickname), and often including their birthday and a happy thought. 
+
+Additions: 
+[Anne Queen Papers, 1930-2000](https://finding-aids.lib.unc.edu/catalog/05214_ aspace_28d862df51e3100a88057c0e1cdabe30)
+*Addition of December 2025*
+
+[Nelson Ferebee Taylor Papers, 1903-2002, 2016](https://finding-aids.lib.unc.edu/catalog/05113_aspace_771dd32e91312af928ab1a989b37f190)
+*Addition of December 2025*
+
+[Schnorrenberg Family Papers, 1821-2018](https://finding-aids.lib.unc.edu/catalog/04002)
+*Data Compact Discs added to Addition of September 2015. Items had been separated from accession circa 10 years ago.*
+
+[Southern Historical Association Records, 1935-2022](https://finding-aids.lib.unc.edu/catalog/04002_aspace_d741330202bcfe3a359743294b2e8e6f)
+*Addition of January 2026*
+
+[Thomas Ruffin Papers, 1753-1898](https://finding-aids.lib.unc.edu/catalog/00641_aspace_a9bb8efcf8b57334e5e235585df86836)
+*Addition of October 2025*
+
+
+
 # December 2025
 
 New: 
