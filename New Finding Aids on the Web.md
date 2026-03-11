@@ -14,7 +14,7 @@ This collection consists of photographs and field recordings made during shape-n
 [Will Rigby Collection, 1972-2024](https://finding-aids.lib.unc.edu/catalog/70230)
 Consists primarily of ephemera and audiovisual materials related to Will Rigby. The collection contains publications, concert posters and tour documents pertaining to the dB's and Will Rigby's work as a solo artist and backing musician along with materials pertaining to precursors of the dB's such as Little Diesel, Sneakers and the H-Bombs. 
 
-Enhanced description
+Enhanced description:
 
 [Matt Hart Poster Collection, 1990s-2000s](https://finding-aids.lib.unc.edu/catalog/20457)
 Added itemized list for posters, which comprise the majority of the collection.
@@ -22,7 +22,7 @@ Added itemized list for posters, which comprise the majority of the collection.
 [Ron Liberti Collection, 1993-2023](https://finding-aids.lib.unc.edu/catalog/20398)
 Additional description for Accessions: 101313, 101512, and 103745. Added Accessions: 20260224.3, 20260224.4, 20240219.8
 
-Addition 
+Addition:
 
 [Alice Gerrard Collection, circa 1870s-2015 (bulk 1934-2005)](https://finding-aids.lib.unc.edu/catalog/20006_aspace_abdd94aad5fa0d1a13d58639c62a48e3)
 Addition of October 2025
