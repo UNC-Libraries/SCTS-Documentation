@@ -1,3 +1,36 @@
+# February 2026
+
+New: 
+
+[Chris Williams Posters and Prints Collection, 2004-2014](https://finding-aids.lib.unc.edu/catalog/20454)
+Collection contains posters, art prints, and flyers created by Chris Williams, a white artist and graphic designer. Williams primarily created the posters for touring music acts performing at venues in Raleigh, Durham, Chapel Hill, Cary, and Carrboro, N.C. 
+
+[Joe Gargasz Poster Collection, 1995-2019](https://finding-aids.lib.unc.edu/catalog/70236)
+This collection consists of 88 posters, flyers, and printed items collected by Joseph "Joe" Gargasz, a white artist and exhibit designer. Most of the posters were created to promote concerts and events in Chapel Hill, N.C., Carrboro, N.C. and Austin, Tex. 
+
+[Laurel Horton Collection on Shape-Note Singing, 1979-2006](https://finding-aids.lib.unc.edu/catalog/70235)
+This collection consists of photographs and field recordings made during shape-note singings by Laurel Horton (b. 1948), a white folklorist and author. Included in the collection are photographs of a singing at the John C. Campbell Folk School, and recordings of singings featuring hymns from the tune-books The Christian Harmony and the New Harp of Columbia. 
+
+[Will Rigby Collection, 1972-2024](https://finding-aids.lib.unc.edu/catalog/70230)
+Consists primarily of ephemera and audiovisual materials related to Will Rigby. The collection contains publications, concert posters and tour documents pertaining to the dB's and Will Rigby's work as a solo artist and backing musician along with materials pertaining to precursors of the dB's such as Little Diesel, Sneakers and the H-Bombs. 
+
+Enhanced description
+
+[Matt Hart Poster Collection, 1990s-2000s](https://finding-aids.lib.unc.edu/catalog/20457)
+Added itemized list for posters, which comprise the majority of the collection.
+
+[Ron Liberti Collection, 1993-2023](https://finding-aids.lib.unc.edu/catalog/20398)
+Additional description for Accessions: 101313, 101512, and 103745. Added Accessions: 20260224.3, 20260224.4, 20240219.8
+
+Addition 
+
+[Alice Gerrard Collection, circa 1870s-2015 (bulk 1934-2005)](https://finding-aids.lib.unc.edu/catalog/20006_aspace_abdd94aad5fa0d1a13d58639c62a48e3)
+Addition of October 2025
+
+
+
+
+
 # January 2026 
 
 New: 
