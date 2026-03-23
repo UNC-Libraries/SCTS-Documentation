@@ -1,4 +1,4 @@
-Compiled March 2024.
+Updated March 2026.
 
 # Overview
 
@@ -71,20 +71,20 @@ This filter should show you all Wilson TS tickets with a resolved status. You ca
 ![JIRA 11](https://github.com/llsmith305/images/blob/main/Jira_capture_11.png)
 
 # Archival Planner
-## Blue Sheets and Merge Requests
-  - Blue Sheets, List2Procs, and GIT merge/push requests are submitted through [this microsoft form](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=T9WzWMkW00KvCB_KvQlWZjnLCvqsIedCs1g4IqhwWE1UQzRSQUJVM1pNTEtORVVTOVJBWldVMFhMTi4u&topview=Preview), also found as a tab on Wilson SCTS-Archival--General channel in Teams.
+## Blue Sheets and Revisions
+  - Blue Sheets and revisions requests are submitted through [this microsoft form](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=T9WzWMkW00KvCB_KvQlWZjnLCvqsIedCs1g4IqhwWE1UQzRSQUJVM1pNTEtORVVTOVJBWldVMFhMTi4u&topview=Preview), also found as a tab on Wilson SCTS-Archival--General channel in Teams.
   - Once submitted, these tickets automatically populate a task in [the planner](https://tasks.office.com/admin.live.unc.edu/en-US/Home/Planner/#/plantaskboard?groupId=a159b0b7-6c00-46a0-977b-10c99a206261&planId=kmGl8FYePUWMq-0ZMwZYFGQAE4Fn) (also located on Archival's Teams channel) under the "Submitted" column.
   - Laura Smith will manage the workflow for these tickets, but any submitter will be able to check on their tickets' progress in the planner.
 
 ### Workflow
-#### Merge Requests
-  - [Merge branch to main. Push main branch.](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/GIT-Sourcetree-Oxygen.md#merging-and-pushing)
-  - Delete branch from local and remotes.
+#### Revisions
+  - Index on pipette
   - If MARC edits are needed, move ticket into MARC column in planner.
   - If no MARC edits, mark complete.
 
 #### Blue Sheets
-  - Merge branch to main and push main.
+  - If needed, make any updates to the finding aid in ASpace
+  - Index on pipette
   - Move ticket into wrap up column in planner.
   - Complete the [wrap up](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Wrap-up%20and%20Tracking.md) at the end of the month.
   - Move tickets into MARC column for MARC edits.
