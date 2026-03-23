@@ -2,14 +2,10 @@
 
 •	Processor completes the new finding aid or addition and fills out a Blue Sheet through the TS tickets  
 
-•	Laura Smith pushes the finding aid live and [“wraps ups”](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Wrap-up%20and%20Tracking.md)   
+•	Laura Smith indexes finding aid and [“wraps ups”](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/Wrap-up%20and%20Tracking.md)   
 
-•	LS sends all the new finding aids to Jodi, including new collection level records and newly processed collections from existing collection level records  
+•	LS sends all the new finding aids to Barbara, including new collection level records and newly processed collections from existing collection level records  
 
 •	LS [updates MARC records](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/MARC-NACO-SNAC.md#editing-existing-marc-records) for additions in OCLC and Sierra  
 
-•	Jodi shares new collection level records with Barbara
-
-• Barbara creates new MARC collection level records
-
-•	Jodi [creates new MARC records](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/MARC-NACO-SNAC.md#creating-new-marc-records) for processed collections  
+•	Barbara [creates new MARC records](https://github.com/UNC-Libraries/SCTS-Documentation/blob/main/MARC-NACO-SNAC.md#creating-new-marc-records)
