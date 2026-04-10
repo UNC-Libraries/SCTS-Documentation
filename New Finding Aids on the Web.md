@@ -1,3 +1,21 @@
+# March 2026
+
+New: 
+
+[Charles D. Thompson, Jr. Papers, 1983-2021](https://finding-aids.lib.unc.edu/catalog/70222)
+The Charles D. Thompson, Jr. Papers consists of papers, photographs, and audiovisual materials documenting the work of white documentary filmmaker, writer, and professor Charles Thompson (b. 1955). Papers in the collection include writing and research material from Thompson's fieldwork studying the Jacalteca Maya in Guatemala and Florida; research material related to his documentary films The Guestworker (2006), Brother Towns/Pueblos Hermanos (2010), and Rock Castle Home (2021); research material and writing related to his books Spirits of Just Men: Mountaineers, Liquor Bosses, and Lawmen in the Moonshine Capital of the World and Border Odyssey: Travels Along the U.S./Mexico Divide; materials related to his work at Duke University; and other papers related to work done by Thompson between 1989 and 2021, including promotional material for his documentaries and books, clippings, activist slogan stickers, exhibition programs, and writing. 
+
+Additions: 
+
+[Bernice Kelly Harris Papers, 1913-1973, 1996-1999](https://finding-aids.lib.unc.edu/catalog/03804)
+Additions from backlog. 
+
+[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2023](https://finding-aids.lib.unc.edu/catalog/40446_aspace_5995c5e5a6133c495136cd5ab6f9e5ab)
+Added Hugh Stevens ephemera. 
+
+
+
+
 # February 2026
 
 New: 
