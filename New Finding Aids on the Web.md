@@ -1,3 +1,69 @@
+# April 2026
+
+New
+
+[Craig Stinson Red Clay Ramblers Poster, 1991](https://finding-aids-qa.lib.unc.edu/catalog/70244)
+This collection contains a poster collected by white folklorist and arts administrator Craig Stinson. The poster promotes a two-night performance by The Red Clay Ramblers at Gerrard Hall on the campus of the University of North Carolina at Chapel Hill, presented by UNC's Curriculum in Folklore. The poster was screen-printed by Benton Card Company in Benson, N.C.
+
+[Eileen Maura McGurty Papers, 1970-2005](https://finding-aids-qa.lib.unc.edu/catalog/70240)
+Eileen Maura McGurty is a white scholar and the author of "Transforming Environmentalism: Warren County, PCBs, and the Origins of Environmental Justice." The Eileen Maura McGurty Papers consist of research files documenting the events following the illegal dumping of PCB-contaminated transformer oil along over 200 miles of North Carolina highways in 1978 and the subsequent building of a landfill in Warren County, NC, where the PCB-tainted soil was to be brought.
+
+[Faulkner Fox Collection on African American Rootwork, 1982-1991](https://finding-aids-qa.lib.unc.edu/catalog/70242)
+Faulkner Fox is a white writer and teacher of creative writing at Duke University. The Faulkner Fox Collection on African American Rootwork consists of audiocassettes of interviews conducted by Fox with Black people in the American South on the subject of rootwork and related topics. The interviews were initially conducted while Fox was a college student.
+
+[Foy Allen Edelman Collection, 2002-2019](https://finding-aids-qa.lib.unc.edu/catalog/70234)
+This collection consists largely of files pertaining to the traditional cooks that white cookbook author and folklorist Foy Allen Edelman interviewed throughout North Carolina for her cookbooks Sweet Carolina: Favorite Desserts and Candies from the Old North State (UNC Press, 2009) and Carolina Cooks: Favorite Main Dishes, Vegetables, and Much More from the Old North State (2015, independently published). 
+
+[Michael Benson Collection, 1989-2010s](https://finding-aids-qa.lib.unc.edu/catalog/20463)
+Posters and photographs comprise the collection of white artist, freelance photographer, and small business owner Michael Benson of Chapel Hill, N.C. Many of the graphic art posters designed and signed by Benson promote music performances at The Station at Southern Rail in Carrboro, N.C., which Benson owned from the 1990s until 2015. 
+
+[Ron Stanford and Fay Stanford Collection, 1970-1974, 2019-2020](https://finding-aids-qa.lib.unc.edu/catalog/70226)
+This collection consists largely of photographs and other materials documenting the Cajun and zydeco music scene in southwest Louisiana between 1972 and 1974 created by white documentary film and television director Ron Stanford and his wife, Fay Stanford. The collection contains performance images of musicians including Dewey Balfa, Octa Clark, Agnès Bourque and Clifton Chenier as well as documentary images depicting everyday life around Basile, La., during the early 1970s.
+
+Additions
+
+[Bobby Patterson Collection, 1950s-2010s](https://finding-aids-qa.lib.unc.edu/catalog/20574)
+2000 a/v items processed and description added to finding aid. 
+
+[Carl W. Gottschalk Papers](https://finding-aids-qa.lib.unc.edu/catalog/04935_aspace_7dc73e27e407c30784296f2b9c22537e)
+Added Series 6. Audio Recordings.
+
+[Casey Burns Collection](https://finding-aids-qa.lib.unc.edu/catalog/20415_aspace_4a4b28a2eb489c9ce3c7203b2cc59971)
+Added description for Series 1A. Posters.
+
+[David R. Gessner Collection, 1963-1990](https://finding-aids-qa.lib.unc.edu/catalog/20513)
+Added 121 audio open-reel tapes.
+
+[David Schenck Papers, 1849-1917](https://finding-aids-qa.lib.unc.edu/catalog/00652_aspace_9bc3db364d7b6dc9ce3aeac6b748697c)
+Added Series 3. Law Certificates and Correspondence.
+
+[Edward Weiss AKA "Charlie Brown" Collection, 1950s-2020](https://finding-aids-qa.lib.unc.edu/catalog/70149_aspace_e7557b477a5b69aef6aaa612b4c796e4)
+Added "Bob Hope" audio open reel
+
+[Energy Services Department of the University of North Carolina at Chapel Hill Records, 1934-2001](https://finding-aids-qa.lib.unc.edu/catalog/40275_aspace_631abebc89ed318ed3f3821ad1873ca8)
+Added power plant newspaper and magazine clippings. 
+
+[Goldband Recording Corporation Collection, 1930-2000]
+https://finding-aids-qa.lib.unc.edu/catalog/20245_aspace_ca1de47683518e07573eb90af1dde717)
+Added Eddie Shuler's Reveliers drumhead.
+
+[Guion Griffis Johnson Papers, 1838-1987](https://finding-aids-qa.lib.unc.edu/catalog/04546_aspace_d5eb175e09f2cbe90bdc4cad0f42047e)
+Added Series 18. International racial ideologies materials. These materials are from a long-processed accession that had been separated out at the time of processing, for reasons unknown.
+
+[Josh Dunson Collection, 1963-2005](https://finding-aids-qa.lib.unc.edu/catalog/20439_aspace_fcb8970015184b9a9d352797d6f7caa0)
+Added recordings of miner's strike songs and apartheid songs.  
+
+[Mike Seeger Collection, 1923-2012 (bulk 1955-2009)](https://finding-aids-qa.lib.unc.edu/catalog/20009)
+Added 3 vhs tapes.  
+
+[Southern Folklife Collection Posters, 1847-2018](https://finding-aids-qa.lib.unc.edu/catalog/30021_aspace_df9e097d7d01f444b4f51aea4f0468a8)
+Added poster of Doc Watson, David Holt and Richard Watson, The Hills of Home: A Tribute to the Mountain Music of North Carolina
+
+[University of North Carolina at Chapel Hill Ephemera Collection, 1918-2025](https://finding-aids-qa.lib.unc.edu/catalog/40446_aspace_4be0feecb1c38e5e82fa06eb671e1c94)
+Annual addition to Series 1 (Campus Life Ephemera).
+
+
+
 # March 2026
 
 New: 
