@@ -43,8 +43,7 @@ Added "Bob Hope" audio open reel
 [Energy Services Department of the University of North Carolina at Chapel Hill Records, 1934-2001](https://finding-aids-qa.lib.unc.edu/catalog/40275_aspace_631abebc89ed318ed3f3821ad1873ca8)
 Added power plant newspaper and magazine clippings. 
 
-[Goldband Recording Corporation Collection, 1930-2000]
-https://finding-aids-qa.lib.unc.edu/catalog/20245_aspace_ca1de47683518e07573eb90af1dde717)
+[Goldband Recording Corporation Collection, 1930-2000](https://finding-aids-qa.lib.unc.edu/catalog/20245_aspace_ca1de47683518e07573eb90af1dde717)
 Added Eddie Shuler's Reveliers drumhead.
 
 [Guion Griffis Johnson Papers, 1838-1987](https://finding-aids-qa.lib.unc.edu/catalog/04546_aspace_d5eb175e09f2cbe90bdc4cad0f42047e)
