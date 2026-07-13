@@ -74,4 +74,4 @@ Acquisitions tracking: Special Collections Intake Team-->General-->Files
 
 Processing (pre-2026): https://docs.google.com/spreadsheets/d/13-PUdl26VjZkGOXdDGOCQwAfuY_hulQtFUPLq4cRd3w/edit#gid=1335418769
 
-Ticketing: https://docs.google.com/spreadsheets/d/1woY1tgDbE25h4GJqiDDPghRSATeI1wocQbkuCSCPW8c/edit#gid=1011434391
+Ticketing (pre-2025): https://docs.google.com/spreadsheets/d/1woY1tgDbE25h4GJqiDDPghRSATeI1wocQbkuCSCPW8c/edit#gid=1011434391
