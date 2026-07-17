@@ -26,7 +26,7 @@ We update the ArchivesSpace accession record with basic processing information a
 
 ### Collection Management
 
-Under "Collection Management" in the accession record in ASpace, update the "Processors" field with the processor's name, "processing total extent" with the number of linear feet, "extent type" as "linear feet", and the "processing status" field with the level of processing completed. 
+Under "Collection Management" in the accession record in ASpace, update the "Processors" field with the processor's name, "processing total extent" with the number of linear feet, "extent type" as "linear feet", total processing hours, and the "processing status" field with the level of processing completed. 
 
 ![ASpace screenshot 1](https://github.com/llsmith305/images/blob/main/collection_management.PNG)
 
