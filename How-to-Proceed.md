@@ -1906,7 +1906,7 @@ For documentation about additions, please visit the <a href="https://github.com/
 
 # History of *How to Proceed* 
 
-The first edition of _How to Proceed: A Procedures Manual for the Southern Historical Collection and General and Literary Manuscripts_ was wriiten by Tim West and Lynn Holdzkom in 1989. It was revised by Lynn Holdzkom in May 1990 and December 1994, by Lynn Holdzkom and Linda Sellars in August 2000, and by Nancy Kaiser and Technical Services Friends in October 2006. This version of _How to Proceed_, created in GitHub by Dawne Lucas in 2025, is based on a revision captured by the <a href="https://web.archive.org/web/20180105011034/https:/library.unc.edu/wp-content/uploads/2017/05/UNC-CH-Library-Archival-Processing-Manual.pdf">Internet Archive</a> in January 2018, and has been modified to document current procedures.
+The first edition of _How to Proceed: A Procedures Manual for the Southern Historical Collection and General and Literary Manuscripts_ was written by Tim West and Lynn Holdzkom in 1989. It was revised by Lynn Holdzkom in May 1990 and December 1994, by Lynn Holdzkom and Linda Sellars in August 2000, and by Nancy Kaiser and Technical Services Friends in October 2006. This version of _How to Proceed_, created in GitHub by Dawne Lucas in 2025, is based on a revision captured by the <a href="https://web.archive.org/web/20180105011034/https:/library.unc.edu/wp-content/uploads/2017/05/UNC-CH-Library-Archival-Processing-Manual.pdf">Internet Archive</a> in January 2018, and has been modified to document current procedures.
     
     
 
