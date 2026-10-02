@@ -28,9 +28,24 @@ Additional Resources from UNC Libraries:
 
 ## Remediation projects
 
-### Finding aids remediation: 2025
+### Creation of datasets with names of enslaved people: 2026
+
+* Eno Primitive Baptist Church Record Book: in progress)
+* [1095. Francis Terry Leak](https://finding-aids.lib.unc.edu/catalog/01095): in progress; Mellon Project
+* [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/catalog/04370): in progress; Mellon Project
+* [33. Avery Family of North Carolina Papers](https://finding-aids.lib.unc.edu/catalog/00033): in progress
+* [1963. Manuel Fetter Account Book](https://finding-aids.lib.unc.edu/catalog/01963): in progress; Mellon Project
+
+
+### Finding aids remediation: 2026
+
+* [4643. Foscue Family Papers](https://finding-aids.lib.unc.edu/catalog/04643): updated abstract, subject headings, biographical note, collection overview, and contents list; Mellon Project.
+  
+### Finding aids remediation: 2025-2026
 The following remediation projects were prompted by a Wilson Library staff project to improve access to the interrelated Hairston and Wilson collections:
 
+* [1518. Elizabeth Seawell Hairston Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01518): in progress
+* [1896. Robert Wilson Account Books](https://finding-aids.lib.unc.edu/catalog/01896): in progress
 * [1148. Robert Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01148): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
 * [1836. John Tyler Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01836): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
 * [2476. George Hairston Order Books](https://finding-aids.lib.unc.edu/catalog/02476): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
@@ -232,6 +247,9 @@ Six month phase of ongoing project
 * We also analyzed the collection’s contents to see if there was any content about his experimentation on enslaved women. We did not find any, and we made that absence of information clear. “Sims also discussed the sale of enslaved persons, but the papers do not include any documentation of the experimental gynecological and cancer surgeries he conducted on enslaved women.”
 
 ## Remediation Guidelines
+These guidelines have been developed over time and with exposure to a variety of ideas and practices, but they began with P. Gabrielle Foreman's [Writing About Slavery / Teaching About Slavery
+A Community-Sourced Document](https://www.pgabrielleforeman.com/writing-about-slavery-guide) and the [Archives for Black Lives in Philadelphia Anti-Racist Description Resources](https://github.com/a4blip/A4BLiP/tree/master/Resources).
+
 Remediation goal: repair description to make it more accessible, equitable, and helpful.
 
 **Shared definitions:**
