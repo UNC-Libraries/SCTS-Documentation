@@ -31,21 +31,23 @@ Additional Resources from UNC Libraries:
 ### Creation of datasets with names of enslaved people: 2026
 
 * Eno Primitive Baptist Church Record Book: in progress)
+* [1896. Robert Wilson Account Books](https://finding-aids.lib.unc.edu/catalog/01896): in progress
 * [1095. Francis Terry Leak](https://finding-aids.lib.unc.edu/catalog/01095): in progress; Mellon Project
 * [4370. Neal Family Papers](https://finding-aids.lib.unc.edu/catalog/04370): in progress; Mellon Project
 * [33. Avery Family of North Carolina Papers](https://finding-aids.lib.unc.edu/catalog/00033): in progress
 * [1963. Manuel Fetter Account Book](https://finding-aids.lib.unc.edu/catalog/01963): in progress; Mellon Project
 
 
-### Finding aids remediation: 2026
+### Finding aids remediation: 2026-2027
 
 * [4643. Foscue Family Papers](https://finding-aids.lib.unc.edu/catalog/04643): updated abstract, subject headings, biographical note, collection overview, and contents list; Mellon Project.
+* [4643. Knox Family Papers](https://finding-aids.lib.unc.edu/catalog/05553): updated abstract, subject headings, biographical note, collection overview, and contents list.
   
 ### Finding aids remediation: 2025-2026
 The following remediation projects were prompted by a Wilson Library staff project to improve access to the interrelated Hairston and Wilson collections:
 
-* [1518. Elizabeth Seawell Hairston Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01518): in progress
 * [1896. Robert Wilson Account Books](https://finding-aids.lib.unc.edu/catalog/01896): in progress
+* [1518. Elizabeth Seawell Hairston Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01518): updated abstract, subject headings, biographical note, collection overview, contents list, related collections
 * [1148. Robert Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01148): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
 * [1836. John Tyler Hairston Papers](https://finding-aids.lib.unc.edu/catalog/01836): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
 * [2476. George Hairston Order Books](https://finding-aids.lib.unc.edu/catalog/02476): updated abstract, subject headings, biographical note, collection overview, contents list, related collections.
